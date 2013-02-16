@@ -3,5 +3,5 @@
 
 _:mario
     foaf:name "Mario" ;
-    foaf:gender "male" ; 
+    foaf:gender "male" ;
     foaf:birthday "06-02" .
