@@ -1,0 +1,11 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix us: <https://github.com/nlr/masws/blob/master/characters#> .
+
+us:luigi
+    foaf:name "Luigi" ;
+    foaf:gender "male" ; 
+    us:friend us:mario ;
+    us:friend us:bowser .
+    
+
