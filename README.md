@@ -1,11 +1,8 @@
 masws
 =====
 
-About
+A Turtle Encoding of GiantBomb.com
 -----
-Multi-agent Sematic Web Coursework
-
-A turtle encoding of GiantBomb.com
 
 Jibran Khan
 
