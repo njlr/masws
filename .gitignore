@@ -1,6 +1,9 @@
 all.ttl
 graph.png
 
+.project
+.classpath
+
 *.class
 *~
 
