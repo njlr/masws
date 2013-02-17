@@ -3,6 +3,8 @@ graph.png
 
 .project
 .classpath
+.metadata
+.settings
 
 *.class
 *~
