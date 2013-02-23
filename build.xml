@@ -1,0 +1,9 @@
+<project name="masws" default="generate">
+    <target name="generate">
+        <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-characters-raw" destdir="./data/xml-characters" extension=".xml"/>
+    </target>
+    <target name="clean">
+        <delete dir="./data/xml-characters"/>
+        <delete dir="./data/rdf"/>
+    </target>
+</project>
