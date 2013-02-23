@@ -12,10 +12,8 @@ Nick La Rooy
 Notes
 -----
 
-Turtle files should be kept in /rdf
+Raw xml data is stored under /data/xml-*-raw/
 
-Use merge.sh to merge all of the .ttl files in /rdf to all.ttl
-
-User graph.sh to produce a graph, graph.png, of all.ttl
-
-
+Run ANT on build.xml to: 
+* Preprocess the raw XML
+* Convert the preprocessed XML to turtle RDF
