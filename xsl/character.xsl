@@ -24,23 +24,30 @@
 </xsl:template>
 
 <xsl:template match="gender">
-    <xsl:variable name="object" />
     <xsl:choose>
         <xsl:when test=". = 1">
-            <xsl:variable name="object" select="'male'"/>
+            <xsl:call-template name="statement">
+                <xsl:with-param name="subject" select="$uri"/>
+                <xsl:with-param name="predicate" select="'foaf:gender'"/>
+                <xsl:with-param name="object" select="'male'"/>
+            </xsl:call-template>
         </xsl:when>
         <xsl:when test=". = 0">
-            <xsl:variable name="object" select="'female'"/>
+            <xsl:call-template name="statement">
+                <xsl:with-param name="subject" select="$uri"/>
+                <xsl:with-param name="predicate" select="'foaf:gender'"/>
+                <xsl:with-param name="object" select="'female'"/>
+            </xsl:call-template>
         </xsl:when>
         <xsl:otherwise>
-            <xsl:variable name="object" select="'other'"/>
+            <xsl:call-template name="statement">
+                <xsl:with-param name="subject" select="$uri"/>
+                <xsl:with-param name="predicate" select="'foaf:gender'"/>
+                <xsl:with-param name="object" select="'other'"/>
+            </xsl:call-template>
         </xsl:otherwise>
     </xsl:choose>
-    <xsl:call-template name="statement">
-        <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'foaf:gender'"/>
-        <xsl:with-param name="object" select="$object"/>
-    </xsl:call-template>
+
 </xsl:template>
 
 <xsl:template match="birthday">
