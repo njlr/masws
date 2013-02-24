@@ -1,5 +1,4 @@
-all.ttl
-graph.png
+*.ttl
 
 .project
 .classpath
