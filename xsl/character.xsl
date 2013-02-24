@@ -65,10 +65,15 @@
 </xsl:template>
 
 <xsl:template match="friend">
+    <xsl:variable name="clean-name">
+        <xsl:call-template name="clean-name">
+            <xsl:with-param name="name" select="name"/>
+        </xsl:call-template>
+    </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#friend'"/>
-        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', name), '/3005-'), id), '/#character')"/>
+        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', $clean-name), '/3005-'), id), '/#character')"/>
     </xsl:call-template>
 </xsl:template>
 
@@ -77,10 +82,15 @@
 </xsl:template>
 
 <xsl:template match="enemy">
+    <xsl:variable name="clean-name">
+        <xsl:call-template name="clean-name">
+            <xsl:with-param name="name" select="name"/>
+        </xsl:call-template>
+    </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#foe'"/>
-        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', name), '/3005-'), id), '/#character')"/>
+        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', $clean-name), '/3005-'), id), '/#character')"/>
     </xsl:call-template>
 </xsl:template>
 

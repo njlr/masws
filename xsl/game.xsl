@@ -13,6 +13,7 @@
 
 <xsl:template match="entry">
     <xsl:apply-templates select="name"/>
+    <xsl:apply-templates select="characters"/>
 </xsl:template>
 
 <xsl:template match="name">
@@ -20,6 +21,23 @@
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'foaf:name'"/>
         <xsl:with-param name="object" select="."/>
+    </xsl:call-template>
+</xsl:template>
+
+<xsl:template match="characters">
+    <xsl:apply-templates select="character"/>
+</xsl:template>
+
+<xsl:template match="character">
+    <xsl:variable name="clean-name">
+        <xsl:call-template name="clean-name">
+            <xsl:with-param name="name" select="name"/>
+        </xsl:call-template>
+    </xsl:variable>
+    <xsl:call-template name="statement">
+        <xsl:with-param name="subject" select="$uri"/>
+        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#features'"/>
+        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', $clean-name), '/3005-'), id), '/#character')"/>
     </xsl:call-template>
 </xsl:template>
 

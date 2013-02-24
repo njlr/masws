@@ -15,6 +15,42 @@
     <xsl:text> .&#xa;</xsl:text>
 </xsl:template>
 
+<xsl:template name="replace">
+    <xsl:param name="ptext"/>
+    <xsl:param name="ppattern"/>
+    <xsl:param name="preplacement"/>
+    <xsl:choose>
+        <xsl:when test="not(contains($ptext, $ppattern))">
+            <xsl:value-of select="$ptext"/>
+        </xsl:when>
+        <xsl:otherwise>
+            <xsl:value-of select="substring-before($ptext, $ppattern)"/>
+            <xsl:value-of select="$preplacement"/>
+            <xsl:call-template name="replace">
+                <xsl:with-param name="ptext" select="substring-after($ptext, $ppattern)"/>
+                <xsl:with-param name="ppattern" select="$ppattern"/>
+                <xsl:with-param name="preplacement" select="$preplacement"/>
+            </xsl:call-template>
+        </xsl:otherwise>
+    </xsl:choose>
+</xsl:template>
+
+<xsl:template name="clean-name">
+    <xsl:param name="name"/>
+    <xsl:variable name="i">
+        <xsl:call-template name="replace">
+            <xsl:with-param name="ptext" select="$name"/>
+            <xsl:with-param name="ppattern" select="' '"/>
+            <xsl:with-param name="preplacement" select="'-'"/>
+        </xsl:call-template>
+    </xsl:variable>
+    <xsl:call-template name="replace">
+        <xsl:with-param name="ptext" select="$i"/>
+        <xsl:with-param name="ppattern" select="'.'"/>
+        <xsl:with-param name="preplacement" select="''"/>
+    </xsl:call-template>
+</xsl:template>
+
 <!-- Provides a warning when an element leaks -->
 <xsl:template match="*">
     <xsl:message terminate="no">
