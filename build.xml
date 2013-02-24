@@ -1,25 +1,34 @@
 <project name="masws" default="generate">
     <target name="generate">
+        <mkdir dir="./data/rdf"/>
+        <mkdir dir="./data/xml-characters-raw"/>
+        <mkdir dir="./data/xml-companies-raw"/>
+        <mkdir dir="./data/xml-releases-raw"/>
+        <mkdir dir="./data/xml-games-raw"/>
+        <mkdir dir="./data/xml-franchises-raw"/>
+        <mkdir dir="./data/xml-people-raw"/>
+        
         <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-characters-raw" destdir="./data/xml-characters" extension=".xml"/>
         <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-companies-raw" destdir="./data/xml-companies" extension=".xml"/>
-	    <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-release-raw" destdir="./data/xml-release" extension=".xml"/>
-	    <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-game-raw" destdir="./data/xml-game" extension=".xml"/>
-	    <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-franchise-raw" destdir="./data/xml-franchise" extension=".xml"/>
-	    <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-person-raw" destdir="./data/xml-person" extension=".xml"/>
+	    <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-releases-raw" destdir="./data/xml-releases" extension=".xml"/>
+	    <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-games-raw" destdir="./data/xml-games" extension=".xml"/>
+	    <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-franchises-raw" destdir="./data/xml-franchises" extension=".xml"/>
+	    <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-people-raw" destdir="./data/xml-people" extension=".xml"/>
+	    
         <xslt style="./xsl/character.xsl" basedir="./data/xml-characters" destdir="./data/rdf" extension=".ttl"/>
         <xslt style="./xsl/company.xsl" basedir="./data/xml-companies" destdir="./data/rdf" extension=".ttl"/>
-	    <xslt style="./xsl/release.xsl" basedir="./data/xml-release" destdir="./data/rdf" extension=".ttl"/>
-	    <xslt style="./xsl/game.xsl" basedir="./data/xml-game" destdir="./data/rdf" extension=".ttl"/>
-	    <xslt style="./xsl/franchise.xsl" basedir="./data/xml-franchise" destdir="./data/rdf" extension=".ttl"/>
-	    <xslt style="./xsl/person.xsl" basedir="./data/xml-person" destdir="./data/rdf" extension=".ttl"/>
+	    <xslt style="./xsl/release.xsl" basedir="./data/xml-releases" destdir="./data/rdf" extension=".ttl"/>
+	    <xslt style="./xsl/game.xsl" basedir="./data/xml-games" destdir="./data/rdf" extension=".ttl"/>
+	    <xslt style="./xsl/franchise.xsl" basedir="./data/xml-franchises" destdir="./data/rdf" extension=".ttl"/>
+	    <xslt style="./xsl/person.xsl" basedir="./data/xml-people" destdir="./data/rdf" extension=".ttl"/>
     </target>
     <target name="clean">
         <delete dir="./data/xml-characters"/>
         <delete dir="./data/xml-companies"/>
-	    <delete dir="./data/xml-release"/>
-	    <delete dir="./data/xml-game"/>
-	    <delete dir="./data/xml-franchise"/>
-	    <delete dir="./data/xml-person"/>
+	    <delete dir="./data/xml-releases"/>
+	    <delete dir="./data/xml-games"/>
+	    <delete dir="./data/xml-franchises"/>
+	    <delete dir="./data/xml-people"/>
         <delete dir="./data/rdf"/>
     </target>
 </project>

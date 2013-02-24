@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry>
+<api_detail_url>http://www.giantbomb.com/api/release/3050-39276/</api_detail_url>
+<date_added>2008-04-01 16:21:46</date_added>
+<date_last_updated>2013-02-13 10:03:26</date_last_updated>
+<deck/>
+<description/>
+<expected_release_day/>
+<expected_release_month/>
+<expected_release_quarter/>
+<expected_release_year/>
+<game>
+<api_detail_url>http://www.giantbomb.com/api/game/3030-15544/</api_detail_url>
+<id>15544</id>
+<name>Super Mario Bros.</name>
+</game>
+<game_rating/>
+<id>39276</id>
+<image>
+<icon_url>http://static.giantbomb.com/uploads/square_avatar/12/125887/1727194-super_mario_bros._cover2.jpg</icon_url>
+<medium_url>http://static.giantbomb.com/uploads/scale_medium/12/125887/1727194-super_mario_bros._cover2.jpg</medium_url>
+<screen_url>http://static.giantbomb.com/uploads/screen_medium/12/125887/1727194-super_mario_bros._cover2.jpg</screen_url>
+<small_url>http://static.giantbomb.com/uploads/scale_small/12/125887/1727194-super_mario_bros._cover2.jpg</small_url>
+<super_url>http://static.giantbomb.com/uploads/scale_large/12/125887/1727194-super_mario_bros._cover2.jpg</super_url>
+<thumb_url>http://static.giantbomb.com/uploads/scale_avatar/12/125887/1727194-super_mario_bros._cover2.jpg</thumb_url>
+<tiny_url>http://static.giantbomb.com/uploads/square_mini/12/125887/1727194-super_mario_bros._cover2.jpg</tiny_url>
+</image>
+<name>Super Mario Bros.</name>
+<platform>
+<api_detail_url>http://www.giantbomb.com/api/platform/3045-21/</api_detail_url>
+<id>21</id>
+<name>Nintendo Entertainment System</name>
+</platform>
+<product_code_type>UPC/A</product_code_type>
+<product_code_value>0 45496 63014 0</product_code_value>
+<region>
+<api_detail_url>http://www.giantbomb.com/api/region/3075-1/</api_detail_url>
+<id>1</id>
+<name>United States</name>
+</region>
+<release_date>1985-01-13 00:00:00</release_date>
+<site_detail_url>http://www.giantbomb.com/super-mario-bros/3030-15544/releases/#toc-release-39276</site_detail_url>
+<images>
+<image>
+<icon_url>http://static.giantbomb.com/uploads/square_avatar/0/3509/644375-supermariobros_na.jpg</icon_url>
+<medium_url>http://static.giantbomb.com/uploads/screen_medium/0/3509/644375-supermariobros_na.jpg</medium_url>
+<screen_url>http://static.giantbomb.com/uploads/screen_medium/0/3509/644375-supermariobros_na.jpg</screen_url>
+<small_url>http://static.giantbomb.com/uploads/square_avatar/0/3509/644375-supermariobros_na.jpg</small_url>
+<super_url>http://static.giantbomb.com/uploads/scale_large/0/3509/644375-supermariobros_na.jpg</super_url>
+<thumb_url>http://static.giantbomb.com/uploads/scale_small/0/3509/644375-supermariobros_na.jpg</thumb_url>
+<tiny_url>http://static.giantbomb.com/uploads/square_mini/0/3509/644375-supermariobros_na.jpg</tiny_url>
+</image>
+</images>
+<developers>
+<developer>
+<api_detail_url>http://www.giantbomb.com/api/developer/3010-90/</api_detail_url>
+<id>90</id>
+<name>Nintendo</name>
+<site_detail_url>http://www.giantbomb.com/nintendo/3010-90/</site_detail_url>
+</developer>
+</developers>
+<publishers>
+<publisher>
+<api_detail_url>http://www.giantbomb.com/api/publisher/3010-90/</api_detail_url>
+<id>90</id>
+<name>Nintendo</name>
+<site_detail_url>http://www.giantbomb.com/nintendo/3010-90/</site_detail_url>
+</publisher>
+</publishers>
+</entry>
