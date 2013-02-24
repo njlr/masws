@@ -14,7 +14,7 @@
 <xsl:template match="entry">
     <xsl:apply-templates select="name"/>
     <xsl:apply-templates select="gender"/>
-    <xsl:apply-templates select="birthday"/>
+    <xsl:apply-templates select="friends"/>
 </xsl:template>
 
 <xsl:template match="name">
@@ -52,7 +52,23 @@
 </xsl:template>
 
 <xsl:template match="birthday">
-    <xsl:value-of select="."/>
+    <xsl:call-template name="statement">
+        <xsl:with-param name="subject" select="$uri"/>
+        <xsl:with-param name="predicate" select="'foaf:birthday'"/>
+        <xsl:with-param name="object" select="."/>
+    </xsl:call-template>
+</xsl:template>
+
+<xsl:template match="friends">
+    <xsl:apply-templates select="friend"/>
+</xsl:template>
+
+<xsl:template match="friend">
+    <xsl:call-template name="statement">
+        <xsl:with-param name="subject" select="$uri"/>
+        <xsl:with-param name="predicate" select="'us:friend'"/>
+        <xsl:with-param name="object" select="'afriend'"/>
+    </xsl:call-template>
 </xsl:template>
 
 </xsl:stylesheet>
