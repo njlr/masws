@@ -16,15 +16,15 @@
     <xsl:apply-templates select="release_date"/>
 </xsl:template>
 
-<xsl:template match="region">
-    <xsl:apply-templates select="name"/>
-</xsl:template>
-
 <xsl:template match="release_date">
-    <xsl:value-of select="."/>
+    <xsl:call-template name="statement">
+        <xsl:with-param name="subject" select="$uri"/>
+        <xsl:with-param name="predicate" select="'gn:name?'"/>
+        <xsl:with-param name="object" select="."/>
+    </xsl:call-template>
 </xsl:template>
 
-<xsl:template match="name">
+<xsl:template match="region">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'gn:name'"/>
