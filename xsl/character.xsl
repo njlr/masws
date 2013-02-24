@@ -66,7 +66,7 @@
 <xsl:template match="friend">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'us:friend'"/>
+        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#friend'"/>
         <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', name), '/3005-'), id), '#character')"/>
     </xsl:call-template>
 </xsl:template>
