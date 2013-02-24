@@ -1,12 +1,20 @@
 <project name="masws" default="generate">
     <target name="generate">
         <mkdir dir="./data/rdf"/>
+        
         <mkdir dir="./data/xml-characters-raw"/>
         <mkdir dir="./data/xml-companies-raw"/>
         <mkdir dir="./data/xml-releases-raw"/>
         <mkdir dir="./data/xml-games-raw"/>
         <mkdir dir="./data/xml-franchises-raw"/>
         <mkdir dir="./data/xml-people-raw"/>
+        
+        <mkdir dir="./data/xml-characters"/>
+        <mkdir dir="./data/xml-companies"/>
+        <mkdir dir="./data/xml-releases"/>
+        <mkdir dir="./data/xml-games"/>
+        <mkdir dir="./data/xml-franchises"/>
+        <mkdir dir="./data/xml-people"/>
         
         <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-characters-raw" destdir="./data/xml-characters" extension=".xml"/>
         <xslt style="./xsl/preprocess.xsl" basedir="./data/xml-companies-raw" destdir="./data/xml-companies" extension=".xml"/>
