@@ -1,5 +1,12 @@
 *.ttl
 
+/data/xml-characters
+/data/xml-companies
+/data/xml-franchises
+/data/xml-games
+/data/xml-people
+/data/xml-releases
+
 .project
 .classpath
 .metadata
