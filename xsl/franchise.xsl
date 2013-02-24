@@ -17,10 +17,15 @@
 </xsl:template>
 
 <xsl:template match="name">
+    <xsl:variable name="quoted-name">
+        <xsl:text>"</xsl:text>
+        <xsl:value-of select="."/>
+        <xsl:text>"</xsl:text>
+    </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'foaf:name'"/>
-        <xsl:with-param name="object" select="."/>
+        <xsl:with-param name="object" select="$quoted-name"/>
     </xsl:call-template>
 </xsl:template>
 

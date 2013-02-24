@@ -19,34 +19,48 @@
 </xsl:template>
 
 <xsl:template match="name">
+    <xsl:variable name="quoted-name">
+        <xsl:text>"</xsl:text>
+        <xsl:value-of select="."/>
+        <xsl:text>"</xsl:text>
+    </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'foaf:name'"/>
-        <xsl:with-param name="object" select="."/>
+        <xsl:with-param name="object" select="$quoted-name"/>
     </xsl:call-template>
 </xsl:template>
 
 <xsl:template match="gender">
     <xsl:choose>
         <xsl:when test=". = 1">
+            <xsl:variable name="quoted-gender">
+                <xsl:text>"male"</xsl:text>
+            </xsl:variable>
             <xsl:call-template name="statement">
                 <xsl:with-param name="subject" select="$uri"/>
                 <xsl:with-param name="predicate" select="'foaf:gender'"/>
-                <xsl:with-param name="object" select="'male'"/>
+                <xsl:with-param name="object" select="$quoted-gender"/>
             </xsl:call-template>
         </xsl:when>
         <xsl:when test=". = 0">
+            <xsl:variable name="quoted-gender">
+                <xsl:text>"female"</xsl:text>
+            </xsl:variable>
             <xsl:call-template name="statement">
                 <xsl:with-param name="subject" select="$uri"/>
                 <xsl:with-param name="predicate" select="'foaf:gender'"/>
-                <xsl:with-param name="object" select="'female'"/>
+                <xsl:with-param name="object" select="$quoted-gender"/>
             </xsl:call-template>
         </xsl:when>
         <xsl:otherwise>
+            <xsl:variable name="quoted-gender">
+                <xsl:text>"other"</xsl:text>
+            </xsl:variable>
             <xsl:call-template name="statement">
                 <xsl:with-param name="subject" select="$uri"/>
                 <xsl:with-param name="predicate" select="'foaf:gender'"/>
-                <xsl:with-param name="object" select="'other'"/>
+                <xsl:with-param name="object" select="$quoted-gender"/>
             </xsl:call-template>
         </xsl:otherwise>
     </xsl:choose>
