@@ -26,7 +26,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'foaf:name'"/>
+        <xsl:with-param name="predicate" select="'foaf:Organization'"/>
         <xsl:with-param name="object" select="$quoted-name"/>
     </xsl:call-template>
 </xsl:template>
