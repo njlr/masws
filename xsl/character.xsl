@@ -15,6 +15,7 @@
     <xsl:apply-templates select="name"/>
     <xsl:apply-templates select="gender"/>
     <xsl:apply-templates select="friends"/>
+    <xsl:apply-templates select="enemies"/>
 </xsl:template>
 
 <xsl:template match="name">
@@ -67,7 +68,19 @@
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#friend'"/>
-        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', name), '/3005-'), id), '#character')"/>
+        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', name), '/3005-'), id), '/#character')"/>
+    </xsl:call-template>
+</xsl:template>
+
+<xsl:template match="enemies">
+    <xsl:apply-templates select="enemy"/>
+</xsl:template>
+
+<xsl:template match="enemy">
+    <xsl:call-template name="statement">
+        <xsl:with-param name="subject" select="$uri"/>
+        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#foe'"/>
+        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', name), '/3005-'), id), '/#character')"/>
     </xsl:call-template>
 </xsl:template>
 
