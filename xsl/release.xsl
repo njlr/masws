@@ -25,6 +25,10 @@
 </xsl:template>
 
 <xsl:template match="region">
+    <xsl:apply-templates select="name"/>
+</xsl:template>
+
+<xsl:template match="name">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'gn:name'"/>
