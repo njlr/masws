@@ -5,7 +5,7 @@
 
 <xsl:output method="text"/>
 
-<xsl:variable name="uri" select="concat('&lt;', concat(/entry/site_detail_url, '#release>'))"/>
+<xsl:variable name="uri" select="concat('&lt;', concat(/entry/site_detail_url, '>'))"/>
 
 <xsl:template match="/">
     <xsl:apply-templates select="entry"/>
@@ -38,7 +38,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;http://owl.mindswap.org/2003/ont/owlweb.rdf#softwareReleaseDate>'"/>
+        <xsl:with-param name="predicate" select="'&lt;http://owl.mindswap.org/2003/ont/owlweb#softwareReleaseDate>'"/>
         <xsl:with-param name="object" select="$date"/>
     </xsl:call-template>
 </xsl:template>

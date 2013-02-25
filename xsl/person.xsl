@@ -82,10 +82,15 @@
 </xsl:template>
 
 <xsl:template match="country">
+    <xsl:variable name="quoted-country">
+        <xsl:text>"</xsl:text>
+        <xsl:value-of select="."/>
+        <xsl:text>"</xsl:text>
+    </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'&lt;http://www.mindswap.org/2003/owl/swint/person#birthPlace>'"/>
-        <xsl:with-param name="object" select="."/>
+        <xsl:with-param name="object" select="$quoted-country"/>
     </xsl:call-template>
 </xsl:template>
 
