@@ -113,7 +113,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#workedAt'"/>
+        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#developed'"/>
         <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', $clean-name), '/3030-'), id), '/#company')"/>
     </xsl:call-template>
 </xsl:template>
