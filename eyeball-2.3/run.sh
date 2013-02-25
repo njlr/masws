@@ -1,1 +1,1 @@
-java -cp "./lib/*" jena.eyeball $1
+java -cp "./lib/*" jena.eyeball -check $1

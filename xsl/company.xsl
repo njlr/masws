@@ -5,7 +5,7 @@
 
 <xsl:output method="text"/>
 
-<xsl:variable name="uri" select="concat(/entry/site_detail_url, '#company')"/>
+<xsl:variable name="uri" select="concat('&lt;', concat(/entry/site_detail_url, '#company>'))"/>
 
 <xsl:template match="/">
     <xsl:apply-templates select="entry"/>
@@ -26,7 +26,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'foaf:Organization'"/>
+        <xsl:with-param name="predicate" select="'&lt;http://xmlns.com/foaf/0.1/#name>'"/>
         <xsl:with-param name="object" select="$quoted-name"/>
     </xsl:call-template>
 </xsl:template>
@@ -42,16 +42,16 @@
 <xsl:template match="game" mode="dev">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#developed'"/>
-        <xsl:with-param name="object" select="concat(site_detail_url, '#game')"/>
+        <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#developed>'"/>
+        <xsl:with-param name="object" select="concat('&lt;', concat(site_detail_url, '#game>'))"/>
     </xsl:call-template>
 </xsl:template>
 
 <xsl:template match="game" mode="pub">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#published'"/>
-        <xsl:with-param name="object" select="concat(site_detail_url, '#game')"/>
+        <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#published>'"/>
+        <xsl:with-param name="object" select="concat('&lt;', concat(site_detail_url, '#game>'))"/>
     </xsl:call-template>
 </xsl:template>
 

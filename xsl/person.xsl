@@ -5,7 +5,7 @@
 
 <xsl:output method="text"/>
 
-<xsl:variable name="uri" select="concat(/entry/site_detail_url, '#person')"/>
+<xsl:variable name="uri" select="concat('&lt;', concat(/entry/site_detail_url, '#person>'))"/>
 
 <xsl:template match="/">
     <xsl:apply-templates select="entry"/>
@@ -28,7 +28,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'foaf:name'"/>
+        <xsl:with-param name="predicate" select="'&lt;http://xmlns.com/foaf/0.1/#name>'"/>
         <xsl:with-param name="object" select="$quoted-name"/>
     </xsl:call-template>
 </xsl:template>
@@ -41,7 +41,7 @@
             </xsl:variable>
             <xsl:call-template name="statement">
                 <xsl:with-param name="subject" select="$uri"/>
-                <xsl:with-param name="predicate" select="'foaf:gender'"/>
+                <xsl:with-param name="predicate" select="'&lt;http://xmlns.com/foaf/0.1/#gender>'"/>
                 <xsl:with-param name="object" select="$quoted-gender"/>
             </xsl:call-template>
         </xsl:when>
@@ -51,7 +51,7 @@
             </xsl:variable>
             <xsl:call-template name="statement">
                 <xsl:with-param name="subject" select="$uri"/>
-                <xsl:with-param name="predicate" select="'foaf:gender'"/>
+                <xsl:with-param name="predicate" select="'&lt;http://xmlns.com/foaf/0.1/#gender>'"/>
                 <xsl:with-param name="object" select="$quoted-gender"/>
             </xsl:call-template>
         </xsl:when>
@@ -61,7 +61,7 @@
             </xsl:variable>
             <xsl:call-template name="statement">
                 <xsl:with-param name="subject" select="$uri"/>
-                <xsl:with-param name="predicate" select="'foaf:gender'"/>
+                <xsl:with-param name="predicate" select="'&lt;http://xmlns.com/foaf/0.1/#gender>'"/>
                 <xsl:with-param name="object" select="$quoted-gender"/>
             </xsl:call-template>
         </xsl:otherwise>
@@ -69,17 +69,22 @@
 </xsl:template>
 
 <xsl:template match="birth_date">
+    <xsl:variable name="date">
+        <xsl:text>"</xsl:text>
+        <xsl:value-of select="."/>
+        <xsl:text>"</xsl:text>
+    </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'xsd:date'"/>
-        <xsl:with-param name="object" select="."/>
+        <xsl:with-param name="predicate" select="'&lt;http://www.mindswap.org/2003/owl/swint/person#birthDate>'"/>
+        <xsl:with-param name="object" select="$date"/>
     </xsl:call-template>
 </xsl:template>
 
 <xsl:template match="country">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#comesFrom'"/>
+        <xsl:with-param name="predicate" select="'&lt;http://www.mindswap.org/2003/owl/swint/person#birthPlace>'"/>
         <xsl:with-param name="object" select="."/>
     </xsl:call-template>
 </xsl:template>
@@ -96,8 +101,8 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#workedAt'"/>
-        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', $clean-name), '/3010-'), id), '/#company')"/>
+        <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#workedAt>'"/>
+        <xsl:with-param name="object" select="concat(concat(concat(concat('&lt;http://www.giantbomb.com/', $clean-name), '/3010-'), id), '/#company>')"/>
     </xsl:call-template>
 </xsl:template>
 
@@ -113,10 +118,9 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'https://github.com/nlr/masws/blob/master/vocab#developed'"/>
-        <xsl:with-param name="object" select="concat(concat(concat(concat('http://www.giantbomb.com/', $clean-name), '/3030-'), id), '/#company')"/>
+        <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#developed>'"/>
+        <xsl:with-param name="object" select="concat(concat(concat(concat('&lt;http://www.giantbomb.com/', $clean-name), '/3030-'), id), '/#company>')"/>
     </xsl:call-template>
 </xsl:template>
-
 
 </xsl:stylesheet>
