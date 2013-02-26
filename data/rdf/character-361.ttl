@@ -1,8 +1,0 @@
-<http://www.giantbomb.com/james-t-kirk/3005-361/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
-<http://www.giantbomb.com/james-t-kirk/3005-361/#character> <http://xmlns.com/foaf/0.1/#name> "James T. Kirk" .
-<http://www.giantbomb.com/james-t-kirk/3005-361/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/james-t-kirk/3005-361/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Montgomery-"Scotty"-Scott/3005-3507/#character> .
-<http://www.giantbomb.com/james-t-kirk/3005-361/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hikaru-Sulu/3005-6703/#character> .
-<http://www.giantbomb.com/james-t-kirk/3005-361/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Spock/3005-6842/#character> .
-<http://www.giantbomb.com/james-t-kirk/3005-361/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Pavel-Andrejevich-Chekov/3005-9063/#character> .
-<http://www.giantbomb.com/james-t-kirk/3005-361/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Leonard-McCoy/3005-23453/#character> .

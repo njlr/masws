@@ -35,6 +35,13 @@
     </xsl:choose>
 </xsl:template>
 
+<xsl:variable name="dq">
+    <xsl:text>"</xsl:text>
+</xsl:variable>
+<xsl:variable name="dq2">
+    <xsl:text>"</xsl:text>
+</xsl:variable>
+
 <xsl:template name="clean-name">
     <xsl:param name="name"/>
     <xsl:variable name="i">
@@ -44,8 +51,29 @@
             <xsl:with-param name="preplacement" select="'-'"/>
         </xsl:call-template>
     </xsl:variable>
+    <xsl:variable name="j">
+        <xsl:call-template name="replace">
+            <xsl:with-param name="ptext" select="$i"/>
+            <xsl:with-param name="ppattern" select="'$dq'"/>
+            <xsl:with-param name="preplacement" select="''"/>
+        </xsl:call-template>
+    </xsl:variable>
+    <xsl:variable name="k">
+        <xsl:call-template name="replace">
+            <xsl:with-param name="ptext" select="$j"/>
+            <xsl:with-param name="ppattern" select="'$dq2'"/>
+            <xsl:with-param name="preplacement" select="''"/>
+        </xsl:call-template>
+    </xsl:variable>
+    <xsl:variable name="l">
+        <xsl:call-template name="replace">
+            <xsl:with-param name="ptext" select="$k"/>
+            <xsl:with-param name="ppattern" select="$dq2"/>
+            <xsl:with-param name="preplacement" select="''"/>
+        </xsl:call-template>
+    </xsl:variable>
     <xsl:call-template name="replace">
-        <xsl:with-param name="ptext" select="$i"/>
+        <xsl:with-param name="ptext" select="$l"/>
         <xsl:with-param name="ppattern" select="'.'"/>
         <xsl:with-param name="preplacement" select="''"/>
     </xsl:call-template>
@@ -60,3 +88,4 @@
 </xsl:template>
 
 </xsl:stylesheet>
+
