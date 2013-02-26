@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/konami-digital-entertainment-gmbh/3010-899/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/konami-digital-entertainment-gmbh/3010-899/#company> <http://xmlns.com/foaf/0.1/#name> "Konami Digital Entertainment GmbH" .
+<http://www.giantbomb.com/konami-digital-entertainment-gmbh/3010-899/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sunday-vs-magazine-shuuketsu-choujou-daikessen/3030-30558/#game> .
+<http://www.giantbomb.com/konami-digital-entertainment-gmbh/3010-899/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/utacchi/3030-30618/#game> .
+<http://www.giantbomb.com/konami-digital-entertainment-gmbh/3010-899/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/no-more-heroes/3030-5581/#game> .
+<http://www.giantbomb.com/konami-digital-entertainment-gmbh/3010-899/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tomena-sanner/3030-27399/#game> .

@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <http://xmlns.com/foaf/0.1/#name> "Rock Howard" .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Terry-Bogard/3005-34/#character> .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Geese-Howard/3005-280/#character> .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Andy-Bogard/3005-56/#character> .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Mai-Shiranui/3005-182/#character> .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Joe-Higashi/3005-228/#character> .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kain-R-Heinlein/3005-13579/#character> .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Geese-Howard/3005-280/#character> .
+<http://www.giantbomb.com/rock-howard/3005-108/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kain-R-Heinlein/3005-13579/#character> .

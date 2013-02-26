@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://xmlns.com/foaf/0.1/#name> "Songbird Productions" .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ponx/3030-7346/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hyperforce/3030-830/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lexis/3030-11956/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/loopz/3030-20227/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ponx/3030-7346/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/protector/3030-9835/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/skyhammer/3030-12340/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/soccer-kid/3030-3613/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cyber-virus-cinciclassic-edition/3030-22523/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crystal-mines-ii-buried-treasure/3030-39874/#game> .

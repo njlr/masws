@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://xmlns.com/foaf/0.1/#name> "Brighter Minds Media, Inc." .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cyberchase-castleblanca-quest/3030-19435/#game> .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/garfields-mad-about-cats/3030-4656/#game> .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spy-kids-learning-adventures-mission-man-in-the-mo/3030-9861/#game> .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spy-kids-learning-adventures-mission-the-candy-con/3030-1631/#game> .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spy-kids-learning-adventures-mission-the-nightmare/3030-19385/#game> .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spy-kids-learning-adventures-mission-the-undergrou/3030-7484/#game> .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/world-of-goo/3030-20647/#game> .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/venture-arctic/3030-31002/#game> .
+<http://www.giantbomb.com/brighter-minds-media-inc/3010-1527/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/top-chef-the-game/3030-37701/#game> .

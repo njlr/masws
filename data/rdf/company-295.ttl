@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/stellar-stone-llc/3010-295/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/stellar-stone-llc/3010-295/#company> <http://xmlns.com/foaf/0.1/#name> "Stellar Stone LLC" .
+<http://www.giantbomb.com/stellar-stone-llc/3010-295/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gettysburg-civil-war-battles/3030-6527/#game> .
+<http://www.giantbomb.com/stellar-stone-llc/3010-295/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/taxi-racer/3030-190/#game> .
+<http://www.giantbomb.com/stellar-stone-llc/3010-295/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/big-rigs-over-the-road-racing/3030-19987/#game> .
+<http://www.giantbomb.com/stellar-stone-llc/3010-295/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/remington-big-buck-trophy-hunt/3030-26033/#game> .
+<http://www.giantbomb.com/stellar-stone-llc/3010-295/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ultimate-civil-war-battles-robert-e-lee-vs-ulysses/3030-26035/#game> .
+<http://www.giantbomb.com/stellar-stone-llc/3010-295/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/midnight-race-club-supercharged/3030-26043/#game> .

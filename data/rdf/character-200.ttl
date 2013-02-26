@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/kool-aid-man/3005-200/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/kool-aid-man/3005-200/#character> <http://xmlns.com/foaf/0.1/#name> "Kool-Aid Man" .
+<http://www.giantbomb.com/kool-aid-man/3005-200/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/kool-aid-man/3005-200/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Chester-Cheetah/3005-2217/#character> .
+<http://www.giantbomb.com/kool-aid-man/3005-200/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Balrog/3005-5707/#character> .
+<http://www.giantbomb.com/kool-aid-man/3005-200/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Colonel-Sanders/3005-16642/#character> .
+<http://www.giantbomb.com/kool-aid-man/3005-200/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Benjamin-Franklin/3005-3630/#character> .
+<http://www.giantbomb.com/kool-aid-man/3005-200/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mara/3005-10412/#character> .

@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/herculean-effort-productions/3010-502/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/herculean-effort-productions/3010-502/#company> <http://xmlns.com/foaf/0.1/#name> "Herculean Effort Productions" .
+<http://www.giantbomb.com/herculean-effort-productions/3010-502/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-jazz-man/3030-344/#game> .
+<http://www.giantbomb.com/herculean-effort-productions/3010-502/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/apprentice-ii-the-knights-move/3030-3054/#game> .
+<http://www.giantbomb.com/herculean-effort-productions/3010-502/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-jazz-man/3030-344/#game> .
+<http://www.giantbomb.com/herculean-effort-productions/3010-502/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/apprentice-ii-the-knights-move/3030-3054/#game> .

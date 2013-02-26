@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://xmlns.com/foaf/0.1/#name> "Coresoft, Inc." .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-championship-poker/3030-14775/#game> .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-poker-championship-2-final-table-showdown/3030-15411/#game> .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/big-strike-bowling/3030-17339/#game> .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/big-bass-fishing/3030-1419/#game> .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/high-stakes-on-the-vegas-strip-poker-edition/3030-22417/#game> .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-poker-tour/3030-22170/#game> .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blood-beach/3030-31351/#game> .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/deer-hunter/3030-40297/#game> .
+<http://www.giantbomb.com/coresoft-inc/3010-1392/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/blood-beach/3030-31351/#game> .

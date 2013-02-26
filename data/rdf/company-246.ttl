@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://xmlns.com/foaf/0.1/#name> "Kalisto Entertainment SA" .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-fifth-element/3030-9135/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/new-york-race/3030-15617/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nightmare-creatures/3030-584/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nightmare-creatures-ii/3030-13168/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/scout/3030-4985/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ultimte-race-pro/3030-155/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/4-wheel-thunder/3030-15821/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dark-earth/3030-7870/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pac-in-time/3030-11100/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/highlander-the-gathering/3030-29444/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ultimate-race-pro/3030-34960/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cogito/3030-9433/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fury-of-the-furries/3030-19739/#game> .
+<http://www.giantbomb.com/kalisto-entertainment-sa/3010-246/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/scout/3030-4985/#game> .

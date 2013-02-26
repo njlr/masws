@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://xmlns.com/foaf/0.1/#name> "Digital Image Design Ltd." .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ef2000/3030-1964/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ef2000-tactcom/3030-9204/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/eurofighter-typhoon/3030-8892/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/f-22-air-dominance-fighter/3030-15438/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/f22-total-air-war/3030-3068/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/f29-retaliator/3030-7103/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/inferno-the-odyssey-continues/3030-16951/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tfx/3030-2621/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wargasm/3030-16742/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/robocop-3/3030-3173/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/epic/3030-7955/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/act-out/3030-27550/#game> .
+<http://www.giantbomb.com/digital-image-design-ltd/3010-1721/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/robocop-3d/3030-36738/#game> .

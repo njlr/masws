@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <http://xmlns.com/foaf/0.1/#name> "Resident Evil: Outbreak" .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Jim-Chapman/3005-1574/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Kevin-Ryman/3005-1568/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Alyssa-Ashcroft/3005-1573/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mark-Wilkins/3005-1570/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/George-Hamilton/3005-1571/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/David-King/3005-1569/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Yoko-Suzuki/3005-1471/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Cindy-Lennox/3005-1454/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Nicholai-Ginovaef/3005-13450/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Harry/3005-19686/#character> .
+<http://www.giantbomb.com/resident-evil-outbreak/3030-576/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/William-Birkin/3005-3332/#character> .

@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/digitalo-studios-inc/3010-1653/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/digitalo-studios-inc/3010-1653/#company> <http://xmlns.com/foaf/0.1/#name> "Digitalo Studios, Inc." .
+<http://www.giantbomb.com/digitalo-studios-inc/3010-1653/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/devastation/3030-1854/#game> .

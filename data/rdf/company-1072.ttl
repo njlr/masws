@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://xmlns.com/foaf/0.1/#name> "Tale of Tales BVBA" .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-endless-forest/3030-971/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-graveyard/3030-9468/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-path/3030-23677/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fatale/3030-27998/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/8/3030-23678/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bientot-lete/3030-41515/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-endless-forest/3030-971/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-graveyard/3030-9468/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-path/3030-23677/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fatale/3030-27998/#game> .
+<http://www.giantbomb.com/tale-of-tales-bvba/3010-1072/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bientot-lete/3030-41515/#game> .

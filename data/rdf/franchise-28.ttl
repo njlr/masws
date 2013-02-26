@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <http://xmlns.com/foaf/0.1/#name> "Alone in the Dark" .
+<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alone-in-the-Dark/3030-3102/#game> .
+<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alone-in-the-Dark-3/3030-7535/#game> .
+<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alone-in-the-Dark-2/3030-13488/#game> .
+<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alone-in-the-Dark:-The-New-Nightmare/3030-13817/#game> .
+<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alone-in-the-Dark/3030-20475/#game> .
+<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Jack-in-the-Dark/3030-3797/#game> .

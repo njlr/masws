@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/robbit/3005-112/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/robbit/3005-112/#character> <http://xmlns.com/foaf/0.1/#name> "Robbit" .
+<http://www.giantbomb.com/robbit/3005-112/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/robbit/3005-112/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/MuuMuu/3005-15492/#character> .
+<http://www.giantbomb.com/robbit/3005-112/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/MuuMuu/3005-15492/#character> .
+<http://www.giantbomb.com/robbit/3005-112/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Baron-Aloha/3005-15493/#character> .

@@ -1,0 +1,4 @@
+http://www.giantbomb.com/luigi/3005-370/#character foaf:name "Luigi" .
+http://www.giantbomb.com/luigi/3005-370/#character foaf:gender "male" .
+http://www.giantbomb.com/luigi/3005-370/#character <https://github.com/nlr/masws/blob/master/vocab>#friend http://www.giantbomb.com/Mario/3005-177/#character .
+

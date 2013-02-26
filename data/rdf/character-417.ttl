@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/ken-washio/3005-417/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/ken-washio/3005-417/#character> <http://xmlns.com/foaf/0.1/#name> "Ken Washio" .
+<http://www.giantbomb.com/ken-washio/3005-417/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/ken-washio/3005-417/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Joe-the-Condor/3005-12832/#character> .
+<http://www.giantbomb.com/ken-washio/3005-417/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jun-the-Swan/3005-8509/#character> .
+<http://www.giantbomb.com/ken-washio/3005-417/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Berg-Katse/3005-13658/#character> .

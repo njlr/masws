@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://xmlns.com/foaf/0.1/#name> "Zipper Interactive" .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/crimson-skies/3030-17131/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/death-drome/3030-10342/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mechwarrior-3/3030-10363/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mechwarrior-3-pirates-moon/3030-4524/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/socom-3-us-navy-seals/3030-14048/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/socom-ii-us-navy-seals/3030-1049/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/socom-us-navy-seals/3030-6246/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/socom-us-navy-seals-fireteam-bravo/3030-2972/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/socom-us-navy-seals-fireteam-bravo-2/3030-5910/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mag/3030-21116/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/socom-us-navy-seals-combined-assault/3030-21827/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/recoil/3030-9661/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/socom-4-us-navy-seals/3030-30196/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/top-gun-hornets-nest/3030-33174/#game> .
+<http://www.giantbomb.com/zipper-interactive/3010-1136/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/unit-13/3030-36939/#game> .

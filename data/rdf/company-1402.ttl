@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/discovery-channel-multimedia/3010-1402/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/discovery-channel-multimedia/3010-1402/#company> <http://xmlns.com/foaf/0.1/#name> "Discovery Channel Multimedia" .
+<http://www.giantbomb.com/discovery-channel-multimedia/3010-1402/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/byzantine-the-betrayal/3030-16638/#game> .
+<http://www.giantbomb.com/discovery-channel-multimedia/3010-1402/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/catchword/3030-3589/#game> .
+<http://www.giantbomb.com/discovery-channel-multimedia/3010-1402/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/connections/3030-17434/#game> .
+<http://www.giantbomb.com/discovery-channel-multimedia/3010-1402/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/evolution-the-game-of-intelligent-life/3030-4738/#game> .
+<http://www.giantbomb.com/discovery-channel-multimedia/3010-1402/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/nile-passage-to-egypt/3030-15664/#game> .
+<http://www.giantbomb.com/discovery-channel-multimedia/3010-1402/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/savage-the-ultimate-quest-for-survival/3030-14591/#game> .
+<http://www.giantbomb.com/discovery-channel-multimedia/3010-1402/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/team-xtreme-operation-weather-disaster/3030-1436/#game> .

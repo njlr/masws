@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/the-postal-dude/3005-544/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/the-postal-dude/3005-544/#character> <http://xmlns.com/foaf/0.1/#name> "The Postal Dude" .
+<http://www.giantbomb.com/the-postal-dude/3005-544/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/the-postal-dude/3005-544/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Champ-the-Dog/3005-5609/#character> .
+<http://www.giantbomb.com/the-postal-dude/3005-544/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Uncle-Dave/3005-15676/#character> .
+<http://www.giantbomb.com/the-postal-dude/3005-544/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Postal-Dude's-Wife/3005-3975/#character> .
+<http://www.giantbomb.com/the-postal-dude/3005-544/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Krotchy/3005-3244/#character> .
+<http://www.giantbomb.com/the-postal-dude/3005-544/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Gary-Coleman/3005-2440/#character> .
+<http://www.giantbomb.com/the-postal-dude/3005-544/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Osama-Bin-Laden/3005-8580/#character> .

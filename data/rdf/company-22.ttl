@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/halycon-media-gmbh-co-kg/3010-22/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/halycon-media-gmbh-co-kg/3010-22/#company> <http://xmlns.com/foaf/0.1/#name> "Halycon Media GmbH & Co. KG" .
+<http://www.giantbomb.com/halycon-media-gmbh-co-kg/3010-22/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gish/3030-17602/#game> .
+<http://www.giantbomb.com/halycon-media-gmbh-co-kg/3010-22/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/logisch-die-denk-boxx-vol-1/3030-11599/#game> .

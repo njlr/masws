@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/1c-maddox-games/3010-1218/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/1c-maddox-games/3010-1218/#company> <http://xmlns.com/foaf/0.1/#name> "1C: Maddox Games" .
+<http://www.giantbomb.com/1c-maddox-games/3010-1218/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/il-2-sturmovik/3030-12047/#game> .
+<http://www.giantbomb.com/1c-maddox-games/3010-1218/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/il-2-sturmovik-1946/3030-1179/#game> .
+<http://www.giantbomb.com/1c-maddox-games/3010-1218/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/il-2-sturmovik-forgotten-battles/3030-14720/#game> .
+<http://www.giantbomb.com/1c-maddox-games/3010-1218/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/il-2-sturmovik-forgotten-battles-ace/3030-15015/#game> .
+<http://www.giantbomb.com/1c-maddox-games/3010-1218/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pacific-fighters/3030-18362/#game> .
+<http://www.giantbomb.com/1c-maddox-games/3010-1218/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/strategic-simulations-commanders-collection/3030-10192/#game> .
+<http://www.giantbomb.com/1c-maddox-games/3010-1218/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/il-2-sturmovik-cliffs-of-dover/3030-21533/#game> .

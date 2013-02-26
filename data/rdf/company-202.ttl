@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://xmlns.com/foaf/0.1/#name> "Aliasworlds Entertainment" .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snowy-fish-frenzy/3030-4074/#game> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snowy-lunch-rush/3030-18578/#game> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snowy-puzzle-islands/3030-9178/#game> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snowy-space-trip/3030-13764/#game> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snowy-the-bears-adventures/3030-9632/#game> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snowy-treasure-hunter/3030-8365/#game> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snowy-treasure-hunter-2/3030-2467/#game> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snowy-treasure-hunter-3/3030-117/#game> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-apprentice-los-angeles/3030-9916/#game> .
+<http://www.giantbomb.com/aliasworlds-entertainment/3010-202/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cooking-dash/3030-31244/#game> .

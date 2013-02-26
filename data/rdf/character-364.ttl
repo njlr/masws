@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/bayou-billy/3005-364/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/bayou-billy/3005-364/#character> <http://xmlns.com/foaf/0.1/#name> "Bayou Billy" .
+<http://www.giantbomb.com/bayou-billy/3005-364/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/bayou-billy/3005-364/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Annabelle-Lane/3005-13316/#character> .
+<http://www.giantbomb.com/bayou-billy/3005-364/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Godfather-Gordon/3005-13315/#character> .

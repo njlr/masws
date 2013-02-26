@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/united-game-artists/3010-197/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/united-game-artists/3010-197/#company> <http://xmlns.com/foaf/0.1/#name> "United Game Artists" .
+<http://www.giantbomb.com/united-game-artists/3010-197/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/space-channel-5-part-2/3030-113/#game> .
+<http://www.giantbomb.com/united-game-artists/3010-197/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rez/3030-17578/#game> .
+<http://www.giantbomb.com/united-game-artists/3010-197/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/space-channel-5/3030-7466/#game> .

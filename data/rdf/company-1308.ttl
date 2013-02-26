@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/dtmc-inc/3010-1308/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/dtmc-inc/3010-1308/#company> <http://xmlns.com/foaf/0.1/#name> "DTMC, Inc." .
+<http://www.giantbomb.com/dtmc-inc/3010-1308/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/firestriker/3030-7528/#game> .
+<http://www.giantbomb.com/dtmc-inc/3010-1308/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/square-deal/3030-6717/#game> .
+<http://www.giantbomb.com/dtmc-inc/3010-1308/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-adventures-of-dr-franken/3030-1308/#game> .
+<http://www.giantbomb.com/dtmc-inc/3010-1308/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sumo-fighter/3030-37292/#game> .
+<http://www.giantbomb.com/dtmc-inc/3010-1308/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/california-games-ii/3030-11315/#game> .

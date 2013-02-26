@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/arkane-studios-sa/3010-1412/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/arkane-studios-sa/3010-1412/#company> <http://xmlns.com/foaf/0.1/#name> "Arkane Studios SA" .
+<http://www.giantbomb.com/arkane-studios-sa/3010-1412/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dark-messiah-of-might-magic/3030-15065/#game> .
+<http://www.giantbomb.com/arkane-studios-sa/3010-1412/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/arx-fatalis/3030-10784/#game> .
+<http://www.giantbomb.com/arkane-studios-sa/3010-1412/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dark-messiah-of-might-and-magic-elements/3030-14344/#game> .
+<http://www.giantbomb.com/arkane-studios-sa/3010-1412/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-crossing/3030-21243/#game> .
+<http://www.giantbomb.com/arkane-studios-sa/3010-1412/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bioshock-2/3030-20827/#game> .
+<http://www.giantbomb.com/arkane-studios-sa/3010-1412/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dishonored/3030-35850/#game> .

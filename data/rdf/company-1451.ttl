@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://xmlns.com/foaf/0.1/#name> "Ikarion Software GmbH" .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/demonworld/3030-5805/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/demonworld-dark-armies/3030-9723/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hattrick/3030-10933/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/zeppelin-giants-of-the-sky/3030-1515/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pinball-wizard-2000/3030-12983/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/caribbean-disaster/3030-7768/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/demonworld/3030-5805/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hattrick/3030-10933/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mad-news/3030-13949/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/zeppelin-giants-of-the-sky/3030-1515/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/battlerace/3030-5906/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/project-paradise/3030-11417/#game> .
+<http://www.giantbomb.com/ikarion-software-gmbh/3010-1451/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pinball-wizard-2000/3030-12983/#game> .

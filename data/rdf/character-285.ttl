@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/fighter-hayabusa/3005-285/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/fighter-hayabusa/3005-285/#character> <http://xmlns.com/foaf/0.1/#name> "Fighter Hayabusa" .
+<http://www.giantbomb.com/fighter-hayabusa/3005-285/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/fighter-hayabusa/3005-285/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/The-Amazon/3005-21/#character> .
+<http://www.giantbomb.com/fighter-hayabusa/3005-285/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Starman/3005-71/#character> .
+<http://www.giantbomb.com/fighter-hayabusa/3005-285/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kin-Corn-Karn/3005-208/#character> .
+<http://www.giantbomb.com/fighter-hayabusa/3005-285/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/King-Slender/3005-206/#character> .
+<http://www.giantbomb.com/fighter-hayabusa/3005-285/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Giant-Panther/3005-277/#character> .
+<http://www.giantbomb.com/fighter-hayabusa/3005-285/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Great-Puma/3005-14699/#character> .

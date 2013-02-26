@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/blizzard-north/3010-1176/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/blizzard-north/3010-1176/#company> <http://xmlns.com/foaf/0.1/#name> "Blizzard North" .
+<http://www.giantbomb.com/blizzard-north/3010-1176/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/diablo-ii-lord-of-destruction/3030-15589/#game> .
+<http://www.giantbomb.com/blizzard-north/3010-1176/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/diablo-ii/3030-1119/#game> .
+<http://www.giantbomb.com/blizzard-north/3010-1176/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/diablo/3030-5985/#game> .
+<http://www.giantbomb.com/blizzard-north/3010-1176/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nfl-quarterback-club-96/3030-11504/#game> .
+<http://www.giantbomb.com/blizzard-north/3010-1176/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nfl-quarterback-club/3030-22136/#game> .
+<http://www.giantbomb.com/blizzard-north/3010-1176/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/justice-league-task-force/3030-16349/#game> .

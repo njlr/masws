@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/channel-8-software/3010-1608/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/channel-8-software/3010-1608/#company> <http://xmlns.com/foaf/0.1/#name> "Channel 8 Software" .
+<http://www.giantbomb.com/channel-8-software/3010-1608/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/circus/3030-9755/#game> .
+<http://www.giantbomb.com/channel-8-software/3010-1608/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/escape-from-pulsar-7/3030-1771/#game> .
+<http://www.giantbomb.com/channel-8-software/3010-1608/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-golden-baton/3030-4872/#game> .
+<http://www.giantbomb.com/channel-8-software/3010-1608/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/perseus-andromeda/3030-8488/#game> .
+<http://www.giantbomb.com/channel-8-software/3010-1608/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-wizard-of-akyrz/3030-16401/#game> .
+<http://www.giantbomb.com/channel-8-software/3010-1608/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/arrow-of-death-part-ii/3030-12784/#game> .
+<http://www.giantbomb.com/channel-8-software/3010-1608/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/arrow-of-death-part-i/3030-16351/#game> .

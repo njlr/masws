@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://xmlns.com/foaf/0.1/#name> "Shiny Entertainment, Inc." .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/earthworm-jim/3030-11133/#game> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/earthworm-jim-2/3030-8239/#game> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/enter-the-matrix/3030-7570/#game> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-golden-compass/3030-1819/#game> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-matrix-path-of-neo/3030-5554/#game> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mdk/3030-3419/#game> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/messiah/3030-18189/#game> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rc-stunt-copter/3030-9176/#game> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sacrifice/3030-6735/#game> .
+<http://www.giantbomb.com/shiny-entertainment-inc/3010-736/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wild-9/3030-592/#game> .

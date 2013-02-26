@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/gunnar-games-inc/3010-956/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/gunnar-games-inc/3010-956/#company> <http://xmlns.com/foaf/0.1/#name> "Gunnar Games, Inc." .
+<http://www.giantbomb.com/gunnar-games-inc/3010-956/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cold-case-files/3030-821/#game> .
+<http://www.giantbomb.com/gunnar-games-inc/3010-956/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-worst-case-scenario-survival-trivia-challenge/3030-14902/#game> .
+<http://www.giantbomb.com/gunnar-games-inc/3010-956/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hidden-mysteries-salem-secrets/3030-33550/#game> .
+<http://www.giantbomb.com/gunnar-games-inc/3010-956/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/elizabeth-find-md-diagnosis-mystery-season-2/3030-35639/#game> .

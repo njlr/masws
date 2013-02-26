@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/golden-sector/3010-1342/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/golden-sector/3010-1342/#company> <http://xmlns.com/foaf/0.1/#name> "Golden Sector" .
+<http://www.giantbomb.com/golden-sector/3010-1342/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/discovery-in-the-steps-of-columbus/3030-1351/#game> .
+<http://www.giantbomb.com/golden-sector/3010-1342/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/air-force-commander/3030-3350/#game> .

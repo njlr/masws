@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/deibus-studios-ltd/3010-1766/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/deibus-studios-ltd/3010-1766/#company> <http://xmlns.com/foaf/0.1/#name> "Deibus Studios Ltd." .
+<http://www.giantbomb.com/deibus-studios-ltd/3010-1766/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/freestyle-metalx/3030-2054/#game> .
+<http://www.giantbomb.com/deibus-studios-ltd/3010-1766/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/motocross-mania/3030-5685/#game> .
+<http://www.giantbomb.com/deibus-studios-ltd/3010-1766/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/motocross-mania-3/3030-15310/#game> .

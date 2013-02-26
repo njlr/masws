@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://xmlns.com/foaf/0.1/#name> "GMX Media" .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/conspiracies/3030-15103/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fair-strike/3030-2233/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hellforces/3030-20093/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/legacy-dark-shadows/3030-9721/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/moon-tycoon/3030-1687/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/prince-of-qin/3030-18046/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/superpower/3030-2367/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-watchmaker/3030-7515/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wwi-the-great-war/3030-4240/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/atlantis-underwater-tycoon/3030-6247/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/world-war-ii-online-battleground-europe/3030-21717/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/specnaz-project-wolf/3030-22948/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/northland/3030-14638/#game> .
+<http://www.giantbomb.com/gmx-media/3010-357/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ground-zero/3030-31575/#game> .

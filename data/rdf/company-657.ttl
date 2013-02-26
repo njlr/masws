@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://xmlns.com/foaf/0.1/#name> "Deep Red Games Ltd." .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hospital-tycoon/3030-7984/#game> .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/monopoly-tycoon/3030-19387/#game> .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/risk-ii/3030-18399/#game> .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/seaworld-adventure-parks/3030-17996/#game> .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/seaworld-adventure-parks-tycoon/3030-18582/#game> .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/vegas-tycoon/3030-12881/#game> .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/virtual-resort-spring-break/3030-506/#game> .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tycoon-city-new-york/3030-23973/#game> .
+<http://www.giantbomb.com/deep-red-games-ltd/3010-657/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/vegas-make-it-big/3030-37664/#game> .

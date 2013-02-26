@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/grand-prix-3-season-2000/3030-476/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/grand-prix-3-season-2000/3030-476/#game> <http://xmlns.com/foaf/0.1/#name> "Grand Prix 3 Season 2000" .
+<http://www.giantbomb.com/grand-prix-3-season-2000/3030-476/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Michael-Schumacher/3005-5490/#character> .
+<http://www.giantbomb.com/grand-prix-3-season-2000/3030-476/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Rubens-Barrichello/3005-11474/#character> .
+<http://www.giantbomb.com/grand-prix-3-season-2000/3030-476/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Jean-Alesi/3005-11484/#character> .
+<http://www.giantbomb.com/grand-prix-3-season-2000/3030-476/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mika-Häkkinen/3005-22391/#character> .

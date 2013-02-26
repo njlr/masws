@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/aw-software/3010-814/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/aw-software/3010-814/#company> <http://xmlns.com/foaf/0.1/#name> "AW Software" .
+<http://www.giantbomb.com/aw-software/3010-814/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/classic-basic-games/3030-671/#game> .
+<http://www.giantbomb.com/aw-software/3010-814/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/classic-basic-games/3030-671/#game> .

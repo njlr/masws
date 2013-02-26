@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/hammerhead-ltd/3010-1924/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/hammerhead-ltd/3010-1924/#company> <http://xmlns.com/foaf/0.1/#name> "HammerHead Ltd." .
+<http://www.giantbomb.com/hammerhead-ltd/3010-1924/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/shadow-master/3030-2346/#game> .
+<http://www.giantbomb.com/hammerhead-ltd/3010-1924/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blade/3030-12785/#game> .
+<http://www.giantbomb.com/hammerhead-ltd/3010-1924/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/quake-ii/3030-3207/#game> .
+<http://www.giantbomb.com/hammerhead-ltd/3010-1924/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disneys-toy-story/3030-12842/#game> .

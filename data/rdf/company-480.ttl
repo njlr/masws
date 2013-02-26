@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://xmlns.com/foaf/0.1/#name> "3D Realms Entertainment" .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/duke-nukem-3d-plutonium-pak/3030-324/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/shadow-warrior/3030-17746/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/duke-nukem-3d/3030-3407/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/duke-nukem-manhattan-project/3030-7042/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/max-payne/3030-2414/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/duke-nukem-trilogy-chain-reaction/3030-25693/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cosmos-cosmic-adventure-forbidden-planet/3030-2579/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/duke-nukem-forever/3030-20721/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blood/3030-11381/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/terminal-velocity/3030-18105/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wanton-destruction/3030-2043/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/alien-carnage/3030-655/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/duke-nukem-time-to-kill/3030-6654/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/prey/3030-16372/#game> .
+<http://www.giantbomb.com/3d-realms-entertainment/3010-480/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/earth-no-more/3030-24916/#game> .

@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://xmlns.com/foaf/0.1/#name> "Brownie Brown Co. Ltd." .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magical-starsign/3030-11278/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sword-of-mana/3030-2248/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mother-3/3030-3864/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blue-dragon-plus/3030-22990/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magical-vacation/3030-23975/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/heroes-of-mana/3030-21626/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/livly-garden/3030-27946/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fantasy-life/3030-27947/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/a-kappas-trail/3030-31076/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-mario-3d-land/3030-34303/#game> .
+<http://www.giantbomb.com/brownie-brown-co-ltd/3010-1874/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/professor-layton-and-the-last-specter/3030-29299/#game> .

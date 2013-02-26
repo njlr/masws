@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://xmlns.com/foaf/0.1/#name> "JAST USA" .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/seasons-of-sakura/3030-5889/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hentai-anime-poker/3030-13194/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/seasons-of-sakura/3030-5889/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/three-sisters-story/3030-1740/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/true-love/3030-5076/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/deus-machina-demonbane/3030-23489/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/absolute-obedience/3030-23278/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/enzai-falsely-accused/3030-23195/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/runaway-city/3030-14598/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/school-days/3030-25383/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aselia-the-eternal/3030-37059/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/saya-no-uta/3030-34867/#game> .

@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://xmlns.com/foaf/0.1/#name> "Datam Polystar" .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cacoma-knight-in-bizyland/3030-13972/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/roommate-complete-box/3030-1729/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ryouko-inoue-chatting-room/3030-9212/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/kendo-rage/3030-13210/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/roommate-complete-box/3030-1729/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ryouko-inoue-chatting-room/3030-9212/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/trizeal/3030-12960/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/happy-lesson/3030-25182/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/keeper/3030-28247/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dragon-master-silk/3030-33108/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rupupu-cube-lup-salad/3030-33876/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/musya/3030-39003/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/happy-lesson-first-lesson/3030-39345/#game> .
+<http://www.giantbomb.com/datam-polystar/3010-1580/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/makeruna-makendou-2/3030-40698/#game> .

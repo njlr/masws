@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/baseball-advance/3030-333/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/baseball-advance/3030-333/#game> <http://xmlns.com/foaf/0.1/#name> "Baseball Advance" .
+<http://www.giantbomb.com/baseball-advance/3030-333/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Ichiro-Suzuki/3005-12991/#character> .
+<http://www.giantbomb.com/baseball-advance/3030-333/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Derek-Jeter/3005-11637/#character> .
+<http://www.giantbomb.com/baseball-advance/3030-333/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Roger-Clemens/3005-5529/#character> .

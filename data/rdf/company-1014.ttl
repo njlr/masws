@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/apeiron/3010-1014/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/apeiron/3010-1014/#company> <http://xmlns.com/foaf/0.1/#name> "Apeiron" .
+<http://www.giantbomb.com/apeiron/3010-1014/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/brigade-e5-new-jagged-union/3030-10415/#game> .
+<http://www.giantbomb.com/apeiron/3010-1014/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/762mm/3030-888/#game> .

@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/infinity-ward/3010-1526/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/infinity-ward/3010-1526/#company> <http://xmlns.com/foaf/0.1/#name> "Infinity Ward" .
+<http://www.giantbomb.com/infinity-ward/3010-1526/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/call-of-duty-2/3030-2347/#game> .
+<http://www.giantbomb.com/infinity-ward/3010-1526/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/call-of-duty/3030-1629/#game> .
+<http://www.giantbomb.com/infinity-ward/3010-1526/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/call-of-duty-4-modern-warfare/3030-2133/#game> .
+<http://www.giantbomb.com/infinity-ward/3010-1526/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/modern-warfare-2/3030-24713/#game> .
+<http://www.giantbomb.com/infinity-ward/3010-1526/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/call-of-duty-modern-warfare-3/3030-35129/#game> .

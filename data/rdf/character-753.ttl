@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <http://xmlns.com/foaf/0.1/#name> "B.J. Blazkowicz" .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Commander-Keen/3005-2664/#character> .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Adolf-Hitler/3005-38/#character> .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Heinrich-Himmler/3005-11449/#character> .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Marianna-Blavatsky/3005-11686/#character> .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Wilhelm-Strasse/3005-11687/#character> .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dr-Schabbs/3005-10357/#character> .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Hans-Grosse/3005-11993/#character> .
+<http://www.giantbomb.com/bj-blazkowicz/3005-753/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Heinrich-I/3005-16741/#character> .

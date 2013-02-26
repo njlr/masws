@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://xmlns.com/foaf/0.1/#name> "CING, Inc." .
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hotel-dusk-room-215/3030-1159/#game> .
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/trace-memory/3030-17990/#game> .
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/another-code-r-a-journey-into-lost-memories/3030-23953/#game> .
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/glass-rose/3030-1177/#game> .
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/little-kings-story/3030-21631/#game> .
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/again/3030-24237/#game> .
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/last-window-the-secret-of-cape-west/3030-29533/#game> .
+<http://www.giantbomb.com/cing-inc/3010-1208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/monster-rancher-ds/3030-29487/#game> .

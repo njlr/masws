@@ -1,0 +1,2 @@
+<http://www.giantbomb.com/gameflow-entertainment-llc/3010-122/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/gameflow-entertainment-llc/3010-122/#company> <http://xmlns.com/foaf/0.1/#name> "GameFlow Entertainment, LLC" .

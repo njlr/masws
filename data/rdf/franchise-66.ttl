@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/boktai/3025-66/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/boktai/3025-66/#franchise> <http://xmlns.com/foaf/0.1/#name> "Boktai" .
+<http://www.giantbomb.com/boktai/3025-66/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Boktai-2:-Solar-Boy-Django/3030-14556/#game> .
+<http://www.giantbomb.com/boktai/3025-66/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Boktai:-The-Sun-is-in-Your-Hand/3030-7136/#game> .
+<http://www.giantbomb.com/boktai/3025-66/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Lunar-Knights/3030-7060/#game> .
+<http://www.giantbomb.com/boktai/3025-66/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Shin-Bokura-no-Taiyou-Gyakushuu-no-Sabata/3030-11662/#game> .

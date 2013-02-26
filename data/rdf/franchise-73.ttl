@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/bubsy/3025-73/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/bubsy/3025-73/#franchise> <http://xmlns.com/foaf/0.1/#name> "Bubsy" .
+<http://www.giantbomb.com/bubsy/3025-73/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Bubsy-In:-Fractured-Furry-Tales/3030-5834/#game> .
+<http://www.giantbomb.com/bubsy/3025-73/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Bubsy-3D/3030-15580/#game> .
+<http://www.giantbomb.com/bubsy/3025-73/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Bubsy-II/3030-17096/#game> .
+<http://www.giantbomb.com/bubsy/3025-73/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Bubsy-in:-Claws-Encounters-of-the-Furred-Kind/3030-20205/#game> .
+<http://www.giantbomb.com/bubsy/3025-73/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Super-Bubsy/3030-15709/#game> .

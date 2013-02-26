@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://xmlns.com/foaf/0.1/#name> "Rockstar Lincoln" .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/oni/3030-17168/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/austin-powers-welcome-to-my-underground-lair/3030-2084/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/austin-powers-oh-behave/3030-13730/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/evel-knievel/3030-27986/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rats/3030-32721/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hollywood-pinball/3030-36326/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/las-vegas-cool-hand/3030-36609/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/formula-one-2000/3030-20248/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/grand-theft-auto/3030-13567/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/max-payne-3/3030-23398/#game> .
+<http://www.giantbomb.com/rockstar-lincoln/3010-1409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jim-hensons-the-muppets/3030-37234/#game> .

@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/baudville/3010-1489/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/baudville/3010-1489/#company> <http://xmlns.com/foaf/0.1/#name> "Baudville" .
+<http://www.giantbomb.com/baudville/3010-1489/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dream-zone/3030-1568/#game> .

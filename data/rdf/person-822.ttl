@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://xmlns.com/foaf/0.1/#name> "Pål Engstad" .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/ontology/birthDate> "" .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/ontology/birthPlace> "Norway" .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Sony-Computer-Entertainment-Europe/3010-46/#company> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Sony-Computer-Entertainment-America/3010-313/#company> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Sony-Computer-Entertainment-Incorporated/3010-995/#company> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Sony-Computer-Entertainment-Australia/3010-6464/#company> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Naughty-Dog,-Inc/3010-827/#company> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Uncharted:-Drake's-Fortune/3030-13992/#game> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Uncharted-2:-Among-Thieves/3030-22420/#game> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Crash-Team-Racing/3030-6196/#game> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Jak-and-Daxter:-The-Precursor-Legacy/3030-14623/#game> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Jak-II/3030-10384/#game> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Jak-3/3030-9669/#game> .
+<http://www.giantbomb.com/pal-engstad/3040-822/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Jak-X:-Combat-Racing/3030-689/#game> .

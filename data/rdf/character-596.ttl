@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/finlay/3005-596/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/finlay/3005-596/#character> <http://xmlns.com/foaf/0.1/#name> "Finlay" .
+<http://www.giantbomb.com/finlay/3005-596/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/finlay/3005-596/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Montel-Vontavious-Porter/3005-588/#character> .
+<http://www.giantbomb.com/finlay/3005-596/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Vince-McMahon/3005-471/#character> .

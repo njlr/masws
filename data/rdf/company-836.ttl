@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/beau-jolly/3010-836/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/beau-jolly/3010-836/#company> <http://xmlns.com/foaf/0.1/#name> "Beau Jolly" .
+<http://www.giantbomb.com/beau-jolly/3010-836/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/five-star-games/3030-16190/#game> .
+<http://www.giantbomb.com/beau-jolly/3010-836/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/five-star-games-2/3030-19255/#game> .
+<http://www.giantbomb.com/beau-jolly/3010-836/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mind-games/3030-10272/#game> .
+<http://www.giantbomb.com/beau-jolly/3010-836/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-power-pack/3030-16160/#game> .
+<http://www.giantbomb.com/beau-jolly/3010-836/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/power-corruption-lies/3030-702/#game> .
+<http://www.giantbomb.com/beau-jolly/3010-836/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/beau-jolly-48k-value-pack/3030-7871/#game> .
+<http://www.giantbomb.com/beau-jolly/3010-836/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/supreme-challenge/3030-16445/#game> .

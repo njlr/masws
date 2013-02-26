@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/scavenger-inc/3010-1906/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/scavenger-inc/3010-1906/#company> <http://xmlns.com/foaf/0.1/#name> "Scavenger, Inc." .
+<http://www.giantbomb.com/scavenger-inc/3010-1906/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/scorcher/3030-2313/#game> .
+<http://www.giantbomb.com/scavenger-inc/3010-1906/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/amok/3030-15543/#game> .

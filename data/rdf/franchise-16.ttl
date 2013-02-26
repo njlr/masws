@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <http://xmlns.com/foaf/0.1/#name> "Ace Combat" .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-04:-Shattered-Skies/3030-1602/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-2/3030-3605/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-Advance/3030-3747/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Air-Combat/3030-6250/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-X:-Skies-of-Deception/3030-9920/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-5:-The-Unsung-War/3030-14827/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-Zero:-The-Belkan-War/3030-17960/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-6:-Fires-of-Liberation/3030-19273/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-3:-Electrosphere/3030-20037/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat:-Joint-Assault/3030-29751/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-Assault-Horizon/3030-32297/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat:-Assault-Horizon-Legacy/3030-35091/#game> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ace-Combat-Xi:-Skies-of-Incursion/3030-35885/#game> .

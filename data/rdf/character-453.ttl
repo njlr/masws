@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <http://xmlns.com/foaf/0.1/#name> "Wolf Hawkfield" .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Aoi-Umenokouji/3005-459/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Akira-Yuki/3005-450/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Sarah-Bryant/3005-98/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kage-Maru/3005-455/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Lau-Chan/3005-452/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Shun-Di/3005-457/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Lion-Rafale/3005-458/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jacky-Bryant/3005-456/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Pai-Chan/3005-451/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Lei-Fei/3005-461/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Vanessa-Lewis/3005-462/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/El-Blaze/3005-466/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jeffry-McWild/3005-454/#character> .
+<http://www.giantbomb.com/wolf-hawkfield/3005-453/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dural/3005-468/#character> .

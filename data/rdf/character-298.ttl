@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <http://xmlns.com/foaf/0.1/#name> "Donkey Kong Jr." .
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Donkey-Kong/3005-299/#character> .
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Cranky-Kong/3005-311/#character> .
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Funky-Kong/3005-1647/#character> .
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Chunky-Kong/3005-4395/#character> .
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Diddy-Kong/3005-304/#character> .
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mario/3005-177/#character> .
+<http://www.giantbomb.com/donkey-kong-jr/3005-298/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Pauline/3005-1246/#character> .

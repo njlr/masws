@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <http://xmlns.com/foaf/0.1/#name> "Age of Empires" .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires-II:-The-Age-of-Kings/3030-2846/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires:-The-Rise-of-Rome/3030-4391/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires-III/3030-8546/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires/3030-10485/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires-III:-The-Asian-Dynasties/3030-11786/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires-III:-The-WarChiefs/3030-12483/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires:-The-Age-of-Kings/3030-14285/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires-II:-The-Conquerors/3030-14590/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Mythology/3030-13076/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Mythology:-The-Titans/3030-1370/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires:-Mythologies/3030-24380/#game> .
+<http://www.giantbomb.com/age-of-empires/3025-22/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Age-of-Empires-Online/3030-32355/#game> .

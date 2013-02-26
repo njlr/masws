@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://xmlns.com/foaf/0.1/#name> "Dekovir Entertainment" .
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/can-you-see-what-i-see-curfuffles-collectibles/3030-7850/#game> .
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/puzzle-blast/3030-15276/#game> .
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alpha-ball/3030-1620/#game> .
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chameleon-gems/3030-35905/#game> .
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/amazing-breaker/3030-37033/#game> .
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/puzzle-blast/3030-15276/#game> .
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/alpha-ball/3030-1620/#game> .
+<http://www.giantbomb.com/dekovir-entertainment/3010-1522/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/amazing-breaker/3030-37033/#game> .

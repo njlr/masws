@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/spot/3005-973/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/spot/3005-973/#character> <http://xmlns.com/foaf/0.1/#name> "Spot" .
+<http://www.giantbomb.com/spot/3005-973/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .

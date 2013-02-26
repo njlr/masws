@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/nekketsu-beach-volley-da-yo-kunio-kun/3030-303/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/nekketsu-beach-volley-da-yo-kunio-kun/3030-303/#game> <http://xmlns.com/foaf/0.1/#name> "Nekketsu! Beach Volley da yo Kunio-kun" .
+<http://www.giantbomb.com/nekketsu-beach-volley-da-yo-kunio-kun/3030-303/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Kunio/3005-15431/#character> .
+<http://www.giantbomb.com/nekketsu-beach-volley-da-yo-kunio-kun/3030-303/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Riki/3005-15449/#character> .

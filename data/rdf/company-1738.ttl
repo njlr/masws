@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://xmlns.com/foaf/0.1/#name> "L.K. Avalon" .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/owca-gow/3030-5078/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ad-2044/3030-10080/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/aurum/3030-32292/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sotys/3030-9840/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/skaut-kwatermaster/3030-41271/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dark-moon/3030-11924/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/death-sword/3030-8604/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/kosmos/3030-1990/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mega-blast/3030-4932/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/owca-gow/3030-5078/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-adventures-of-robbo/3030-10591/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sotys/3030-9840/#game> .
+<http://www.giantbomb.com/lk-avalon/3010-1738/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/skaut-kwatermaster/3030-41271/#game> .

@@ -1,0 +1,2 @@
+<http://www.giantbomb.com/atoll-soft/3010-1127/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/atoll-soft/3010-1127/#company> <http://xmlns.com/foaf/0.1/#name> "Atoll Soft" .

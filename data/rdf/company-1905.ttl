@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://xmlns.com/foaf/0.1/#name> "InterAction studios" .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chicken-invaders-the-next-wave-christmas-edition/3030-11050/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chicken-invaders-revenge-of-the-yolk-christmas-edi/3030-18863/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chicken-invaders-revenge-of-the-yolk/3030-17354/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chicken-invaders-2-the-next-wave/3030-2312/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chicken-invaders/3030-12744/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/island-wars-2/3030-12339/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chicken-invaders-the-next-wave-christmas-edition/3030-11050/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chicken-invaders-revenge-of-the-yolk-christmas-edi/3030-18863/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chicken-invaders-revenge-of-the-yolk/3030-17354/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chicken-invaders-2-the-next-wave/3030-2312/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chicken-invaders/3030-12744/#game> .
+<http://www.giantbomb.com/interaction-studios/3010-1905/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/island-wars-2/3030-12339/#game> .

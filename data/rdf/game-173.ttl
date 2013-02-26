@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/far-cry-instincts-predator/3030-173/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/far-cry-instincts-predator/3030-173/#game> <http://xmlns.com/foaf/0.1/#name> "Far Cry: Instincts - Predator" .
+<http://www.giantbomb.com/far-cry-instincts-predator/3030-173/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Doyle/3005-4253/#character> .
+<http://www.giantbomb.com/far-cry-instincts-predator/3030-173/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Jack-Carver/3005-2729/#character> .
+<http://www.giantbomb.com/far-cry-instincts-predator/3030-173/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Val-Cortez/3005-2737/#character> .

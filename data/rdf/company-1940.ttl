@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/golemlabs/3010-1940/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/golemlabs/3010-1940/#company> <http://xmlns.com/foaf/0.1/#name> "GolemLabs" .
+<http://www.giantbomb.com/golemlabs/3010-1940/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/superpower/3030-2367/#game> .
+<http://www.giantbomb.com/golemlabs/3010-1940/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/superpower-2/3030-9354/#game> .

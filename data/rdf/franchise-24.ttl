@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/alex-kidd/3025-24/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/alex-kidd/3025-24/#franchise> <http://xmlns.com/foaf/0.1/#name> "Alex Kidd" .
+<http://www.giantbomb.com/alex-kidd/3025-24/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alex-Kidd-in-Shinobi-World/3030-4198/#game> .
+<http://www.giantbomb.com/alex-kidd/3025-24/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alex-Kidd:-BMX-Trial/3030-4553/#game> .
+<http://www.giantbomb.com/alex-kidd/3025-24/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alex-Kidd-in-the-Enchanted-Castle/3030-4968/#game> .
+<http://www.giantbomb.com/alex-kidd/3025-24/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alex-Kidd:-High-Tech-World/3030-7108/#game> .
+<http://www.giantbomb.com/alex-kidd/3025-24/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alex-Kidd-in-Miracle-World/3030-9101/#game> .
+<http://www.giantbomb.com/alex-kidd/3025-24/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Alex-Kidd:-The-Lost-Stars/3030-16061/#game> .
+<http://www.giantbomb.com/alex-kidd/3025-24/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Sega-Vintage-Collection:-Alex-Kidd-&-Co/3030-38379/#game> .

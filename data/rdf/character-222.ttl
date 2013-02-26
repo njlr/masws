@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <http://xmlns.com/foaf/0.1/#name> "Julius Belmont" .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Soma-Cruz/3005-1537/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Alucard/3005-646/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Yoko-Belnades/3005-8680/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Mina-Hakuba/3005-8681/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dracula/3005-348/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Death/3005-5581/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Graham-Jones/3005-8522/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Celia-Fortner/3005-8525/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dario-Bossi/3005-8523/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dmitrii-Blinov/3005-8524/#character> .
+<http://www.giantbomb.com/julius-belmont/3005-222/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Cthulhu/3005-7606/#character> .

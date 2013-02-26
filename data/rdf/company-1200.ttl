@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://xmlns.com/foaf/0.1/#name> "Hip Interactive Corp." .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rebels-prison-escape/3030-1658/#game> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/beyond-divinity/3030-9789/#game> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dead-to-rights/3030-3032/#game> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hooligans-storm-over-europe/3030-9701/#game> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/incoming-forces/3030-15362/#game> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/killswitch/3030-1152/#game> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pac-man-world-2/3030-20178/#game> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sitting-ducks/3030-11792/#game> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tennis-masters-series-2003/3030-2342/#game> .
+<http://www.giantbomb.com/hip-interactive-corp/3010-1200/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/warcommander/3030-15500/#game> .

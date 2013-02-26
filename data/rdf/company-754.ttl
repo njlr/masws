@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://xmlns.com/foaf/0.1/#name> "Aackosoft International BV" .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hopper/3030-11087/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/kick-it/3030-612/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/oh-shit/3030-15304/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ultra-chess/3030-7545/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/macattack/3030-11482/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-heist/3030-15663/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ultra-chess/3030-7545/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/barnstormer/3030-17696/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/alpha-blaster/3030-20210/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/robot-wars/3030-16469/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/oils-well/3030-9263/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/enigma-force/3030-12301/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/macattack/3030-11482/#game> .
+<http://www.giantbomb.com/aackosoft-international-bv/3010-754/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/elidon/3030-32211/#game> .

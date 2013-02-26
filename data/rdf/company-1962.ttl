@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/god-games/3010-1962/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/god-games/3010-1962/#company> <http://xmlns.com/foaf/0.1/#name> "God Games" .
+<http://www.giantbomb.com/god-games/3010-1962/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/stronghold-crusader/3030-14291/#game> .

@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://xmlns.com/foaf/0.1/#name> "4HEAD Studios" .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/die-gilde-gaukler-gruften-geschutze/3030-6198/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/europa-1400-the-guild/3030-3954/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-guild-2/3030-17645/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-settlers-rise-of-an-empire/3030-2815/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/big-biz-tycoon-2/3030-6775/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/15-giant-games-vol1/3030-19491/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-guild-2-pirates-of-the-european-seas/3030-6261/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mall-of-america-tycoon/3030-27320/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-guild-2-renaissance/3030-37889/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lost-chronicles-of-zerzura/3030-39459/#game> .
+<http://www.giantbomb.com/4head-studios/3010-942/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mystery-agency-visions-of-time/3030-39462/#game> .

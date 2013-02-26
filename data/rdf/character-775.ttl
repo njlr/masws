@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/zack/3005-775/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/zack/3005-775/#character> <http://xmlns.com/foaf/0.1/#name> "Zack" .
+<http://www.giantbomb.com/zack/3005-775/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/zack/3005-775/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Wiki/3005-764/#character> .
+<http://www.giantbomb.com/zack/3005-775/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Johnny-Style/3005-977/#character> .
+<http://www.giantbomb.com/zack/3005-775/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Captain-Rose/3005-970/#character> .
+<http://www.giantbomb.com/zack/3005-775/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Barbaros/3005-10374/#character> .

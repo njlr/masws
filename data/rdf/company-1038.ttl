@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/cybersoft-inc/3010-1038/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/cybersoft-inc/3010-1038/#company> <http://xmlns.com/foaf/0.1/#name> "Cybersoft, Inc." .
+<http://www.giantbomb.com/cybersoft-inc/3010-1038/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/carrier-aces/3030-18649/#game> .
+<http://www.giantbomb.com/cybersoft-inc/3010-1038/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spectre/3030-921/#game> .
+<http://www.giantbomb.com/cybersoft-inc/3010-1038/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/air-cavalry/3030-7643/#game> .
+<http://www.giantbomb.com/cybersoft-inc/3010-1038/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/full-throttle-racing/3030-17447/#game> .

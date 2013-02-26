@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/lti-gray-matter/3010-917/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/lti-gray-matter/3010-917/#company> <http://xmlns.com/foaf/0.1/#name> "LTI Gray Matter" .
+<http://www.giantbomb.com/lti-gray-matter/3010-917/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/perfect-weapon/3030-781/#game> .
+<http://www.giantbomb.com/lti-gray-matter/3010-917/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/a-collection-of-intellivision-classic-games/3030-35682/#game> .
+<http://www.giantbomb.com/lti-gray-matter/3010-917/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-rbi-baseball/3030-38287/#game> .

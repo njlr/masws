@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/gaga-communications-inc/3010-1919/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/gaga-communications-inc/3010-1919/#company> <http://xmlns.com/foaf/0.1/#name> "GAGA Communications Inc." .
+<http://www.giantbomb.com/gaga-communications-inc/3010-1919/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cyberspeed/3030-20348/#game> .
+<http://www.giantbomb.com/gaga-communications-inc/3010-1919/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dark-seed-ii/3030-16020/#game> .
+<http://www.giantbomb.com/gaga-communications-inc/3010-1919/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-psychotron/3030-7403/#game> .
+<http://www.giantbomb.com/gaga-communications-inc/3010-1919/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/quantum-gate/3030-10639/#game> .
+<http://www.giantbomb.com/gaga-communications-inc/3010-1919/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tunnel-b1/3030-14480/#game> .
+<http://www.giantbomb.com/gaga-communications-inc/3010-1919/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/father-christmas/3030-29535/#game> .

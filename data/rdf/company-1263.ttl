@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/vic-tokai-europe-ltd/3010-1263/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/vic-tokai-europe-ltd/3010-1263/#company> <http://xmlns.com/foaf/0.1/#name> "Vic Tokai Europe Ltd." .
+<http://www.giantbomb.com/vic-tokai-europe-ltd/3010-1263/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-gene-machine/3030-1228/#game> .
+<http://www.giantbomb.com/vic-tokai-europe-ltd/3010-1263/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mortal-coil-adrenalin-intelligence/3030-5631/#game> .

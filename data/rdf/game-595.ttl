@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <http://xmlns.com/foaf/0.1/#name> "Tales of Eternia" .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Arche-Klein/3005-4138/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Cless-Alvein/3005-2787/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Reid-Hershel/3005-8025/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Farah-Oersted/3005-8026/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Meredy/3005-8029/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Keele-Zeibel/3005-8033/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Shizel/3005-8043/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Chat/3005-8042/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Max/3005-8041/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Dhaos/3005-8603/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Wonder-Chef/3005-16140/#character> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Forneus/3005-12883/#character> .

@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/crytek-gmbh/3010-268/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/crytek-gmbh/3010-268/#company> <http://xmlns.com/foaf/0.1/#name> "Crytek GmbH" .
+<http://www.giantbomb.com/crytek-gmbh/3010-268/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/far-cry/3030-14782/#game> .
+<http://www.giantbomb.com/crytek-gmbh/3010-268/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/crysis/3030-11757/#game> .
+<http://www.giantbomb.com/crytek-gmbh/3010-268/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/crysis-2/3030-26754/#game> .
+<http://www.giantbomb.com/crytek-gmbh/3010-268/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ryse/3030-31709/#game> .
+<http://www.giantbomb.com/crytek-gmbh/3010-268/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/crysis-3/3030-37957/#game> .
+<http://www.giantbomb.com/crytek-gmbh/3010-268/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/warface/3030-33306/#game> .
+<http://www.giantbomb.com/crytek-gmbh/3010-268/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fibble-flick-n-roll/3030-38111/#game> .

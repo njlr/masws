@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://xmlns.com/foaf/0.1/#name> "Robert Riter" .
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://dbpedia.org/ontology/birthDate> "" .
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://dbpedia.org/ontology/birthPlace> "USA" .
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Activision/3010-78/#company> .
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Shadows-in-Darkness,-Inc/3010-5414/#company> .
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Infinity-Ward/3010-1526/#company> .
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Aspyr-Media,-Inc/3010-388/#company> .
+<http://www.giantbomb.com/robert-riter/3040-430/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Call-of-Duty-4:-Modern-Warfare/3030-2133/#game> .

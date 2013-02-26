@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/human-code-inc/3010-1403/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/human-code-inc/3010-1403/#company> <http://xmlns.com/foaf/0.1/#name> "Human Code, Inc." .
+<http://www.giantbomb.com/human-code-inc/3010-1403/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disneys-mickey-saves-the-day-3d-adventure/3030-6757/#game> .
+<http://www.giantbomb.com/human-code-inc/3010-1403/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/espns-2-minute-drill/3030-13392/#game> .
+<http://www.giantbomb.com/human-code-inc/3010-1403/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nile-passage-to-egypt/3030-15664/#game> .
+<http://www.giantbomb.com/human-code-inc/3010-1403/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/team-xtreme-operation-weather-disaster/3030-1436/#game> .
+<http://www.giantbomb.com/human-code-inc/3010-1403/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wishbone-and-the-amazing-odyssey/3030-30398/#game> .
+<http://www.giantbomb.com/human-code-inc/3010-1403/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/trivial-pursuit-millennium-edition/3030-33208/#game> .

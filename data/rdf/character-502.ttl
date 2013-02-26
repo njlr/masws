@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/lei-fang/3005-502/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/lei-fang/3005-502/#character> <http://xmlns.com/foaf/0.1/#name> "Lei Fang" .
+<http://www.giantbomb.com/lei-fang/3005-502/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/lei-fang/3005-502/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Zack/3005-503/#character> .
+<http://www.giantbomb.com/lei-fang/3005-502/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hitomi/3005-492/#character> .
+<http://www.giantbomb.com/lei-fang/3005-502/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Jann-Lee/3005-501/#character> .
+<http://www.giantbomb.com/lei-fang/3005-502/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Alpha-152/3005-14607/#character> .
+<http://www.giantbomb.com/lei-fang/3005-502/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Tengu/3005-508/#character> .

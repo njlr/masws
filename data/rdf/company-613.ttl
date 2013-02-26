@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/gost-publishing/3010-613/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/gost-publishing/3010-613/#company> <http://xmlns.com/foaf/0.1/#name> "GOST Publishing" .
+<http://www.giantbomb.com/gost-publishing/3010-613/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/paws-claws-pet-vet/3030-7580/#game> .
+<http://www.giantbomb.com/gost-publishing/3010-613/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/marie-baby-sitter/3030-8053/#game> .

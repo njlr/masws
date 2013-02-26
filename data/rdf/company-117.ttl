@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://xmlns.com/foaf/0.1/#name> "Gotham Games" .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/serious-sam/3030-65/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/big-strike-bowling/3030-17339/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/austin-powers-pinball/3030-11311/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mtv-celebrity-deathmatch/3030-14809/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/patriotic-pinball/3030-22914/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-great-escape/3030-10334/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/conflict-desert-storm/3030-3055/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/conflict-desert-storm-ii-back-to-baghdad/3030-16557/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spec-ops-airborne-commando/3030-19946/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/piglets-big-game/3030-19534/#game> .
+<http://www.giantbomb.com/gotham-games/3010-117/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dora-the-explorer-super-spies/3030-41511/#game> .

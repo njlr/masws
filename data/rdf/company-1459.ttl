@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/hd-interactive/3010-1459/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/hd-interactive/3010-1459/#company> <http://xmlns.com/foaf/0.1/#name> "HD Interactive" .
+<http://www.giantbomb.com/hd-interactive/3010-1459/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/joint-task-force/3030-12202/#game> .
+<http://www.giantbomb.com/hd-interactive/3010-1459/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tooncar/3030-8874/#game> .

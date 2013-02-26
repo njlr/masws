@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/princess-shokora/3005-769/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/princess-shokora/3005-769/#character> <http://xmlns.com/foaf/0.1/#name> "Princess Shokora" .
+<http://www.giantbomb.com/princess-shokora/3005-769/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/princess-shokora/3005-769/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Wario/3005-24/#character> .
+<http://www.giantbomb.com/princess-shokora/3005-769/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Dr-Arewonstein/3005-22432/#character> .

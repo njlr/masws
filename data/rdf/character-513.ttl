@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/wayne-holden/3005-513/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/wayne-holden/3005-513/#character> <http://xmlns.com/foaf/0.1/#name> "Wayne Holden" .
+<http://www.giantbomb.com/wayne-holden/3005-513/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/wayne-holden/3005-513/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Yuri-Solotov/3005-2472/#character> .
+<http://www.giantbomb.com/wayne-holden/3005-513/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Luka/3005-6197/#character> .
+<http://www.giantbomb.com/wayne-holden/3005-513/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Rick/3005-6370/#character> .
+<http://www.giantbomb.com/wayne-holden/3005-513/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Basil/3005-6372/#character> .
+<http://www.giantbomb.com/wayne-holden/3005-513/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Bandero/3005-7490/#character> .

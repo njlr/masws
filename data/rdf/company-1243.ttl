@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/dawn-interactive-the/3010-1243/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/dawn-interactive-the/3010-1243/#company> <http://xmlns.com/foaf/0.1/#name> "Dawn Interactive, The" .
+<http://www.giantbomb.com/dawn-interactive-the/3010-1243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silkolene-honda-motocross-gp/3030-8928/#game> .
+<http://www.giantbomb.com/dawn-interactive-the/3010-1243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/supercross-kings/3030-1211/#game> .

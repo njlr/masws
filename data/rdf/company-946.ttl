@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/creative-asylum-limited/3010-946/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/creative-asylum-limited/3010-946/#company> <http://xmlns.com/foaf/0.1/#name> "Creative Asylum Limited" .
+<http://www.giantbomb.com/creative-asylum-limited/3010-946/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pac-man-adventures-in-time/3030-16345/#game> .
+<http://www.giantbomb.com/creative-asylum-limited/3010-946/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ultimate-pac-pack/3030-816/#game> .

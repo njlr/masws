@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/wally-b-feed/3005-768/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/wally-b-feed/3005-768/#character> <http://xmlns.com/foaf/0.1/#name> "Wally B. Feed" .
+<http://www.giantbomb.com/wally-b-feed/3005-768/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/wally-b-feed/3005-768/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Guybrush-Threepwood/3005-657/#character> .
+<http://www.giantbomb.com/wally-b-feed/3005-768/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Elaine-Marley/3005-756/#character> .
+<http://www.giantbomb.com/wally-b-feed/3005-768/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/LeChuck/3005-762/#character> .

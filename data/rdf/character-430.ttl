@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <http://xmlns.com/foaf/0.1/#name> "F.E.A.R. Point Man" .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/SFOD-D-Douglas-Holiday/3005-2752/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Alma-Wade/3005-429/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Paxton-Fettel/3005-1244/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Michael-Becket/3005-7292/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/The-3rd-Prototype/3005-21507/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jin-Sun-Kwon/3005-21512/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Spencer-Jankowski/3005-21517/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Alice-Wade/3005-21511/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Paxton-Fettel/3005-1244/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Alma-Wade/3005-429/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Harlan-Wade/3005-19401/#character> .
+<http://www.giantbomb.com/fear-point-man/3005-430/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Genevieve-Aristide/3005-15670/#character> .

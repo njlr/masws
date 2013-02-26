@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://xmlns.com/foaf/0.1/#name> "Lego Media" .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lego-stunt-rally/3030-7480/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lego-chess/3030-24881/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-alpha-team/3030-17575/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-bionicle-tales-of-tohunga/3030-16342/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-friends/3030-2435/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-island-2-the-bricksters-revenge/3030-15773/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-land/3030-11395/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-racers/3030-11174/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-loco/3030-9534/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-rock-raiders/3030-9975/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-stunt-rally/3030-7480/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-racers-lego-racers-2/3030-1764/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-creator/3030-23534/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-chess/3030-24881/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-creator-harry-potter/3030-31179/#game> .

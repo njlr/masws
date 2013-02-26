@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/iq-media-nordic/3010-1511/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/iq-media-nordic/3010-1511/#company> <http://xmlns.com/foaf/0.1/#name> "IQ Media Nordic" .
+<http://www.giantbomb.com/iq-media-nordic/3010-1511/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/backpacker-2/3030-14553/#game> .

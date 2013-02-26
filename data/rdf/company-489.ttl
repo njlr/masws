@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/altar-games/3010-489/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/altar-games/3010-489/#company> <http://xmlns.com/foaf/0.1/#name> "ALTAR Games" .
+<http://www.giantbomb.com/altar-games/3010-489/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-fish-fillets-ii/3030-329/#game> .
+<http://www.giantbomb.com/altar-games/3010-489/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ufo-afterlight/3030-18650/#game> .
+<http://www.giantbomb.com/altar-games/3010-489/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ufo-aftermath/3030-15734/#game> .
+<http://www.giantbomb.com/altar-games/3010-489/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ufo-aftershock/3030-14581/#game> .
+<http://www.giantbomb.com/altar-games/3010-489/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fish-fillets/3030-6133/#game> .
+<http://www.giantbomb.com/altar-games/3010-489/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/original-war/3030-9448/#game> .
+<http://www.giantbomb.com/altar-games/3010-489/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fish-fillets/3030-6133/#game> .

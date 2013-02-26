@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/tron-20-killer-app/3030-375/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/tron-20-killer-app/3030-375/#game> <http://xmlns.com/foaf/0.1/#name> "TRON 2.0: Killer App" .
+<http://www.giantbomb.com/tron-20-killer-app/3030-375/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Tron/3005-5152/#character> .

@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://xmlns.com/foaf/0.1/#name> "Tandy Corporation" .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bingo-math/3030-25391/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cave-walker/3030-19296/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/demon-attack/3030-15941/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mickeys-space-adventure/3030-14212/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sokoban/3030-17545/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-pitfall/3030-13716/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wildcatting/3030-6898/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/arkanoid/3030-15107/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bingo-math/3030-25391/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/checker-king/3030-25392/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/eliza/3030-15853/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bedlam/3030-32990/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dungeons-of-daggorath/3030-2616/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dino-wars/3030-41076/#game> .

@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <http://xmlns.com/foaf/0.1/#name> "Command & Conquer: Red Alert" .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Albert-Einstein/3005-791/#character> .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Tanya-Adams/3005-2718/#character> .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/General-Ben-Carville/3005-4929/#character> .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Josef-Stalin/3005-2888/#character> .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Adolf-Hitler/3005-38/#character> .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Nikola-Tesla/3005-9322/#character> .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Natasha-Volkova/3005-1490/#character> .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Kane/3005-217/#character> .

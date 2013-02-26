@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://xmlns.com/foaf/0.1/#name> "ASC Games" .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dead-in-the-water/3030-1508/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jeff-gordon-xs-racing/3030-5783/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mass-destruction/3030-8957/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/perfect-weapon/3030-781/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tnn-motor-sports-hardcore-4x4/3030-6265/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tnn-motorsports-hardcore-heat/3030-10015/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/one/3030-8442/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ten-pin-alley/3030-16781/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/animaniacs-ten-pin-alley/3030-14746/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tnn-outdoors-fishing-champ/3030-38334/#game> .
+<http://www.giantbomb.com/asc-games/3010-915/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/grand-theft-auto/3030-13567/#game> .

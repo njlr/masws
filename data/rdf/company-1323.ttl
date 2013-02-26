@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://xmlns.com/foaf/0.1/#name> "Chris Sawyer Productions" .
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chris-sawyers-locomotion/3030-10999/#game> .
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/conquer-the-world/3030-4297/#game> .
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/play-the-games-vol-5/3030-1326/#game> .
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rollercoaster-tycoon/3030-2236/#game> .
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rollercoaster-tycoon-2/3030-11178/#game> .
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rollercoaster-tycoon-corkscrew-follies/3030-11300/#game> .
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rollercoaster-tycoon-loopy-landscapes/3030-14131/#game> .
+<http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/transport-tycoon/3030-9515/#game> .

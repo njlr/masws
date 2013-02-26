@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/celestial-software/3010-444/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/celestial-software/3010-444/#company> <http://xmlns.com/foaf/0.1/#name> "Celestial Software" .
+<http://www.giantbomb.com/celestial-software/3010-444/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spacewrecked-14-billion-light-years-from-earth/3030-5270/#game> .
+<http://www.giantbomb.com/celestial-software/3010-444/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/utopia-the-new-worlds/3030-297/#game> .
+<http://www.giantbomb.com/celestial-software/3010-444/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-best-of-gremlin/3030-3101/#game> .
+<http://www.giantbomb.com/celestial-software/3010-444/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/k240/3030-9276/#game> .

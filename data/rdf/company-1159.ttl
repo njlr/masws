@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/dungeon-dwellers-design/3010-1159/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/dungeon-dwellers-design/3010-1159/#company> <http://xmlns.com/foaf/0.1/#name> "Dungeon Dwellers Design" .
+<http://www.giantbomb.com/dungeon-dwellers-design/3010-1159/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/axia/3030-1088/#game> .
+<http://www.giantbomb.com/dungeon-dwellers-design/3010-1159/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/acid-tetris/3030-18685/#game> .

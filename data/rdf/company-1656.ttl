@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://xmlns.com/foaf/0.1/#name> "Jarhead Games Inc." .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ctu-marine-sharpshooter/3030-4273/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/elite-forces-navy-seals/3030-7888/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/marine-sharpshooter-ii-jungle-warfare/3030-6658/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/navy-seals-weapons-of-mass-destruction/3030-5353/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nra-gun-club/3030-12437/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/western-outlaw-wanted-dead-or-alive/3030-1857/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-war-ii-sniper-call-to-victory/3030-13970/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/army-ranger-mogadishu/3030-14062/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dmz-north-korea/3030-27031/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/outlaw-chopper/3030-27044/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bass-pro-shops-trophy-hunter-2007/3030-27045/#game> .
+<http://www.giantbomb.com/jarhead-games-inc/3010-1656/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/marine-sharpshooter-3/3030-27046/#game> .

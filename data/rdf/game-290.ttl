@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/vampire-killer/3030-290/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/vampire-killer/3030-290/#game> <http://xmlns.com/foaf/0.1/#name> "Vampire Killer" .
+<http://www.giantbomb.com/vampire-killer/3030-290/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Simon-Belmont/3005-86/#character> .
+<http://www.giantbomb.com/vampire-killer/3030-290/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Dracula/3005-348/#character> .
+<http://www.giantbomb.com/vampire-killer/3030-290/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Death/3005-955/#character> .

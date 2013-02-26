@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://xmlns.com/foaf/0.1/#name> "Vicious Cycle Software, Inc." .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dead-head-fred/3030-7941/#game> .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/marvel-trading-card-game/3030-3210/#game> .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/robotech-battlecry/3030-16670/#game> .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/robotech-invasion/3030-2286/#game> .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spy-vs-spy/3030-14290/#game> .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dinotopia-the-sunstone-odyssey/3030-21693/#game> .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/eat-lead-the-return-of-matt-hazard/3030-23974/#game> .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/matt-hazard-blood-bath-and-beyond/3030-28508/#game> .
+<http://www.giantbomb.com/vicious-cycle-software-inc/3010-1893/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/earth-defense-force-insect-armageddon/3030-32573/#game> .

@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/panini-group/3010-1971/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/panini-group/3010-1971/#company> <http://xmlns.com/foaf/0.1/#name> "Panini Group" .
+<http://www.giantbomb.com/panini-group/3010-1971/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pc-calciatori-2004/3030-2427/#game> .
+<http://www.giantbomb.com/panini-group/3010-1971/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pc-calciatori-2005/3030-3261/#game> .

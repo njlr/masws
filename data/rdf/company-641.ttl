@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/otaku-publishing-ltd/3010-641/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/otaku-publishing-ltd/3010-641/#company> <http://xmlns.com/foaf/0.1/#name> "Otaku Publishing, Ltd." .
+<http://www.giantbomb.com/otaku-publishing-ltd/3010-641/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/true-love/3030-5076/#game> .
+<http://www.giantbomb.com/otaku-publishing-ltd/3010-641/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/time-stripper/3030-490/#game> .

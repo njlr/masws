@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://xmlns.com/foaf/0.1/#name> "InFluid Software" .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gravedigger/3030-13586/#game> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/haunted-childhood/3030-17252/#game> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/smack-some-smackers/3030-473/#game> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/smack-some-smackers-2/3030-11282/#game> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bad-dreams/3030-11880/#game> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gravedigger/3030-13586/#game> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/haunted-childhood/3030-17252/#game> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/smack-some-smackers/3030-473/#game> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/smack-some-smackers-2/3030-11282/#game> .
+<http://www.giantbomb.com/influid-software/3010-630/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bad-dreams/3030-11880/#game> .

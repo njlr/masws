@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/star-wars/3030-54/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/star-wars/3030-54/#game> <http://xmlns.com/foaf/0.1/#name> "Star Wars" .
+<http://www.giantbomb.com/star-wars/3030-54/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Luke-Skywalker/3005-1062/#character> .
+<http://www.giantbomb.com/star-wars/3030-54/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Obi-Wan-Kenobi/3005-669/#character> .
+<http://www.giantbomb.com/star-wars/3030-54/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Han-Solo/3005-3260/#character> .
+<http://www.giantbomb.com/star-wars/3030-54/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/R2D2/3005-3518/#character> .
+<http://www.giantbomb.com/star-wars/3030-54/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/C-3PO/3005-4030/#character> .

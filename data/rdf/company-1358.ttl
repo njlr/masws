@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://xmlns.com/foaf/0.1/#name> "Walt Disney Computer Software, Inc." .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-chase-on-tom-sawyers-island/3030-17796/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/matterhorn-screamer/3030-1905/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/coaster/3030-10455/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disneys-ducktales-the-quest-for-gold/3030-5603/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hare-raising-havoc/3030-1366/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mickeys-crossword-puzzle-maker/3030-12985/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/stunt-island/3030-10993/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/arachnophobia/3030-13406/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-rocketeer/3030-3219/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jelly-car-2/3030-29511/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mickeys-runaway-zoo/3030-33200/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/donald-ducks-playground/3030-4668/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mickeys-space-adventure/3030-14212/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dick-tracy/3030-40360/#game> .
+<http://www.giantbomb.com/walt-disney-computer-software-inc/3010-1358/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dick-tracy-the-crime-solving-adventure/3030-14554/#game> .

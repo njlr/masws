@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <http://xmlns.com/foaf/0.1/#name> "Magna Carta: Tears of Blood" .
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Calintz/3005-12249/#character> .
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Reith/3005-12250/#character> .
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Haren/3005-12251/#character> .
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Eonis-Milan/3005-12252/#character> .
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Chris-Arcway/3005-12253/#character> .
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Azel/3005-12254/#character> .
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Maya/3005-12255/#character> .
+<http://www.giantbomb.com/magna-carta-tears-of-blood/3030-586/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Lehas/3005-12256/#character> .

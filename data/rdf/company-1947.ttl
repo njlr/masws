@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/daydream-software/3010-1947/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/daydream-software/3010-1947/#company> <http://xmlns.com/foaf/0.1/#name> "Daydream Software" .
+<http://www.giantbomb.com/daydream-software/3010-1947/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/clusterball/3030-18217/#game> .
+<http://www.giantbomb.com/daydream-software/3010-1947/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ski-doo-x-team-racing/3030-6147/#game> .
+<http://www.giantbomb.com/daydream-software/3010-1947/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/traitors-gate/3030-13598/#game> .
+<http://www.giantbomb.com/daydream-software/3010-1947/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/safecracker/3030-36399/#game> .
+<http://www.giantbomb.com/daydream-software/3010-1947/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/clusterball/3030-18217/#game> .
+<http://www.giantbomb.com/daydream-software/3010-1947/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/milos-astro-lanes/3030-3405/#game> .
+<http://www.giantbomb.com/daydream-software/3010-1947/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/iron-cross/3030-11277/#game> .

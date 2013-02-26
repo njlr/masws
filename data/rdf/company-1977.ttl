@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://xmlns.com/foaf/0.1/#name> "Next Level Games, Inc." .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nhl-hitz-pro/3030-2437/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spider-man-friend-or-foe/3030-20258/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-mario-strikers/3030-12476/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mario-strikers-charged/3030-6718/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ticket-to-ride/3030-9423/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/punch-out/3030-23965/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/doc-louiss-punch-out/3030-27336/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/transformers-war-for-cybertron/3030-29405/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/captain-america-super-soldier/3030-32845/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/luigis-mansion-dark-moon/3030-35572/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ticket-to-ride/3030-9423/#game> .
+<http://www.giantbomb.com/next-level-games-inc/3010-1977/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jungle-speed/3030-25059/#game> .

@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://xmlns.com/foaf/0.1/#name> "Handheld Games" .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mlb-slugfest-20-04/3030-6304/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nancy-drew-message-in-a-haunted-mansion/3030-2438/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/portal-runner/3030-673/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-duper-sumos/3030-20181/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tech-deck-skateboarding/3030-18636/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/triple-play-2001/3030-7000/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/thats-so-raven-psychic-on-the-scene/3030-24170/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/centipede/3030-1157/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cory-in-the-house/3030-25994/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-cheetah-girls-pop-star-sensations/3030-27900/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-cheetah-girls-passport-for-stardom/3030-21979/#game> .
+<http://www.giantbomb.com/handheld-games/3010-233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dragon-tales-dragon-adventures/3030-36875/#game> .

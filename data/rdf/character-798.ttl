@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/izzy-sparks/3005-798/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/izzy-sparks/3005-798/#character> <http://xmlns.com/foaf/0.1/#name> "Izzy Sparks" .
+<http://www.giantbomb.com/izzy-sparks/3005-798/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/izzy-sparks/3005-798/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Pandora/3005-777/#character> .
+<http://www.giantbomb.com/izzy-sparks/3005-798/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Lou/3005-1789/#character> .

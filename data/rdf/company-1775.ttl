@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/ford-motor-company/3010-1775/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/ford-motor-company/3010-1775/#company> <http://xmlns.com/foaf/0.1/#name> "Ford Motor Company" .
+<http://www.giantbomb.com/ford-motor-company/3010-1775/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ford-simulator-ii/3030-13725/#game> .
+<http://www.giantbomb.com/ford-motor-company/3010-1775/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ford-simulator-iii/3030-2066/#game> .
+<http://www.giantbomb.com/ford-motor-company/3010-1775/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-ford-simulator/3030-12622/#game> .
+<http://www.giantbomb.com/ford-motor-company/3010-1775/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ford-simulator-50/3030-16231/#game> .

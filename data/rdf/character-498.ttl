@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/gen-fu/3005-498/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/gen-fu/3005-498/#character> <http://xmlns.com/foaf/0.1/#name> "Gen Fu" .
+<http://www.giantbomb.com/gen-fu/3005-498/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/gen-fu/3005-498/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Brad-Wong/3005-500/#character> .

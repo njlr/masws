@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://xmlns.com/foaf/0.1/#name> "Realore Studios" .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bubble-xmas/3030-733/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mad-cars/3030-2395/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tiny-cars-2/3030-14844/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/turtle-odyssey/3030-8816/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/aqua-bubble-2/3030-672/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/aqua-bubble/3030-14755/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/abandoned-well/3030-16567/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bubble-xmas/3030-733/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/last-galaxy-hero/3030-13573/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mad-cars/3030-2395/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tiny-cars-2/3030-14844/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/turtle-odyssey/3030-8816/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aqua-bubble-2/3030-672/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aqua-bubble/3030-14755/#game> .
+<http://www.giantbomb.com/realore-studios/3010-815/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/abandoned-well/3030-16567/#game> .

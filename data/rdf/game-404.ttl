@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/disneys-party/3030-404/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/disneys-party/3030-404/#game> <http://xmlns.com/foaf/0.1/#name> "Disney's Party" .
+<http://www.giantbomb.com/disneys-party/3030-404/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Goofy/3005-1810/#character> .
+<http://www.giantbomb.com/disneys-party/3030-404/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mickey-Mouse/3005-2363/#character> .
+<http://www.giantbomb.com/disneys-party/3030-404/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Donald-Duck/3005-1754/#character> .
+<http://www.giantbomb.com/disneys-party/3030-404/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Minnie-Mouse/3005-3199/#character> .
+<http://www.giantbomb.com/disneys-party/3030-404/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Scrooge-McDuck/3005-5901/#character> .
+<http://www.giantbomb.com/disneys-party/3030-404/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Pete/3005-7861/#character> .
+<http://www.giantbomb.com/disneys-party/3030-404/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Pluto/3005-5462/#character> .

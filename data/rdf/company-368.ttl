@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/active-enterprises-ltd/3010-368/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/active-enterprises-ltd/3010-368/#company> <http://xmlns.com/foaf/0.1/#name> "Active Enterprises Ltd." .
+<http://www.giantbomb.com/active-enterprises-ltd/3010-368/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cheetahmen-ii/3030-244/#game> .
+<http://www.giantbomb.com/active-enterprises-ltd/3010-368/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/action-52/3030-14329/#game> .
+<http://www.giantbomb.com/active-enterprises-ltd/3010-368/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cheetahmen-ii/3030-244/#game> .
+<http://www.giantbomb.com/active-enterprises-ltd/3010-368/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/action-52/3030-14329/#game> .

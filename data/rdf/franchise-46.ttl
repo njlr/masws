@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/banjo-kazooie/3025-46/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/banjo-kazooie/3025-46/#franchise> <http://xmlns.com/foaf/0.1/#name> "Banjo-Kazooie" .
+<http://www.giantbomb.com/banjo-kazooie/3025-46/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Banjo-Tooie/3030-2871/#game> .
+<http://www.giantbomb.com/banjo-kazooie/3025-46/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Banjo-Kazooie:-Grunty's-Revenge/3030-10416/#game> .
+<http://www.giantbomb.com/banjo-kazooie/3025-46/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Banjo-Kazooie/3030-10920/#game> .
+<http://www.giantbomb.com/banjo-kazooie/3025-46/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Banjo-Pilot/3030-14277/#game> .
+<http://www.giantbomb.com/banjo-kazooie/3025-46/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Banjo-Kazooie:-Nuts-&-Bolts/3030-20586/#game> .

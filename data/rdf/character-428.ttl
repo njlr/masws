@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <http://xmlns.com/foaf/0.1/#name> "Psycho Mantis" .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Liquid-Snake/3005-190/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Revolver-Ocelot/3005-346/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Sniper-Wolf/3005-870/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Vulcan-Raven/3005-873/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Decoy-Octopus/3005-1915/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Crying-Wolf/3005-1005/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Screaming-Mantis/3005-968/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Raging-Raven/3005-1017/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Laughing-Octopus/3005-956/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Vamp/3005-945/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Solid-Snake/3005-75/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Meryl-Silverburgh/3005-440/#character> .
+<http://www.giantbomb.com/psycho-mantis/3005-428/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Otacon/3005-150/#character> .

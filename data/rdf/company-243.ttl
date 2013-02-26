@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://xmlns.com/foaf/0.1/#name> "BVM Produktion GmbH" .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-little-raven-friends-the-tricycle-story/3030-6174/#game> .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/max-and-the-magician/3030-12218/#game> .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/millie-meter-and-her-adventures-in-the-oak-tree/3030-153/#game> .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/millie-meters-nutrition-adventure/3030-6187/#game> .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/oscar-der-ballonfahrer-taucht-unter/3030-10561/#game> .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/oscar-the-balloonist-dives-into-the-lake/3030-15333/#game> .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wendy-der-traum-von-arizona/3030-3585/#game> .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/black-cats-and-pointed-hats/3030-1944/#game> .
+<http://www.giantbomb.com/bvm-produktion-gmbh/3010-243/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bibi-und-tina-fohlen-felix-in-gefahr/3030-7072/#game> .

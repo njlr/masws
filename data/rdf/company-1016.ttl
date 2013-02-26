@@ -1,0 +1,2 @@
+<http://www.giantbomb.com/chromatrix-gmbh/3010-1016/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/chromatrix-gmbh/3010-1016/#company> <http://xmlns.com/foaf/0.1/#name> "Chromatrix GmbH" .

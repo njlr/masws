@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/friendware/3010-950/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/friendware/3010-950/#company> <http://xmlns.com/foaf/0.1/#name> "Friendware" .
+<http://www.giantbomb.com/friendware/3010-950/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dracula-the-last-sanctuary/3030-5071/#game> .
+<http://www.giantbomb.com/friendware/3010-950/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/trauma/3030-3301/#game> .
+<http://www.giantbomb.com/friendware/3010-950/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/blade-of-darkness/3030-5884/#game> .

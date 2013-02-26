@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <http://xmlns.com/foaf/0.1/#name> "Randy Savage" .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jay-Lethal/3005-234/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kevin-Nash/3005-211/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Chris-Benoit/3005-11119/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hulk-Hogan/3005-247/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Sting/3005-54/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Hulk-Hogan/3005-247/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/AKI-Man/3005-7421/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Vince-McMahon/3005-471/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Jake-Roberts/3005-9328/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Chris-Benoit/3005-11119/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kevin-Nash/3005-211/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Razor-Ramon/3005-3877/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Ric-Flair/3005-594/#character> .
+<http://www.giantbomb.com/randy-savage/3005-472/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Diamond-Dallas-Page/3005-3855/#character> .

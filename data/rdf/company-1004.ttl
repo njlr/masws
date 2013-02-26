@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://xmlns.com/foaf/0.1/#name> "Silicon Knights, Inc." .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cyber-empires/3030-14270/#game> .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dark-legions/3030-876/#game> .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/eternal-darkness-sanitys-requiem/3030-7512/#game> .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fantasy-empires/3030-18327/#game> .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blood-omen-legacy-of-kain/3030-8736/#game> .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/too-human/3030-20499/#game> .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/metal-gear-solid-the-twin-snakes/3030-9594/#game> .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fantasy-fest/3030-12009/#game> .
+<http://www.giantbomb.com/silicon-knights-inc/3010-1004/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/x-men-destiny/3030-32853/#game> .

@@ -1,0 +1,2 @@
+<http://www.giantbomb.com/covert-front-episode-one-all-quiet-on-covert-front/3030-27/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/covert-front-episode-one-all-quiet-on-covert-front/3030-27/#game> <http://xmlns.com/foaf/0.1/#name> "Covert Front: Episode One - All Quiet on Covert Front" .

@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/zool/3005-717/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/zool/3005-717/#character> <http://xmlns.com/foaf/0.1/#name> "Zool" .
+<http://www.giantbomb.com/zool/3005-717/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/zool/3005-717/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Zooz/3005-3650/#character> .
+<http://www.giantbomb.com/zool/3005-717/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Zoon/3005-3651/#character> .

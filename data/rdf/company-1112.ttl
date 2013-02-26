@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://xmlns.com/foaf/0.1/#name> "FX Interactive" .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fx-chess/3030-2724/#game> .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fx-chess-plus/3030-17230/#game> .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hollywood-monsters/3030-4085/#game> .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/la-trilogia-dragons-lair/3030-9747/#game> .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/patrician-iii/3030-5427/#game> .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/star-trek-deep-space-nine-the-fallen/3030-9359/#game> .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/submarine-titans/3030-5414/#game> .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dungeon-lords/3030-14565/#game> .
+<http://www.giantbomb.com/fx-interactive/3010-1112/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sacred/3030-5153/#game> .

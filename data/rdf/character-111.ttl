@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <http://xmlns.com/foaf/0.1/#name> "Robert Garcia" .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Ryo-Sakazaki/3005-3490/#character> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Yuri-Sakazaki/3005-3492/#character> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Takuma-Sakazaki/3005-3389/#character> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mr-Big/3005-2040/#character> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Eiji-Kisaragi/3005-3699/#character> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kasumi-Todoh/3005-2235/#character> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Geese-Howard/3005-280/#character> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/John-Crawley/3005-4415/#character> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Lee-Pai-Long/3005-4429/#character> .
+<http://www.giantbomb.com/robert-garcia/3005-111/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Ryuhaku-Todoh/3005-4485/#character> .

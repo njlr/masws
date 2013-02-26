@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/summon-night-swordcraft-story/3030-294/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/summon-night-swordcraft-story/3030-294/#game> <http://xmlns.com/foaf/0.1/#name> "Summon Night: Swordcraft Story" .
+<http://www.giantbomb.com/summon-night-swordcraft-story/3030-294/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Cleru/3005-5869/#character> .
+<http://www.giantbomb.com/summon-night-swordcraft-story/3030-294/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Pratty/3005-5870/#character> .

@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/crazy-hermit-games/3010-838/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/crazy-hermit-games/3010-838/#company> <http://xmlns.com/foaf/0.1/#name> "Crazy Hermit Games" .
+<http://www.giantbomb.com/crazy-hermit-games/3010-838/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/horizon-x/3030-704/#game> .
+<http://www.giantbomb.com/crazy-hermit-games/3010-838/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/horizon-x/3030-704/#game> .

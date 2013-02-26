@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/balance-games/3010-1934/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/balance-games/3010-1934/#company> <http://xmlns.com/foaf/0.1/#name> "Balance Games" .
+<http://www.giantbomb.com/balance-games/3010-1934/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/heroes-of-annihilated-empires/3030-2354/#game> .

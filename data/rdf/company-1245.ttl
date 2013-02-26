@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://xmlns.com/foaf/0.1/#name> "Monolith Software, Inc." .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/namco-x-capcom/3030-9369/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/xenosaga-iii/3030-11881/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/xenosaga-episode-i-der-wille-zur-macht/3030-20336/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/xenosaga-episode-ii-jenseits-von-gut-und-bose/3030-11093/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/xenosaga-episode-iii-also-sprach-zarathustra/3030-8600/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/baten-kaitos-origins/3030-1213/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disaster-day-of-crisis/3030-21440/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/soma-bringer/3030-21633/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-robot-taisen-og-saga-endless-frontier/3030-23621/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/baten-kaitos-eternal-wings-and-the-lost-ocean/3030-7958/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dragon-ball-z-attack-of-the-saiyans/3030-25435/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/xenoblade-chronicles/3030-26920/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mugen-no-frontier-exceed-super-robot-wars-og-saga/3030-28913/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/project-x-zone/3030-37959/#game> .
+<http://www.giantbomb.com/monolith-software-inc/3010-1245/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/x-working-title/3030-41347/#game> .

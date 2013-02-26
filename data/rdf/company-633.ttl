@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://xmlns.com/foaf/0.1/#name> "GT Interactive Software Europe Ltd." .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/discworld-noir/3030-4203/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/invasion-from-beyond/3030-11970/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jeff-waynes-the-war-of-the-worlds/3030-9792/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sensible-soccer-98/3030-6105/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sensible-soccer-98-european-club-edition/3030-19558/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/unreal-mission-pack-1-return-to-na-pali/3030-10778/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/z/3030-478/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bedlam/3030-3160/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/arcades-greatest-hits-the-midway-collection-2/3030-7926/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crime-city/3030-9208/#game> .
+<http://www.giantbomb.com/gt-interactive-software-europe-ltd/3010-633/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jeff-waynes-the-war-of-the-worlds/3030-38080/#game> .

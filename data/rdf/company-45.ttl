@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/hyperbole-studios/3010-45/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/hyperbole-studios/3010-45/#company> <http://xmlns.com/foaf/0.1/#name> "Hyperbole Studios" .
+<http://www.giantbomb.com/hyperbole-studios/3010-45/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/quantum-gate/3030-10639/#game> .
+<http://www.giantbomb.com/hyperbole-studios/3010-45/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-vortex-quantum-gate-ii/3030-19191/#game> .
+<http://www.giantbomb.com/hyperbole-studios/3010-45/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-x-files-game/3030-22/#game> .
+<http://www.giantbomb.com/hyperbole-studios/3010-45/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-vortex-quantum-gate-ii/3030-19191/#game> .

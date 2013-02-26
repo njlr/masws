@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/laminar-research/3010-1778/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/laminar-research/3010-1778/#company> <http://xmlns.com/foaf/0.1/#name> "Laminar Research" .
+<http://www.giantbomb.com/laminar-research/3010-1778/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/x-plane-6/3030-7741/#game> .
+<http://www.giantbomb.com/laminar-research/3010-1778/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/x-plane-8/3030-2069/#game> .
+<http://www.giantbomb.com/laminar-research/3010-1778/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/x-plane-9/3030-21316/#game> .
+<http://www.giantbomb.com/laminar-research/3010-1778/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/x-plane-8/3030-2069/#game> .

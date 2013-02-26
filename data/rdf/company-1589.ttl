@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/ari-data-cd-gmbh/3010-1589/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/ari-data-cd-gmbh/3010-1589/#company> <http://xmlns.com/foaf/0.1/#name> "ARI Data CD GmbH" .
+<http://www.giantbomb.com/ari-data-cd-gmbh/3010-1589/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/inline-race/3030-13693/#game> .
+<http://www.giantbomb.com/ari-data-cd-gmbh/3010-1589/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/titanic-a-mysterious-undersea-adventure/3030-16563/#game> .
+<http://www.giantbomb.com/ari-data-cd-gmbh/3010-1589/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/feuerwehr-3d/3030-1738/#game> .
+<http://www.giantbomb.com/ari-data-cd-gmbh/3010-1589/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/missing-on-lost-island/3030-14874/#game> .
+<http://www.giantbomb.com/ari-data-cd-gmbh/3010-1589/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/titanic-a-mysterious-undersea-adventure/3030-16563/#game> .

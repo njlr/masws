@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://xmlns.com/foaf/0.1/#name> "Addictive Games" .
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/football-manager/3030-13818/#game> .
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/football-manager-2/3030-2662/#game> .
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spiderbot/3030-1537/#game> .
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/football-manager/3030-13818/#game> .
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/football-manager-2/3030-2662/#game> .
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/president/3030-13376/#game> .
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-kristal/3030-17284/#game> .
+<http://www.giantbomb.com/addictive-games/3010-536/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spiderbot/3030-1537/#game> .

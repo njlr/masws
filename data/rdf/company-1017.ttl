@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://xmlns.com/foaf/0.1/#name> "Magic Bytes" .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mindbender/3030-4015/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/vampires-empire/3030-6507/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/western-games/3030-3356/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dino-wars/3030-30946/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pink-panther/3030-37588/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mission-elevator/3030-8418/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dark-secrets-of-africa/3030-2812/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dynatech/3030-892/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/elysium/3030-4847/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/have-a-nice-day/3030-4364/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/breakneck/3030-16473/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/persian-gulf-inferno/3030-8818/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rent-a-hero/3030-4889/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/biing-sex-intrigue-and-scalpels/3030-11601/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/big-business/3030-8557/#game> .

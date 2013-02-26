@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://xmlns.com/foaf/0.1/#name> "Datamost, Inc." .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/earthly-delights/3030-3814/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mars-cars/3030-2953/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mr-robot-and-his-robot-factory/3030-14473/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-bunny/3030-5447/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/swashbuckler/3030-4591/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/aztec/3030-8863/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/earthly-delights/3030-3814/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mars-cars/3030-2953/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/space-strike/3030-14152/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-bunny/3030-5447/#game> .
+<http://www.giantbomb.com/datamost-inc/3010-1643/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/swashbuckler/3030-4591/#game> .

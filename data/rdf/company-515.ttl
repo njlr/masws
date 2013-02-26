@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://xmlns.com/foaf/0.1/#name> "Buena Vista Interactive" .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gargoyles/3030-352/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disneys-lilo-stitch-2-hamsterviel-havoc/3030-7319/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gargoyles/3030-352/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tim-burtons-the-nightmare-before-christmas-the-pum/3030-11486/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tron-20/3030-14819/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/who-wants-to-be-a-millionaire-sports-edition/3030-10738/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lizzie-mcguire-thats-so-raven/3030-27749/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/who-wants-to-be-a-millionaire-third-edition/3030-31191/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/kim-possible-2-drakkens-demise/3030-13676/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cinderella-magical-dreams/3030-11322/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/kim-possible-3-team-possible/3030-6843/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disneys-thats-so-raven/3030-2499/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disneys-kim-possible-revenge-of-monkey-fist/3030-18973/#game> .

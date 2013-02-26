@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/megatech-software/3010-372/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/megatech-software/3010-372/#company> <http://xmlns.com/foaf/0.1/#name> "MegaTech Software" .
+<http://www.giantbomb.com/megatech-software/3010-372/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cobra-mission/3030-10223/#game> .
+<http://www.giantbomb.com/megatech-software/3010-372/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/knights-of-xentar/3030-7815/#game> .
+<http://www.giantbomb.com/megatech-software/3010-372/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/metal-lace-the-battle-of-the-robo-babes/3030-248/#game> .
+<http://www.giantbomb.com/megatech-software/3010-372/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cobra-mission/3030-10223/#game> .
+<http://www.giantbomb.com/megatech-software/3010-372/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/power-dolls/3030-3293/#game> .

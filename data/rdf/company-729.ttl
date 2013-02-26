@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://xmlns.com/foaf/0.1/#name> "Attic Entertainment Software GmbH" .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/die-drachen-von-laas/3030-14826/#game> .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lords-of-doom/3030-12322/#game> .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/realms-of-arkania-iii-shadows-over-riva/3030-7868/#game> .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/realms-of-arkania-trilogy/3030-1984/#game> .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/realms-of-arkania-vol-2-star-trail/3030-1005/#game> .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/realms-of-arkania-blade-of-destiny/3030-19709/#game> .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/realms-of-arkania-blade-of-destiny-star-trail/3030-8991/#game> .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spirit-of-adventure/3030-583/#game> .
+<http://www.giantbomb.com/attic-entertainment-software-gmbh/3010-729/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/die-drachen-von-laas/3030-14826/#game> .

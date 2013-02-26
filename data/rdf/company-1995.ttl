@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/eugen-systems/3010-1995/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/eugen-systems/3010-1995/#company> <http://xmlns.com/foaf/0.1/#name> "Eugen Systems" .
+<http://www.giantbomb.com/eugen-systems/3010-1995/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-gladiators-galactic-circus-games/3030-4899/#game> .
+<http://www.giantbomb.com/eugen-systems/3010-1995/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/act-of-war-high-treason/3030-2478/#game> .
+<http://www.giantbomb.com/eugen-systems/3010-1995/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/act-of-war-direct-action/3030-7489/#game> .
+<http://www.giantbomb.com/eugen-systems/3010-1995/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ruse/3030-25651/#game> .
+<http://www.giantbomb.com/eugen-systems/3010-1995/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wargame-european-escalation/3030-35658/#game> .
+<http://www.giantbomb.com/eugen-systems/3010-1995/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wargame-airland-battle/3030-39305/#game> .

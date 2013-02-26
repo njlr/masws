@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/robocop/3005-109/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/robocop/3005-109/#character> <http://xmlns.com/foaf/0.1/#name> "RoboCop" .
+<http://www.giantbomb.com/robocop/3005-109/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/robocop/3005-109/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Flo-Langer/3005-21189/#character> .
+<http://www.giantbomb.com/robocop/3005-109/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/ED-209/3005-20137/#character> .
+<http://www.giantbomb.com/robocop/3005-109/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Skynet/3005-15030/#character> .

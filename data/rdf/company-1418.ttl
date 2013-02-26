@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/fountainhead-entertainment-inc/3010-1418/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/fountainhead-entertainment-inc/3010-1418/#company> <http://xmlns.com/foaf/0.1/#name> "Fountainhead Entertainment, Inc." .
+<http://www.giantbomb.com/fountainhead-entertainment-inc/3010-1418/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/orcs-elves/3030-16108/#game> .
+<http://www.giantbomb.com/fountainhead-entertainment-inc/3010-1418/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/doom-ii-rpg/3030-22738/#game> .

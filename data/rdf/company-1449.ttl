@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/jam-productions/3010-1449/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/jam-productions/3010-1449/#company> <http://xmlns.com/foaf/0.1/#name> "JAM Productions" .
+<http://www.giantbomb.com/jam-productions/3010-1449/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blake-stone-aliens-of-gold/3030-1505/#game> .
+<http://www.giantbomb.com/jam-productions/3010-1449/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blake-stone-planet-strike/3030-7364/#game> .

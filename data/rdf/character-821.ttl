@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <http://xmlns.com/foaf/0.1/#name> "Laguna Loire" .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Selphie-Tilmitt/3005-1603/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Ward-Zaback/3005-2542/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kiros-Seagul/3005-2543/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Squall-Leonhart/3005-783/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Rinoa-Heartilly/3005-797/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Zell-Dincht/3005-818/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Quistis-Trepe/3005-805/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Irvine-Kinneas/3005-812/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Julia-Heartilly/3005-22159/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Cosmos/3005-22727/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Ultimecia/3005-1131/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Tonberry-King/3005-3720/#character> .
+<http://www.giantbomb.com/laguna-loire/3005-821/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Ultima-Weapon/3005-4122/#character> .

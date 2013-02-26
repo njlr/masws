@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <http://xmlns.com/foaf/0.1/#name> "Andy Bogard" .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Terry-Bogard/3005-34/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Joe-Higashi/3005-228/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Mai-Shiranui/3005-182/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hokutomaru/3005-2362/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Tung-Fu-Rue/3005-5604/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Rock-Howard/3005-108/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jubei-Yamada/3005-16041/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Geese-Howard/3005-280/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Billy-Kane/3005-3758/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Michael-Max/3005-9391/#character> .
+<http://www.giantbomb.com/andy-bogard/3005-56/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Richard-Meyer/3005-9392/#character> .

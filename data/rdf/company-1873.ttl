@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/event-horizon-software-inc/3010-1873/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/event-horizon-software-inc/3010-1873/#company> <http://xmlns.com/foaf/0.1/#name> "Event Horizon Software, Inc." .
+<http://www.giantbomb.com/event-horizon-software-inc/3010-1873/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/darkspyre/3030-2246/#game> .
+<http://www.giantbomb.com/event-horizon-software-inc/3010-1873/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dusk-of-the-gods/3030-8888/#game> .
+<http://www.giantbomb.com/event-horizon-software-inc/3010-1873/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-summoning/3030-7308/#game> .
+<http://www.giantbomb.com/event-horizon-software-inc/3010-1873/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/veil-of-darkness/3030-6306/#game> .
+<http://www.giantbomb.com/event-horizon-software-inc/3010-1873/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/qix-adventure/3030-29433/#game> .

@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <http://xmlns.com/foaf/0.1/#name> "Marty McFly" .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Doc-Brown/3005-650/#character> .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/George-McFly/3005-17416/#character> .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Einstein/3005-17419/#character> .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jennifer-Parker/3005-18389/#character> .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Lorraine-McFly/3005-18393/#character> .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Danny-Parker/3005-18388/#character> .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Trixie-Trotter/3005-18387/#character> .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Biff-Tannen/3005-652/#character> .
+<http://www.giantbomb.com/marty-mcfly/3005-651/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Edna-Strickland/3005-17417/#character> .

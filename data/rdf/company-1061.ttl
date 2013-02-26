@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/darkage-software/3010-1061/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/darkage-software/3010-1061/#company> <http://xmlns.com/foaf/0.1/#name> "Darkage Software" .
+<http://www.giantbomb.com/darkage-software/3010-1061/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tales-from-heaven/3030-11766/#game> .
+<http://www.giantbomb.com/darkage-software/3010-1061/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/amiga-classix-4/3030-17703/#game> .
+<http://www.giantbomb.com/darkage-software/3010-1061/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/amiga-classix-3/3030-958/#game> .

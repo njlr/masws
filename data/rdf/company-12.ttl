@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://xmlns.com/foaf/0.1/#name> "Dro Soft" .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/el-cid/3030-8744/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/el-cid/3030-8744/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/magic-johnsons-fast-break/3030-1725/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/michael-jordan-in-flight/3030-11979/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mortadelo-y-filemon-2/3030-694/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/obliterator/3030-13711/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bruce-lee/3030-5051/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/level-5/3030-23750/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bombfusion/3030-23751/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/double-dragon/3030-20752/#game> .
+<http://www.giantbomb.com/dro-soft/3010-12/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/emilio-butragueno-futbol/3030-17795/#game> .

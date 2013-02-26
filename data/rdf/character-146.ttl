@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/petey-williams/3005-146/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/petey-williams/3005-146/#character> <http://xmlns.com/foaf/0.1/#name> "Petey Williams" .
+<http://www.giantbomb.com/petey-williams/3005-146/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/petey-williams/3005-146/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Robert-Roode/3005-110/#character> .
+<http://www.giantbomb.com/petey-williams/3005-146/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Sonjay-Dutt/3005-72/#character> .

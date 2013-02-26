@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://xmlns.com/foaf/0.1/#name> "David A. Palmer Productions" .
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/earthworm-jim-menace-2-the-galaxy/3030-7846/#game> .
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gex-enter-the-gecko/3030-11371/#game> .
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-wars-episode-ii-attack-of-the-clones/3030-18331/#game> .
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/top-cat-in-beverly-hills-cats/3030-3620/#game> .
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/commander-keen/3030-21209/#game> .
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pitfall-beyond-the-jungle/3030-29263/#game> .
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tokyo-xtreme-racer-advance/3030-36934/#game> .
+<http://www.giantbomb.com/david-a-palmer-productions/3010-1542/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/men-in-black-2-the-series/3030-36935/#game> .

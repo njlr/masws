@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://xmlns.com/foaf/0.1/#name> "Starbreeze Studios AB" .
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-chronicles-of-riddick-escape-from-butcher-bay/3030-11085/#game> .
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-darkness/3030-9201/#game> .
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/enclave/3030-2056/#game> .
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/knights-of-the-temple-infernal-crusade/3030-12648/#game> .
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-chronicles-of-riddick-assault-on-dark-athena/3030-20987/#game> .
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/syndicate/3030-30734/#game> .
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/brothers-a-tale-of-two-sons/3030-39854/#game> .
+<http://www.giantbomb.com/starbreeze-studios-ab/3010-1768/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/storm-working-title/3030-41324/#game> .

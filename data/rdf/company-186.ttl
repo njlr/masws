@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/data-becker-gmbh-co-kg/3010-186/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/data-becker-gmbh-co-kg/3010-186/#company> <http://xmlns.com/foaf/0.1/#name> "Data Becker GmbH & Co. KG" .
+<http://www.giantbomb.com/data-becker-gmbh-co-kg/3010-186/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ladendetektiv/3030-434/#game> .
+<http://www.giantbomb.com/data-becker-gmbh-co-kg/3010-186/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/highland-warriors/3030-11531/#game> .
+<http://www.giantbomb.com/data-becker-gmbh-co-kg/3010-186/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ladendetektiv/3030-434/#game> .
+<http://www.giantbomb.com/data-becker-gmbh-co-kg/3010-186/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/america-no-peace-beyond-the-line/3030-3507/#game> .
+<http://www.giantbomb.com/data-becker-gmbh-co-kg/3010-186/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/america-expansion-pack/3030-17697/#game> .
+<http://www.giantbomb.com/data-becker-gmbh-co-kg/3010-186/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/america-double-barrel-collection/3030-104/#game> .

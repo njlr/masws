@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/cge-services-corporation/3010-691/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/cge-services-corporation/3010-691/#company> <http://xmlns.com/foaf/0.1/#name> "CGE Services Corporation" .
+<http://www.giantbomb.com/cge-services-corporation/3010-691/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cracked/3030-19315/#game> .
+<http://www.giantbomb.com/cge-services-corporation/3010-691/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pick-up/3030-6041/#game> .
+<http://www.giantbomb.com/cge-services-corporation/3010-691/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/save-the-whales/3030-13307/#game> .
+<http://www.giantbomb.com/cge-services-corporation/3010-691/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/snow-white-and-the-seven-dwarfs/3030-537/#game> .

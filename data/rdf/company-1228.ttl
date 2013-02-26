@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/fujisankei-communications-international-inc/3010-1228/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/fujisankei-communications-international-inc/3010-1228/#company> <http://xmlns.com/foaf/0.1/#name> "Fujisankei Communications International Inc." .
+<http://www.giantbomb.com/fujisankei-communications-international-inc/3010-1228/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/phantom-fighter/3030-1191/#game> .
+<http://www.giantbomb.com/fujisankei-communications-international-inc/3010-1228/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/eye-of-the-beholder/3030-11234/#game> .

@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/popeye-rush-for-spinach/3030-43/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/popeye-rush-for-spinach/3030-43/#game> <http://xmlns.com/foaf/0.1/#name> "Popeye: Rush for Spinach" .
+<http://www.giantbomb.com/popeye-rush-for-spinach/3030-43/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Popeye/3005-6403/#character> .
+<http://www.giantbomb.com/popeye-rush-for-spinach/3030-43/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Olive-Oyl/3005-7366/#character> .
+<http://www.giantbomb.com/popeye-rush-for-spinach/3030-43/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Bluto/3005-7365/#character> .

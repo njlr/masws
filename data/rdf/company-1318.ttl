@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://xmlns.com/foaf/0.1/#name> "Got Game Entertainment, LLC" .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rhem-2-the-cave/3030-6419/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rhem-3-the-secret-library/3030-13243/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tsunami-2265/3030-18474/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/a-quiet-weekend-in-capri/3030-4597/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-lost-crown-a-ghost-hunting-adventure/3030-22665/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/nikopol-secrets-of-the-immortals/3030-23532/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rhiannon-curse-of-the-four-branches/3030-24431/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/darkspace/3030-25035/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hinterland-orc-lords/3030-26154/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/memento-mori/3030-27520/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/worldshift/3030-24708/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/windchaser-guilds-of-glory/3030-25710/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/twin-sector/3030-27951/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tony-tough-and-the-night-of-roasted-moths/3030-15330/#game> .
+<http://www.giantbomb.com/got-game-entertainment-llc/3010-1318/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rhem/3030-14738/#game> .

@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/binary-spells-industries/3010-1837/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/binary-spells-industries/3010-1837/#company> <http://xmlns.com/foaf/0.1/#name> "Binary Spells Industries" .
+<http://www.giantbomb.com/binary-spells-industries/3010-1837/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/zeroth-zone/3030-2176/#game> .
+<http://www.giantbomb.com/binary-spells-industries/3010-1837/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/zeroth-zone/3030-2176/#game> .

@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://xmlns.com/foaf/0.1/#name> "Black Legend Ltd." .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/colony-wars-2492/3030-4126/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/citadel/3030-16852/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crystal-dragon/3030-8943/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fatman-the-caped-consumer/3030-15188/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/football-glory/3030-601/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/statix/3030-19975/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/summer-camp/3030-6270/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tactical-manager/3030-471/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/winter-camp/3030-1180/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/behind-the-iron-gate/3030-8919/#game> .
+<http://www.giantbomb.com/black-legend-ltd/3010-627/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/inordinate-desire/3030-34923/#game> .

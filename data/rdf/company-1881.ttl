@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://xmlns.com/foaf/0.1/#name> "Expert Software, Inc." .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/crosswords-word-games/3030-18169/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bicycle-solitaire/3030-9487/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crosswords-more-for-windows/3030-17804/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crosswords-word-games/3030-18169/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/daytona-usa-deluxe/3030-17352/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/devils-island-pinball/3030-17028/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/expert-chess/3030-5357/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pinball-2000/3030-17913/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rescue-rover-2/3030-8111/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/terminal-terror/3030-5260/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/virtua-fighter-remix/3030-17431/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bicycle-solitaire/3030-9487/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bicycle-pinochle/3030-18136/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dust-a-tale-of-the-wired-west/3030-9941/#game> .
+<http://www.giantbomb.com/expert-software-inc/3010-1881/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sonic-cd/3030-14433/#game> .

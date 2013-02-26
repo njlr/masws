@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <http://xmlns.com/foaf/0.1/#name> "Michael Jackson" .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Ulala/3005-31/#character> .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Paul-McCartney/3005-9402/#character> .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bubbles/3005-12409/#character> .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Freddie-Mercury/3005-12886/#character> .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/John-Deacon/3005-12888/#character> .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/God/3005-7315/#character> .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mr-Big/3005-11489/#character> .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Paul-McCartney/3005-9402/#character> .
+<http://www.giantbomb.com/michael-jackson/3005-173/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Deadpool/3005-1472/#character> .

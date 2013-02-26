@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/crimson-cow/3010-1111/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/crimson-cow/3010-1111/#company> <http://xmlns.com/foaf/0.1/#name> "Crimson Cow" .
+<http://www.giantbomb.com/crimson-cow/3010-1111/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mortadelo-y-filemon-una-aventura-de-cine/3030-6891/#game> .
+<http://www.giantbomb.com/crimson-cow/3010-1111/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pro-cycling-manager-season-2006/3030-11964/#game> .
+<http://www.giantbomb.com/crimson-cow/3010-1111/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wanted-a-wild-western-adventure/3030-12951/#game> .
+<http://www.giantbomb.com/crimson-cow/3010-1111/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/a-vampyre-story/3030-21914/#game> .
+<http://www.giantbomb.com/crimson-cow/3010-1111/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dungeon-lords/3030-14565/#game> .
+<http://www.giantbomb.com/crimson-cow/3010-1111/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/a-vampyre-story-2-a-bats-tale/3030-24845/#game> .

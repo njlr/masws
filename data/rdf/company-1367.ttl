@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/chaos-concept/3010-1367/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/chaos-concept/3010-1367/#company> <http://xmlns.com/foaf/0.1/#name> "Chaos Concept" .
+<http://www.giantbomb.com/chaos-concept/3010-1367/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ufoextraterrestrials/3030-1379/#game> .
+<http://www.giantbomb.com/chaos-concept/3010-1367/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ufo-2-extraterrestrials-shadows-over-earth/3030-37183/#game> .

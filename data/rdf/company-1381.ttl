@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/idigicon-limited/3010-1381/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/idigicon-limited/3010-1381/#company> <http://xmlns.com/foaf/0.1/#name> "Idigicon Limited" .
+<http://www.giantbomb.com/idigicon-limited/3010-1381/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hover-bovver/3030-1400/#game> .
+<http://www.giantbomb.com/idigicon-limited/3010-1381/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/maxx-gp/3030-8082/#game> .
+<http://www.giantbomb.com/idigicon-limited/3010-1381/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/train-tracking/3030-6268/#game> .
+<http://www.giantbomb.com/idigicon-limited/3010-1381/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/word-yo/3030-18065/#game> .

@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://xmlns.com/foaf/0.1/#name> "Silverbird Software Ltd." .
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sir-loin/3030-23734/#game> .
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/scuba-kidz/3030-33076/#game> .
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/european-5-a-side/3030-15518/#game> .
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ninja-scooter-simulator/3030-2071/#game> .
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rebelstar-ii-alien-encounter/3030-14944/#game> .
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/turbo-boat-simulator/3030-7006/#game> .
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sir-loin/3030-23734/#game> .
+<http://www.giantbomb.com/silverbird-software-ltd/3010-1780/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/scuba-kidz/3030-33076/#game> .

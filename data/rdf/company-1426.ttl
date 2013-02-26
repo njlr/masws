@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/craftpath-software/3010-1426/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/craftpath-software/3010-1426/#company> <http://xmlns.com/foaf/0.1/#name> "Craftpath Software" .
+<http://www.giantbomb.com/craftpath-software/3010-1426/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/end-of-twilight/3030-1468/#game> .

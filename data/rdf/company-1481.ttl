@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/mforma-group-inc/3010-1481/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/mforma-group-inc/3010-1481/#company> <http://xmlns.com/foaf/0.1/#name> "MFORMA Group Inc." .
+<http://www.giantbomb.com/mforma-group-inc/3010-1481/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/california-games/3030-3193/#game> .

@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/christopher-belmont/3005-326/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/christopher-belmont/3005-326/#character> <http://xmlns.com/foaf/0.1/#name> "Christopher Belmont" .
+<http://www.giantbomb.com/christopher-belmont/3005-326/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/christopher-belmont/3005-326/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Soleiyu-Belmont/3005-76/#character> .
+<http://www.giantbomb.com/christopher-belmont/3005-326/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dracula/3005-348/#character> .

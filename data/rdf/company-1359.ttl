@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://xmlns.com/foaf/0.1/#name> "Grundislav Games" .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-6-scourge-/3030-18705/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-5-land-of-/3030-13287/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-4-horror-a/3030-1444/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-3-the-sorc/3030-16303/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-2-the-lost/3030-1367/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-1-in-searc/3030-20268/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-6-scourge-/3030-18705/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-5-land-of-/3030-13287/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-4-horror-a/3030-1444/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-3-the-sorc/3030-16303/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-2-the-lost/3030-1367/#game> .
+<http://www.giantbomb.com/grundislav-games/3010-1359/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-1-in-searc/3030-20268/#game> .

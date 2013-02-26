@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://xmlns.com/foaf/0.1/#name> "Rowan Software Ltd." .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dawn-patrol/3030-416/#game> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/falcon-operation-counterstrike/3030-10567/#game> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/falcon-operation-firefight/3030-16159/#game> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flight-of-the-intruder/3030-7359/#game> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flying-corps/3030-11107/#game> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mig-alley/3030-2639/#game> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/reach-for-the-skies/3030-364/#game> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rowans-battle-of-britain/3030-9926/#game> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/air-power/3030-8392/#game> .
+<http://www.giantbomb.com/rowan-software-ltd/3010-514/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/navy-strike/3030-12426/#game> .

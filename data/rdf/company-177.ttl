@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/boffo-games-inc/3010-177/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/boffo-games-inc/3010-177/#company> <http://xmlns.com/foaf/0.1/#name> "Boffo Games, Inc." .
+<http://www.giantbomb.com/boffo-games-inc/3010-177/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hodj-n-podj/3030-99/#game> .
+<http://www.giantbomb.com/boffo-games-inc/3010-177/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-space-bar/3030-7022/#game> .

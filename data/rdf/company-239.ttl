@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/katworks-games-llc/3010-239/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/katworks-games-llc/3010-239/#company> <http://xmlns.com/foaf/0.1/#name> "KATWorks Games, LLC" .
+<http://www.giantbomb.com/katworks-games-llc/3010-239/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/heros-puzzle-path/3030-148/#game> .
+<http://www.giantbomb.com/katworks-games-llc/3010-239/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/heros-puzzle-path/3030-148/#game> .

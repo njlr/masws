@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/key-game/3010-1454/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/key-game/3010-1454/#company> <http://xmlns.com/foaf/0.1/#name> "Key Game" .
+<http://www.giantbomb.com/key-game/3010-1454/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/space-hulk-vengeance-of-the-blood-angels/3030-1518/#game> .

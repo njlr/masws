@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <http://xmlns.com/foaf/0.1/#name> "Dr. Fred Edison" .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bernard-Bernoulli/3005-1828/#character> .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Laverne/3005-2412/#character> .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hoagie/3005-2423/#character> .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Purple-Tentacle/3005-667/#character> .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Michael-F-Stoppe/3005-1534/#character> .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Razor/3005-1849/#character> .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Bernard-Bernoulli/3005-1828/#character> .
+<http://www.giantbomb.com/dr-fred-edison/3005-907/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dave/3005-1819/#character> .

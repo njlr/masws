@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/free-fall-associates/3010-803/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/free-fall-associates/3010-803/#company> <http://xmlns.com/foaf/0.1/#name> "Free Fall Associates" .
+<http://www.giantbomb.com/free-fall-associates/3010-803/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/murder-on-the-zinderneuf/3030-763/#game> .
+<http://www.giantbomb.com/free-fall-associates/3010-803/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/swords-of-twilight/3030-10353/#game> .
+<http://www.giantbomb.com/free-fall-associates/3010-803/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/archon-the-light-and-the-dark/3030-3036/#game> .
+<http://www.giantbomb.com/free-fall-associates/3010-803/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/archon-ultra/3030-662/#game> .
+<http://www.giantbomb.com/free-fall-associates/3010-803/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/archon-ii-adept/3030-3936/#game> .

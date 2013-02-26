@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://xmlns.com/foaf/0.1/#name> "Play It Ltd" .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fugitive-hunter-war-on-terror/3030-1275/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gungrave-overdose/3030-11186/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/james-pond-2-codename-robocod/3030-397/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/motorsiege-warriors-of-primetime/3030-12553/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mx-world-tour/3030-11449/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/seek-and-destroy/3030-744/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/silent-bomber/3030-3050/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/strike-force-bowling/3030-2310/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/battle-arena-toshinden-4/3030-11293/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/arcade-classics-volume-1/3030-26511/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/road-trip/3030-25136/#game> .
+<http://www.giantbomb.com/play-it-ltd/3010-554/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/international-pool-championship/3030-35764/#game> .

@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/lab-rats/3010-1904/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/lab-rats/3010-1904/#company> <http://xmlns.com/foaf/0.1/#name> "Lab Rats" .
+<http://www.giantbomb.com/lab-rats/3010-1904/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fast-lanes-bowling/3030-2402/#game> .
+<http://www.giantbomb.com/lab-rats/3010-1904/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/strike-force-bowling/3030-2310/#game> .

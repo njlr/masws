@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/reiko-hinomoto/3005-903/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/reiko-hinomoto/3005-903/#character> <http://xmlns.com/foaf/0.1/#name> "Reiko Hinomoto" .
+<http://www.giantbomb.com/reiko-hinomoto/3005-903/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/reiko-hinomoto/3005-903/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Dixie-Clemets/3005-914/#character> .
+<http://www.giantbomb.com/reiko-hinomoto/3005-903/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Makoto-Aihara/3005-2357/#character> .
+<http://www.giantbomb.com/reiko-hinomoto/3005-903/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Evil-Rose/3005-916/#character> .

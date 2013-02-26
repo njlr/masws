@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/daegon/3005-377/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/daegon/3005-377/#character> <http://xmlns.com/foaf/0.1/#name> "Daegon" .
+<http://www.giantbomb.com/daegon/3005-377/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/daegon/3005-377/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Mavado/3005-394/#character> .
+<http://www.giantbomb.com/daegon/3005-377/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Shinnok/3005-405/#character> .
+<http://www.giantbomb.com/daegon/3005-377/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Rain/3005-123/#character> .
+<http://www.giantbomb.com/daegon/3005-377/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Taven/3005-409/#character> .

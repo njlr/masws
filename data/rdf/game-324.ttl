@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/duke-nukem-3d-plutonium-pak/3030-324/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/duke-nukem-3d-plutonium-pak/3030-324/#game> <http://xmlns.com/foaf/0.1/#name> "Duke Nukem 3D: Plutonium Pak" .
+<http://www.giantbomb.com/duke-nukem-3d-plutonium-pak/3030-324/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Duke-Nukem/3005-656/#character> .

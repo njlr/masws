@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/direct-action-games/3010-1702/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/direct-action-games/3010-1702/#company> <http://xmlns.com/foaf/0.1/#name> "Direct Action Games" .
+<http://www.giantbomb.com/direct-action-games/3010-1702/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/combat-task-force-121/3030-4878/#game> .
+<http://www.giantbomb.com/direct-action-games/3010-1702/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/close-quarters-conflict/3030-2965/#game> .
+<http://www.giantbomb.com/direct-action-games/3010-1702/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-war-ii-combat-iwo-jima/3030-9223/#game> .
+<http://www.giantbomb.com/direct-action-games/3010-1702/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-war-ii-combat-road-to-berlin/3030-1927/#game> .

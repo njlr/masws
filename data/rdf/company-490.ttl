@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://xmlns.com/foaf/0.1/#name> "Yumekobo Co., Ltd." .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-king-of-fighters-kyo/3030-10577/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pocket-tennis/3030-3230/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snk-gals-fighters/3030-13947/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/athena-awakening-from-the-ordinary-life/3030-330/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/biomotor-unitron/3030-21180/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blazing-star/3030-21799/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pocket-tennis-color/3030-21967/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/kikou-seiki-unitron/3030-26006/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/prehistoric-isle-2/3030-22483/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/puzzle-link/3030-41461/#game> .
+<http://www.giantbomb.com/yumekobo-co-ltd/3010-490/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/puzzle-link-2/3030-41462/#game> .

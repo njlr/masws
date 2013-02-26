@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/ndcube-co-ltd/3010-91/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/ndcube-co-ltd/3010-91/#company> <http://xmlns.com/foaf/0.1/#name> "NDCube Co., Ltd." .
+<http://www.giantbomb.com/ndcube-co-ltd/3010-91/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/f-zero-maximum-velocity/3030-46/#game> .
+<http://www.giantbomb.com/ndcube-co-ltd/3010-91/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tube-slider/3030-2404/#game> .
+<http://www.giantbomb.com/ndcube-co-ltd/3010-91/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wii-party/3030-31210/#game> .
+<http://www.giantbomb.com/ndcube-co-ltd/3010-91/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mario-party-9/3030-35578/#game> .
+<http://www.giantbomb.com/ndcube-co-ltd/3010-91/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wii-play-motion/3030-35609/#game> .
+<http://www.giantbomb.com/ndcube-co-ltd/3010-91/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/card-party/3030-38328/#game> .
+<http://www.giantbomb.com/ndcube-co-ltd/3010-91/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wii-u-party/3030-41350/#game> .

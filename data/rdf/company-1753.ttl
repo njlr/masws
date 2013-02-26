@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://xmlns.com/foaf/0.1/#name> "Red Orb Entertainment" .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/prince-of-persia/3030-2561/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/warbreeds/3030-2575/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/prince-of-persia-3d/3030-10863/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-journeyman-project-3-legacy-of-time/3030-8330/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/prince-of-persia/3030-2561/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/take-no-prisoners/3030-15736/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/warlords-iii-darklords-rising/3030-6919/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/warlords-iii-reign-of-heroes/3030-2020/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-journeyman-project-2-buried-in-time/3030-15324/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-journeyman-project-turbo/3030-19758/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/riven-the-sequel-to-myst/3030-16230/#game> .
+<http://www.giantbomb.com/red-orb-entertainment/3010-1753/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/myst/3030-3970/#game> .

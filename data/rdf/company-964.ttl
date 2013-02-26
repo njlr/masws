@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/digifx-interactive-inc/3010-964/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/digifx-interactive-inc/3010-964/#company> <http://xmlns.com/foaf/0.1/#name> "DigiFX Interactive, Inc." .
+<http://www.giantbomb.com/digifx-interactive-inc/3010-964/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/harvester/3030-828/#game> .

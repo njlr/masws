@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://xmlns.com/foaf/0.1/#name> "Introversion Software Limited" .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/darwinia/3030-9376/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/defcon-everybody-dies/3030-6676/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/uplink-hacker-elite/3030-389/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/multiwinia/3030-21649/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/subversion/3030-23768/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chronometer/3030-24919/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/darwinia/3030-29894/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/prison-architect/3030-36763/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/defcon-everybody-dies/3030-6676/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/multiwinia/3030-21649/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/darwinia/3030-29894/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/prison-architect/3030-36763/#game> .
+<http://www.giantbomb.com/introversion-software-limited/3010-543/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/uplink-hacker-elite/3030-389/#game> .

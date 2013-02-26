@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/big-boss-man/3005-558/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/big-boss-man/3005-558/#character> <http://xmlns.com/foaf/0.1/#name> "Big Boss Man" .
+<http://www.giantbomb.com/big-boss-man/3005-558/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .

@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <http://xmlns.com/foaf/0.1/#name> "Sniper Wolf" .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Psycho-Mantis/3005-428/#character> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Vulcan-Raven/3005-873/#character> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Otacon/3005-150/#character> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Liquid-Snake/3005-190/#character> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Big-Boss/3005-475/#character> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Revolver-Ocelot/3005-346/#character> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Decoy-Octopus/3005-1915/#character> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Torso-Monster/3005-18720/#character> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Solid-Snake/3005-75/#character> .
+<http://www.giantbomb.com/sniper-wolf/3005-870/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Meryl-Silverburgh/3005-440/#character> .

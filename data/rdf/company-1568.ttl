@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/infinite-machine/3010-1568/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/infinite-machine/3010-1568/#company> <http://xmlns.com/foaf/0.1/#name> "Infinite Machine" .
+<http://www.giantbomb.com/infinite-machine/3010-1568/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/new-legends/3030-1703/#game> .
+<http://www.giantbomb.com/infinite-machine/3010-1568/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sam-max-plunge-through-space/3030-32535/#game> .

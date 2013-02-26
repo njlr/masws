@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/idea-games/3010-488/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/idea-games/3010-488/#company> <http://xmlns.com/foaf/0.1/#name> "IDEA Games" .
+<http://www.giantbomb.com/idea-games/3010-488/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/arma-ii-operation-arrowhead/3030-27936/#game> .
+<http://www.giantbomb.com/idea-games/3010-488/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-fish-fillets-ii/3030-329/#game> .
+<http://www.giantbomb.com/idea-games/3010-488/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pat-mat-the-game/3030-32061/#game> .
+<http://www.giantbomb.com/idea-games/3010-488/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/alternativa/3030-33104/#game> .

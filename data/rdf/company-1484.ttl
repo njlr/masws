@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://xmlns.com/foaf/0.1/#name> "Rockstar New England" .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/empire-earth-ii/3030-1565/#game> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/empire-earth-ii-the-art-of-supremacy/3030-19199/#game> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/empire-earth-iii/3030-13037/#game> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/janes-combat-simulations-attack-squadron/3030-10861/#game> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-trek-legacy/3030-7690/#game> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bully-scholarship-edition/3030-5092/#game> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-trek-armada-ii/3030-11796/#game> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-trek-armada/3030-7756/#game> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dungeon-siege-legends-of-aranna/3030-13293/#game> .
+<http://www.giantbomb.com/rockstar-new-england/3010-1484/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/max-payne-3/3030-23398/#game> .

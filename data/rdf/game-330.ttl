@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/athena-awakening-from-the-ordinary-life/3030-330/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/athena-awakening-from-the-ordinary-life/3030-330/#game> <http://xmlns.com/foaf/0.1/#name> "Athena: Awakening from the Ordinary Life" .
+<http://www.giantbomb.com/athena-awakening-from-the-ordinary-life/3030-330/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Athena-Asamiya/3005-3493/#character> .
+<http://www.giantbomb.com/athena-awakening-from-the-ordinary-life/3030-330/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Sie-Kensou/3005-3122/#character> .

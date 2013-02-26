@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/magic-productions/3010-1938/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/magic-productions/3010-1938/#company> <http://xmlns.com/foaf/0.1/#name> "Magic Productions" .
+<http://www.giantbomb.com/magic-productions/3010-1938/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/out-of-this-world/3030-17483/#game> .

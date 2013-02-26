@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://xmlns.com/foaf/0.1/#name> "Bugbear Entertainment Ltd." .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flatout/3030-13177/#game> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flatout-ultimate-carnage/3030-6836/#game> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flatout-2/3030-859/#game> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rally-trophy/3030-6276/#game> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tough-trucks-modified-monsters/3030-19983/#game> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flatout-head-on/3030-20998/#game> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sega-rally-revo/3030-20132/#game> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/glimmerati/3030-13654/#game> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ridge-racer-unbounded/3030-34090/#game> .
+<http://www.giantbomb.com/bugbear-entertainment-ltd/3010-991/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/next-car-game-working-title/3030-41754/#game> .

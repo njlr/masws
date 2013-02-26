@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://xmlns.com/foaf/0.1/#name> "Blade Interactive Studios Ltd." .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hsx-hypersonic-xtreme/3030-12445/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-hustle-detroit-streets/3030-18823/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-championship-pool-2004/3030-804/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-championship-snooker-2003/3030-6448/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-championship-snooker-2004/3030-14641/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-snooker-championship-2007/3030-22165/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-snooker-championship-2005/3030-22636/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-championship-snooker/3030-22954/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-championship-snooker-2002/3030-22952/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wsc-real-08-world-snooker-championship/3030-22963/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wsc-real-09-world-championship-snooker/3030-25747/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/g-surfers/3030-30163/#game> .
+<http://www.giantbomb.com/blade-interactive-studios-ltd/3010-936/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-snooker-championship-season-2007-08/3030-38757/#game> .

@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/phantagram-co-ltd/3010-341/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/phantagram-co-ltd/3010-341/#company> <http://xmlns.com/foaf/0.1/#name> "Phantagram Co., Ltd." .
+<http://www.giantbomb.com/phantagram-co-ltd/3010-341/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/kingdom-under-fire-the-crusaders/3030-229/#game> .
+<http://www.giantbomb.com/phantagram-co-ltd/3010-341/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/n3-ninety-nine-nights/3030-10040/#game> .
+<http://www.giantbomb.com/phantagram-co-ltd/3010-341/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/kingdom-under-fire-a-war-of-heroes/3030-24456/#game> .
+<http://www.giantbomb.com/phantagram-co-ltd/3010-341/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/phantom-crash/3030-4051/#game> .
+<http://www.giantbomb.com/phantagram-co-ltd/3010-341/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/kingdom-under-fire-ii/3030-24451/#game> .

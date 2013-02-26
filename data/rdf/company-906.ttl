@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://xmlns.com/foaf/0.1/#name> "Radical Poesis Games & Creations" .
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fedora-spade-death-wears-a-fedora/3030-6223/#game> .
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fedora-spade-prologue/3030-768/#game> .
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fedora-spade-the-red-ring/3030-17657/#game> .
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/immortal-defense/3030-16164/#game> .
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fedora-spade-death-wears-a-fedora/3030-6223/#game> .
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fedora-spade-prologue/3030-768/#game> .
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fedora-spade-the-red-ring/3030-17657/#game> .
+<http://www.giantbomb.com/radical-poesis-games-creations/3010-906/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/immortal-defense/3030-16164/#game> .

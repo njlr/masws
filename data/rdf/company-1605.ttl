@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://xmlns.com/foaf/0.1/#name> "Black Pearl Software" .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-mask/3030-6111/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mohawk-headphone-jack/3030-7939/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pga-tour-96/3030-1760/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bass-masters-classic/3030-33061/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/taz-mania-2/3030-30704/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disneys-pocahontas/3030-15489/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/arcade-classics-super-breakoutbattlezone/3030-40241/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/madden-nfl-96/3030-12957/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/urban-strike/3030-9336/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/seaquest-dsv/3030-14780/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/madden-nfl-97/3030-6279/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/simcity-2000/3030-13760/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/time-killers/3030-21419/#game> .
+<http://www.giantbomb.com/black-pearl-software/3010-1605/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/nba-live-96/3030-20257/#game> .

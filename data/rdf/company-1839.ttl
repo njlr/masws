@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://xmlns.com/foaf/0.1/#name> "G5 Software" .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cuban-missile-crisis-ice-crusade/3030-2181/#game> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fair-strike/3030-2233/#game> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-stalin-subway/3030-8706/#game> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cuban-missile-crisis-the-aftermath/3030-23168/#game> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/whirlwind-of-vietnam/3030-23296/#game> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mahjongg-artifacts-chapter-2/3030-30126/#game> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stand-ofood/3030-30133/#game> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wwii-battle-tanks-t-34-vs-tiger/3030-32134/#game> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/supermarket-mania/3030-32520/#game> .
+<http://www.giantbomb.com/g5-software/3010-1839/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/supermarket-mania/3030-32520/#game> .

@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <http://xmlns.com/foaf/0.1/#name> "Sakura Kasugano" .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Ryu/3005-103/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Dan-Hibiki/3005-269/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Karin-Kanzuki/3005-2171/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Blanka/3005-1859/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Ken-Masters/3005-212/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hinata-Wakaba/3005-9532/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Ibuki/3005-3109/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Maki-Genryusai/3005-5255/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Leo/3005-5339/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Abyss/3005-5798/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/M-Bison/3005-185/#character> .
+<http://www.giantbomb.com/sakura-kasugano/3005-437/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Seth/3005-355/#character> .

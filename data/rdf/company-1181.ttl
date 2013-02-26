@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://xmlns.com/foaf/0.1/#name> "Silver Style Entertainment e.K." .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/caribbean-disaster/3030-7768/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/everlight-of-magic-power/3030-14707/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-fall-last-days-of-gaia/3030-11424/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gorasul-the-legacy-of-the-dragon/3030-11991/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hollische-nachbarn/3030-14897/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mad-news/3030-13949/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/simon-the-sorcerer-chaos-happens/3030-1127/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/soldiers-of-anarchy/3030-3985/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/balko/3030-7969/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/goin-downtown/3030-24709/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/simon-the-sorcerer-5-whod-even-want-contact/3030-25528/#game> .
+<http://www.giantbomb.com/silver-style-entertainment-ek/3010-1181/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dwk-5-hinter-dem-horizont/3030-39095/#game> .

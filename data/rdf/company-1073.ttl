@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/creative-reality/3010-1073/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/creative-reality/3010-1073/#company> <http://xmlns.com/foaf/0.1/#name> "Creative Reality" .
+<http://www.giantbomb.com/creative-reality/3010-1073/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dreamweb/3030-13950/#game> .
+<http://www.giantbomb.com/creative-reality/3010-1073/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/martian-gothic-unification/3030-972/#game> .
+<http://www.giantbomb.com/creative-reality/3010-1073/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nemesis-the-warlock/3030-16359/#game> .
+<http://www.giantbomb.com/creative-reality/3010-1073/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rex/3030-19793/#game> .
+<http://www.giantbomb.com/creative-reality/3010-1073/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/slaine-the-celtic-barbarian/3030-12677/#game> .
+<http://www.giantbomb.com/creative-reality/3010-1073/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tarzan/3030-15501/#game> .

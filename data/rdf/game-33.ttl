@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/slam-city-with-scottie-pippen/3030-33/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/slam-city-with-scottie-pippen/3030-33/#game> <http://xmlns.com/foaf/0.1/#name> "Slam City with Scottie Pippen" .
+<http://www.giantbomb.com/slam-city-with-scottie-pippen/3030-33/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Scottie-Pippen/3005-7018/#character> .

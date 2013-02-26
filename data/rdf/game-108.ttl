@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <http://xmlns.com/foaf/0.1/#name> "Pilotwings 64" .
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Lark/3005-9127/#character> .
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Ibis/3005-9128/#character> .
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Goose/3005-9130/#character> .
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Hawk/3005-9129/#character> .
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Kiwi/3005-9132/#character> .
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Robin/3005-9131/#character> .
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mario/3005-177/#character> .
+<http://www.giantbomb.com/pilotwings-64/3030-108/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Wario/3005-24/#character> .

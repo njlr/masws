@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/mavado/3005-394/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/mavado/3005-394/#character> <http://xmlns.com/foaf/0.1/#name> "Mavado" .
+<http://www.giantbomb.com/mavado/3005-394/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/mavado/3005-394/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hsu-Hao/3005-385/#character> .
+<http://www.giantbomb.com/mavado/3005-394/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Daegon/3005-377/#character> .
+<http://www.giantbomb.com/mavado/3005-394/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Goro/3005-275/#character> .
+<http://www.giantbomb.com/mavado/3005-394/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kenshi/3005-389/#character> .

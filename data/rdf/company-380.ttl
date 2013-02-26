@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://xmlns.com/foaf/0.1/#name> "iNiS Corp." .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/elite-beat-agents/3030-11982/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gitaroo-man/3030-7708/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/moero-nekketsu-rhythm-damashii-osu-tatakae-ouendan/3030-254/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/osu-tatakae-ouendan/3030-7037/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lips/3030-21171/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lips-number-one-hits/3030-26636/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lips-party-classics/3030-30022/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lips-i-love-the-80s/3030-30339/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-black-eyed-peas-experience/3030-35776/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gitaroo-man-lives/3030-35917/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/eden-to-greeeen/3030-38214/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-hip-hop-dance-experience/3030-38983/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/demons-score/3030-38606/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/karaoke/3030-40642/#game> .
+<http://www.giantbomb.com/inis-corp/3010-380/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lips-i-love-the-80s/3030-30339/#game> .

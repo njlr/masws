@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/boston-animation-inc/3010-1916/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/boston-animation-inc/3010-1916/#company> <http://xmlns.com/foaf/0.1/#name> "Boston Animation, Inc." .
+<http://www.giantbomb.com/boston-animation-inc/3010-1916/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bumper-wars/3030-4283/#game> .
+<http://www.giantbomb.com/boston-animation-inc/3010-1916/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/darkened-skye/3030-2329/#game> .
+<http://www.giantbomb.com/boston-animation-inc/3010-1916/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/richard-scarrys-busytown/3030-13977/#game> .

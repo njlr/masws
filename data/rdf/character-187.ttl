@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/lo-wang/3005-187/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/lo-wang/3005-187/#character> <http://xmlns.com/foaf/0.1/#name> "Lo Wang" .
+<http://www.giantbomb.com/lo-wang/3005-187/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/lo-wang/3005-187/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Master-Zilla/3005-2179/#character> .

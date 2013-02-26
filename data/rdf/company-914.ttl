@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/electric-fantasies/3010-914/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/electric-fantasies/3010-914/#company> <http://xmlns.com/foaf/0.1/#name> "electric fantasies" .
+<http://www.giantbomb.com/electric-fantasies/3010-914/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/island-peril/3030-779/#game> .

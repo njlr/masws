@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/kaori-nishidake/3005-314/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/kaori-nishidake/3005-314/#character> <http://xmlns.com/foaf/0.1/#name> "Kaori Nishidake" .
+<http://www.giantbomb.com/kaori-nishidake/3005-314/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/kaori-nishidake/3005-314/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Mac-Fraser/3005-312/#character> .
+<http://www.giantbomb.com/kaori-nishidake/3005-314/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Eddie-Wachowski/3005-313/#character> .
+<http://www.giantbomb.com/kaori-nishidake/3005-314/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Psymon-Stark/3005-2225/#character> .

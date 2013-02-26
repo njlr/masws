@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/backyard-wrestling/3025-43/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/backyard-wrestling/3025-43/#franchise> <http://xmlns.com/foaf/0.1/#name> "Backyard Wrestling" .
+<http://www.giantbomb.com/backyard-wrestling/3025-43/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Backyard-Wrestling-2:-There-Goes-the-Neighborhood/3030-18333/#game> .
+<http://www.giantbomb.com/backyard-wrestling/3025-43/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Backyard-Wrestling:-Don't-Try-This-at-Home/3030-13440/#game> .

@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/ax-battler-a-legend-of-golden-axe/3030-182/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/ax-battler-a-legend-of-golden-axe/3030-182/#game> <http://xmlns.com/foaf/0.1/#name> "Ax Battler: A Legend of Golden Axe" .
+<http://www.giantbomb.com/ax-battler-a-legend-of-golden-axe/3030-182/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Ax-Battler/3005-7323/#character> .
+<http://www.giantbomb.com/ax-battler-a-legend-of-golden-axe/3030-182/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Death-Adder/3005-13589/#character> .

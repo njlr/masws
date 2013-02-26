@@ -1,0 +1,2 @@
+<http://www.giantbomb.com/army-men-air-combat-the-elite-missions/3030-134/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/army-men-air-combat-the-elite-missions/3030-134/#game> <http://xmlns.com/foaf/0.1/#name> "Army Men Air Combat: The Elite Missions" .

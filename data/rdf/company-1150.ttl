@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://xmlns.com/foaf/0.1/#name> "Quicksilva Ltd." .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/space-intruders/3030-16546/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/aquaplane/3030-14427/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-thompson-twins-adventure/3030-32054/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/magic-micro-mission/3030-16778/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mined-out/3030-11003/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/softaid/3030-10494/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/space-intruders/3030-16546/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aquaplane/3030-14427/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ant-attack/3030-1522/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/falcon-patrol/3030-5666/#game> .
+<http://www.giantbomb.com/quicksilva-ltd/3010-1150/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/schizofrenia/3030-38919/#game> .

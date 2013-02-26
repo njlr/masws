@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://xmlns.com/foaf/0.1/#name> "Dragon Data Ltd." .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/color-space-invaders/3030-9242/#game> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/color-meteoroids/3030-1675/#game> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/facemaker/3030-10736/#game> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/galax-attax/3030-15010/#game> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jump-jet/3030-8530/#game> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/juniors-revenge/3030-7413/#game> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/madness-the-minotaur/3030-6755/#game> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/moon-hopper/3030-20285/#game> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/school-maze/3030-7169/#game> .
+<http://www.giantbomb.com/dragon-data-ltd/3010-1550/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/astroblast/3030-10956/#game> .

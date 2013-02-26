@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/kronos-digital-entertainment/3010-221/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/kronos-digital-entertainment/3010-221/#company> <http://xmlns.com/foaf/0.1/#name> "Kronos Digital Entertainment" .
+<http://www.giantbomb.com/kronos-digital-entertainment/3010-221/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cardinal-syn/3030-132/#game> .
+<http://www.giantbomb.com/kronos-digital-entertainment/3010-221/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/criticom/3030-6800/#game> .
+<http://www.giantbomb.com/kronos-digital-entertainment/3010-221/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dark-rift/3030-561/#game> .
+<http://www.giantbomb.com/kronos-digital-entertainment/3010-221/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fear-effect/3030-7360/#game> .
+<http://www.giantbomb.com/kronos-digital-entertainment/3010-221/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fear-effect-2-retro-helix/3030-17000/#game> .
+<http://www.giantbomb.com/kronos-digital-entertainment/3010-221/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/meat-puppet/3030-3018/#game> .
+<http://www.giantbomb.com/kronos-digital-entertainment/3010-221/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fear-effect-inferno/3030-27644/#game> .

@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/hayden-tenno/3005-263/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/hayden-tenno/3005-263/#character> <http://xmlns.com/foaf/0.1/#name> "Hayden Tenno" .
+<http://www.giantbomb.com/hayden-tenno/3005-263/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/hayden-tenno/3005-263/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Yargo-Menshik/3005-9135/#character> .
+<http://www.giantbomb.com/hayden-tenno/3005-263/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Nadia-Sudek/3005-9136/#character> .
+<http://www.giantbomb.com/hayden-tenno/3005-263/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Robert-Mezner/3005-9137/#character> .

@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/windham-classics/3010-1185/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/windham-classics/3010-1185/#company> <http://xmlns.com/foaf/0.1/#name> "Windham Classics" .
+<http://www.giantbomb.com/windham-classics/3010-1185/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-wizard-of-oz/3030-4049/#game> .
+<http://www.giantbomb.com/windham-classics/3010-1185/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/swiss-family-robinson/3030-1130/#game> .
+<http://www.giantbomb.com/windham-classics/3010-1185/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/below-the-root/3030-3873/#game> .
+<http://www.giantbomb.com/windham-classics/3010-1185/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/alice-in-wonderland/3030-3599/#game> .
+<http://www.giantbomb.com/windham-classics/3010-1185/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-wizard-of-oz/3030-4049/#game> .
+<http://www.giantbomb.com/windham-classics/3010-1185/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/treasure-island/3030-4112/#game> .

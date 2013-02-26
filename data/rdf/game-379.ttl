@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <http://xmlns.com/foaf/0.1/#name> "Waku Waku 7" .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Fernandeath/3005-7892/#character> .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Bonus-kun/3005-7893/#character> .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mauru/3005-7924/#character> .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Politank-Z/3005-7925/#character> .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Dandy-J/3005-23122/#character> .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Rai/3005-23118/#character> .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Arina-Makihara/3005-23119/#character> .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Tesse/3005-23120/#character> .
+<http://www.giantbomb.com/waku-waku-7/3030-379/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Slash/3005-23121/#character> .

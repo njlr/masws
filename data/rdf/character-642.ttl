@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <http://xmlns.com/foaf/0.1/#name> "Barney Calhoun" .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Alyx-Vance/3005-640/#character> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Isaac-Kleiner/3005-641/#character> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Eli-Vance/3005-639/#character> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Gordon-Freeman/3005-341/#character> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Dog/3005-737/#character> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Judith-Mossman/3005-1092/#character> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Dr-Gina-Cross/3005-10791/#character> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Dr-Rosenberg/3005-14948/#character> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Wallace-Breen/3005-1187/#character> .
+<http://www.giantbomb.com/barney-calhoun/3005-642/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Lamarr/3005-1957/#character> .

@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/xavier-stone/3005-806/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/xavier-stone/3005-806/#character> <http://xmlns.com/foaf/0.1/#name> "Xavier Stone" .
+<http://www.giantbomb.com/xavier-stone/3005-806/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/xavier-stone/3005-806/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Johnny-Napalm/3005-796/#character> .
+<http://www.giantbomb.com/xavier-stone/3005-806/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Clive-Winston/3005-801/#character> .
+<http://www.giantbomb.com/xavier-stone/3005-806/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Axel-Steel/3005-780/#character> .
+<http://www.giantbomb.com/xavier-stone/3005-806/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Lou/3005-1789/#character> .

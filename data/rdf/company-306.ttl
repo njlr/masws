@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/arenanet-inc/3010-306/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/arenanet-inc/3010-306/#company> <http://xmlns.com/foaf/0.1/#name> "ArenaNet, Inc." .
+<http://www.giantbomb.com/arenanet-inc/3010-306/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/guild-wars/3030-17494/#game> .
+<http://www.giantbomb.com/arenanet-inc/3010-306/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/guild-wars-eye-of-the-north/3030-18110/#game> .
+<http://www.giantbomb.com/arenanet-inc/3010-306/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/guild-wars-factions/3030-8474/#game> .
+<http://www.giantbomb.com/arenanet-inc/3010-306/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/guild-wars-nightfall/3030-11082/#game> .
+<http://www.giantbomb.com/arenanet-inc/3010-306/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/guild-wars-2/3030-21223/#game> .
+<http://www.giantbomb.com/arenanet-inc/3010-306/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/guild-wars-bonus-mission-pack/3030-23702/#game> .

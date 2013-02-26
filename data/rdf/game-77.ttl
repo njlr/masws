@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/samurai-jack-the-shadow-of-aku/3030-77/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/samurai-jack-the-shadow-of-aku/3030-77/#game> <http://xmlns.com/foaf/0.1/#name> "Samurai Jack: The Shadow of Aku" .
+<http://www.giantbomb.com/samurai-jack-the-shadow-of-aku/3030-77/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Samurai-Jack/3005-7394/#character> .
+<http://www.giantbomb.com/samurai-jack-the-shadow-of-aku/3030-77/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Aku/3005-7396/#character> .

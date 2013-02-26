@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/abstrax/3010-331/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/abstrax/3010-331/#company> <http://xmlns.com/foaf/0.1/#name> "Abstrax" .
+<http://www.giantbomb.com/abstrax/3010-331/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wrath-of-the-demon/3030-10117/#game> .
+<http://www.giantbomb.com/abstrax/3010-331/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-animation-classics-pack/3030-220/#game> .

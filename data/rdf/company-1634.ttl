@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/zippo-games/3010-1634/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/zippo-games/3010-1634/#company> <http://xmlns.com/foaf/0.1/#name> "Zippo Games" .
+<http://www.giantbomb.com/zippo-games/3010-1634/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ironsword-wizards-warriors-ii/3030-12176/#game> .
+<http://www.giantbomb.com/zippo-games/3010-1634/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/solar-jetman-hunt-for-the-golden-warpship/3030-20269/#game> .
+<http://www.giantbomb.com/zippo-games/3010-1634/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wizards-warriors-iii-kuros-visions-of-power/3030-1814/#game> .
+<http://www.giantbomb.com/zippo-games/3010-1634/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cosmic-pirate/3030-24790/#game> .
+<http://www.giantbomb.com/zippo-games/3010-1634/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sesame-street-1-2-3/3030-40563/#game> .

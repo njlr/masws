@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/computerhouse-gbg-ab/3010-263/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/computerhouse-gbg-ab/3010-263/#company> <http://xmlns.com/foaf/0.1/#name> "ComputerHouse GBG AB" .
+<http://www.giantbomb.com/computerhouse-gbg-ab/3010-263/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/clans/3030-9318/#game> .
+<http://www.giantbomb.com/computerhouse-gbg-ab/3010-263/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dragonfire-the-well-of-souls/3030-14605/#game> .
+<http://www.giantbomb.com/computerhouse-gbg-ab/3010-263/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/vlad-tepes-dracula/3030-167/#game> .

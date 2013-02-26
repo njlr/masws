@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://xmlns.com/foaf/0.1/#name> "Black Isle Studios" .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fallout-2/3030-5559/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/icewind-dale/3030-5242/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/icewind-dale-ii/3030-8890/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/icewind-dale-ii-adventure-pack/3030-13590/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/icewind-dale-heart-of-winter/3030-3153/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/planescape-torment/3030-2235/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fallout/3030-11704/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/baldurs-gate-dark-alliance-ii/3030-12107/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/van-buren/3030-32966/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/baldurs-gate-ii-shadows-of-amn/3030-10637/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/baldurs-gate/3030-52/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/baldurs-gate-ii-throne-of-bhaal/3030-6795/#game> .
+<http://www.giantbomb.com/black-isle-studios/3010-99/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/baldurs-gate-tales-of-the-sword-coast/3030-7392/#game> .

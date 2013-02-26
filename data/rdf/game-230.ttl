@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <http://xmlns.com/foaf/0.1/#name> "Ultima VII: The Black Gate" .
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Iolo/3005-1561/#character> .
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Lord-British/3005-1401/#character> .
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Avatar/3005-2025/#character> .
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/The-Guardian/3005-2707/#character> .
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Batlin/3005-3310/#character> .
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Dupre/3005-12994/#character> .
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Shamino/3005-2053/#character> .
+<http://www.giantbomb.com/ultima-vii-the-black-gate/3030-230/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Julia/3005-16467/#character> .

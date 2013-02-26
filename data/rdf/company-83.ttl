@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://xmlns.com/foaf/0.1/#name> "Cyan Worlds, Inc." .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-manhole/3030-8786/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-manhole-new-and-enhanced/3030-18294/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/myst/3030-3970/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/myst-online-uru-live/3030-1572/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/myst-v-end-of-ages/3030-1961/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/uru-ages-beyond-myst/3030-42/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/uru-the-path-of-the-shell/3030-18683/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/uru-to-dni/3030-2179/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/realmyst/3030-10721/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/riven-the-sequel-to-myst/3030-16230/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cosmic-osmo-and-the-worlds-beyond-the-mackerel/3030-32349/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spelunx-and-the-caves-of-mr-seudo/3030-22144/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cosmic-osmos-hex-isle/3030-41388/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cosmic-osmo-and-the-worlds-beyond-the-mackerel/3030-32349/#game> .
+<http://www.giantbomb.com/cyan-worlds-inc/3010-83/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-manhole/3030-8786/#game> .

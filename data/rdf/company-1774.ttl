@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/cyclone-studios/3010-1774/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/cyclone-studios/3010-1774/#company> <http://xmlns.com/foaf/0.1/#name> "Cyclone Studios" .
+<http://www.giantbomb.com/cyclone-studios/3010-1774/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/requiem-avenging-angel/3030-3686/#game> .
+<http://www.giantbomb.com/cyclone-studios/3010-1774/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/uprising-2-lead-and-destroy/3030-16260/#game> .
+<http://www.giantbomb.com/cyclone-studios/3010-1774/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/uprising-join-or-die/3030-10683/#game> .
+<http://www.giantbomb.com/cyclone-studios/3010-1774/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/uprising-x/3030-24943/#game> .
+<http://www.giantbomb.com/cyclone-studios/3010-1774/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ground-wave/3030-27593/#game> .
+<http://www.giantbomb.com/cyclone-studios/3010-1774/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/captain-quazar/3030-20177/#game> .
+<http://www.giantbomb.com/cyclone-studios/3010-1774/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/battlesport/3030-2065/#game> .

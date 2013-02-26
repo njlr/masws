@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <http://xmlns.com/foaf/0.1/#name> "Commander Keen" .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Commander-Keen-2:-The-Earth-Explodes/3030-231/#game> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Commander-Keen:-Invasion-of-the-Vorticons/3030-1656/#game> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Commander-Keen-3:-Keen-Must-Die!/3030-4314/#game> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Commander-Keen-5:-The-Armageddon-Machine/3030-13046/#game> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Commander-Keen-1:-Marooned-on-Mars/3030-14274/#game> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Commander-Keen-4:-Secret-of-the-Oracle/3030-15693/#game> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Commander-Keen:-Keen-Dreams/3030-16504/#game> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Commander-Keen-6:-Aliens-Ate-My-Baby-Sitter!/3030-16844/#game> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Commander-Keen/3030-21209/#game> .

@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/the-x-files-game/3030-22/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/the-x-files-game/3030-22/#game> <http://xmlns.com/foaf/0.1/#name> "The X-Files Game" .
+<http://www.giantbomb.com/the-x-files-game/3030-22/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Fox-Mulder/3005-2658/#character> .
+<http://www.giantbomb.com/the-x-files-game/3030-22/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Dana-Scully/3005-2659/#character> .
+<http://www.giantbomb.com/the-x-files-game/3030-22/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Walter-Skinner/3005-15361/#character> .
+<http://www.giantbomb.com/the-x-files-game/3030-22/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/The-Smoking-Man/3005-15375/#character> .

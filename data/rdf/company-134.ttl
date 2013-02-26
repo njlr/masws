@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/kids-station-inc/3010-134/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/kids-station-inc/3010-134/#company> <http://xmlns.com/foaf/0.1/#name> "Kids Station, Inc." .
+<http://www.giantbomb.com/kids-station-inc/3010-134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/zettai-zetsumei-dangerous-jiisan-3-hateshinaki-mam/3030-36514/#game> .
+<http://www.giantbomb.com/kids-station-inc/3010-134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/zettai-zetsumei-dangerous-jiisan-tsuu-ikari-no-osh/3030-36515/#game> .
+<http://www.giantbomb.com/kids-station-inc/3010-134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/zettai-zetsumei-dangerous-jiisan-naki-no-ikkai/3030-36516/#game> .
+<http://www.giantbomb.com/kids-station-inc/3010-134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/zettai-zetsumei-dangerous-jiisan-shijou-saikyou-no/3030-36517/#game> .
+<http://www.giantbomb.com/kids-station-inc/3010-134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/shikigami-no-shiro-nanayozuki-gensoukyoku/3030-39036/#game> .
+<http://www.giantbomb.com/kids-station-inc/3010-134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/castle-shikigami-2/3030-75/#game> .

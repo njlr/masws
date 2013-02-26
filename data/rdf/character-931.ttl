@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/billy-big-bang-blitz/3005-931/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/billy-big-bang-blitz/3005-931/#character> <http://xmlns.com/foaf/0.1/#name> "Billy "Big Bang" Blitz" .
+<http://www.giantbomb.com/billy-big-bang-blitz/3005-931/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/billy-big-bang-blitz/3005-931/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Tom-Guycott/3005-16375/#character> .

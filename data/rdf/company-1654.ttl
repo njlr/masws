@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://xmlns.com/foaf/0.1/#name> "ARUSH Entertainment" .
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/devastation/3030-1854/#game> .
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/duke-nukem-manhattan-project/3030-7042/#game> .
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hunting-unlimited-2/3030-13127/#game> .
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hunting-unlimited-3/3030-8823/#game> .
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/primal-prey/3030-2990/#game> .
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rc-daredevil/3030-16821/#game> .
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/real-pool-2/3030-16293/#game> .
+<http://www.giantbomb.com/arush-entertainment/3010-1654/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hunting-unlimited/3030-25542/#game> .

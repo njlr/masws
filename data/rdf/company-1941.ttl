@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/moonpod/3010-1941/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/moonpod/3010-1941/#company> <http://xmlns.com/foaf/0.1/#name> "Moonpod" .
+<http://www.giantbomb.com/moonpod/3010-1941/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mr-robot/3030-2368/#game> .
+<http://www.giantbomb.com/moonpod/3010-1941/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/starscape/3030-7306/#game> .
+<http://www.giantbomb.com/moonpod/3010-1941/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/word-pirate/3030-39108/#game> .
+<http://www.giantbomb.com/moonpod/3010-1941/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/starscape/3030-7306/#game> .
+<http://www.giantbomb.com/moonpod/3010-1941/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/word-pirate/3030-39108/#game> .

@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://xmlns.com/foaf/0.1/#name> "Daryl F. Gates" .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/ontology/birthDate> "1926-08-30" .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/ontology/birthPlace> "U.S.A." .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Sierra-Entertainment,-Inc/3010-1030/#company> .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Yosemite-Entertainment/3010-3356/#company> .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/1C-Company/3010-322/#company> .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Daryl-F-Gates'-Police-Quest:-Open-Season/3030-12901/#game> .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Daryl-F-Gates'-Police-Quest:-SWAT/3030-4987/#game> .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Police-Quest:-SWAT-Generation/3030-11256/#game> .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Police-Quest:-SWAT-2/3030-5951/#game> .
+<http://www.giantbomb.com/daryl-f-gates/3040-869/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/SWAT-3:-Close-Quarters-Battle/3030-12727/#game> .

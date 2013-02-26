@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/b-factory/3010-1211/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/b-factory/3010-1211/#company> <http://xmlns.com/foaf/0.1/#name> "B-Factory" .
+<http://www.giantbomb.com/b-factory/3010-1211/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/beavis-and-butt-head-in-virtual-stupidity/3030-1165/#game> .
+<http://www.giantbomb.com/b-factory/3010-1211/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/whizz/3030-18533/#game> .

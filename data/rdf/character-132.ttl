@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <http://xmlns.com/foaf/0.1/#name> "Bill Clinton" .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Al-Gore/3005-1207/#character> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Barack-Obama/3005-3445/#character> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hillary-Rodham-Clinton/3005-8405/#character> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/John-Edwards/3005-8424/#character> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Joe-Biden/3005-16828/#character> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Lord-Kona/3005-8404/#character> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dick-Cheney/3005-16830/#character> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/John-McCain/3005-6909/#character> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Sarah-Palin/3005-8439/#character> .
+<http://www.giantbomb.com/bill-clinton/3005-132/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/George-W-Bush/3005-16829/#character> .

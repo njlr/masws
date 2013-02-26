@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/experience-entertainment-software/3010-474/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/experience-entertainment-software/3010-474/#company> <http://xmlns.com/foaf/0.1/#name> "Experience Entertainment Software" .
+<http://www.giantbomb.com/experience-entertainment-software/3010-474/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rendezvous-with-a-stranger-girl/3030-319/#game> .

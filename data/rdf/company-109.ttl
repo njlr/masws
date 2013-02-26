@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/adept-software/3010-109/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/adept-software/3010-109/#company> <http://xmlns.com/foaf/0.1/#name> "Adept Software" .
+<http://www.giantbomb.com/adept-software/3010-109/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/god-of-thunder/3030-19495/#game> .
+<http://www.giantbomb.com/adept-software/3010-109/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jetpack/3030-4921/#game> .
+<http://www.giantbomb.com/adept-software/3010-109/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/squarez-deluxe/3030-56/#game> .

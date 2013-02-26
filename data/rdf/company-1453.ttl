@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://xmlns.com/foaf/0.1/#name> "Grolier Interactive" .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/terror-trax-track-of-the-vampire/3030-2023/#game> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/golden-gate-killer/3030-3152/#game> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/perfect-assassin/3030-18013/#game> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tank-racer/3030-18306/#game> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/terror-trax-track-of-the-vampire/3030-2023/#game> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/time-warriors/3030-1517/#game> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/v2000/3030-19630/#game> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/xenocracy/3030-4812/#game> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/banzai-bug/3030-4369/#game> .
+<http://www.giantbomb.com/grolier-interactive/3010-1453/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/asghan-the-dragon-slayer/3030-14278/#game> .

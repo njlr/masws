@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/h2o-entertainment/3010-1588/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/h2o-entertainment/3010-1588/#company> <http://xmlns.com/foaf/0.1/#name> "H2O Entertainment" .
+<http://www.giantbomb.com/h2o-entertainment/3010-1588/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-flintstones-big-trouble-in-bedrock/3030-3372/#game> .
+<http://www.giantbomb.com/h2o-entertainment/3010-1588/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-new-tetris/3030-1737/#game> .
+<http://www.giantbomb.com/h2o-entertainment/3010-1588/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tetrisphere/3030-3049/#game> .
+<http://www.giantbomb.com/h2o-entertainment/3010-1588/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/aidyn-chronicles-the-first-mage/3030-14602/#game> .

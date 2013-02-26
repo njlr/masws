@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://xmlns.com/foaf/0.1/#name> "Commodore Electronics Ltd." .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/greenhouse/3030-4711/#game> .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/greenhouse/3030-4711/#game> .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/stop-the-express/3030-13537/#game> .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/strange-odyssey/3030-16634/#game> .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jupiter-lander/3030-12330/#game> .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/defender-of-the-crown-ii/3030-9573/#game> .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/defender-of-the-crown/3030-5773/#game> .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/logic-levels/3030-34866/#game> .
+<http://www.giantbomb.com/commodore-electronics-ltd/3010-1483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lemans/3030-37933/#game> .

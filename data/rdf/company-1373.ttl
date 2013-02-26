@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/delta-4-interactive/3010-1373/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/delta-4-interactive/3010-1373/#company> <http://xmlns.com/foaf/0.1/#name> "Delta 4 Interactive" .
+<http://www.giantbomb.com/delta-4-interactive/3010-1373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-colour-of-magic/3030-1390/#game> .
+<http://www.giantbomb.com/delta-4-interactive/3010-1373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bored-of-the-rings/3030-1536/#game> .
+<http://www.giantbomb.com/delta-4-interactive/3010-1373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-boggit/3030-18625/#game> .
+<http://www.giantbomb.com/delta-4-interactive/3010-1373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/psycho-killer/3030-8060/#game> .
+<http://www.giantbomb.com/delta-4-interactive/3010-1373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/town-with-no-name/3030-14393/#game> .
+<http://www.giantbomb.com/delta-4-interactive/3010-1373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/robin-of-sherlock/3030-37599/#game> .

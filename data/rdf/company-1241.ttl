@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/ashby-computers-and-graphics-ltd/3010-1241/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/ashby-computers-and-graphics-ltd/3010-1241/#company> <http://xmlns.com/foaf/0.1/#name> "Ashby Computers and Graphics Ltd." .
+<http://www.giantbomb.com/ashby-computers-and-graphics-ltd/3010-1241/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/underwurlde/3030-5531/#game> .
+<http://www.giantbomb.com/ashby-computers-and-graphics-ltd/3010-1241/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alien-8/3030-12433/#game> .
+<http://www.giantbomb.com/ashby-computers-and-graphics-ltd/3010-1241/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pentagram/3030-22544/#game> .
+<http://www.giantbomb.com/ashby-computers-and-graphics-ltd/3010-1241/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pentagram/3030-22544/#game> .

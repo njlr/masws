@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/tina-armstrong/3005-505/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/tina-armstrong/3005-505/#character> <http://xmlns.com/foaf/0.1/#name> "Tina Armstrong" .
+<http://www.giantbomb.com/tina-armstrong/3005-505/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/tina-armstrong/3005-505/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Lisa/3005-504/#character> .
+<http://www.giantbomb.com/tina-armstrong/3005-505/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Zack/3005-503/#character> .
+<http://www.giantbomb.com/tina-armstrong/3005-505/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bass-Armstrong/3005-506/#character> .
+<http://www.giantbomb.com/tina-armstrong/3005-505/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Mila/3005-24367/#character> .

@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/white-mike/3005-12/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/white-mike/3005-12/#character> <http://xmlns.com/foaf/0.1/#name> "White Mike" .
+<http://www.giantbomb.com/white-mike/3005-12/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/white-mike/3005-12/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Trane/3005-1066/#character> .
+<http://www.giantbomb.com/white-mike/3005-12/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kry-1/3005-2804/#character> .
+<http://www.giantbomb.com/white-mike/3005-12/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mayor-Sung/3005-3212/#character> .
+<http://www.giantbomb.com/white-mike/3005-12/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Chief-Will-Hunt/3005-6666/#character> .

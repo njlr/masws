@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/mythos-games-ltd/3010-300/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/mythos-games-ltd/3010-300/#company> <http://xmlns.com/foaf/0.1/#name> "Mythos Games Ltd." .
+<http://www.giantbomb.com/mythos-games-ltd/3010-300/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lords-of-chaos/3030-7994/#game> .
+<http://www.giantbomb.com/mythos-games-ltd/3010-300/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magic-mayhem/3030-12693/#game> .
+<http://www.giantbomb.com/mythos-games-ltd/3010-300/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/x-com-apocalypse/3030-4777/#game> .
+<http://www.giantbomb.com/mythos-games-ltd/3010-300/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/x-com-ufo-defense/3030-196/#game> .
+<http://www.giantbomb.com/mythos-games-ltd/3010-300/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rebelstar/3030-18455/#game> .
+<http://www.giantbomb.com/mythos-games-ltd/3010-300/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/carmageddon/3030-18394/#game> .
+<http://www.giantbomb.com/mythos-games-ltd/3010-300/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ecstatica-ii/3030-3801/#game> .

@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://xmlns.com/foaf/0.1/#name> "Linux Game Publishing Ltd." .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mindrover-the-europa-project/3030-15085/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cold-war/3030-2978/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hyperspace-delivery-boy/3030-13398/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/knights-merchants/3030-12548/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/odium/3030-5110/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/soul-ride/3030-1464/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ballistics/3030-19008/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jetsnguns/3030-15881/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/x2-the-threat/3030-23652/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/x3-reunion/3030-2572/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/shadowgrounds/3030-9203/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/shadowgrounds-survivor/3030-17722/#game> .
+<http://www.giantbomb.com/linux-game-publishing-ltd/3010-1422/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sacred/3030-5153/#game> .

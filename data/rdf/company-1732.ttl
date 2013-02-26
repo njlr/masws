@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/egmont-interactive/3010-1732/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/egmont-interactive/3010-1732/#company> <http://xmlns.com/foaf/0.1/#name> "Egmont Interactive" .
+<http://www.giantbomb.com/egmont-interactive/3010-1732/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gothic/3030-1982/#game> .

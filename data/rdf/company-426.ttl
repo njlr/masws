@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/bee-games/3010-426/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/bee-games/3010-426/#company> <http://xmlns.com/foaf/0.1/#name> "Bee Games" .
+<http://www.giantbomb.com/bee-games/3010-426/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alien-outbreak-2-invasion/3030-19855/#game> .
+<http://www.giantbomb.com/bee-games/3010-426/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alien-outbreak/3030-288/#game> .
+<http://www.giantbomb.com/bee-games/3010-426/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/alien-outbreak/3030-288/#game> .

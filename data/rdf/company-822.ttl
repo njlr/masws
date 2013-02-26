@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://xmlns.com/foaf/0.1/#name> "Atari Program Exchange" .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/getaway/3030-10098/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/salmon-run/3030-12302/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/eastern-front-1941/3030-5926/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/quarxon/3030-23557/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/attank/3030-27238/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/747-landing-simulator/3030-27237/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/getaway/3030-27239/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dandy/3030-5344/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dog-daze/3030-27263/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/caverns-of-mars/3030-9355/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/excalibur/3030-27268/#game> .
+<http://www.giantbomb.com/atari-program-exchange/3010-822/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dog-daze-deluxe/3030-27279/#game> .

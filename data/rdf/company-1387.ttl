@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/hurtownia-oprogramowania-user/3010-1387/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/hurtownia-oprogramowania-user/3010-1387/#company> <http://xmlns.com/foaf/0.1/#name> "Hurtownia Oprogramowania USER" .
+<http://www.giantbomb.com/hurtownia-oprogramowania-user/3010-1387/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/target/3030-1412/#game> .
+<http://www.giantbomb.com/hurtownia-oprogramowania-user/3010-1387/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/polanie/3030-41637/#game> .

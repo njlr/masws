@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/299-classics/3010-1441/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/299-classics/3010-1441/#company> <http://xmlns.com/foaf/0.1/#name> "2.99 Classics" .
+<http://www.giantbomb.com/299-classics/3010-1441/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/3d-starstrike/3030-1491/#game> .

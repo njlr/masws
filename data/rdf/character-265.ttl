@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/hanzo/3005-265/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/hanzo/3005-265/#character> <http://xmlns.com/foaf/0.1/#name> "Hanzo" .
+<http://www.giantbomb.com/hanzo/3005-265/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/hanzo/3005-265/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Ryoko-Izumo/3005-6052/#character> .
+<http://www.giantbomb.com/hanzo/3005-265/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Fuuma/3005-283/#character> .
+<http://www.giantbomb.com/hanzo/3005-265/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Zeus/3005-7361/#character> .
+<http://www.giantbomb.com/hanzo/3005-265/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Jack/3005-6058/#character> .

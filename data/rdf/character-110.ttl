@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <http://xmlns.com/foaf/0.1/#name> "Robert Roode" .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Petey-Williams/3005-146/#character> .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/James-Storm/3005-11058/#character> .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kurt-Angle/3005-199/#character> .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kevin-Nash/3005-211/#character> .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Sting/3005-54/#character> .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Booker-T/3005-255/#character> .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Brother-Devon/3005-254/#character> .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Brother-Devon/3005-254/#character> .
+<http://www.giantbomb.com/robert-roode/3005-110/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Christian/3005-251/#character> .

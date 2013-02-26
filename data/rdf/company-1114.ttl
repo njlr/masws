@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://xmlns.com/foaf/0.1/#name> "Tri Synergy, Inc." .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/knight-rider-the-game/3030-12820/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/port-royale-gold-power-and-pirates/3030-2353/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/shattered-galaxy/3030-18965/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/terrawars-ny-invasion/3030-18767/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/limbo-of-the-lost/3030-21226/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/officers/3030-25481/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dirt-origin-of-the-species/3030-25666/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rogue-trooper/3030-21408/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jonathan-kane-the-protector/3030-29389/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ufoextraterrestrials/3030-1379/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/farming-simulator-2011/3030-32923/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/farming-simulator-2009/3030-28041/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/i-love-kittens/3030-20259/#game> .
+<http://www.giantbomb.com/tri-synergy-inc/3010-1114/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/runaway-a-road-adventure/3030-1014/#game> .

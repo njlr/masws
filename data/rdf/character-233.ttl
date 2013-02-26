@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <http://xmlns.com/foaf/0.1/#name> "Jeff Jarrett" .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Rhino/3005-117/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Brother-Devon/3005-254/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/D'Lo-Brown/3005-565/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Sting/3005-54/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kurt-Angle/3005-199/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mick-Foley/3005-574/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kevin-Nash/3005-211/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Booker-T/3005-255/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Scott-Steiner/3005-95/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Vince-McMahon/3005-471/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/James-Storm/3005-11058/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Sonjay-Dutt/3005-72/#character> .
+<http://www.giantbomb.com/jeff-jarrett/3005-233/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Suicide/3005-11081/#character> .

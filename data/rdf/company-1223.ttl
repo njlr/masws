@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://xmlns.com/foaf/0.1/#name> "Larian Studios" .
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/divine-divinity/3030-7386/#game> .
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ketnetkick/3030-1183/#game> .
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-led-wars/3030-15763/#game> .
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/beyond-divinity/3030-9789/#game> .
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/divinity-ii-ego-draconis/3030-23139/#game> .
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/divinity-ii-the-dragon-knight-saga/3030-33129/#game> .
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dragon-commander/3030-36185/#game> .
+<http://www.giantbomb.com/larian-studios/3010-1223/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/divinity-original-sin/3030-38446/#game> .

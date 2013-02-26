@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://xmlns.com/foaf/0.1/#name> "Acid Software" .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/center-court-tennis/3030-2469/#game> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/guardian/3030-936/#game> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-skidmarks/3030-4531/#game> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-skidmarks-data-disks/3030-15306/#game> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/acid-attack/3030-12509/#game> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/center-court-tennis/3030-2469/#game> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/guardian/3030-936/#game> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/acid-attack/3030-12509/#game> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/roadkill/3030-37415/#game> .
+<http://www.giantbomb.com/acid-software/3010-1046/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/woodys-world/3030-39803/#game> .

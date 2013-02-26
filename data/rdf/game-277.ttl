@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/pinky-and-the-brain-the-master-plan/3030-277/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/pinky-and-the-brain-the-master-plan/3030-277/#game> <http://xmlns.com/foaf/0.1/#name> "Pinky and the Brain: The Master Plan" .
+<http://www.giantbomb.com/pinky-and-the-brain-the-master-plan/3030-277/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Brain/3005-6980/#character> .
+<http://www.giantbomb.com/pinky-and-the-brain-the-master-plan/3030-277/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Pinky/3005-6979/#character> .

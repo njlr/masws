@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://xmlns.com/foaf/0.1/#name> "Metropolis Software House" .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gorky-zero-beyond-honor/3030-2858/#game> .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/infernal/3030-8832/#game> .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/odium/3030-5110/#game> .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-prince-and-the-coward/3030-19290/#game> .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/robo-rumble/3030-55/#game> .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/soldier-elite-zero-hour/3030-7544/#game> .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/teenagent/3030-12358/#game> .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/archangel/3030-13464/#game> .
+<http://www.giantbomb.com/metropolis-software-house/3010-107/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/they/3030-24963/#game> .

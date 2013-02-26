@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/big-blue-box-studios/3010-1794/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/big-blue-box-studios/3010-1794/#company> <http://xmlns.com/foaf/0.1/#name> "Big Blue Box Studios" .
+<http://www.giantbomb.com/big-blue-box-studios/3010-1794/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fable/3030-3264/#game> .

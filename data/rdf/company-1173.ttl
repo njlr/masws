@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://xmlns.com/foaf/0.1/#name> "Cenega Publishing, s.r.o." .
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/el-matador/3030-8799/#game> .
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-fifth-disciple/3030-19497/#game> .
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/korea-forgotten-conflict/3030-19692/#game> .
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ufo-aftermath/3030-15734/#game> .
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ufo-aftershock/3030-14581/#game> .
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ufo-afterlight/3030-18650/#game> .
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/shade-wrath-of-angels/3030-1496/#game> .
+<http://www.giantbomb.com/cenega-publishing-sro/3010-1173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/awesome-cop-5/3030-39771/#game> .

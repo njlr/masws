@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://xmlns.com/foaf/0.1/#name> "TERMINAL Studio" .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/brickshooter-egypt/3030-12323/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/brickshooter/3030-9155/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/quadrox-2/3030-245/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/worm-2000/3030-7641/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/atlantis-quest/3030-10468/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/arkanoid-2000/3030-8962/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cellfighter/3030-8952/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/brickshooter-egypt/3030-12323/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/brickshooter/3030-9155/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/quadrox-2/3030-245/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/worm-2000/3030-7641/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/atlantis-quest/3030-10468/#game> .
+<http://www.giantbomb.com/terminal-studio/3010-369/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/arkanoid-2000/3030-8962/#game> .

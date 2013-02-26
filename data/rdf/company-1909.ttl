@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://xmlns.com/foaf/0.1/#name> "Creative Multimedia Corporation" .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/murder-mystery-case-3-who-killed-brett-penance-the/3030-13346/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/murder-mystery-case-4-who-killed-taylor-french-the/3030-2321/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/virtual-murder-1-who-killed-sam-rupert/3030-14321/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/virtual-murder-2-the-magic-death/3030-3489/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dinosaur-safari/3030-30941/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-chaos-continuum/3030-16552/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/murder-mystery-case-3-who-killed-brett-penance-the/3030-13346/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/murder-mystery-case-4-who-killed-taylor-french-the/3030-2321/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/virtual-murder-1-who-killed-sam-rupert/3030-14321/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/virtual-murder-2-the-magic-death/3030-3489/#game> .
+<http://www.giantbomb.com/creative-multimedia-corporation/3010-1909/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/beyond-the-wall-of-stars/3030-12575/#game> .

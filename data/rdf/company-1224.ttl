@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://xmlns.com/foaf/0.1/#name> "Artronic Limited" .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ace-2/3030-8426/#game> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/19-part-one-boot-camp/3030-16381/#game> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/supreme-challenge/3030-16445/#game> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/breach/3030-3312/#game> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/penalty-soccer/3030-11244/#game> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/take-em-out/3030-4416/#game> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ace-air-combat-emulator/3030-9289/#game> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ace-2/3030-8426/#game> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/19-part-one-boot-camp/3030-16381/#game> .
+<http://www.giantbomb.com/artronic-limited/3010-1224/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pirates-of-the-barbary-coast/3030-19519/#game> .

@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/kidsoft/3010-1078/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/kidsoft/3010-1078/#company> <http://xmlns.com/foaf/0.1/#name> "Kidsoft" .
+<http://www.giantbomb.com/kidsoft/3010-1078/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-lost-tribe/3030-976/#game> .

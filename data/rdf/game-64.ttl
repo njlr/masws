@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <http://xmlns.com/foaf/0.1/#name> "Pac-Man World" .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Pac-Man/3005-149/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Blinky/3005-138/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Pinky/3005-144/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Clyde/3005-320/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Inky/3005-245/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Ms-Pac-Man/3005-165/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Baby-Pac/3005-15542/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Pooka/3005-15512/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Professor-Pac/3005-15541/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Orson/3005-15515/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Toc-Man/3005-15516/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Pac-Man-Jr/3005-15540/#character> .
+<http://www.giantbomb.com/pac-man-world/3030-64/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Chomp-Chomp/3005-15543/#character> .

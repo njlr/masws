@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://xmlns.com/foaf/0.1/#name> "GFI Russia" .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gothic-3/3030-7753/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mob-enforcer/3030-10251/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/painkiller-overdose/3030-13600/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spellforce-2-dragon-storm/3030-3816/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spellforce-2-shadow-wars/3030-11583/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/act-of-war-direct-action/3030-7489/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tom-clancys-ghost-recon-advanced-warfighter-2/3030-270/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/clutch/3030-25512/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hired-guns-the-jagged-edge/3030-29553/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-legend-of-tolteks/3030-31503/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/drtool-lern-coach-fur-kinder/3030-31847/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/drtool-augen-training/3030-31872/#game> .
+<http://www.giantbomb.com/gfi-russia/3010-407/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/manga-mahjongg/3030-31482/#game> .

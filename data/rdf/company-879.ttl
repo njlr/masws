@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/barnhouse-effect-co-ltd/3010-879/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/barnhouse-effect-co-ltd/3010-879/#company> <http://xmlns.com/foaf/0.1/#name> "Barnhouse Effect Co., Ltd" .
+<http://www.giantbomb.com/barnhouse-effect-co-ltd/3010-879/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/choroq/3030-4160/#game> .
+<http://www.giantbomb.com/barnhouse-effect-co-ltd/3010-879/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/seek-and-destroy/3030-744/#game> .

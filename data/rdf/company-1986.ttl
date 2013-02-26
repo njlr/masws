@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/games-workshop-ltd/3010-1986/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/games-workshop-ltd/3010-1986/#company> <http://xmlns.com/foaf/0.1/#name> "Games Workshop Ltd." .
+<http://www.giantbomb.com/games-workshop-ltd/3010-1986/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/telstar-double-value-games-system-shock-and-space-/3030-2451/#game> .
+<http://www.giantbomb.com/games-workshop-ltd/3010-1986/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/apocalypse/3030-22459/#game> .
+<http://www.giantbomb.com/games-workshop-ltd/3010-1986/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chaos-the-battle-of-wizards/3030-9342/#game> .

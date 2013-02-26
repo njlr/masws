@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/destroyer-studios/3010-1116/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/destroyer-studios/3010-1116/#company> <http://xmlns.com/foaf/0.1/#name> "Destroyer Studios" .
+<http://www.giantbomb.com/destroyer-studios/3010-1116/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/starshatter/3030-1016/#game> .
+<http://www.giantbomb.com/destroyer-studios/3010-1116/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/starshatter-the-gathering-storm/3030-39107/#game> .

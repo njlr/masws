@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/epic-interactive-entertainment-gmbh/3010-253/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/epic-interactive-entertainment-gmbh/3010-253/#company> <http://xmlns.com/foaf/0.1/#name> "e.p.i.c. interactive entertainment gmbh" .
+<http://www.giantbomb.com/epic-interactive-entertainment-gmbh/3010-253/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/birdie-shoot/3030-31509/#game> .
+<http://www.giantbomb.com/epic-interactive-entertainment-gmbh/3010-253/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/earth-2140/3030-17561/#game> .
+<http://www.giantbomb.com/epic-interactive-entertainment-gmbh/3010-253/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/earth-2140-mission-pack/3030-7748/#game> .
+<http://www.giantbomb.com/epic-interactive-entertainment-gmbh/3010-253/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/simon-the-sorcerer-ii-the-lion-the-wizard-and-the-/3030-161/#game> .
+<http://www.giantbomb.com/epic-interactive-entertainment-gmbh/3010-253/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/barkanoid-2/3030-16818/#game> .
+<http://www.giantbomb.com/epic-interactive-entertainment-gmbh/3010-253/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/odium/3030-5110/#game> .
+<http://www.giantbomb.com/epic-interactive-entertainment-gmbh/3010-253/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/birdie-shoot/3030-31509/#game> .

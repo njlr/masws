@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/colin-kawakami/3040-532/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
+<http://www.giantbomb.com/colin-kawakami/3040-532/#person> <http://xmlns.com/foaf/0.1/#name> "Colin Kawakami" .
+<http://www.giantbomb.com/colin-kawakami/3040-532/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/colin-kawakami/3040-532/#person> <http://dbpedia.org/ontology/birthDate> "" .
+<http://www.giantbomb.com/colin-kawakami/3040-532/#person> <http://dbpedia.org/ontology/birthPlace> "USA" .

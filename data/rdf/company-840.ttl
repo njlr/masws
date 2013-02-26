@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/black-market-games/3010-840/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/black-market-games/3010-840/#company> <http://xmlns.com/foaf/0.1/#name> "Black Market Games" .
+<http://www.giantbomb.com/black-market-games/3010-840/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/black-market-bowling/3030-705/#game> .
+<http://www.giantbomb.com/black-market-games/3010-840/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/amf-bowling-2004/3030-16393/#game> .
+<http://www.giantbomb.com/black-market-games/3010-840/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dead-hungry-diner/3030-38335/#game> .
+<http://www.giantbomb.com/black-market-games/3010-840/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dead-hungry-diner/3030-38335/#game> .

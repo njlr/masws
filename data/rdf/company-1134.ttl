@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/razorsoft-inc/3010-1134/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/razorsoft-inc/3010-1134/#company> <http://xmlns.com/foaf/0.1/#name> "RazorSoft, Inc." .
+<http://www.giantbomb.com/razorsoft-inc/3010-1134/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stormlord/3030-1044/#game> .
+<http://www.giantbomb.com/razorsoft-inc/3010-1134/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pigskin-621ad-ancient-archrivals-on-a-rampage/3030-7155/#game> .
+<http://www.giantbomb.com/razorsoft-inc/3010-1134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/death-duel/3030-5003/#game> .
+<http://www.giantbomb.com/razorsoft-inc/3010-1134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/stormlord/3030-1044/#game> .
+<http://www.giantbomb.com/razorsoft-inc/3010-1134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/techno-cop/3030-11861/#game> .
+<http://www.giantbomb.com/razorsoft-inc/3010-1134/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/valis-iv/3030-442/#game> .

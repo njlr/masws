@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/california-dreams/3010-1783/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/california-dreams/3010-1783/#company> <http://xmlns.com/foaf/0.1/#name> "California Dreams" .
+<http://www.giantbomb.com/california-dreams/3010-1783/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/street-rod/3030-2073/#game> .
+<http://www.giantbomb.com/california-dreams/3010-1783/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/street-rod-2-the-next-generation/3030-14338/#game> .
+<http://www.giantbomb.com/california-dreams/3010-1783/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tunnels-of-armageddon/3030-4395/#game> .
+<http://www.giantbomb.com/california-dreams/3010-1783/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/blockout/3030-13403/#game> .
+<http://www.giantbomb.com/california-dreams/3010-1783/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/block-out/3030-22518/#game> .

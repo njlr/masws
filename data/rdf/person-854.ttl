@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://xmlns.com/foaf/0.1/#name> "Larry Bird" .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://dbpedia.org/ontology/birthDate> "1956-12-07" .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://dbpedia.org/ontology/birthPlace> "United States of America" .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Electronic-Arts/3010-1/#company> .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Imagineering-Inc/3010-1788/#company> .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Rare,-Ltd/3010-174/#company> .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Atari-SA/3010-548/#company> .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Micro-Fun/3010-3987/#company> .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Jordan-vs-Bird:-One-on-One/3030-16685/#game> .
+<http://www.giantbomb.com/larry-bird/3040-854/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Dr-J-and-Larry-Bird-Go-One-on-One/3030-13770/#game> .

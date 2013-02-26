@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/akaei-plc/3010-528/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/akaei-plc/3010-528/#company> <http://xmlns.com/foaf/0.1/#name> "Akaei plc" .
+<http://www.giantbomb.com/akaei-plc/3010-528/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/grouch/3030-15778/#game> .
+<http://www.giantbomb.com/akaei-plc/3010-528/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tread-marks/3030-368/#game> .

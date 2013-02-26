@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/eldritch-games/3010-385/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/eldritch-games/3010-385/#company> <http://xmlns.com/foaf/0.1/#name> "Eldritch Games" .
+<http://www.giantbomb.com/eldritch-games/3010-385/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-hound-of-shadow/3030-257/#game> .
+<http://www.giantbomb.com/eldritch-games/3010-385/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/daughter-of-serpents/3030-9796/#game> .

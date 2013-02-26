@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/deep-water/3010-1107/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/deep-water/3010-1107/#company> <http://xmlns.com/foaf/0.1/#name> "Deep Water" .
+<http://www.giantbomb.com/deep-water/3010-1107/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/eternal-champions-challenge-from-the-dark-side/3030-8021/#game> .
+<http://www.giantbomb.com/deep-water/3010-1107/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/x-perts/3030-1011/#game> .

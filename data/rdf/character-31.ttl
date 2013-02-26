@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/ulala/3005-31/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/ulala/3005-31/#character> <http://xmlns.com/foaf/0.1/#name> "Ulala" .
+<http://www.giantbomb.com/ulala/3005-31/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/ulala/3005-31/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Pudding/3005-1614/#character> .
+<http://www.giantbomb.com/ulala/3005-31/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Michael-Jackson/3005-173/#character> .
+<http://www.giantbomb.com/ulala/3005-31/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Pudding/3005-1614/#character> .
+<http://www.giantbomb.com/ulala/3005-31/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Evila/3005-16514/#character> .

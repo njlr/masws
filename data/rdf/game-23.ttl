@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/dragons-lair/3030-23/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/dragons-lair/3030-23/#game> <http://xmlns.com/foaf/0.1/#name> "Dragon's Lair" .
+<http://www.giantbomb.com/dragons-lair/3030-23/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Princess-Daphne/3005-741/#character> .
+<http://www.giantbomb.com/dragons-lair/3030-23/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Dirk-the-Daring/3005-1283/#character> .
+<http://www.giantbomb.com/dragons-lair/3030-23/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Singe-the-Dragon/3005-23342/#character> .

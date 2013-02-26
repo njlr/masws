@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <http://xmlns.com/foaf/0.1/#name> "Screaming Mantis" .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Laughing-Octopus/3005-956/#character> .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Crying-Wolf/3005-1005/#character> .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Raging-Raven/3005-1017/#character> .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Revolver-Ocelot/3005-346/#character> .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Vamp/3005-945/#character> .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Psycho-Mantis/3005-428/#character> .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Solid-Snake/3005-75/#character> .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Meryl-Silverburgh/3005-440/#character> .
+<http://www.giantbomb.com/screaming-mantis/3005-968/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Colonel-Campbell/3005-839/#character> .

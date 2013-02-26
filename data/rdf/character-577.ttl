@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/paul-bearer/3005-577/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/paul-bearer/3005-577/#character> <http://xmlns.com/foaf/0.1/#name> "Paul Bearer" .
+<http://www.giantbomb.com/paul-bearer/3005-577/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/paul-bearer/3005-577/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/The-Undertaker/3005-473/#character> .
+<http://www.giantbomb.com/paul-bearer/3005-577/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kane/3005-572/#character> .

@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/greenwood-entertainment/3010-1902/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/greenwood-entertainment/3010-1902/#company> <http://xmlns.com/foaf/0.1/#name> "Greenwood Entertainment" .
+<http://www.giantbomb.com/greenwood-entertainment/3010-1902/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dog-fight-for-your-life/3030-14559/#game> .
+<http://www.giantbomb.com/greenwood-entertainment/3010-1902/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/der-planer/3030-18634/#game> .
+<http://www.giantbomb.com/greenwood-entertainment/3010-1902/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/far-west/3030-13755/#game> .
+<http://www.giantbomb.com/greenwood-entertainment/3010-1902/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mad-tv-2/3030-15967/#game> .
+<http://www.giantbomb.com/greenwood-entertainment/3010-1902/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/der-planer/3030-18634/#game> .

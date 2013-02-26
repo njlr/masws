@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://xmlns.com/foaf/0.1/#name> "Konami Computer Entertainment Kobe, Inc." .
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/castlevania-legacy-of-darkness/3030-6467/#game> .
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/castlevania-circle-of-the-moon/3030-13197/#game> .
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dance-dance-revolution-disney-dancing-museum/3030-4675/#game> .
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/konami-krazy-racers/3030-710/#game> .
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ganbare-goemon-mononoke-sugoroku/3030-4545/#game> .
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/castlevania/3030-22950/#game> .
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/beatmania-gb/3030-33874/#game> .
+<http://www.giantbomb.com/konami-computer-entertainment-kobe-inc/3010-844/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gungage/3030-24319/#game> .

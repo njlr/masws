@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/clevers-games-ltd/3010-887/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/clevers-games-ltd/3010-887/#company> <http://xmlns.com/foaf/0.1/#name> "Clever's Games Ltd." .
+<http://www.giantbomb.com/clevers-games-ltd/3010-887/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/screamer-4x4/3030-2825/#game> .
+<http://www.giantbomb.com/clevers-games-ltd/3010-887/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/terminator-3-war-of-the-machines/3030-751/#game> .
+<http://www.giantbomb.com/clevers-games-ltd/3010-887/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cabelas-4x4-off-road-adventure-2/3030-34831/#game> .

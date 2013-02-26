@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://xmlns.com/foaf/0.1/#name> "Ertain Corporation" .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fantasy-aquarium-world/3030-25919/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fantasy-aquarium-by-ds/3030-25918/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/aquarium-by-ds/3030-26384/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/paint-by-ds-classical-masterpieces/3030-26382/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/paint-by-ds-military-vehicles/3030-26383/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/paint-by-ds/3030-26381/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/matchstick/3030-27387/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/warriors-of-the-lost-empire/3030-22091/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/colosseum-road-to-freedom/3030-582/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-con/3030-20595/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/colpile/3030-29640/#game> .
+<http://www.giantbomb.com/ertain-corporation/3010-728/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/adventure-of-little-ralph/3030-39503/#game> .

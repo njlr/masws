@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/koch-media-deutschland-gmbh/3010-949/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/koch-media-deutschland-gmbh/3010-949/#company> <http://xmlns.com/foaf/0.1/#name> "KOCH Media Deutschland GmbH" .
+<http://www.giantbomb.com/koch-media-deutschland-gmbh/3010-949/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/end-of-twilight/3030-1468/#game> .
+<http://www.giantbomb.com/koch-media-deutschland-gmbh/3010-949/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/heldenzeit/3030-4469/#game> .
+<http://www.giantbomb.com/koch-media-deutschland-gmbh/3010-949/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ultra-flight-pack/3030-8960/#game> .
+<http://www.giantbomb.com/koch-media-deutschland-gmbh/3010-949/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sacred-plus/3030-4708/#game> .
+<http://www.giantbomb.com/koch-media-deutschland-gmbh/3010-949/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/farm-girl-am-nil/3030-36583/#game> .

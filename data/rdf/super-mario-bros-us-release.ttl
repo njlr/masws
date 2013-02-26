@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/super-mario-bros/3030-15544/releases/#toc-release-39276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/super-mario-bros/3030-15544/releases/#toc-release-39276> <https://github.com/nlr/masws/blob/master/vocab#isVersionOf> <http://www.giantbomb.com/Super-Mario-Bros/3030-15544/#game> .
+<http://www.giantbomb.com/super-mario-bros/3030-15544/releases/#toc-release-39276> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/super-mario-bros/3030-15544/releases/#toc-release-39276> <http://dbpedia.org/ontology/releaseDate> "1985-01-13" .

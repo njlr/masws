@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/bigbig-studios-ltd/3010-311/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/bigbig-studios-ltd/3010-311/#company> <http://xmlns.com/foaf/0.1/#name> "BigBig Studios Ltd." .
+<http://www.giantbomb.com/bigbig-studios-ltd/3010-311/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pursuit-force/3030-205/#game> .
+<http://www.giantbomb.com/bigbig-studios-ltd/3010-311/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pursuit-force-extreme-justice/3030-22289/#game> .
+<http://www.giantbomb.com/bigbig-studios-ltd/3010-311/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/motorstorm-arctic-edge/3030-25424/#game> .
+<http://www.giantbomb.com/bigbig-studios-ltd/3010-311/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/little-deviants/3030-34022/#game> .

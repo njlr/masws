@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/bass-software/3010-1416/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/bass-software/3010-1416/#company> <http://xmlns.com/foaf/0.1/#name> "BASS Software" .
+<http://www.giantbomb.com/bass-software/3010-1416/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/el-principio-del-fin/3030-1455/#game> .
+<http://www.giantbomb.com/bass-software/3010-1416/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/quien-es-cualo/3030-8274/#game> .
+<http://www.giantbomb.com/bass-software/3010-1416/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/el-principio-del-fin/3030-1455/#game> .
+<http://www.giantbomb.com/bass-software/3010-1416/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/quien-es-cualo/3030-8274/#game> .

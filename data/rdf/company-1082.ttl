@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/splash-damage-ltd/3010-1082/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/splash-damage-ltd/3010-1082/#company> <http://xmlns.com/foaf/0.1/#name> "Splash Damage, Ltd" .
+<http://www.giantbomb.com/splash-damage-ltd/3010-1082/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wolfenstein-enemy-territory/3030-8614/#game> .
+<http://www.giantbomb.com/splash-damage-ltd/3010-1082/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/enemy-territory-quake-wars/3030-18883/#game> .
+<http://www.giantbomb.com/splash-damage-ltd/3010-1082/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/brink/3030-26694/#game> .
+<http://www.giantbomb.com/splash-damage-ltd/3010-1082/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rad-soldiers/3030-40988/#game> .
+<http://www.giantbomb.com/splash-damage-ltd/3010-1082/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dirty-bomb/3030-41445/#game> .

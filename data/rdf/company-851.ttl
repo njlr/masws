@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://xmlns.com/foaf/0.1/#name> "Yanoman Corporation" .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nobunaga-kouki/3030-28392/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rejoice-aretha-oukoku-no-kanata/3030-717/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aretha-ii-ariel-fushigi-no-tabi/3030-18252/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aretha/3030-1791/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aretha-iii/3030-5380/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/zoop/3030-4938/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/nobunaga-kouki/3030-28392/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/felony-11-79/3030-32645/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/urusei-yatsura-miss-tomobiki-o-chigase/3030-33542/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/song-master/3030-33858/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/feda-the-emblem-of-justice/3030-35998/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/feda-2-white-surge-the-platoon/3030-36792/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/trinea/3030-37166/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/penta-dragon/3030-37167/#game> .

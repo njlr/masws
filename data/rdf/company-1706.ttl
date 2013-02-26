@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/denda-multimedia/3010-1706/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/denda-multimedia/3010-1706/#company> <http://xmlns.com/foaf/0.1/#name> "Denda Multimedia" .
+<http://www.giantbomb.com/denda-multimedia/3010-1706/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/elite-heli-squad/3030-12899/#game> .
+<http://www.giantbomb.com/denda-multimedia/3010-1706/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/atv-mudracer/3030-20118/#game> .

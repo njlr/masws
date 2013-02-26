@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <http://xmlns.com/foaf/0.1/#name> "Domingo 'Ding' Chavez" .
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Logan-Keller/3005-2409/#character> .
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Lars-Beckenbauer/3005-11636/#character> .
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Santiago-Arnavisca/3005-11635/#character> .
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jung-Park/3005-7969/#character> .
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Michael-Walters/3005-7970/#character> .
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bishop/3005-13630/#character> .
+<http://www.giantbomb.com/domingo-ding-chavez/3005-837/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/John-Clark/3005-18438/#character> .

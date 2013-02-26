@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/kutoka-interactive-inc/3010-746/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/kutoka-interactive-inc/3010-746/#company> <http://xmlns.com/foaf/0.1/#name> "Kutoka Interactive Inc" .
+<http://www.giantbomb.com/kutoka-interactive-inc/3010-746/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-cassandra-galleries/3030-605/#game> .
+<http://www.giantbomb.com/kutoka-interactive-inc/3010-746/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/didi-and-ditto-first-grade-the-wolf-king/3030-19753/#game> .
+<http://www.giantbomb.com/kutoka-interactive-inc/3010-746/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/didi-and-ditto-kindergarten/3030-9863/#game> .
+<http://www.giantbomb.com/kutoka-interactive-inc/3010-746/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/miss-spiders-scavenger-hunt/3030-5452/#game> .
+<http://www.giantbomb.com/kutoka-interactive-inc/3010-746/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/didi-and-ditto-first-grade-the-wolf-king/3030-19753/#game> .
+<http://www.giantbomb.com/kutoka-interactive-inc/3010-746/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/didi-and-ditto-kindergarten/3030-9863/#game> .
+<http://www.giantbomb.com/kutoka-interactive-inc/3010-746/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/creatures-exodus/3030-23576/#game> .

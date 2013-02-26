@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <http://xmlns.com/foaf/0.1/#name> "Sid Meier's Civilization II" .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Napoleon-Bonaparte/3005-2192/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Albert-Einstein/3005-791/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Alexander-the-Great/3005-6406/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Ramesses-II/3005-14539/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Wu-Zetian/3005-14245/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Abraham-Lincoln/3005-3731/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Montezuma/3005-2184/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mao-Zedong/3005-3311/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Cleopatra/3005-5296/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Joan-of-Arc/3005-725/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Gandhi/3005-2186/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Genghis-Khan/3005-2182/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Shaka/3005-2891/#character> .
+<http://www.giantbomb.com/sid-meiers-civilization-ii/3030-217/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Julius-Caesar/3005-2196/#character> .

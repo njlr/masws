@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/ian-paul-freeley/3005-246/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/ian-paul-freeley/3005-246/#character> <http://xmlns.com/foaf/0.1/#name> "Ian Paul Freeley" .
+<http://www.giantbomb.com/ian-paul-freeley/3005-246/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .

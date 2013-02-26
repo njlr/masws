@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/ico/3005-676/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/ico/3005-676/#character> <http://xmlns.com/foaf/0.1/#name> "Ico" .
+<http://www.giantbomb.com/ico/3005-676/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/ico/3005-676/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Yorda/3005-1174/#character> .

@@ -1,0 +1,2 @@
+<http://www.giantbomb.com/ancient-egyptian-mehen-the-forbidden-game-of-the-s/3030-74/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/ancient-egyptian-mehen-the-forbidden-game-of-the-s/3030-74/#game> <http://xmlns.com/foaf/0.1/#name> "Ancient Egyptian Mehen: The Forbidden Game of the Snake" .

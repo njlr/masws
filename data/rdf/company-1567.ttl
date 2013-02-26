@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://xmlns.com/foaf/0.1/#name> "Toys for Bob" .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disneys-extreme-skate-adventure/3030-6759/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-horde/3030-1702/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/madagascar/3030-5680/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-control/3030-7320/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tony-hawks-downhill-jam/3030-3631/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-control-ii/3030-7030/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/madagascar-escape-2-africa/3030-24325/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/skylanders-spyros-adventure/3030-34129/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-unholy-war/3030-3465/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pandemonium/3030-3536/#game> .
+<http://www.giantbomb.com/toys-for-bob/3010-1567/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/skylanders-giants/3030-37417/#game> .

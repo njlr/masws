@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/innerloop-studios/3010-1617/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/innerloop-studios/3010-1617/#company> <http://xmlns.com/foaf/0.1/#name> "Innerloop Studios" .
+<http://www.giantbomb.com/innerloop-studios/3010-1617/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/joint-strike-fighter-jsf/3030-1785/#game> .
+<http://www.giantbomb.com/innerloop-studios/3010-1617/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/project-igi-2-covert-strike/3030-11364/#game> .
+<http://www.giantbomb.com/innerloop-studios/3010-1617/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/project-igi-im-going-in/3030-8616/#game> .
+<http://www.giantbomb.com/innerloop-studios/3010-1617/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/xtreme-sports/3030-31000/#game> .

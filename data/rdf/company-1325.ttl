@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://xmlns.com/foaf/0.1/#name> "Crawfish Interactive" .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cruisn-exotica/3030-19022/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ecks-vs-sever/3030-15516/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mary-kate-and-ashley-get-a-clue/3030-8807/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ready-2-rumble-boxing-round-2/3030-11649/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/robot-wars-advanced-destruction/3030-19360/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/street-fighter-alpha-3/3030-1328/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/superman-countdown-to-apokolips/3030-5400/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ballistic-ecks-vs-sever/3030-14483/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nicktoons-racing/3030-21269/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/godzilla-the-series/3030-22889/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/godzilla-the-series-monster-wars/3030-22890/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tom-clancys-rainbow-six/3030-7887/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/x-men-mutant-academy/3030-15044/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/aliens-thanatos-encounter/3030-36362/#game> .
+<http://www.giantbomb.com/crawfish-interactive/3010-1325/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/space-invaders/3030-5099/#game> .

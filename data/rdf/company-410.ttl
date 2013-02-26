@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://xmlns.com/foaf/0.1/#name> "SimBin Development Team AB" .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gt-legends/3030-275/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gtr-fia-gt-racing-game/3030-16220/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/race-07-the-official-wtcc-game/3030-327/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/race-the-official-wtcc-game/3030-6213/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/race-pro/3030-22693/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gtr-evolution/3030-23517/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gtr-evolution/3030-23526/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/volvo-the-game/3030-26011/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/race-on/3030-28044/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stcc-the-game/3030-32037/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/raceroom-racing-experience/3030-41652/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/race-07-the-official-wtcc-game/3030-327/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/puzzlegeddon/3030-26918/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/race-on/3030-28044/#game> .
+<http://www.giantbomb.com/simbin-development-team-ab/3010-410/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/stcc-the-game/3030-32037/#game> .

@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/xantera/3010-841/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/xantera/3010-841/#company> <http://xmlns.com/foaf/0.1/#name> "Xantera" .
+<http://www.giantbomb.com/xantera/3010-841/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/test-drive-2001/3030-706/#game> .
+<http://www.giantbomb.com/xantera/3010-841/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/test-drive-6/3030-6628/#game> .
+<http://www.giantbomb.com/xantera/3010-841/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/test-drive-off-road-3/3030-9109/#game> .
+<http://www.giantbomb.com/xantera/3010-841/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cyber-tiger/3030-1336/#game> .

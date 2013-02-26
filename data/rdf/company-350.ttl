@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/future-games-sro/3010-350/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/future-games-sro/3010-350/#company> <http://xmlns.com/foaf/0.1/#name> "Future Games s.r.o." .
+<http://www.giantbomb.com/future-games-sro/3010-350/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/next-life/3030-9499/#game> .
+<http://www.giantbomb.com/future-games-sro/3010-350/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nibiru-age-of-secrets/3030-12912/#game> .
+<http://www.giantbomb.com/future-games-sro/3010-350/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alter-ego/3030-29918/#game> .
+<http://www.giantbomb.com/future-games-sro/3010-350/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-black-mirror/3030-235/#game> .

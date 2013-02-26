@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/disney-software/3010-665/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/disney-software/3010-665/#company> <http://xmlns.com/foaf/0.1/#name> "Disney Software" .
+<http://www.giantbomb.com/disney-software/3010-665/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/a-year-at-pooh-corner/3030-30523/#game> .
+<http://www.giantbomb.com/disney-software/3010-665/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/donalds-alphabet-chase/3030-511/#game> .
+<http://www.giantbomb.com/disney-software/3010-665/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/goofys-railway-express/3030-27524/#game> .
+<http://www.giantbomb.com/disney-software/3010-665/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mickeys-runaway-zoo/3030-33200/#game> .

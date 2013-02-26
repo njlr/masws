@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/jtg/3005-598/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/jtg/3005-598/#character> <http://xmlns.com/foaf/0.1/#name> "JTG" .
+<http://www.giantbomb.com/jtg/3005-598/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/jtg/3005-598/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/John-Cena/3005-470/#character> .
+<http://www.giantbomb.com/jtg/3005-598/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/The-Miz/3005-3483/#character> .
+<http://www.giantbomb.com/jtg/3005-598/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/John-Morrison/3005-618/#character> .
+<http://www.giantbomb.com/jtg/3005-598/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Shad-Gaspard/3005-607/#character> .

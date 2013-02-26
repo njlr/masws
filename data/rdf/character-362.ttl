@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/joe-musashi/3005-362/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/joe-musashi/3005-362/#character> <http://xmlns.com/foaf/0.1/#name> "Joe Musashi" .
+<http://www.giantbomb.com/joe-musashi/3005-362/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/joe-musashi/3005-362/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hotsuma/3005-5045/#character> .
+<http://www.giantbomb.com/joe-musashi/3005-362/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hibana/3005-5075/#character> .
+<http://www.giantbomb.com/joe-musashi/3005-362/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jiro-Musashi/3005-24671/#character> .
+<http://www.giantbomb.com/joe-musashi/3005-362/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Hayate-Musashi/3005-24672/#character> .
+<http://www.giantbomb.com/joe-musashi/3005-362/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Yamato/3005-24673/#character> .

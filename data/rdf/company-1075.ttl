@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://xmlns.com/foaf/0.1/#name> "Electronic Zoo" .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/darkspyre/3030-2246/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/eco-phantoms/3030-3624/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/germ-crazy/3030-18700/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/heart-of-the-dragon/3030-7957/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/subbuteo/3030-18141/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/treasure-trap/3030-974/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/xiphos/3030-6537/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-ball-game/3030-8229/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/abandoned-places-a-time-for-heroes/3030-1200/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cardiaxx/3030-4334/#game> .
+<http://www.giantbomb.com/electronic-zoo/3010-1075/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/prophecy-1-the-viking-child/3030-4572/#game> .

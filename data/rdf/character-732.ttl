@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/road-runner/3005-732/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/road-runner/3005-732/#character> <http://xmlns.com/foaf/0.1/#name> "Road Runner" .
+<http://www.giantbomb.com/road-runner/3005-732/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/road-runner/3005-732/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bugs-Bunny/3005-3896/#character> .
+<http://www.giantbomb.com/road-runner/3005-732/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Daffy-Duck/3005-3899/#character> .
+<http://www.giantbomb.com/road-runner/3005-732/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Sylvester/3005-4541/#character> .
+<http://www.giantbomb.com/road-runner/3005-732/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Tweety-Bird/3005-4459/#character> .
+<http://www.giantbomb.com/road-runner/3005-732/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Wile-E-Coyote/3005-6701/#character> .

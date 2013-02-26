@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/ed-magnin-and-associates/3010-1664/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/ed-magnin-and-associates/3010-1664/#company> <http://xmlns.com/foaf/0.1/#name> "Ed Magnin and Associates" .
+<http://www.giantbomb.com/ed-magnin-and-associates/3010-1664/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/vegas-casino/3030-15606/#game> .
+<http://www.giantbomb.com/ed-magnin-and-associates/3010-1664/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wings-of-fury/3030-1874/#game> .
+<http://www.giantbomb.com/ed-magnin-and-associates/3010-1664/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/extreme-sports-with-the-berenstain-bears/3030-30644/#game> .
+<http://www.giantbomb.com/ed-magnin-and-associates/3010-1664/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/arthurs-absolutely-fun-day/3030-36379/#game> .

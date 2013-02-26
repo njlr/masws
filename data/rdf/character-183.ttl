@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/madfox-daimyojin/3005-183/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/madfox-daimyojin/3005-183/#character> <http://xmlns.com/foaf/0.1/#name> "Madfox Daimyojin" .
+<http://www.giantbomb.com/madfox-daimyojin/3005-183/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/madfox-daimyojin/3005-183/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Psycho-Fox/3005-129/#character> .

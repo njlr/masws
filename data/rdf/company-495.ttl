@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://xmlns.com/foaf/0.1/#name> "Future Publishing" .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bombuzal/3030-2163/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/kid-gloves/3030-15372/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sensible-train-spotting/3030-604/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-foul-egg/3030-8389/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/your-sinclair-6-pack-march-1991/3030-13813/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/your-sinclair-beaut-box-march-1993/3030-10226/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/your-sinclair-four-pack-december-1990/3030-7606/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/your-sinclair-four-pack-october-1990/3030-336/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/your-sinclair-magnificent-7-february-1992/3030-8532/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/your-sinclair-magnificent-7-july-1991/3030-3429/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/archipelagos/3030-9322/#game> .
+<http://www.giantbomb.com/future-publishing/3010-495/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/amiga-power-coverdisk-21/3030-3373/#game> .

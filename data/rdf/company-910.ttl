@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://xmlns.com/foaf/0.1/#name> "SingleTrac Entertainment Technologies, Inc." .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/critical-depth/3030-9461/#game> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jet-moto/3030-7880/#game> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/outwars/3030-772/#game> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rogue-trip-vacation-2012/3030-2392/#game> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/streak-hoverboard-racing/3030-985/#game> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/twisted-metal/3030-12318/#game> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/twisted-metal-2/3030-16436/#game> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/animorphs-shattered-reality/3030-9114/#game> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jet-moto-2/3030-13787/#game> .
+<http://www.giantbomb.com/singletrac-entertainment-technologies-inc/3010-910/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/warhawk/3030-17169/#game> .

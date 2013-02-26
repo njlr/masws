@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <http://xmlns.com/foaf/0.1/#name> "Teenage Mutant Ninja Turtles: Manhattan Missions" .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Donatello/3005-300/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Raphael/3005-121/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Leonardo/3005-192/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Splinter/3005-68/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/April-O'Neil/3005-57/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Shredder/3005-87/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Casey-Jones/3005-1521/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Tatsu/3005-15428/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Baxter-Stockman/3005-2419/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Rocksteady/3005-2415/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Bebop/3005-2416/#character> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Usub-Gerstalk/3005-24658/#character> .

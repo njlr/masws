@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/first-row-software-publishing-inc/3010-1812/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/first-row-software-publishing-inc/3010-1812/#company> <http://xmlns.com/foaf/0.1/#name> "First Row Software Publishing, Inc." .
+<http://www.giantbomb.com/first-row-software-publishing-inc/3010-1812/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dr-dumonts-wild-parti/3030-9700/#game> .
+<http://www.giantbomb.com/first-row-software-publishing-inc/3010-1812/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-honeymooners/3030-8699/#game> .
+<http://www.giantbomb.com/first-row-software-publishing-inc/3010-1812/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dr-dumonts-wild-parti/3030-9700/#game> .
+<http://www.giantbomb.com/first-row-software-publishing-inc/3010-1812/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-honeymooners/3030-8699/#game> .
+<http://www.giantbomb.com/first-row-software-publishing-inc/3010-1812/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/moses-old-testament-adventure-1/3030-2130/#game> .
+<http://www.giantbomb.com/first-row-software-publishing-inc/3010-1812/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-twilight-zone/3030-10794/#game> .

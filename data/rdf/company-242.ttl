@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://xmlns.com/foaf/0.1/#name> "Tivola Publishing, Inc." .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chemicus-journey-to-the-other-side/3030-825/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/masters-of-the-elements/3030-16652/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/max-and-the-magician/3030-12218/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/maya-the-bee-what-a-thunderstorm/3030-938/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/millie-meter-and-her-adventures-in-the-oak-tree/3030-153/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/millie-meters-nutrition-adventure/3030-6187/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/oscar-der-ballonfahrer-taucht-unter/3030-10561/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/oscar-the-balloonist-dives-into-the-lake/3030-15333/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/physicus-save-the-world-with-science/3030-18472/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/robinson-crusoe/3030-6008/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wheres-the-blanket-charlie-brown/3030-11916/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/black-cats-and-pointed-hats/3030-1944/#game> .
+<http://www.giantbomb.com/tivola-publishing-inc/3010-242/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bioscopia-where-science-conquers-evil/3030-15878/#game> .

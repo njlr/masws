@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/black-label-games/3010-652/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/black-label-games/3010-652/#company> <http://xmlns.com/foaf/0.1/#name> "Black Label Games" .
+<http://www.giantbomb.com/black-label-games/3010-652/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-thing/3030-500/#game> .
+<http://www.giantbomb.com/black-label-games/3010-652/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-lord-of-the-rings-the-fellowship-of-the-ring/3030-4157/#game> .
+<http://www.giantbomb.com/black-label-games/3010-652/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/enclave/3030-2056/#game> .
+<http://www.giantbomb.com/black-label-games/3010-652/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-thing/3030-500/#game> .

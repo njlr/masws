@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://xmlns.com/foaf/0.1/#name> "Human Head Studios, Inc." .
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dead-mans-hand/3030-1803/#game> .
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/prey/3030-16372/#game> .
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rune/3030-13474/#game> .
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blair-witch-volume-ii-the-legend-of-coffin-rock/3030-15367/#game> .
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-blair-witch-experience/3030-16633/#game> .
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rune-halls-of-valhalla/3030-14729/#game> .
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/prey-2/3030-23471/#game> .
+<http://www.giantbomb.com/human-head-studios-inc/3010-1628/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-duelling-minivans/3030-2493/#game> .

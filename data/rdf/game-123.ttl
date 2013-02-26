@@ -1,0 +1,2 @@
+<http://www.giantbomb.com/anacreon-imperial-conquest-in-the-far-future/3030-123/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/anacreon-imperial-conquest-in-the-far-future/3030-123/#game> <http://xmlns.com/foaf/0.1/#name> "Anacreon: Imperial Conquest in the Far Future" .

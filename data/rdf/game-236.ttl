@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/the-revenge-of-shinobi/3030-236/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/the-revenge-of-shinobi/3030-236/#game> <http://xmlns.com/foaf/0.1/#name> "The Revenge of Shinobi" .
+<http://www.giantbomb.com/the-revenge-of-shinobi/3030-236/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Spider-Man/3005-69/#character> .
+<http://www.giantbomb.com/the-revenge-of-shinobi/3030-236/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Joe-Musashi/3005-362/#character> .
+<http://www.giantbomb.com/the-revenge-of-shinobi/3030-236/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Batman/3005-66/#character> .
+<http://www.giantbomb.com/the-revenge-of-shinobi/3030-236/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Godzilla/3005-3643/#character> .

@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/people-can-fly/3010-730/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/people-can-fly/3010-730/#company> <http://xmlns.com/foaf/0.1/#name> "People Can Fly" .
+<http://www.giantbomb.com/people-can-fly/3010-730/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/painkiller/3030-6730/#game> .
+<http://www.giantbomb.com/people-can-fly/3010-730/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/painkiller-battle-out-of-hell/3030-20425/#game> .
+<http://www.giantbomb.com/people-can-fly/3010-730/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gears-of-war/3030-12231/#game> .
+<http://www.giantbomb.com/people-can-fly/3010-730/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/painkiller-hell-wars/3030-25062/#game> .
+<http://www.giantbomb.com/people-can-fly/3010-730/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bulletstorm/3030-30088/#game> .
+<http://www.giantbomb.com/people-can-fly/3010-730/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gears-of-war-judgment/3030-38481/#game> .

@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/pluto-13-gmbh/3010-53/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/pluto-13-gmbh/3010-53/#company> <http://xmlns.com/foaf/0.1/#name> "Pluto 13 GmbH" .
+<http://www.giantbomb.com/pluto-13-gmbh/3010-53/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gothic-3/3030-7753/#game> .
+<http://www.giantbomb.com/pluto-13-gmbh/3010-53/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gothic-ii/3030-1804/#game> .
+<http://www.giantbomb.com/pluto-13-gmbh/3010-53/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gothic-ii-night-of-the-raven/3030-16927/#game> .
+<http://www.giantbomb.com/pluto-13-gmbh/3010-53/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gothic/3030-1982/#game> .
+<http://www.giantbomb.com/pluto-13-gmbh/3010-53/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/risen/3030-23081/#game> .
+<http://www.giantbomb.com/pluto-13-gmbh/3010-53/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/risen-2-dark-waters/3030-33149/#game> .

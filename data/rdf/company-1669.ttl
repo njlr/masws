@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://xmlns.com/foaf/0.1/#name> "BreakAway Games Ltd." .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cleopatra-queen-of-the-nile/3030-3144/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/emperor-rise-of-the-middle-kingdom/3030-4102/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/maximum-strategy/3030-13097/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sid-meiers-antietam/3030-18106/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sid-meiers-civilization-iii-conquests/3030-3242/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-lord-of-the-rings-the-battle-for-middle-earth-/3030-6447/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tropico-paradise-island/3030-16757/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/waterloo-napoleons-last-battle/3030-4686/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-biggest-creators-of-empires/3030-3150/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/austerlitz-napoleons-greatest-victory/3030-6086/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/a-force-more-powerful-the-game-of-nonviolent-strat/3030-3663/#game> .
+<http://www.giantbomb.com/breakaway-games-ltd/3010-1669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/command-conquer-3-kanes-wrath/3030-20494/#game> .

@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/magic-lantern/3010-1846/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/magic-lantern/3010-1846/#company> <http://xmlns.com/foaf/0.1/#name> "Magic Lantern" .
+<http://www.giantbomb.com/magic-lantern/3010-1846/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/survivor-the-interactive-game/3030-11651/#game> .
+<http://www.giantbomb.com/magic-lantern/3010-1846/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/survivor-ultimate-edition/3030-18117/#game> .
+<http://www.giantbomb.com/magic-lantern/3010-1846/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tom-clancys-rainbow-six-covert-ops-essentials/3030-22959/#game> .
+<http://www.giantbomb.com/magic-lantern/3010-1846/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/checkers-ultimate/3030-2195/#game> .

@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://xmlns.com/foaf/0.1/#name> "Ascon GmbH" .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/elisabeth-i/3030-9490/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hanse-die-expedition/3030-18691/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/on-the-ball/3030-1968/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/on-the-ball-world-cup-edition/3030-12528/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-patrician/3030-1203/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/2in1-pack-st-thomas-elisabeth-i/3030-13706/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/elisabeth-i/3030-9490/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hanse-die-expedition/3030-18691/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/on-the-ball/3030-1968/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/on-the-ball-world-cup-edition/3030-12528/#game> .
+<http://www.giantbomb.com/ascon-gmbh/3010-1237/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-patrician/3030-1203/#game> .

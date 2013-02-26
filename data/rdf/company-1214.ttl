@@ -1,0 +1,12 @@
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://xmlns.com/foaf/0.1/#name> "Headstrong Games" .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-house-of-the-dead-overkill/3030-23425/#game> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/battalion-wars-2/3030-1168/#game> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-lord-of-the-rings-aragorns-quest/3030-26539/#game> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/art-academy/3030-32999/#game> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/art-academy-second-semester/3030-34114/#game> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/art-academy-first-semester/3030-28254/#game> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/top-gun-hard-lock/3030-35580/#game> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/art-academy-lessons-for-everyone/3030-38766/#game> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rabbids-rumble/3030-38483/#game> .
+<http://www.giantbomb.com/headstrong-games/3010-1214/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/battalion-wars/3030-3575/#game> .

@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/aerosoft-corporation/3010-661/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/aerosoft-corporation/3010-661/#company> <http://xmlns.com/foaf/0.1/#name> "AEROSOFT Corporation" .
+<http://www.giantbomb.com/aerosoft-corporation/3010-661/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/atcsimulator2/3030-17159/#game> .
+<http://www.giantbomb.com/aerosoft-corporation/3010-661/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/atcsimulator/3030-509/#game> .
+<http://www.giantbomb.com/aerosoft-corporation/3010-661/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flyff-fly-for-fun/3030-22187/#game> .
+<http://www.giantbomb.com/aerosoft-corporation/3010-661/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/atcsimulator2/3030-17159/#game> .

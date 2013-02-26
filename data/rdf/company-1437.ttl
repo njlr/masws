@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/americana-software/3010-1437/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/americana-software/3010-1437/#company> <http://xmlns.com/foaf/0.1/#name> "Americana software" .
+<http://www.giantbomb.com/americana-software/3010-1437/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sgrizam/3030-1501/#game> .
+<http://www.giantbomb.com/americana-software/3010-1437/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/shamus/3030-14863/#game> .

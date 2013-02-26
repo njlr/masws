@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/xatrix-entertainment-inc/3010-1549/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/xatrix-entertainment-inc/3010-1549/#company> <http://xmlns.com/foaf/0.1/#name> "Xatrix Entertainment, Inc." .
+<http://www.giantbomb.com/xatrix-entertainment-inc/3010-1549/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cyberia/3030-18074/#game> .
+<http://www.giantbomb.com/xatrix-entertainment-inc/3010-1549/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cyberia-2-resurrection/3030-11735/#game> .
+<http://www.giantbomb.com/xatrix-entertainment-inc/3010-1549/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/kingpin-life-of-crime/3030-8858/#game> .
+<http://www.giantbomb.com/xatrix-entertainment-inc/3010-1549/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/quake-ii-mission-pack-the-reckoning/3030-12430/#game> .
+<http://www.giantbomb.com/xatrix-entertainment-inc/3010-1549/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/redneck-deer-huntin/3030-13659/#game> .
+<http://www.giantbomb.com/xatrix-entertainment-inc/3010-1549/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/redneck-rampage/3030-13381/#game> .
+<http://www.giantbomb.com/xatrix-entertainment-inc/3010-1549/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/redneck-rampage-rides-again-arkansas/3030-8344/#game> .

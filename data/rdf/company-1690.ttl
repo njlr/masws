@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://xmlns.com/foaf/0.1/#name> "Nival, Inc." .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/etherlords/3030-20359/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/etherlords-ii/3030-4884/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hammer-sickle/3030-15416/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/heroes-of-might-and-magic-v/3030-1915/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/heroes-of-might-and-magic-v-hammers-of-fate/3030-9734/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/heroes-of-might-and-magic-v-tribes-of-the-east/3030-16314/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blitzkrieg-anthology/3030-11934/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blitzkrieg-2/3030-10434/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blitzkrieg/3030-8063/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/evil-islands-curse-of-the-lost-soul/3030-17437/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/frontlines-fuel-of-war/3030-19654/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/heldenzeit/3030-4469/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/night-watch/3030-7760/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rage-of-mages/3030-19628/#game> .
+<http://www.giantbomb.com/nival-inc/3010-1690/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rage-of-mages-ii-necromancer/3030-10710/#game> .

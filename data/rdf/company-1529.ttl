@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/electric-software-limited/3010-1529/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/electric-software-limited/3010-1529/#company> <http://xmlns.com/foaf/0.1/#name> "Electric Software Limited" .
+<http://www.giantbomb.com/electric-software-limited/3010-1529/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/buzz-off/3030-1632/#game> .
+<http://www.giantbomb.com/electric-software-limited/3010-1529/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/barnstormer/3030-17696/#game> .
+<http://www.giantbomb.com/electric-software-limited/3010-1529/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/buzz-off/3030-1632/#game> .
+<http://www.giantbomb.com/electric-software-limited/3010-1529/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/choro-q/3030-11760/#game> .
+<http://www.giantbomb.com/electric-software-limited/3010-1529/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/barnstormer/3030-17696/#game> .
+<http://www.giantbomb.com/electric-software-limited/3010-1529/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/zaxxon/3030-9547/#game> .

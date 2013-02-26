@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/earthlight-productions-inc/3010-663/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/earthlight-productions-inc/3010-663/#company> <http://xmlns.com/foaf/0.1/#name> "Earthlight Productions Inc." .
+<http://www.giantbomb.com/earthlight-productions-inc/3010-663/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/crystal-key-ii-the-far-realm/3030-17095/#game> .
+<http://www.giantbomb.com/earthlight-productions-inc/3010-663/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-crystal-key/3030-510/#game> .

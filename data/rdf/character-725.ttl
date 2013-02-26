@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/joan-of-arc/3005-725/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/joan-of-arc/3005-725/#character> <http://xmlns.com/foaf/0.1/#name> "Joan of Arc" .
+<http://www.giantbomb.com/joan-of-arc/3005-725/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/joan-of-arc/3005-725/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/La-Hire/3005-18269/#character> .
+<http://www.giantbomb.com/joan-of-arc/3005-725/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Edward,-the-Black-Prince/3005-18116/#character> .

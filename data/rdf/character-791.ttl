@@ -1,0 +1,13 @@
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <http://xmlns.com/foaf/0.1/#name> "Albert Einstein" .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Lieutenant-Eva/3005-3145/#character> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Tanya-Adams/3005-2718/#character> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/General-Ben-Carville/3005-4929/#character> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/President-Michael-Dugan/3005-7637/#character> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Franklin-D-Roosevelt/3005-2177/#character> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Adolf-Hitler/3005-38/#character> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kane/3005-217/#character> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Yuri/3005-2716/#character> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/General-Vladimir/3005-7638/#character> .
+<http://www.giantbomb.com/albert-einstein/3005-791/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Josef-Stalin/3005-2888/#character> .

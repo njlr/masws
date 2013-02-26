@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://xmlns.com/foaf/0.1/#name> "Guildhall Leisure Services Ltd." .
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gloom/3030-5793/#game> .
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/legends/3030-20202/#game> .
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/minskies-the-abduction/3030-20151/#game> .
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/skateboard-crazy/3030-293/#game> .
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/strip-pot/3030-3031/#game> .
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-skidmarks/3030-4531/#game> .
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-skidmarks-data-disks/3030-15306/#game> .
+<http://www.giantbomb.com/guildhall-leisure-services-ltd/3010-440/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ancipital/3030-2718/#game> .

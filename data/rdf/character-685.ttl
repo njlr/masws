@@ -1,0 +1,7 @@
+<http://www.giantbomb.com/klonoa/3005-685/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/klonoa/3005-685/#character> <http://xmlns.com/foaf/0.1/#name> "Klonoa" .
+<http://www.giantbomb.com/klonoa/3005-685/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/klonoa/3005-685/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Huepow/3005-1051/#character> .
+<http://www.giantbomb.com/klonoa/3005-685/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Ghadius/3005-1348/#character> .
+<http://www.giantbomb.com/klonoa/3005-685/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Joka/3005-5086/#character> .
+<http://www.giantbomb.com/klonoa/3005-685/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Moo/3005-5088/#character> .

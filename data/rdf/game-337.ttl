@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/tomb-raider-ii/3030-337/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/tomb-raider-ii/3030-337/#game> <http://xmlns.com/foaf/0.1/#name> "Tomb Raider II" .
+<http://www.giantbomb.com/tomb-raider-ii/3030-337/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Winston-Smith/3005-2957/#character> .
+<http://www.giantbomb.com/tomb-raider-ii/3030-337/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Marco-Bartoli/3005-2958/#character> .
+<http://www.giantbomb.com/tomb-raider-ii/3030-337/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Lara-Croft/3005-195/#character> .
+<http://www.giantbomb.com/tomb-raider-ii/3030-337/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Brother-Chan/3005-18779/#character> .

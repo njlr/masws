@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://xmlns.com/foaf/0.1/#name> "Enlight Interactive Inc." .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/restaurant-empire-2/3030-25584/#game> .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/capitalism-lab/3030-41282/#game> .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fast-lanes-bowling/3030-2402/#game> .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/restaurant-empire/3030-17662/#game> .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/trackmania-sunrise/3030-13008/#game> .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wars-and-warriors-joan-of-arc/3030-16890/#game> .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/american-mcgee-presents-scrapland/3030-10728/#game> .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/nemesis-of-the-roman-empire/3030-11286/#game> .
+<http://www.giantbomb.com/enlight-interactive-inc/3010-1956/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/capitalism-lab/3030-41282/#game> .

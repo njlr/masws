@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/clockstone-softwareentwicklung-gmbh/3010-774/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/clockstone-softwareentwicklung-gmbh/3010-774/#company> <http://xmlns.com/foaf/0.1/#name> "ClockStone Softwareentwicklung GmbH" .
+<http://www.giantbomb.com/clockstone-softwareentwicklung-gmbh/3010-774/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/avencast-rise-of-the-mage/3030-633/#game> .
+<http://www.giantbomb.com/clockstone-softwareentwicklung-gmbh/3010-774/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/greed-black-border/3030-29421/#game> .

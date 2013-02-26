@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/sidequest-studios/3010-207/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/sidequest-studios/3010-207/#company> <http://xmlns.com/foaf/0.1/#name> "SideQuest Studios" .
+<http://www.giantbomb.com/sidequest-studios/3010-207/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/soldner-x-himmelssturmer/3030-119/#game> .
+<http://www.giantbomb.com/sidequest-studios/3010-207/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/soldner-x-2-final-prototype/3030-28120/#game> .
+<http://www.giantbomb.com/sidequest-studios/3010-207/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rainbow-moon/3030-35687/#game> .
+<http://www.giantbomb.com/sidequest-studios/3010-207/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rainbow-skies/3030-41716/#game> .

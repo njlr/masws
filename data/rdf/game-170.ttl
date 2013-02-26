@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/barbie-sparkling-ice-show/3030-170/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/barbie-sparkling-ice-show/3030-170/#game> <http://xmlns.com/foaf/0.1/#name> "Barbie Sparkling Ice Show" .
+<http://www.giantbomb.com/barbie-sparkling-ice-show/3030-170/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Barbie/3005-8207/#character> .

@@ -1,0 +1,14 @@
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://xmlns.com/foaf/0.1/#name> "Playrix Entertainment" .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/race-cars-the-extreme-rally/3030-1540/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/4-elements/3030-32069/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fishdom/3030-22451/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/royal-envoy/3030-36254/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fishdom-h2o-hidden-odyssey/3030-39423/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/4-elements-ii/3030-40916/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/race-cars-the-extreme-rally/3030-1540/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/4-elements/3030-32069/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fishdom/3030-22451/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mystery-of-mortlake-mansion/3030-38207/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fishdom-h2o-hidden-odyssey/3030-39423/#game> .
+<http://www.giantbomb.com/playrix-entertainment/3010-1468/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/4-elements-ii/3030-40916/#game> .

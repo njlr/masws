@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/munch/3005-885/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/munch/3005-885/#character> <http://xmlns.com/foaf/0.1/#name> "Munch" .
+<http://www.giantbomb.com/munch/3005-885/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/munch/3005-885/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Abe/3005-729/#character> .
+<http://www.giantbomb.com/munch/3005-885/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Irwin/3005-15121/#character> .
+<http://www.giantbomb.com/munch/3005-885/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Humphrey/3005-15120/#character> .

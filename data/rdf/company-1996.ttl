@@ -1,0 +1,3 @@
+<http://www.giantbomb.com/improvisation-manymedia/3010-1996/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/improvisation-manymedia/3010-1996/#company> <http://xmlns.com/foaf/0.1/#name> "Improvisation ManyMedia" .
+<http://www.giantbomb.com/improvisation-manymedia/3010-1996/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-improv-presents-dont-quit-your-day-job/3030-2479/#game> .

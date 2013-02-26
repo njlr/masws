@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/froggman/3010-1708/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/froggman/3010-1708/#company> <http://xmlns.com/foaf/0.1/#name> "Froggman" .
+<http://www.giantbomb.com/froggman/3010-1708/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/curse-of-the-catacombs/3030-2306/#game> .
+<http://www.giantbomb.com/froggman/3010-1708/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lethal-tender/3030-6887/#game> .
+<http://www.giantbomb.com/froggman/3010-1708/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/street-ball/3030-1938/#game> .
+<http://www.giantbomb.com/froggman/3010-1708/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/terror-of-the-catacombs/3030-1955/#game> .

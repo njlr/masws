@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://xmlns.com/foaf/0.1/#name> "Global Software Publishing Limited" .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/comanche-4/3030-18759/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/delta-force-land-warrior/3030-15055/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/delta-force-task-force-dagger/3030-15152/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/desert-rats-vs-afrika-korps/3030-3890/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dominant-species/3030-15033/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/holiday-world/3030-11224/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/medieval-lords-build-defend-expand/3030-14065/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/midnight-gt-primary-racer/3030-17717/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-mystery-of-the-mummy/3030-2111/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/shadow-watch/3030-4676/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tabloid-tycoon/3030-5377/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/beach-soccer/3030-6999/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bang-gunship-elite/3030-5359/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/animals-of-africa/3030-12948/#game> .
+<http://www.giantbomb.com/global-software-publishing-limited/3010-639/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/7-sins/3030-20099/#game> .

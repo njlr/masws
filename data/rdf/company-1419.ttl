@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://xmlns.com/foaf/0.1/#name> "Monster Games, Inc." .
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/excite-truck/3030-13645/#game> .
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nascar-heat-2002/3030-1461/#game> .
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nascar-dirt-to-daytona/3030-20038/#game> .
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/test-drive-eve-of-destruction/3030-16430/#game> .
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/viper-racing/3030-5909/#game> .
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/excitebots-trick-racing/3030-25438/#game> .
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/excitebike-world-rally/3030-29109/#game> .
+<http://www.giantbomb.com/monster-games-inc/3010-1419/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pilotwings-resort/3030-31748/#game> .

@@ -1,0 +1,10 @@
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://xmlns.com/foaf/0.1/#name> "Nitro Games, Inc." .
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/harley-davidson-race-around-the-world/3030-560/#game> .
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/east-india-company/3030-26867/#game> .
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/commander-conquest-of-the-americas/3030-32252/#game> .
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pirates-of-the-black-cove/3030-33997/#game> .
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pirates-of-black-cove/3030-35875/#game> .
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/woody-two-legs-attack-of-the-zombie-pirates/3030-36692/#game> .
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alan-wake/3030-20982/#game> .
+<http://www.giantbomb.com/nitro-games-inc/3010-709/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/kawasaki-fantasy-motocross/3030-27471/#game> .

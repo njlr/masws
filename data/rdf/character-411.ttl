@@ -1,0 +1,4 @@
+<http://www.giantbomb.com/striker/3005-411/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/striker/3005-411/#character> <http://xmlns.com/foaf/0.1/#name> "Striker" .
+<http://www.giantbomb.com/striker/3005-411/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/striker/3005-411/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Blade/3005-412/#character> .

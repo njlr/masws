@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://xmlns.com/foaf/0.1/#name> "Presto Studios, Inc." .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gundam-0079/3030-16703/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-journeyman-project-2-buried-in-time/3030-15324/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-journeyman-project-3-legacy-of-time/3030-8330/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-journeyman-project/3030-10857/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-journeyman-project-turbo/3030-19758/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/myst-iii-exile/3030-18742/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-trek-hidden-evil/3030-17568/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stephen-kings-f13/3030-18536/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/whacked/3030-3689/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/myst/3030-3970/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-journeyman-project/3030-10857/#game> .
+<http://www.giantbomb.com/presto-studios-inc/3010-271/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-journeyman-project-3-legacy-of-time/3030-8330/#game> .

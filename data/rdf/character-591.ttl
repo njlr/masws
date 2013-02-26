@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/the-great-khali/3005-591/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/the-great-khali/3005-591/#character> <http://xmlns.com/foaf/0.1/#name> "The Great Khali" .
+<http://www.giantbomb.com/the-great-khali/3005-591/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/the-great-khali/3005-591/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/The-Undertaker/3005-473/#character> .
+<http://www.giantbomb.com/the-great-khali/3005-591/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Big-Show/3005-559/#character> .
+<http://www.giantbomb.com/the-great-khali/3005-591/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Triple-H/3005-469/#character> .

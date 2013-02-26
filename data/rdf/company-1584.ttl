@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://xmlns.com/foaf/0.1/#name> "Oberon Media, Inc." .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/scrubbles/3030-15585/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fairy-godmother-tycoon/3030-26197/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dream-day-wedding-married-in-manhattan/3030-29576/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/zzed/3030-40554/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mayawaka/3030-1733/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/scrubbles/3030-15585/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/steam/3030-12551/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/frogs-in-love/3030-36144/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mahjongg-investigations-under-suspicion/3030-37748/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/big-city-adventure-sydney-australia/3030-38179/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/womens-murder-club-a-darker-shade-of-grey/3030-39425/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dr-lynch-grave-secrets/3030-39428/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/enchanted-katya-and-the-mystery-of-the-lost-wizard/3030-39437/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/zzed/3030-40554/#game> .

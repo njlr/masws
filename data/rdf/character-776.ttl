@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <http://xmlns.com/foaf/0.1/#name> "Zack Fair" .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Cloud-Strife/3005-321/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Aerith-Gainsborough/3005-784/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Cissnei/3005-1854/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Angeal-Hewley/3005-1630/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Tseng/3005-2665/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bahamut/3005-1744/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Lazard-Deusericus/3005-15812/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Aqua/3005-3346/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Ventus/3005-3348/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Terra/3005-3347/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Sephiroth/3005-511/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Genesis-Rhapsodos/3005-2951/#character> .
+<http://www.giantbomb.com/zack-fair/3005-776/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Professor-Hojo/3005-2652/#character> .

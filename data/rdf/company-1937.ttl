@@ -1,0 +1,11 @@
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://xmlns.com/foaf/0.1/#name> "Foxy Soft" .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bubble-dizzy/3030-5080/#game> .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/deflektor/3030-78/#game> .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flood/3030-17661/#game> .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/airball/3030-17074/#game> .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/eliminator/3030-3790/#game> .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rick-dangerous/3030-2049/#game> .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/teenage-queen/3030-15852/#game> .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/out-of-this-world/3030-17483/#game> .
+<http://www.giantbomb.com/foxy-soft/3010-1937/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/out-of-this-world/3030-17483/#game> .

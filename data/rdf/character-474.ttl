@@ -1,0 +1,9 @@
+<http://www.giantbomb.com/drebin-893/3005-474/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/drebin-893/3005-474/#character> <http://xmlns.com/foaf/0.1/#name> "Drebin 893" .
+<http://www.giantbomb.com/drebin-893/3005-474/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/drebin-893/3005-474/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Solid-Snake/3005-75/#character> .
+<http://www.giantbomb.com/drebin-893/3005-474/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Otacon/3005-150/#character> .
+<http://www.giantbomb.com/drebin-893/3005-474/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Little-Gray/3005-3104/#character> .
+<http://www.giantbomb.com/drebin-893/3005-474/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Naomi-Hunter/3005-890/#character> .
+<http://www.giantbomb.com/drebin-893/3005-474/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Johnny-Sasaki/3005-862/#character> .
+<http://www.giantbomb.com/drebin-893/3005-474/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Revolver-Ocelot/3005-346/#character> .

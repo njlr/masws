@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/goat-store-llc-the/3010-957/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/goat-store-llc-the/3010-957/#company> <http://xmlns.com/foaf/0.1/#name> "GOAT Store, LLC, The" .
+<http://www.giantbomb.com/goat-store-llc-the/3010-957/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cool-herders/3030-822/#game> .
+<http://www.giantbomb.com/goat-store-llc-the/3010-957/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/feet-of-fury/3030-9358/#game> .
+<http://www.giantbomb.com/goat-store-llc-the/3010-957/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/inhabitants/3030-11636/#game> .
+<http://www.giantbomb.com/goat-store-llc-the/3010-957/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/maqiupai/3030-14635/#game> .

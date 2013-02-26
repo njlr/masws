@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <http://xmlns.com/foaf/0.1/#name> "Resident Evil: Deadly Silence" .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Jill-Valentine/3005-626/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Chris-Redfield/3005-413/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Albert-Wesker/3005-627/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Barry-Burton/3005-987/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Rebecca-Chambers/3005-1306/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Richard-Aiken/3005-3884/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Forest-Speyer/3005-4246/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Enrico-Marini/3005-3885/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Tyrant/3005-3385/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Brad-Vickers/3005-3135/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Lisa-Trevor/3005-6121/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Kenneth-J-Sullivan/3005-3136/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Joseph-Frost/3005-3888/#character> .
+<http://www.giantbomb.com/resident-evil-deadly-silence/3030-377/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Kevin-Dooley/3005-14713/#character> .

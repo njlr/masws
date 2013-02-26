@@ -1,0 +1,5 @@
+<http://www.giantbomb.com/ty/3005-32/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/ty/3005-32/#character> <http://xmlns.com/foaf/0.1/#name> "Ty" .
+<http://www.giantbomb.com/ty/3005-32/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/ty/3005-32/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Buzz/3005-333/#character> .
+<http://www.giantbomb.com/ty/3005-32/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kato/3005-215/#character> .

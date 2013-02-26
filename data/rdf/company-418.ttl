@@ -1,0 +1,8 @@
+<http://www.giantbomb.com/adrenalin-entertainment/3010-418/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/adrenalin-entertainment/3010-418/#company> <http://xmlns.com/foaf/0.1/#name> "Adrenalin Entertainment" .
+<http://www.giantbomb.com/adrenalin-entertainment/3010-418/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/brunswick-circuit-pro-bowling/3030-278/#game> .
+<http://www.giantbomb.com/adrenalin-entertainment/3010-418/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/doom-troopers-mutant-chronicles/3030-1713/#game> .
+<http://www.giantbomb.com/adrenalin-entertainment/3010-418/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-flintstones-bedrock-bowling/3030-10521/#game> .
+<http://www.giantbomb.com/adrenalin-entertainment/3010-418/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/into-the-void/3030-3768/#game> .
+<http://www.giantbomb.com/adrenalin-entertainment/3010-418/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ten-pin-alley/3030-16781/#game> .
+<http://www.giantbomb.com/adrenalin-entertainment/3010-418/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sports-trivia/3030-25701/#game> .

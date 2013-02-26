@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/ugg/3005-80/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/ugg/3005-80/#character> <http://xmlns.com/foaf/0.1/#name> "Ugg" .
+<http://www.giantbomb.com/ugg/3005-80/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
+<http://www.giantbomb.com/ugg/3005-80/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Coily/3005-318/#character> .
+<http://www.giantbomb.com/ugg/3005-80/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Wrong-Way/3005-8/#character> .
+<http://www.giantbomb.com/ugg/3005-80/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Q*Bert/3005-128/#character> .

@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://xmlns.com/foaf/0.1/#name> "SCEE Studio Soho" .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-getaway/3030-1470/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/porsche-challenge/3030-14990/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rapid-racer/3030-19988/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spice-world/3030-7919/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/this-is-football/3030-13754/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/this-is-football-2/3030-1050/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-tour-soccer-2002/3030-15964/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-tour-soccer-2003/3030-2659/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fired-up/3030-21166/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-getaway-black-monday/3030-14785/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-getaway-3/3030-27762/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/this-is-football-2002/3030-29401/#game> .
+<http://www.giantbomb.com/scee-studio-soho/3010-1137/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gangs-of-london/3030-20591/#game> .

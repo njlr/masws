@@ -1,0 +1,16 @@
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://xmlns.com/foaf/0.1/#name> "JVC Musical Industries, Inc." .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/choplifter-ii-rescue-survive/3030-111/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/brahma-force-the-assault-on-beltlogger-9/3030-5002/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/defenders-of-dynatron-city/3030-7157/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dungeon-master/3030-18518/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/heimdall/3030-6498/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/impact-racing/3030-3920/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/indiana-jones-greatest-adventures/3030-6329/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-star-wars-the-empire-strikes-back/3030-8627/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/big-sky-trooper/3030-14764/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ah-3-thunderstrike/3030-10815/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-star-wars-return-of-the-jedi/3030-4692/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/star-wars/3030-54/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dungeon-master-ii-the-legend-of-skullkeep/3030-15771/#game> .
+<http://www.giantbomb.com/jvc-musical-industries-inc/3010-195/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wing-over/3030-28069/#game> .

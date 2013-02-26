@@ -1,0 +1,6 @@
+<http://www.giantbomb.com/jakks-pacific-inc/3010-1903/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/jakks-pacific-inc/3010-1903/#company> <http://xmlns.com/foaf/0.1/#name> "JAKKS Pacific, Inc" .
+<http://www.giantbomb.com/jakks-pacific-inc/3010-1903/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wwe-wrestlemania-xix/3030-16374/#game> .
+<http://www.giantbomb.com/jakks-pacific-inc/3010-1903/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wwf-betrayal/3030-24982/#game> .
+<http://www.giantbomb.com/jakks-pacific-inc/3010-1903/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wwf-raw/3030-27639/#game> .
+<http://www.giantbomb.com/jakks-pacific-inc/3010-1903/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mortal-kombat/3030-15743/#game> .

@@ -1,0 +1,17 @@
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <http://xmlns.com/foaf/0.1/#name> "Emperor Uriel Septim VII" .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Martin-Septim/3005-1991/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jauffre/3005-6041/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Baurus/3005-5760/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Tiber-Septim/3005-9631/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/King-Helseth/3005-9638/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/High-Chancellor-Ocato/3005-15524/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Nerevarine/3005-15608/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/The-Hero-of-Kvatch/3005-15959/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Glenroy/3005-21356/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mehrunes-Dagon/3005-2931/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mankar-Camoran/3005-6178/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Jagar-Tharn/3005-7267/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Astav-Wirich/3005-7778/#character> .
+<http://www.giantbomb.com/emperor-uriel-septim-vii/3005-289/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Else-God-Hater/3005-7907/#character> .

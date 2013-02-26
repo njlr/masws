@@ -1,0 +1,15 @@
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://xmlns.com/foaf/0.1/#name> "Arena Entertainment" .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alien3/3030-14356/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/back-to-the-future-part-iii/3030-12919/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/battle-master/3030-24007/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nba-jam/3030-16928/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/predator-2/3030-10343/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-high-impact/3030-1243/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/t2-the-arcade-game/3030-19571/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wwf-rage-in-the-cage/3030-22268/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/predator-2/3030-10343/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/back-to-the-future-part-iii/3030-12919/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/alien3/3030-14356/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/wwf-rage-in-the-cage/3030-22268/#game> .
+<http://www.giantbomb.com/arena-entertainment/3010-432/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/speedball-2-brutal-deluxe/3030-289/#game> .
