@@ -28,4 +28,8 @@
 <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.w3.org/2000/01/rdf-schema#domain> <http://dbpedia.org/ontology/FictionalCharacter> .
 <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/ontology/FictionalCharacter> .
 
+# features
+<https://github.com/nlr/masws/blob/master/vocab#features> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
 
+<https://github.com/nlr/masws/blob/master/vocab#features> <http://www.w3.org/2000/01/rdf-schema#domain> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<https://github.com/nlr/masws/blob/master/vocab#features> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/ontology/FictionalCharacter> .
