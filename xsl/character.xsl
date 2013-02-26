@@ -79,8 +79,8 @@
     <xsl:variable name="clean-name">
         <xsl:call-template name="clean-name">
             <xsl:with-param name="name" select="name"/>
-        </xsl:call-template>
-    </xsl:variable>
+        </xsl:call-template> 
+    </xsl:variable> 
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#friend>'"/>
