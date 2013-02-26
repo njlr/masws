@@ -12,6 +12,11 @@
 </xsl:template>
 
 <xsl:template match="entry">
+    <xsl:call-template name="statement">
+        <xsl:with-param name="subject" select="$uri"/>
+        <xsl:with-param name="predicate" select="'&lt;http://www.w3.org/TR/rdf-schema/#type>'"/>
+        <xsl:with-param name="object" select="'&lt;http://es.dbpedia.org/ontology/FictionalCharacter>'"/>
+    </xsl:call-template>
     <xsl:apply-templates select="name"/>
     <xsl:apply-templates select="gender"/>
     <xsl:apply-templates select="friends"/>

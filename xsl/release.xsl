@@ -12,6 +12,11 @@
 </xsl:template>
 
 <xsl:template match="entry">
+    <xsl:call-template name="statement">
+        <xsl:with-param name="subject" select="$uri"/>
+        <xsl:with-param name="predicate" select="'&lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type>'"/>
+        <xsl:with-param name="object" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#release>'"/>
+    </xsl:call-template>
     <xsl:apply-templates select="game"/>
     <xsl:apply-templates select="region"/>
     <xsl:apply-templates select="release_date"/>
@@ -38,7 +43,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;http://owl.mindswap.org/2003/ont/owlweb#softwareReleaseDate>'"/>
+        <xsl:with-param name="predicate" select="'&lt;http://dbpedia.org/ontology/releaseDate>'"/>
         <xsl:with-param name="object" select="$date"/>
     </xsl:call-template>
 </xsl:template>
@@ -53,7 +58,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#releasedIn>'"/>
+        <xsl:with-param name="predicate" select="'&lt;http://dbpedia.org/property/location>'"/>
         <xsl:with-param name="object" select="$clean-name"/>
     </xsl:call-template>
 </xsl:template>
