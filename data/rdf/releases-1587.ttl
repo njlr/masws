@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/barneys-hide-and-seek-game/3030-1587/releases/#toc-release-91689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/barneys-hide-and-seek-game/3030-1587/releases/#toc-release-91689> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Barney's-Hide-and-Seek-Game/3030-1587/#game> .
+<http://www.giantbomb.com/barneys-hide-and-seek-game/3030-1587/releases/#toc-release-91689> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/barneys-hide-and-seek-game/3030-1587/releases/#toc-release-91689> <http://dbpedia.org/ontology/releaseDate> "" .

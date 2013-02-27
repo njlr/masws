@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/taxi-racer/3030-190/releases/#toc-release-94956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/taxi-racer/3030-190/releases/#toc-release-94956> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Taxi-Racer/3030-190/#game> .
+<http://www.giantbomb.com/taxi-racer/3030-190/releases/#toc-release-94956> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/taxi-racer/3030-190/releases/#toc-release-94956> <http://dbpedia.org/ontology/releaseDate> "2001-03-01" .

@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/captain-rose/3005-970/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/captain-rose/3005-970/#character> <http://xmlns.com/foaf/0.1/#name> "Captain Rose" .
 <http://www.giantbomb.com/captain-rose/3005-970/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/captain-rose/3005-970/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Wiki/3005-764/#character> .
-<http://www.giantbomb.com/captain-rose/3005-970/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Zack/3005-775/#character> .
-<http://www.giantbomb.com/captain-rose/3005-970/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Johnny-Style/3005-977/#character> .
-<http://www.giantbomb.com/captain-rose/3005-970/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Barbaros/3005-10374/#character> .
+<http://www.giantbomb.com/captain-rose/3005-970/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Wiki/3005-764/#character> .
+<http://www.giantbomb.com/captain-rose/3005-970/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Zack/3005-775/#character> .
+<http://www.giantbomb.com/captain-rose/3005-970/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Johnny-Style/3005-977/#character> .
+<http://www.giantbomb.com/captain-rose/3005-970/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Barbaros/3005-10374/#character> .

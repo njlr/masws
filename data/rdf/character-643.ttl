@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/drizzt-dourden/3005-643/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/drizzt-dourden/3005-643/#character> <http://xmlns.com/foaf/0.1/#name> "Drizzt Do'Urden" .
 <http://www.giantbomb.com/drizzt-dourden/3005-643/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/drizzt-dourden/3005-643/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Wulfgar/3005-3502/#character> .
-<http://www.giantbomb.com/drizzt-dourden/3005-643/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Guenhwyvar/3005-13354/#character> .
-<http://www.giantbomb.com/drizzt-dourden/3005-643/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Artemis-Entreri/3005-2890/#character> .
+<http://www.giantbomb.com/drizzt-dourden/3005-643/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Wulfgar/3005-3502/#character> .
+<http://www.giantbomb.com/drizzt-dourden/3005-643/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Guenhwyvar/3005-13354/#character> .
+<http://www.giantbomb.com/drizzt-dourden/3005-643/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Artemis-Entreri/3005-2890/#character> .

@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/giddy-3-the-retro-eggsperience/3030-219/releases/#toc-release-626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/giddy-3-the-retro-eggsperience/3030-219/releases/#toc-release-626> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Giddy-3:-The-Retro-Eggsperience/3030-219/#game> .
+<http://www.giantbomb.com/giddy-3-the-retro-eggsperience/3030-219/releases/#toc-release-626> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/giddy-3-the-retro-eggsperience/3030-219/releases/#toc-release-626> <http://dbpedia.org/ontology/releaseDate> "2000-01-01" .

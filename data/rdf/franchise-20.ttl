@@ -1,8 +1,8 @@
-<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <http://xmlns.com/foaf/0.1/#name> "AFL Premiership" .
-<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/AFL-Premiership-2005/3030-9699/#game> .
-<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/AFL-Premiership-2006/3030-17674/#game> .
-<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/AFL-Premiership-2007/3030-18812/#game> .
-<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/AFL-Mascot-Manor/3030-27154/#game> .
-<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/AFL-Premiership-Coach-2011/3030-34790/#game> .
-<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/AFL-Premiership-Coach-2010/3030-34789/#game> .
+<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/AFL-Premiership-2005/3030-9699/#game> .
+<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/AFL-Premiership-2006/3030-17674/#game> .
+<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/AFL-Premiership-2007/3030-18812/#game> .
+<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/AFL-Mascot-Manor/3030-27154/#game> .
+<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/AFL-Premiership-Coach-2011/3030-34790/#game> .
+<http://www.giantbomb.com/afl-premiership/3025-20/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/AFL-Premiership-Coach-2010/3030-34789/#game> .

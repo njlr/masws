@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/splatterhouse-3/3030-534/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/splatterhouse-3/3030-534/#game> <http://xmlns.com/foaf/0.1/#name> "Splatterhouse 3" .
-<http://www.giantbomb.com/splatterhouse-3/3030-534/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Rick-Taylor/3005-4768/#character> .
-<http://www.giantbomb.com/splatterhouse-3/3030-534/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Jennifer-Willis/3005-17262/#character> .
+<http://www.giantbomb.com/splatterhouse-3/3030-534/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Rick-Taylor/3005-4768/#character> .
+<http://www.giantbomb.com/splatterhouse-3/3030-534/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Jennifer-Willis/3005-17262/#character> .

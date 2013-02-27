@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/lunicus/3030-4742/releases/#toc-release-97795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/lunicus/3030-4742/releases/#toc-release-97795> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Lunicus/3030-4742/#game> .
+<http://www.giantbomb.com/lunicus/3030-4742/releases/#toc-release-97795> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/lunicus/3030-4742/releases/#toc-release-97795> <http://dbpedia.org/ontology/releaseDate> "1993-06-01" .

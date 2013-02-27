@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/sonic-jam/3030-2391/releases/#toc-release-118093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/sonic-jam/3030-2391/releases/#toc-release-118093> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Sonic-Jam/3030-2391/#game> .
+<http://www.giantbomb.com/sonic-jam/3030-2391/releases/#toc-release-118093> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/sonic-jam/3030-2391/releases/#toc-release-118093> <http://dbpedia.org/ontology/releaseDate> "1997-07-31" .

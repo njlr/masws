@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/the-crackwell-legacy/3030-51/releases/#toc-release-144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/the-crackwell-legacy/3030-51/releases/#toc-release-144> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Crackwell-Legacy/3030-51/#game> .
+<http://www.giantbomb.com/the-crackwell-legacy/3030-51/releases/#toc-release-144> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/the-crackwell-legacy/3030-51/releases/#toc-release-144> <http://dbpedia.org/ontology/releaseDate> "2007-07-02" .

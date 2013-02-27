@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/cutter-slade/3005-752/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/cutter-slade/3005-752/#character> <http://xmlns.com/foaf/0.1/#name> "Cutter Slade" .
 <http://www.giantbomb.com/cutter-slade/3005-752/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Marion-Wolfe/3005-9000/#character> .
-<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/William-Kauffman/3005-9096/#character> .
-<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Zokrim/3005-9545/#character> .
-<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jan/3005-9546/#character> .
-<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Shamaz-Zeb/3005-9587/#character> .
-<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Anthony-Xue/3005-9124/#character> .
+<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Marion-Wolfe/3005-9000/#character> .
+<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/William-Kauffman/3005-9096/#character> .
+<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Zokrim/3005-9545/#character> .
+<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Jan/3005-9546/#character> .
+<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Shamaz-Zeb/3005-9587/#character> .
+<http://www.giantbomb.com/cutter-slade/3005-752/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Anthony-Xue/3005-9124/#character> .

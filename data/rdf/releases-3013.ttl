@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/namco-museum/3030-3013/releases/#toc-release-107596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/namco-museum/3030-3013/releases/#toc-release-107596> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Namco-Museum/3030-3013/#game> .
+<http://www.giantbomb.com/namco-museum/3030-3013/releases/#toc-release-107596> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/namco-museum/3030-3013/releases/#toc-release-107596> <http://dbpedia.org/ontology/releaseDate> "2002-10-08" .

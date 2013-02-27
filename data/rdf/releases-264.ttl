@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-s-kurukkurin/3030-264/releases/#toc-release-105073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-s-kurukkurin/3030-264/releases/#toc-release-105073> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Bishoujo-Senshi-Sailor-Moon-S:-Kurukkurin/3030-264/#game> .
+<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-s-kurukkurin/3030-264/releases/#toc-release-105073> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-s-kurukkurin/3030-264/releases/#toc-release-105073> <http://dbpedia.org/ontology/releaseDate> "1995-02-24" .

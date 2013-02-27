@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/mark-henry/3005-575/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/mark-henry/3005-575/#character> <http://xmlns.com/foaf/0.1/#name> "Mark Henry" .
 <http://www.giantbomb.com/mark-henry/3005-575/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/mark-henry/3005-575/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/D'Lo-Brown/3005-565/#character> .
-<http://www.giantbomb.com/mark-henry/3005-575/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Montel-Vontavious-Porter/3005-588/#character> .
-<http://www.giantbomb.com/mark-henry/3005-575/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/The-Miz/3005-3483/#character> .
+<http://www.giantbomb.com/mark-henry/3005-575/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/D'Lo-Brown/3005-565/#character> .
+<http://www.giantbomb.com/mark-henry/3005-575/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Montel-Vontavious-Porter/3005-588/#character> .
+<http://www.giantbomb.com/mark-henry/3005-575/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/The-Miz/3005-3483/#character> .

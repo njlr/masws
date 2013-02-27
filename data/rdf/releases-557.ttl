@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/wcw-vs-the-world/3030-557/releases/#toc-release-77014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/wcw-vs-the-world/3030-557/releases/#toc-release-77014> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/WCW-vs-the-World/3030-557/#game> .
+<http://www.giantbomb.com/wcw-vs-the-world/3030-557/releases/#toc-release-77014> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/wcw-vs-the-world/3030-557/releases/#toc-release-77014> <http://dbpedia.org/ontology/releaseDate> "1997-02-28" .

@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <http://xmlns.com/foaf/0.1/#name> "Sonic Advance 2" .
-<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Sonic-the-Hedgehog/3005-73/#character> .
-<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Knuckles/3005-204/#character> .
-<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Tails/3005-45/#character> .
-<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Amy-Rose/3005-948/#character> .
-<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Dr-Robotnik/3005-293/#character> .
-<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Cream-the-Rabbit/3005-4691/#character> .
-<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Cheese-the-Chao/3005-21156/#character> .
+<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Sonic-the-Hedgehog/3005-73/#character> .
+<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Knuckles/3005-204/#character> .
+<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Tails/3005-45/#character> .
+<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Amy-Rose/3005-948/#character> .
+<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Dr-Robotnik/3005-293/#character> .
+<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Cream-the-Rabbit/3005-4691/#character> .
+<http://www.giantbomb.com/sonic-advance-2/3030-66/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Cheese-the-Chao/3005-21156/#character> .

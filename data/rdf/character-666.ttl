@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/tex-murphy/3005-666/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/tex-murphy/3005-666/#character> <http://xmlns.com/foaf/0.1/#name> "Tex Murphy" .
 <http://www.giantbomb.com/tex-murphy/3005-666/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/tex-murphy/3005-666/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Chelsee-Bando/3005-11770/#character> .
-<http://www.giantbomb.com/tex-murphy/3005-666/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Louie-LaMintz/3005-11771/#character> .
-<http://www.giantbomb.com/tex-murphy/3005-666/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Rook-Garner/3005-11788/#character> .
-<http://www.giantbomb.com/tex-murphy/3005-666/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/The-Chameleon/3005-11780/#character> .
+<http://www.giantbomb.com/tex-murphy/3005-666/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Chelsee-Bando/3005-11770/#character> .
+<http://www.giantbomb.com/tex-murphy/3005-666/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Louie-LaMintz/3005-11771/#character> .
+<http://www.giantbomb.com/tex-murphy/3005-666/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Rook-Garner/3005-11788/#character> .
+<http://www.giantbomb.com/tex-murphy/3005-666/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/The-Chameleon/3005-11780/#character> .

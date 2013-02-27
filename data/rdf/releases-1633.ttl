@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/springer/3030-1633/releases/#toc-release-4309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/springer/3030-1633/releases/#toc-release-4309> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Springer/3030-1633/#game> .
+<http://www.giantbomb.com/springer/3030-1633/releases/#toc-release-4309> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/springer/3030-1633/releases/#toc-release-4309> <http://dbpedia.org/ontology/releaseDate> "2001-01-01" .

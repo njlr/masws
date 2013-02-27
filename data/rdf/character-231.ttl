@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/jet/3005-231/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/jet/3005-231/#character> <http://xmlns.com/foaf/0.1/#name> "Jet" .
 <http://www.giantbomb.com/jet/3005-231/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/jet/3005-231/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bif/3005-130/#character> .
+<http://www.giantbomb.com/jet/3005-231/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Bif/3005-130/#character> .

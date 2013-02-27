@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/super-bomberman-5/3030-3354/releases/#toc-release-121418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/super-bomberman-5/3030-3354/releases/#toc-release-121418> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Super-Bomberman-5/3030-3354/#game> .
+<http://www.giantbomb.com/super-bomberman-5/3030-3354/releases/#toc-release-121418> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/super-bomberman-5/3030-3354/releases/#toc-release-121418> <http://dbpedia.org/ontology/releaseDate> "1997-02-28" .

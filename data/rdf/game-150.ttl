@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <http://xmlns.com/foaf/0.1/#name> "Captain Planet and the Planeteers" .
-<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Kwame/3005-3079/#character> .
-<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Wheeler/3005-3080/#character> .
-<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Linka/3005-3081/#character> .
-<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Captain-Planet/3005-2619/#character> .
-<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Ma-Ti/3005-3084/#character> .
-<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Gi/3005-3082/#character> .
-<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Gaia/3005-1317/#character> .
+<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Kwame/3005-3079/#character> .
+<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Wheeler/3005-3080/#character> .
+<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Linka/3005-3081/#character> .
+<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Captain-Planet/3005-2619/#character> .
+<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Ma-Ti/3005-3084/#character> .
+<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Gi/3005-3082/#character> .
+<http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-150/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Gaia/3005-1317/#character> .

@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/rudy-the-clown/3005-759/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/rudy-the-clown/3005-759/#character> <http://xmlns.com/foaf/0.1/#name> "Rudy The Clown" .
 <http://www.giantbomb.com/rudy-the-clown/3005-759/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/rudy-the-clown/3005-759/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mario/3005-177/#character> .
-<http://www.giantbomb.com/rudy-the-clown/3005-759/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Wario/3005-24/#character> .
+<http://www.giantbomb.com/rudy-the-clown/3005-759/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Mario/3005-177/#character> .
+<http://www.giantbomb.com/rudy-the-clown/3005-759/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Wario/3005-24/#character> .

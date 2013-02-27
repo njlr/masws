@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/torrie-wilson/3005-608/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/torrie-wilson/3005-608/#character> <http://xmlns.com/foaf/0.1/#name> "Torrie Wilson" .
 <http://www.giantbomb.com/torrie-wilson/3005-608/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/torrie-wilson/3005-608/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Maria-Kanellis/3005-5107/#character> .
-<http://www.giantbomb.com/torrie-wilson/3005-608/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Trish-Stratus/3005-5069/#character> .
-<http://www.giantbomb.com/torrie-wilson/3005-608/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Stacy-Keibler/3005-2247/#character> .
-<http://www.giantbomb.com/torrie-wilson/3005-608/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Candice-Michelle/3005-613/#character> .
+<http://www.giantbomb.com/torrie-wilson/3005-608/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Maria-Kanellis/3005-5107/#character> .
+<http://www.giantbomb.com/torrie-wilson/3005-608/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Trish-Stratus/3005-5069/#character> .
+<http://www.giantbomb.com/torrie-wilson/3005-608/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Stacy-Keibler/3005-2247/#character> .
+<http://www.giantbomb.com/torrie-wilson/3005-608/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Candice-Michelle/3005-613/#character> .

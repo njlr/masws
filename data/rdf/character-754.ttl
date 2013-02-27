@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/captain-syrup/3005-754/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/captain-syrup/3005-754/#character> <http://xmlns.com/foaf/0.1/#name> "Captain Syrup" .
 <http://www.giantbomb.com/captain-syrup/3005-754/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bobo/3005-8914/#character> .
-<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Queen-Merelda/3005-8244/#character> .
-<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Ball-Bunny/3005-8911/#character> .
-<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Wario/3005-24/#character> .
-<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Shake-King/3005-7787/#character> .
+<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Bobo/3005-8914/#character> .
+<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Queen-Merelda/3005-8244/#character> .
+<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Ball-Bunny/3005-8911/#character> .
+<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Wario/3005-24/#character> .
+<http://www.giantbomb.com/captain-syrup/3005-754/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Shake-King/3005-7787/#character> .

@@ -1,8 +1,8 @@
-<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <http://xmlns.com/foaf/0.1/#name> "Animal Crossing" .
-<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Animal-Crossing:-Wild-World/3030-9238/#game> .
-<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Animal-Crossing/3030-12893/#game> .
-<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Animal-Crossing:-City-Folk/3030-21096/#game> .
-<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Animal-Crossing-Calculator/3030-26360/#game> .
-<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Animal-Crossing-Clock/3030-26361/#game> .
-<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Animal-Crossing:-New-Leaf/3030-31752/#game> .
+<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Animal-Crossing:-Wild-World/3030-9238/#game> .
+<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Animal-Crossing/3030-12893/#game> .
+<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Animal-Crossing:-City-Folk/3030-21096/#game> .
+<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Animal-Crossing-Calculator/3030-26360/#game> .
+<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Animal-Crossing-Clock/3030-26361/#game> .
+<http://www.giantbomb.com/animal-crossing/3025-32/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Animal-Crossing:-New-Leaf/3030-31752/#game> .

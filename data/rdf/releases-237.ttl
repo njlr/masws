@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/fireworks-extravaganza/3030-237/releases/#toc-release-701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/fireworks-extravaganza/3030-237/releases/#toc-release-701> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Fireworks-Extravaganza/3030-237/#game> .
+<http://www.giantbomb.com/fireworks-extravaganza/3030-237/releases/#toc-release-701> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/fireworks-extravaganza/3030-237/releases/#toc-release-701> <http://dbpedia.org/ontology/releaseDate> "2005-09-26" .

@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/shadow-madness/3030-3592/releases/#toc-release-80775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/shadow-madness/3030-3592/releases/#toc-release-80775> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Shadow-Madness/3030-3592/#game> .
+<http://www.giantbomb.com/shadow-madness/3030-3592/releases/#toc-release-80775> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/shadow-madness/3030-3592/releases/#toc-release-80775> <http://dbpedia.org/ontology/releaseDate> "1999-04-30" .

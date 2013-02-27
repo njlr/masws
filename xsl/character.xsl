@@ -83,7 +83,7 @@
     </xsl:variable> 
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#friend>'"/>
+        <xsl:with-param name="predicate" select="'&lt;https://raw.github.com/nlr/masws/master/vocab.n3#friend>'"/>
         <xsl:with-param name="object" select="concat(concat(concat(concat('&lt;http://www.giantbomb.com/', $clean-name), '/3005-'), id), '/#character>')"/>
     </xsl:call-template>
 </xsl:template>
@@ -100,7 +100,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#foe>'"/>
+        <xsl:with-param name="predicate" select="'&lt;https://raw.github.com/nlr/masws/master/vocab.n3#foe>'"/>
         <xsl:with-param name="object" select="concat(concat(concat(concat('&lt;http://www.giantbomb.com/', $clean-name), '/3005-'), id), '/#character>')"/>
     </xsl:call-template>
 </xsl:template>

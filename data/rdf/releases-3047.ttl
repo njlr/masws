@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/the-oracle/3030-3047/releases/#toc-release-8057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/the-oracle/3030-3047/releases/#toc-release-8057> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Oracle/3030-3047/#game> .
+<http://www.giantbomb.com/the-oracle/3030-3047/releases/#toc-release-8057> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/the-oracle/3030-3047/releases/#toc-release-8057> <http://dbpedia.org/ontology/releaseDate> "2006-06-26" .

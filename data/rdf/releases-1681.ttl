@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/one-piece-mansion/3030-1681/releases/#toc-release-93695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/one-piece-mansion/3030-1681/releases/#toc-release-93695> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/One-Piece-Mansion/3030-1681/#game> .
+<http://www.giantbomb.com/one-piece-mansion/3030-1681/releases/#toc-release-93695> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/one-piece-mansion/3030-1681/releases/#toc-release-93695> <http://dbpedia.org/ontology/releaseDate> "2001-09-26" .

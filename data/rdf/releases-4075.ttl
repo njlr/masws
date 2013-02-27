@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/wing-arms/3030-4075/releases/#toc-release-104932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/wing-arms/3030-4075/releases/#toc-release-104932> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Wing-Arms/3030-4075/#game> .
+<http://www.giantbomb.com/wing-arms/3030-4075/releases/#toc-release-104932> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/wing-arms/3030-4075/releases/#toc-release-104932> <http://dbpedia.org/ontology/releaseDate> "1995-09-29" .

@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/halls-of-the-dead-faery-tale-adventure-ii/3030-2553/releases/#toc-release-76802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/halls-of-the-dead-faery-tale-adventure-ii/3030-2553/releases/#toc-release-76802> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Halls-of-the-Dead:-Faery-Tale-Adventure-II/3030-2553/#game> .
+<http://www.giantbomb.com/halls-of-the-dead-faery-tale-adventure-ii/3030-2553/releases/#toc-release-76802> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/halls-of-the-dead-faery-tale-adventure-ii/3030-2553/releases/#toc-release-76802> <http://dbpedia.org/ontology/releaseDate> "1997-01-01" .

@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/elise-riggs/3005-857/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/elise-riggs/3005-857/#character> <http://xmlns.com/foaf/0.1/#name> "Elise Riggs" .
 <http://www.giantbomb.com/elise-riggs/3005-857/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Eddie-Wachowski/3005-313/#character> .
-<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/JP-Arsenault/3005-19169/#character> .
-<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Alex-Moreau/3005-20089/#character> .
-<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Zoe-Payne/3005-14599/#character> .
-<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Allegra-Sauvagess/3005-345/#character> .
+<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Eddie-Wachowski/3005-313/#character> .
+<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/JP-Arsenault/3005-19169/#character> .
+<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Alex-Moreau/3005-20089/#character> .
+<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Zoe-Payne/3005-14599/#character> .
+<http://www.giantbomb.com/elise-riggs/3005-857/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Allegra-Sauvagess/3005-345/#character> .

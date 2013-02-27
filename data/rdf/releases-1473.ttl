@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/english-training-have-fun-improving-your-skills/3030-1473/releases/#toc-release-111059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/english-training-have-fun-improving-your-skills/3030-1473/releases/#toc-release-111059> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/English-Training:-Have-Fun-Improving-Your-Skills/3030-1473/#game> .
+<http://www.giantbomb.com/english-training-have-fun-improving-your-skills/3030-1473/releases/#toc-release-111059> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/english-training-have-fun-improving-your-skills/3030-1473/releases/#toc-release-111059> <http://dbpedia.org/ontology/releaseDate> "2006-10-27" .

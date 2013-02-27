@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/bass-armstrong/3005-506/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/bass-armstrong/3005-506/#character> <http://xmlns.com/foaf/0.1/#name> "Bass Armstrong" .
 <http://www.giantbomb.com/bass-armstrong/3005-506/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/bass-armstrong/3005-506/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Tina-Armstrong/3005-505/#character> .
-<http://www.giantbomb.com/bass-armstrong/3005-506/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Rig/3005-23542/#character> .
-<http://www.giantbomb.com/bass-armstrong/3005-506/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Zack/3005-503/#character> .
+<http://www.giantbomb.com/bass-armstrong/3005-506/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Tina-Armstrong/3005-505/#character> .
+<http://www.giantbomb.com/bass-armstrong/3005-506/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Rig/3005-23542/#character> .
+<http://www.giantbomb.com/bass-armstrong/3005-506/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Zack/3005-503/#character> .

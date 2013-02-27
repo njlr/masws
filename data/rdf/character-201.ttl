@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/konoko/3005-201/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/konoko/3005-201/#character> <http://xmlns.com/foaf/0.1/#name> "Konoko" .
 <http://www.giantbomb.com/konoko/3005-201/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/konoko/3005-201/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Shinatama/3005-5055/#character> .
-<http://www.giantbomb.com/konoko/3005-201/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Muro/3005-3000/#character> .
+<http://www.giantbomb.com/konoko/3005-201/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Shinatama/3005-5055/#character> .
+<http://www.giantbomb.com/konoko/3005-201/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Muro/3005-3000/#character> .

@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/nekketsu-beach-volley-da-yo-kunio-kun/3030-303/releases/#toc-release-100068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/nekketsu-beach-volley-da-yo-kunio-kun/3030-303/releases/#toc-release-100068> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Nekketsu!-Beach-Volley-da-yo-Kunio-kun/3030-303/#game> .
+<http://www.giantbomb.com/nekketsu-beach-volley-da-yo-kunio-kun/3030-303/releases/#toc-release-100068> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/nekketsu-beach-volley-da-yo-kunio-kun/3030-303/releases/#toc-release-100068> <http://dbpedia.org/ontology/releaseDate> "1994-07-29" .

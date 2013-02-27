@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <http://xmlns.com/foaf/0.1/#name> "King's Quest IV: The Perils of Rosella" .
-<http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/King-Graham/3005-3382/#character> .
-<http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Rosella/3005-3057/#character> .
-<http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Queen-Valanice/3005-3383/#character> .
-<http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Prince-Alexander/3005-3549/#character> .
+<http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/King-Graham/3005-3382/#character> .
+<http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Rosella/3005-3057/#character> .
+<http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Queen-Valanice/3005-3383/#character> .
+<http://www.giantbomb.com/kings-quest-iv-the-perils-of-rosella/3030-409/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Prince-Alexander/3005-3549/#character> .

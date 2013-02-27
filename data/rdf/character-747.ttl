@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/galak-fyyar/3005-747/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/galak-fyyar/3005-747/#character> <http://xmlns.com/foaf/0.1/#name> "Galak Fyyar" .
 <http://www.giantbomb.com/galak-fyyar/3005-747/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/galak-fyyar/3005-747/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Desann/3005-743/#character> .
-<http://www.giantbomb.com/galak-fyyar/3005-747/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Tavion-Axmis/3005-760/#character> .
-<http://www.giantbomb.com/galak-fyyar/3005-747/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Jan-Ors/3005-734/#character> .
-<http://www.giantbomb.com/galak-fyyar/3005-747/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kyle-Katarn/3005-721/#character> .
+<http://www.giantbomb.com/galak-fyyar/3005-747/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Desann/3005-743/#character> .
+<http://www.giantbomb.com/galak-fyyar/3005-747/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Tavion-Axmis/3005-760/#character> .
+<http://www.giantbomb.com/galak-fyyar/3005-747/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Jan-Ors/3005-734/#character> .
+<http://www.giantbomb.com/galak-fyyar/3005-747/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Kyle-Katarn/3005-721/#character> .

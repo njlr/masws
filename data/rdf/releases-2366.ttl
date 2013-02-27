@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/the-amazing-adventures-of-lucy-lavender/3030-2366/releases/#toc-release-6283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/the-amazing-adventures-of-lucy-lavender/3030-2366/releases/#toc-release-6283> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Amazing-Adventures-of-Lucy-Lavender/3030-2366/#game> .
+<http://www.giantbomb.com/the-amazing-adventures-of-lucy-lavender/3030-2366/releases/#toc-release-6283> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/the-amazing-adventures-of-lucy-lavender/3030-2366/releases/#toc-release-6283> <http://dbpedia.org/ontology/releaseDate> "2003-09-06" .

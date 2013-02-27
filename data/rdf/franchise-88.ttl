@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/chameleon-twist/3025-88/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/chameleon-twist/3025-88/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/chameleon-twist/3025-88/#franchise> <http://xmlns.com/foaf/0.1/#name> "Chameleon Twist" .
-<http://www.giantbomb.com/chameleon-twist/3025-88/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Chameleon-Twist/3030-8523/#game> .
-<http://www.giantbomb.com/chameleon-twist/3025-88/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Chameleon-Twist-2/3030-15991/#game> .
+<http://www.giantbomb.com/chameleon-twist/3025-88/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Chameleon-Twist/3030-8523/#game> .
+<http://www.giantbomb.com/chameleon-twist/3025-88/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Chameleon-Twist-2/3030-15991/#game> .

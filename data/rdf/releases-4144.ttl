@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/lost-in-the-nightmare/3030-4144/releases/#toc-release-10758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/lost-in-the-nightmare/3030-4144/releases/#toc-release-10758> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Lost-in-the-Nightmare/3030-4144/#game> .
+<http://www.giantbomb.com/lost-in-the-nightmare/3030-4144/releases/#toc-release-10758> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/lost-in-the-nightmare/3030-4144/releases/#toc-release-10758> <http://dbpedia.org/ontology/releaseDate> "2005-11-07" .

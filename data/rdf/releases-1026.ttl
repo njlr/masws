@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/funky-mouse/3030-1026/releases/#toc-release-110025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/funky-mouse/3030-1026/releases/#toc-release-110025> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Funky-Mouse/3030-1026/#game> .
+<http://www.giantbomb.com/funky-mouse/3030-1026/releases/#toc-release-110025> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/funky-mouse/3030-1026/releases/#toc-release-110025> <http://dbpedia.org/ontology/releaseDate> "1984-01-01" .

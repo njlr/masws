@@ -1,5 +1,5 @@
-<http://www.giantbomb.com/airforce-delta/3025-23/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/airforce-delta/3025-23/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/airforce-delta/3025-23/#franchise> <http://xmlns.com/foaf/0.1/#name> "AirForce Delta" .
-<http://www.giantbomb.com/airforce-delta/3025-23/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/AirForce-Delta/3030-7790/#game> .
-<http://www.giantbomb.com/airforce-delta/3025-23/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/AirForce-Delta-Storm/3030-11494/#game> .
-<http://www.giantbomb.com/airforce-delta/3025-23/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/AirForce-Delta-Strike/3030-26515/#game> .
+<http://www.giantbomb.com/airforce-delta/3025-23/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/AirForce-Delta/3030-7790/#game> .
+<http://www.giantbomb.com/airforce-delta/3025-23/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/AirForce-Delta-Storm/3030-11494/#game> .
+<http://www.giantbomb.com/airforce-delta/3025-23/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/AirForce-Delta-Strike/3030-26515/#game> .

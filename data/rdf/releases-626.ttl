@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/vixen/3030-626/releases/#toc-release-98252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/vixen/3030-626/releases/#toc-release-98252> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Vixen/3030-626/#game> .
+<http://www.giantbomb.com/vixen/3030-626/releases/#toc-release-98252> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/vixen/3030-626/releases/#toc-release-98252> <http://dbpedia.org/ontology/releaseDate> "1990-01-01" .

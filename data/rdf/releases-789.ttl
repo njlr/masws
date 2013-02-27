@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/ring-the-legend-of-the-nibelungen/3030-789/releases/#toc-release-112124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/ring-the-legend-of-the-nibelungen/3030-789/releases/#toc-release-112124> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Ring:-The-Legend-of-the-Nibelungen/3030-789/#game> .
+<http://www.giantbomb.com/ring-the-legend-of-the-nibelungen/3030-789/releases/#toc-release-112124> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/ring-the-legend-of-the-nibelungen/3030-789/releases/#toc-release-112124> <http://dbpedia.org/ontology/releaseDate> "1999-06-30" .

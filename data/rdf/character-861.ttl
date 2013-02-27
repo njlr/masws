@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/roger-wilco/3005-861/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/roger-wilco/3005-861/#character> <http://xmlns.com/foaf/0.1/#name> "Roger Wilco" .
 <http://www.giantbomb.com/roger-wilco/3005-861/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/roger-wilco/3005-861/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Beatrice-Wankmeister/3005-2402/#character> .
-<http://www.giantbomb.com/roger-wilco/3005-861/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Arnoid-The-Annihilator/3005-2406/#character> .
-<http://www.giantbomb.com/roger-wilco/3005-861/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Sludge-Vohaul/3005-2396/#character> .
+<http://www.giantbomb.com/roger-wilco/3005-861/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Beatrice-Wankmeister/3005-2402/#character> .
+<http://www.giantbomb.com/roger-wilco/3005-861/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Arnoid-The-Annihilator/3005-2406/#character> .
+<http://www.giantbomb.com/roger-wilco/3005-861/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Sludge-Vohaul/3005-2396/#character> .

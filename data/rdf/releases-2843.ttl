@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/sentry/3030-2843/releases/#toc-release-7501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/sentry/3030-2843/releases/#toc-release-7501> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Sentry/3030-2843/#game> .
+<http://www.giantbomb.com/sentry/3030-2843/releases/#toc-release-7501> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/sentry/3030-2843/releases/#toc-release-7501> <http://dbpedia.org/ontology/releaseDate> "1998-01-07" .

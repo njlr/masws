@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/bam-margera/3005-62/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/bam-margera/3005-62/#character> <http://xmlns.com/foaf/0.1/#name> "Bam Margera" .
 <http://www.giantbomb.com/bam-margera/3005-62/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Tony-Hawk/3005-13/#character> .
-<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bob-Burnquist/3005-338/#character> .
-<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Andrew-Reynolds/3005-6042/#character> .
-<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Wee-Man/3005-10921/#character> .
-<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Bucky-Lasek/3005-6028/#character> .
-<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Paulie-Wheels-Of-Fury-Ryan/3005-13459/#character> .
-<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Phil-Margera/3005-15432/#character> .
+<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Tony-Hawk/3005-13/#character> .
+<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Bob-Burnquist/3005-338/#character> .
+<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Andrew-Reynolds/3005-6042/#character> .
+<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Wee-Man/3005-10921/#character> .
+<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Bucky-Lasek/3005-6028/#character> .
+<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Paulie-Wheels-Of-Fury-Ryan/3005-13459/#character> .
+<http://www.giantbomb.com/bam-margera/3005-62/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Phil-Margera/3005-15432/#character> .

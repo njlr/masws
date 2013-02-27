@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <http://xmlns.com/foaf/0.1/#name> "Brucie Kibbutz" .
 <http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Niko-Bellic/3005-154/#character> .
-<http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Roman-Bellic/3005-105/#character> .
-<http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Mori-Kibbutz/3005-12982/#character> .
-<http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kenny-Petrovic/3005-14706/#character> .
+<http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Niko-Bellic/3005-154/#character> .
+<http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Roman-Bellic/3005-105/#character> .
+<http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Mori-Kibbutz/3005-12982/#character> .
+<http://www.giantbomb.com/brucie-kibbutz/3005-363/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Kenny-Petrovic/3005-14706/#character> .

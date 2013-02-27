@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/john-elways-quarterback/3030-98/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/john-elways-quarterback/3030-98/#game> <http://xmlns.com/foaf/0.1/#name> "John Elway's Quarterback" .
-<http://www.giantbomb.com/john-elways-quarterback/3030-98/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Jerry-Rice/3005-10997/#character> .
-<http://www.giantbomb.com/john-elways-quarterback/3030-98/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/John-Elway/3005-16867/#character> .
+<http://www.giantbomb.com/john-elways-quarterback/3030-98/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Jerry-Rice/3005-10997/#character> .
+<http://www.giantbomb.com/john-elways-quarterback/3030-98/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/John-Elway/3005-16867/#character> .

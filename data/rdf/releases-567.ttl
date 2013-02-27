@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/jewel-of-atlantis/3030-567/releases/#toc-release-1495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/jewel-of-atlantis/3030-567/releases/#toc-release-1495> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Jewel-of-Atlantis/3030-567/#game> .
+<http://www.giantbomb.com/jewel-of-atlantis/3030-567/releases/#toc-release-1495> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/jewel-of-atlantis/3030-567/releases/#toc-release-1495> <http://dbpedia.org/ontology/releaseDate> "2006-01-09" .

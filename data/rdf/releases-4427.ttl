@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/jessy-ein-zirkuspferd-in-not/3030-4427/releases/#toc-release-110228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/jessy-ein-zirkuspferd-in-not/3030-4427/releases/#toc-release-110228> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Jessy:-Ein-Zirkuspferd-in-Not/3030-4427/#game> .
+<http://www.giantbomb.com/jessy-ein-zirkuspferd-in-not/3030-4427/releases/#toc-release-110228> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/jessy-ein-zirkuspferd-in-not/3030-4427/releases/#toc-release-110228> <http://dbpedia.org/ontology/releaseDate> "2005-02-01" .

@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/wargame-construction-set/3030-1024/releases/#toc-release-98555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/wargame-construction-set/3030-1024/releases/#toc-release-98555> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Wargame-Construction-Set/3030-1024/#game> .
+<http://www.giantbomb.com/wargame-construction-set/3030-1024/releases/#toc-release-98555> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/wargame-construction-set/3030-1024/releases/#toc-release-98555> <http://dbpedia.org/ontology/releaseDate> "1990-01-01" .

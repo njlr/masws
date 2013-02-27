@@ -1,9 +1,9 @@
-<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <http://xmlns.com/foaf/0.1/#name> "Cho Aniki" .
-<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Chō-Aniki:-Otoko-no-Tamafuda/3030-5809/#game> .
-<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Cho-Aniki/3030-6797/#game> .
-<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Cho-Aniki:-Kyuukyoku-Muteki-Ginga-Saikyou-Otoko/3030-10908/#game> .
-<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Cho-Aniki:-Seinaru-Protein-Densetsu/3030-16420/#game> .
-<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Ai-Cho-Aniki/3030-9900/#game> .
-<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Cho-Aniki:-Bakuretsu-Rantou-Hen/3030-23998/#game> .
-<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Cho-Aniki-Zero/3030-29902/#game> .
+<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Chō-Aniki:-Otoko-no-Tamafuda/3030-5809/#game> .
+<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Cho-Aniki/3030-6797/#game> .
+<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Cho-Aniki:-Kyuukyoku-Muteki-Ginga-Saikyou-Otoko/3030-10908/#game> .
+<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Cho-Aniki:-Seinaru-Protein-Densetsu/3030-16420/#game> .
+<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Ai-Cho-Aniki/3030-9900/#game> .
+<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Cho-Aniki:-Bakuretsu-Rantou-Hen/3030-23998/#game> .
+<http://www.giantbomb.com/cho-aniki/3025-90/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Cho-Aniki-Zero/3030-29902/#game> .

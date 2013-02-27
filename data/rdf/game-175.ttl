@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <http://xmlns.com/foaf/0.1/#name> "The Journeyman Project: Pegasus Prime" .
-<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Gage-Blackwood/3005-5868/#character> .
-<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Jack-Baldwin/3005-25420/#character> .
-<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Elliot-Sinclair/3005-25421/#character> .
-<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Michele-VIsard/3005-25422/#character> .
-<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mark-Johnson/3005-25423/#character> .
+<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Gage-Blackwood/3005-5868/#character> .
+<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Jack-Baldwin/3005-25420/#character> .
+<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Elliot-Sinclair/3005-25421/#character> .
+<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Michele-VIsard/3005-25422/#character> .
+<http://www.giantbomb.com/the-journeyman-project-pegasus-prime/3030-175/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mark-Johnson/3005-25423/#character> .

@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/activisions-atari-2600-action-pack/3030-387/releases/#toc-release-98744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/activisions-atari-2600-action-pack/3030-387/releases/#toc-release-98744> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Activision's-Atari-2600-Action-Pack/3030-387/#game> .
+<http://www.giantbomb.com/activisions-atari-2600-action-pack/3030-387/releases/#toc-release-98744> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/activisions-atari-2600-action-pack/3030-387/releases/#toc-release-98744> <http://dbpedia.org/ontology/releaseDate> "1995-04-04" .

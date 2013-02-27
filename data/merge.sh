@@ -1,1 +1,1 @@
-cat ./rdf/*.ttl > all.ttl
+cat ./rdf/*.ttl sameas.ttl > all.ttl

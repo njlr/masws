@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/fire-emblem-fuuin-no-tsurugi/3030-1121/releases/#toc-release-81562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/fire-emblem-fuuin-no-tsurugi/3030-1121/releases/#toc-release-81562> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Fire-Emblem:-Fuuin-no-Tsurugi/3030-1121/#game> .
+<http://www.giantbomb.com/fire-emblem-fuuin-no-tsurugi/3030-1121/releases/#toc-release-81562> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/fire-emblem-fuuin-no-tsurugi/3030-1121/releases/#toc-release-81562> <http://dbpedia.org/ontology/releaseDate> "2002-03-29" .

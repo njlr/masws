@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <http://xmlns.com/foaf/0.1/#name> "Terrence Sweetwater" .
 <http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/George-Haggard/3005-854/#character> .
-<http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Sergeant-Redford/3005-844/#character> .
-<http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Preston-Marlowe/3005-833/#character> .
-<http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Flynn/3005-14334/#character> .
+<http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/George-Haggard/3005-854/#character> .
+<http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Sergeant-Redford/3005-844/#character> .
+<http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Preston-Marlowe/3005-833/#character> .
+<http://www.giantbomb.com/terrence-sweetwater/3005-682/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Flynn/3005-14334/#character> .

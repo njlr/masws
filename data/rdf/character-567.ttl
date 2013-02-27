@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/faarooq/3005-567/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/faarooq/3005-567/#character> <http://xmlns.com/foaf/0.1/#name> "Faarooq" .
 <http://www.giantbomb.com/faarooq/3005-567/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/faarooq/3005-567/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/John-Bradshaw-Layfield/3005-561/#character> .
-<http://www.giantbomb.com/faarooq/3005-567/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Chris-Masters/3005-593/#character> .
+<http://www.giantbomb.com/faarooq/3005-567/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/John-Bradshaw-Layfield/3005-561/#character> .
+<http://www.giantbomb.com/faarooq/3005-567/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Chris-Masters/3005-593/#character> .

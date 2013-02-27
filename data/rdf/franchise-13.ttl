@@ -1,5 +1,5 @@
-<http://www.giantbomb.com/50-cent/3025-13/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/50-cent/3025-13/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/50-cent/3025-13/#franchise> <http://xmlns.com/foaf/0.1/#name> "50 Cent" .
-<http://www.giantbomb.com/50-cent/3025-13/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/50-Cent:-Bulletproof/3030-16255/#game> .
-<http://www.giantbomb.com/50-cent/3025-13/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/50-Cent:-Blood-on-the-Sand/3030-20454/#game> .
-<http://www.giantbomb.com/50-cent/3025-13/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/50-Cent:-Bulletproof-G-Unit-Edition/3030-21215/#game> .
+<http://www.giantbomb.com/50-cent/3025-13/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/50-Cent:-Bulletproof/3030-16255/#game> .
+<http://www.giantbomb.com/50-cent/3025-13/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/50-Cent:-Blood-on-the-Sand/3030-20454/#game> .
+<http://www.giantbomb.com/50-cent/3025-13/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/50-Cent:-Bulletproof-G-Unit-Edition/3030-21215/#game> .

@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/the-gene-machine/3030-1228/releases/#toc-release-95529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/the-gene-machine/3030-1228/releases/#toc-release-95529> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Gene-Machine/3030-1228/#game> .
+<http://www.giantbomb.com/the-gene-machine/3030-1228/releases/#toc-release-95529> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/the-gene-machine/3030-1228/releases/#toc-release-95529> <http://dbpedia.org/ontology/releaseDate> "2005-01-01" .

@@ -1,8 +1,8 @@
-<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <http://xmlns.com/foaf/0.1/#name> "Bruce Lee" .
-<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Bruce-Lee-Lives:-The-Fall-of-Hong-Kong-Palace/3030-2999/#game> .
-<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Bruce-Lee:-Return-of-the-Legend/3030-3462/#game> .
-<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Bruce-Lee/3030-5051/#game> .
-<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Bruce-Lee:-Quest-of-the-Dragon/3030-17800/#game> .
-<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Dragon:-The-Bruce-Lee-Story/3030-11980/#game> .
-<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Bruce-Lee:-Dragon-Warrior-HD/3030-30890/#game> .
+<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bruce-Lee-Lives:-The-Fall-of-Hong-Kong-Palace/3030-2999/#game> .
+<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bruce-Lee:-Return-of-the-Legend/3030-3462/#game> .
+<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bruce-Lee/3030-5051/#game> .
+<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bruce-Lee:-Quest-of-the-Dragon/3030-17800/#game> .
+<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Dragon:-The-Bruce-Lee-Story/3030-11980/#game> .
+<http://www.giantbomb.com/bruce-lee/3025-71/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bruce-Lee:-Dragon-Warrior-HD/3030-30890/#game> .

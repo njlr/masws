@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/ef2000/3030-1964/releases/#toc-release-99889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/ef2000/3030-1964/releases/#toc-release-99889> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/EF2000/3030-1964/#game> .
+<http://www.giantbomb.com/ef2000/3030-1964/releases/#toc-release-99889> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/ef2000/3030-1964/releases/#toc-release-99889> <http://dbpedia.org/ontology/releaseDate> "" .

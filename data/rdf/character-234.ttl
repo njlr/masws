@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/jay-lethal/3005-234/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/jay-lethal/3005-234/#character> <http://xmlns.com/foaf/0.1/#name> "Jay Lethal" .
 <http://www.giantbomb.com/jay-lethal/3005-234/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Randy-Savage/3005-472/#character> .
-<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Sonjay-Dutt/3005-72/#character> .
-<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Sonjay-Dutt/3005-72/#character> .
-<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Suicide/3005-11081/#character> .
-<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Booker-T/3005-255/#character> .
-<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Kurt-Angle/3005-199/#character> .
+<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Randy-Savage/3005-472/#character> .
+<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Sonjay-Dutt/3005-72/#character> .
+<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Sonjay-Dutt/3005-72/#character> .
+<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Suicide/3005-11081/#character> .
+<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Booker-T/3005-255/#character> .
+<http://www.giantbomb.com/jay-lethal/3005-234/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Kurt-Angle/3005-199/#character> .

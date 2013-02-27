@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Astronomica:-The-Quest-for-the-Edge-of-the-Universe/3030-4259/#game> .
+<http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <http://dbpedia.org/ontology/releaseDate> "1994-01-01" .

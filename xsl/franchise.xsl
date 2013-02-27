@@ -15,7 +15,7 @@
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'&lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type>'"/> 
-        <xsl:with-param name="object" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#franchise>'"/> 
+        <xsl:with-param name="object" select="'&lt;https://raw.github.com/nlr/masws/master/vocab.n3#franchise>'"/> 
     </xsl:call-template>
     <xsl:apply-templates select="name"/> 
     <xsl:apply-templates select="games"/>
@@ -46,7 +46,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#includes>'"/>
+        <xsl:with-param name="predicate" select="'&lt;https://raw.github.com/nlr/masws/master/vocab.n3#includes>'"/>
         <xsl:with-param name="object" select="concat(concat(concat(concat('&lt;http://www.giantbomb.com/', $clean-name), '/3030-'), id), '/#game>')"/>
     </xsl:call-template>
 </xsl:template>

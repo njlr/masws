@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/gauntlet-4/3030-1206/releases/#toc-release-100834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/gauntlet-4/3030-1206/releases/#toc-release-100834> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Gauntlet-4/3030-1206/#game> .
+<http://www.giantbomb.com/gauntlet-4/3030-1206/releases/#toc-release-100834> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/gauntlet-4/3030-1206/releases/#toc-release-100834> <http://dbpedia.org/ontology/releaseDate> "1993-09-16" .

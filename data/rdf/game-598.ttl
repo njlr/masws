@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/shinobido-way-of-the-ninja/3030-598/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/shinobido-way-of-the-ninja/3030-598/#game> <http://xmlns.com/foaf/0.1/#name> "Shinobido: Way of the Ninja" .
-<http://www.giantbomb.com/shinobido-way-of-the-ninja/3030-598/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Zaji/3005-8227/#character> .
-<http://www.giantbomb.com/shinobido-way-of-the-ninja/3030-598/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Kinu/3005-8228/#character> .
-<http://www.giantbomb.com/shinobido-way-of-the-ninja/3030-598/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Goh/3005-8226/#character> .
+<http://www.giantbomb.com/shinobido-way-of-the-ninja/3030-598/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Zaji/3005-8227/#character> .
+<http://www.giantbomb.com/shinobido-way-of-the-ninja/3030-598/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Kinu/3005-8228/#character> .
+<http://www.giantbomb.com/shinobido-way-of-the-ninja/3030-598/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Goh/3005-8226/#character> .

@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/juste-belmont/3005-221/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/juste-belmont/3005-221/#character> <http://xmlns.com/foaf/0.1/#name> "Juste Belmont" .
 <http://www.giantbomb.com/juste-belmont/3005-221/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Simon-Belmont/3005-86/#character> .
-<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Lydie-Erlanger/3005-23051/#character> .
-<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dracula/3005-348/#character> .
-<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Death/3005-5581/#character> .
-<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Legion/3005-8520/#character> .
+<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Simon-Belmont/3005-86/#character> .
+<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Lydie-Erlanger/3005-23051/#character> .
+<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dracula/3005-348/#character> .
+<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Death/3005-5581/#character> .
+<http://www.giantbomb.com/juste-belmont/3005-221/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Legion/3005-8520/#character> .

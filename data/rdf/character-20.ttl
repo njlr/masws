@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/the-burger-king/3005-20/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/the-burger-king/3005-20/#character> <http://xmlns.com/foaf/0.1/#name> "The Burger King" .
 <http://www.giantbomb.com/the-burger-king/3005-20/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/the-burger-king/3005-20/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Brooke-Burke/3005-1184/#character> .
-<http://www.giantbomb.com/the-burger-king/3005-20/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Krusty-the-Clown/3005-14157/#character> .
+<http://www.giantbomb.com/the-burger-king/3005-20/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Brooke-Burke/3005-1184/#character> .
+<http://www.giantbomb.com/the-burger-king/3005-20/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Krusty-the-Clown/3005-14157/#character> .

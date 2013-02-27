@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/jagged-alliance-2-unfinished-business/3030-2899/releases/#toc-release-96976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/jagged-alliance-2-unfinished-business/3030-2899/releases/#toc-release-96976> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Jagged-Alliance-2:-Unfinished-Business/3030-2899/#game> .
+<http://www.giantbomb.com/jagged-alliance-2-unfinished-business/3030-2899/releases/#toc-release-96976> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/jagged-alliance-2-unfinished-business/3030-2899/releases/#toc-release-96976> <http://dbpedia.org/ontology/releaseDate> "2000-11-24" .

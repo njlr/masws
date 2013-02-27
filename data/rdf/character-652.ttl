@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/biff-tannen/3005-652/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/biff-tannen/3005-652/#character> <http://xmlns.com/foaf/0.1/#name> "Biff Tannen" .
 <http://www.giantbomb.com/biff-tannen/3005-652/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/biff-tannen/3005-652/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Doc-Brown/3005-650/#character> .
-<http://www.giantbomb.com/biff-tannen/3005-652/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Marty-McFly/3005-651/#character> .
-<http://www.giantbomb.com/biff-tannen/3005-652/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/George-McFly/3005-17416/#character> .
+<http://www.giantbomb.com/biff-tannen/3005-652/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Doc-Brown/3005-650/#character> .
+<http://www.giantbomb.com/biff-tannen/3005-652/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Marty-McFly/3005-651/#character> .
+<http://www.giantbomb.com/biff-tannen/3005-652/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/George-McFly/3005-17416/#character> .

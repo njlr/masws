@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/tom-clancys-ghost-recon-advanced-warfighter-2/3030-270/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/tom-clancys-ghost-recon-advanced-warfighter-2/3030-270/#game> <http://xmlns.com/foaf/0.1/#name> "Tom Clancy's Ghost Recon: Advanced Warfighter 2" .
-<http://www.giantbomb.com/tom-clancys-ghost-recon-advanced-warfighter-2/3030-270/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Scott-Mitchell/3005-804/#character> .
+<http://www.giantbomb.com/tom-clancys-ghost-recon-advanced-warfighter-2/3030-270/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Scott-Mitchell/3005-804/#character> .

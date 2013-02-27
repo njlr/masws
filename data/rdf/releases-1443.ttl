@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/mach-modified-air-combat-heroes/3030-1443/releases/#toc-release-3735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/mach-modified-air-combat-heroes/3030-1443/releases/#toc-release-3735> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/MACH:-Modified-Air-Combat-Heroes/3030-1443/#game> .
+<http://www.giantbomb.com/mach-modified-air-combat-heroes/3030-1443/releases/#toc-release-3735> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/mach-modified-air-combat-heroes/3030-1443/releases/#toc-release-3735> <http://dbpedia.org/ontology/releaseDate> "2007-03-09" .

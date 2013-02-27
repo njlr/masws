@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/drahmin/3005-382/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/drahmin/3005-382/#character> <http://xmlns.com/foaf/0.1/#name> "Drahmin" .
 <http://www.giantbomb.com/drahmin/3005-382/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/drahmin/3005-382/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Moloch/3005-398/#character> .
-<http://www.giantbomb.com/drahmin/3005-382/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Quan-Chi/3005-402/#character> .
+<http://www.giantbomb.com/drahmin/3005-382/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Moloch/3005-398/#character> .
+<http://www.giantbomb.com/drahmin/3005-382/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Quan-Chi/3005-402/#character> .

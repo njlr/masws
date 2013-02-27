@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/putt-putt-travels-through-time/3030-931/releases/#toc-release-92718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/putt-putt-travels-through-time/3030-931/releases/#toc-release-92718> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Putt-Putt-Travels-Through-Time/3030-931/#game> .
+<http://www.giantbomb.com/putt-putt-travels-through-time/3030-931/releases/#toc-release-92718> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/putt-putt-travels-through-time/3030-931/releases/#toc-release-92718> <http://dbpedia.org/ontology/releaseDate> "1997-12-31" .

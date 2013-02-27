@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/trespasser-jurassic-park/3030-1109/releases/#toc-release-104674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/trespasser-jurassic-park/3030-1109/releases/#toc-release-104674> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Trespasser:-Jurassic-Park/3030-1109/#game> .
+<http://www.giantbomb.com/trespasser-jurassic-park/3030-1109/releases/#toc-release-104674> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/trespasser-jurassic-park/3030-1109/releases/#toc-release-104674> <http://dbpedia.org/ontology/releaseDate> "1998-10-31" .

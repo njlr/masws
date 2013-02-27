@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/doki-doki-majo-shinpan/3030-4707/releases/#toc-release-12108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/doki-doki-majo-shinpan/3030-4707/releases/#toc-release-12108> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Doki-Doki-Majo-Shinpan!/3030-4707/#game> .
+<http://www.giantbomb.com/doki-doki-majo-shinpan/3030-4707/releases/#toc-release-12108> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/doki-doki-majo-shinpan/3030-4707/releases/#toc-release-12108> <http://dbpedia.org/ontology/releaseDate> "2007-07-05" .

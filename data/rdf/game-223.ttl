@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <http://xmlns.com/foaf/0.1/#name> "Yu-Gi-Oh! Forbidden Memories" .
-<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Yugi-Muto/3005-2332/#character> .
-<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Joey-Wheeler/3005-2348/#character> .
-<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Seto-Kaiba/3005-2344/#character> .
-<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mako-Tsunami/3005-5558/#character> .
-<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mai-Valentine/3005-5557/#character> .
-<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Tristan-Taylor/3005-5564/#character> .
+<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Yugi-Muto/3005-2332/#character> .
+<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Joey-Wheeler/3005-2348/#character> .
+<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Seto-Kaiba/3005-2344/#character> .
+<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mako-Tsunami/3005-5558/#character> .
+<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mai-Valentine/3005-5557/#character> .
+<http://www.giantbomb.com/yu-gi-oh-forbidden-memories/3030-223/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Tristan-Taylor/3005-5564/#character> .

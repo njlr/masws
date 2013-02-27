@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/mac-fraser/3005-312/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/mac-fraser/3005-312/#character> <http://xmlns.com/foaf/0.1/#name> "Mac Fraser" .
 <http://www.giantbomb.com/mac-fraser/3005-312/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kaori-Nishidake/3005-314/#character> .
-<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Eddie-Wachowski/3005-313/#character> .
-<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Allegra-Sauvagess/3005-345/#character> .
-<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Tane-Mumea/3005-20090/#character> .
-<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Zoe-Payne/3005-14599/#character> .
-<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Griff-Simmons/3005-15410/#character> .
-<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Moby-Jones/3005-17177/#character> .
+<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Kaori-Nishidake/3005-314/#character> .
+<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Eddie-Wachowski/3005-313/#character> .
+<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Allegra-Sauvagess/3005-345/#character> .
+<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Tane-Mumea/3005-20090/#character> .
+<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Zoe-Payne/3005-14599/#character> .
+<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Griff-Simmons/3005-15410/#character> .
+<http://www.giantbomb.com/mac-fraser/3005-312/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Moby-Jones/3005-17177/#character> .

@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/original-frisbee-disc-sports-ultimate-golf/3030-2241/releases/#toc-release-5892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/original-frisbee-disc-sports-ultimate-golf/3030-2241/releases/#toc-release-5892> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Original-Frisbee-Disc-Sports:-Ultimate-&-Golf/3030-2241/#game> .
+<http://www.giantbomb.com/original-frisbee-disc-sports-ultimate-golf/3030-2241/releases/#toc-release-5892> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/original-frisbee-disc-sports-ultimate-golf/3030-2241/releases/#toc-release-5892> <http://dbpedia.org/ontology/releaseDate> "2007-01-01" .

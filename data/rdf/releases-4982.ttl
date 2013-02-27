@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/fire-fighter/3030-4982/releases/#toc-release-118208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/fire-fighter/3030-4982/releases/#toc-release-118208> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Fire-Fighter/3030-4982/#game> .
+<http://www.giantbomb.com/fire-fighter/3030-4982/releases/#toc-release-118208> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/fire-fighter/3030-4982/releases/#toc-release-118208> <http://dbpedia.org/ontology/releaseDate> "1982-01-01" .

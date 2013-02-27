@@ -5,17 +5,21 @@
 
 <xsl:output method="text"/>
 
-<xsl:variable name="uri" select="concat('&lt;', concat(/entry/site_detail_url, '>'))"/>
+<xsl:variable name="uri" select="concat('&lt;', concat(entry/release/site_detail_url, '>'))"/>
 
 <xsl:template match="/">
     <xsl:apply-templates select="entry"/>
 </xsl:template>
 
 <xsl:template match="entry">
+    <xsl:apply-templates select="release"/>
+</xsl:template>
+
+<xsl:template match="release">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'&lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type>'"/>
-        <xsl:with-param name="object" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#release>'"/>
+        <xsl:with-param name="object" select="'&lt;https://raw.github.com/nlr/masws/master/vocab.n3#release>'"/>
     </xsl:call-template>
     <xsl:apply-templates select="game"/>
     <xsl:apply-templates select="region"/>
@@ -30,7 +34,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;https://github.com/nlr/masws/blob/master/vocab#isVersionOf>'"/>
+        <xsl:with-param name="predicate" select="'&lt;https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf>'"/>
         <xsl:with-param name="object" select="concat(concat(concat(concat('&lt;http://www.giantbomb.com/', $clean-name), '/3030-'), id), '/#game>')"/>
     </xsl:call-template>
 </xsl:template>

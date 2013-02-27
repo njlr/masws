@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/not-just-another-space-shooter/3030-3481/releases/#toc-release-9098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/not-just-another-space-shooter/3030-3481/releases/#toc-release-9098> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/(Not)-Just-another-Space-Shooter/3030-3481/#game> .
+<http://www.giantbomb.com/not-just-another-space-shooter/3030-3481/releases/#toc-release-9098> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/not-just-another-space-shooter/3030-3481/releases/#toc-release-9098> <http://dbpedia.org/ontology/releaseDate> "2004-01-01" .

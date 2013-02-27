@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/kenyuu-densetsu-yaiba/3030-4906/releases/#toc-release-87033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/kenyuu-densetsu-yaiba/3030-4906/releases/#toc-release-87033> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Kenyuu-Densetsu-Yaiba/3030-4906/#game> .
+<http://www.giantbomb.com/kenyuu-densetsu-yaiba/3030-4906/releases/#toc-release-87033> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/kenyuu-densetsu-yaiba/3030-4906/releases/#toc-release-87033> <http://dbpedia.org/ontology/releaseDate> "1994-03-25" .

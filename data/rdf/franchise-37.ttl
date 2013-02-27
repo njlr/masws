@@ -1,7 +1,7 @@
-<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <http://xmlns.com/foaf/0.1/#name> "Art of Fighting" .
-<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Art-of-Fighting/3030-2760/#game> .
-<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Art-of-Fighting-Anthology/3030-7751/#game> .
-<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Art-of-Fighting-3:-The-Path-of-The-Warrior/3030-8867/#game> .
-<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Art-of-Fighting-2/3030-13327/#game> .
-<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/SNK-Arcade-Classics-V1/3030-20463/#game> .
+<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Art-of-Fighting/3030-2760/#game> .
+<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Art-of-Fighting-Anthology/3030-7751/#game> .
+<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Art-of-Fighting-3:-The-Path-of-The-Warrior/3030-8867/#game> .
+<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Art-of-Fighting-2/3030-13327/#game> .
+<http://www.giantbomb.com/art-of-fighting/3025-37/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/SNK-Arcade-Classics-V1/3030-20463/#game> .

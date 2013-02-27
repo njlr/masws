@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/heavy-nova/3030-1898/releases/#toc-release-93775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/heavy-nova/3030-1898/releases/#toc-release-93775> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Heavy-Nova/3030-1898/#game> .
+<http://www.giantbomb.com/heavy-nova/3030-1898/releases/#toc-release-93775> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/heavy-nova/3030-1898/releases/#toc-release-93775> <http://dbpedia.org/ontology/releaseDate> "1991-12-01" .

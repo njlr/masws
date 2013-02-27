@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <http://xmlns.com/foaf/0.1/#name> "Mattias Nilsson" .
 <http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jennifer-Mui/3005-232/#character> .
-<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Chris-Jacobs/3005-328/#character> .
-<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Ramon-Solano/3005-122/#character> .
-<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/General-Carmona/3005-8325/#character> .
-<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Blanco/3005-8326/#character> .
-<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Choi-Song/3005-23123/#character> .
+<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Jennifer-Mui/3005-232/#character> .
+<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Chris-Jacobs/3005-328/#character> .
+<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Ramon-Solano/3005-122/#character> .
+<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/General-Carmona/3005-8325/#character> .
+<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Blanco/3005-8326/#character> .
+<http://www.giantbomb.com/mattias-nilsson/3005-174/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Choi-Song/3005-23123/#character> .

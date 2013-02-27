@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/blazing-angels/3025-63/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/blazing-angels/3025-63/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/blazing-angels/3025-63/#franchise> <http://xmlns.com/foaf/0.1/#name> "Blazing Angels" .
-<http://www.giantbomb.com/blazing-angels/3025-63/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Blazing-Angels:-Squadrons-of-WWII/3030-13712/#game> .
-<http://www.giantbomb.com/blazing-angels/3025-63/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Blazing-Angels-2:-Secret-Missions-of-WWII/3030-19216/#game> .
+<http://www.giantbomb.com/blazing-angels/3025-63/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Blazing-Angels:-Squadrons-of-WWII/3030-13712/#game> .
+<http://www.giantbomb.com/blazing-angels/3025-63/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Blazing-Angels-2:-Secret-Missions-of-WWII/3030-19216/#game> .

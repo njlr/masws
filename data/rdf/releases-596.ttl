@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/rugby/3030-596/releases/#toc-release-111880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/rugby/3030-596/releases/#toc-release-111880> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Rugby/3030-596/#game> .
+<http://www.giantbomb.com/rugby/3030-596/releases/#toc-release-111880> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/rugby/3030-596/releases/#toc-release-111880> <http://dbpedia.org/ontology/releaseDate> "2000-01-01" .

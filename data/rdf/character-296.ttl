@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/dopefish/3005-296/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/dopefish/3005-296/#character> <http://xmlns.com/foaf/0.1/#name> "Dopefish" .
 <http://www.giantbomb.com/dopefish/3005-296/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/dopefish/3005-296/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Commander-Keen/3005-2664/#character> .
+<http://www.giantbomb.com/dopefish/3005-296/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Commander-Keen/3005-2664/#character> .

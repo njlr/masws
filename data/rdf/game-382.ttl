@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <http://xmlns.com/foaf/0.1/#name> "The Powerpuff Girls: Mojo's Pet Project" .
-<http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Blossom/3005-7600/#character> .
-<http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Buttercup/3005-7601/#character> .
-<http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Bubbles/3005-7602/#character> .
-<http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Mojo-Jojo/3005-7659/#character> .
+<http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Blossom/3005-7600/#character> .
+<http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Buttercup/3005-7601/#character> .
+<http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Bubbles/3005-7602/#character> .
+<http://www.giantbomb.com/the-powerpuff-girls-mojos-pet-project/3030-382/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mojo-Jojo/3005-7659/#character> .

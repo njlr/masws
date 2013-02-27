@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <http://xmlns.com/foaf/0.1/#name> "The Flintstones: The Rescue of Dino & Hoppy" .
-<http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Fred-Flintstone/3005-7505/#character> .
-<http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Barney-Rubble/3005-7506/#character> .
-<http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Great-Gazoo/3005-7507/#character> .
-<http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Wilma-Flintstone/3005-7508/#character> .
+<http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Fred-Flintstone/3005-7505/#character> .
+<http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Barney-Rubble/3005-7506/#character> .
+<http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Great-Gazoo/3005-7507/#character> .
+<http://www.giantbomb.com/the-flintstones-the-rescue-of-dino-hoppy/3030-274/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Wilma-Flintstone/3005-7508/#character> .

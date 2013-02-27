@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/marcus-cor-von/3005-615/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/marcus-cor-von/3005-615/#character> <http://xmlns.com/foaf/0.1/#name> "Marcus Cor Von" .
 <http://www.giantbomb.com/marcus-cor-von/3005-615/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/marcus-cor-von/3005-615/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Elijah-Burke/3005-616/#character> .
+<http://www.giantbomb.com/marcus-cor-von/3005-615/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Elijah-Burke/3005-616/#character> .

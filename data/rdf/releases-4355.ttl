@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/castrol-honda-superbike-world-champions/3030-4355/releases/#toc-release-89152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/castrol-honda-superbike-world-champions/3030-4355/releases/#toc-release-89152> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Castrol-Honda-Superbike-World-Champions/3030-4355/#game> .
+<http://www.giantbomb.com/castrol-honda-superbike-world-champions/3030-4355/releases/#toc-release-89152> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/castrol-honda-superbike-world-champions/3030-4355/releases/#toc-release-89152> <http://dbpedia.org/ontology/releaseDate> "1998-01-01" .

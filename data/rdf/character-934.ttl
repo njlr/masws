@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> <http://xmlns.com/foaf/0.1/#name> "Ogden Stonehealer" .
 <http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Vekk/3005-935/#character> .
-<http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Pyre-Fierceshot/3005-942/#character> .
-<http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jora/3005-12141/#character> .
+<http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Vekk/3005-935/#character> .
+<http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Pyre-Fierceshot/3005-942/#character> .
+<http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Jora/3005-12141/#character> .

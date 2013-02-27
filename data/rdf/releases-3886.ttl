@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/mr-chins-gourmet-paradise/3030-3886/releases/#toc-release-101403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/mr-chins-gourmet-paradise/3030-3886/releases/#toc-release-101403> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Mr-Chin's-Gourmet-Paradise/3030-3886/#game> .
+<http://www.giantbomb.com/mr-chins-gourmet-paradise/3030-3886/releases/#toc-release-101403> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/mr-chins-gourmet-paradise/3030-3886/releases/#toc-release-101403> <http://dbpedia.org/ontology/releaseDate> "1990-10-01" .

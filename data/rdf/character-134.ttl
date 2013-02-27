@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/blake-stone/3005-134/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/blake-stone/3005-134/#character> <http://xmlns.com/foaf/0.1/#name> "Blake Stone" .
 <http://www.giantbomb.com/blake-stone/3005-134/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/blake-stone/3005-134/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dr-Pyrus-Goldfire/3005-11851/#character> .
+<http://www.giantbomb.com/blake-stone/3005-134/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dr-Pyrus-Goldfire/3005-11851/#character> .

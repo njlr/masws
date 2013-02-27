@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/vfr-real-scenery-birmingham-coventry-wolverhampton/3030-2605/releases/#toc-release-6967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/vfr-real-scenery-birmingham-coventry-wolverhampton/3030-2605/releases/#toc-release-6967> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/VFR-Real-Scenery:-Birmingham,-Coventry-&-Wolverhampton/3030-2605/#game> .
+<http://www.giantbomb.com/vfr-real-scenery-birmingham-coventry-wolverhampton/3030-2605/releases/#toc-release-6967> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/vfr-real-scenery-birmingham-coventry-wolverhampton/3030-2605/releases/#toc-release-6967> <http://dbpedia.org/ontology/releaseDate> "2007-06-07" .

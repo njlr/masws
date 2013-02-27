@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/salt-lake-2002/3030-3998/releases/#toc-release-114589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/salt-lake-2002/3030-3998/releases/#toc-release-114589> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Salt-Lake-2002/3030-3998/#game> .
+<http://www.giantbomb.com/salt-lake-2002/3030-3998/releases/#toc-release-114589> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/salt-lake-2002/3030-3998/releases/#toc-release-114589> <http://dbpedia.org/ontology/releaseDate> "2002-01-09" .

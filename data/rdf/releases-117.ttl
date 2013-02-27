@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/snowy-treasure-hunter-3/3030-117/releases/#toc-release-335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/snowy-treasure-hunter-3/3030-117/releases/#toc-release-335> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Snowy:-Treasure-Hunter-3/3030-117/#game> .
+<http://www.giantbomb.com/snowy-treasure-hunter-3/3030-117/releases/#toc-release-335> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/snowy-treasure-hunter-3/3030-117/releases/#toc-release-335> <http://dbpedia.org/ontology/releaseDate> "2007-09-20" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/princess-daphne/3005-741/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/princess-daphne/3005-741/#character> <http://xmlns.com/foaf/0.1/#name> "Princess Daphne" .
 <http://www.giantbomb.com/princess-daphne/3005-741/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/princess-daphne/3005-741/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Dirk-the-Daring/3005-1283/#character> .
+<http://www.giantbomb.com/princess-daphne/3005-741/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Dirk-the-Daring/3005-1283/#character> .

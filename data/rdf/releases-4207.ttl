@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/shin-megami-tensei-devil-children-white-book/3030-4207/releases/#toc-release-102642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/shin-megami-tensei-devil-children-white-book/3030-4207/releases/#toc-release-102642> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Shin-Megami-Tensei:-Devil-Children:-White-Book/3030-4207/#game> .
+<http://www.giantbomb.com/shin-megami-tensei-devil-children-white-book/3030-4207/releases/#toc-release-102642> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/shin-megami-tensei-devil-children-white-book/3030-4207/releases/#toc-release-102642> <http://dbpedia.org/ontology/releaseDate> "2000-11-17" .

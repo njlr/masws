@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/noisy-mountain/3030-1621/releases/#toc-release-4273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/noisy-mountain/3030-1621/releases/#toc-release-4273> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Noisy-Mountain/3030-1621/#game> .
+<http://www.giantbomb.com/noisy-mountain/3030-1621/releases/#toc-release-4273> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/noisy-mountain/3030-1621/releases/#toc-release-4273> <http://dbpedia.org/ontology/releaseDate> "2005-08-11" .

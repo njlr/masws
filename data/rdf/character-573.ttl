@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/ken-shamrock/3005-573/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/ken-shamrock/3005-573/#character> <http://xmlns.com/foaf/0.1/#name> "Ken Shamrock" .
 <http://www.giantbomb.com/ken-shamrock/3005-573/#character> <http://xmlns.com/foaf/0.1/#gender> "female" .
-<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Steve-Blackman/3005-582/#character> .
-<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Dan-Severn/3005-5506/#character> .
-<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Tito-Ortiz/3005-2345/#character> .
-<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Royce-Gracie/3005-14109/#character> .
-<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Frank-Shamrock/3005-5503/#character> .
-<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Bas-Rutten/3005-11390/#character> .
-<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dana-White/3005-15807/#character> .
+<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Steve-Blackman/3005-582/#character> .
+<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Dan-Severn/3005-5506/#character> .
+<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Tito-Ortiz/3005-2345/#character> .
+<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Royce-Gracie/3005-14109/#character> .
+<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Frank-Shamrock/3005-5503/#character> .
+<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Bas-Rutten/3005-11390/#character> .
+<http://www.giantbomb.com/ken-shamrock/3005-573/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dana-White/3005-15807/#character> .

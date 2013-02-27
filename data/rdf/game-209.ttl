@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <http://xmlns.com/foaf/0.1/#name> "Tiny Toon Adventures: The Great Beanstalk" .
-<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Furrball/3005-6691/#character> .
-<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Buster-Bunny/3005-3873/#character> .
-<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Hamton-J-Pig/3005-10571/#character> .
-<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Plucky-Duck/3005-8884/#character> .
+<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Furrball/3005-6691/#character> .
+<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Buster-Bunny/3005-3873/#character> .
+<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Hamton-J-Pig/3005-10571/#character> .
+<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Plucky-Duck/3005-8884/#character> .

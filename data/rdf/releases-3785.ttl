@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/putt-putt-saves-the-zoo/3030-3785/releases/#toc-release-78689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/putt-putt-saves-the-zoo/3030-3785/releases/#toc-release-78689> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Putt-Putt-Saves-the-Zoo/3030-3785/#game> .
+<http://www.giantbomb.com/putt-putt-saves-the-zoo/3030-3785/releases/#toc-release-78689> <http://dbpedia.org/property/location> "Australia" .
+<http://www.giantbomb.com/putt-putt-saves-the-zoo/3030-3785/releases/#toc-release-78689> <http://dbpedia.org/ontology/releaseDate> "2008-11-06" .

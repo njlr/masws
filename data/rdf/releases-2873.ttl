@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/bust-a-groove-2/3030-2873/releases/#toc-release-92026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/bust-a-groove-2/3030-2873/releases/#toc-release-92026> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Bust-a-Groove-2/3030-2873/#game> .
+<http://www.giantbomb.com/bust-a-groove-2/3030-2873/releases/#toc-release-92026> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/bust-a-groove-2/3030-2873/releases/#toc-release-92026> <http://dbpedia.org/ontology/releaseDate> "2000-08-22" .

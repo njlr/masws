@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/arthurs-knights-ii-the-secret-of-merlin/3030-2095/releases/#toc-release-122796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/arthurs-knights-ii-the-secret-of-merlin/3030-2095/releases/#toc-release-122796> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Arthur's-Knights-II:-The-Secret-of-Merlin/3030-2095/#game> .
+<http://www.giantbomb.com/arthurs-knights-ii-the-secret-of-merlin/3030-2095/releases/#toc-release-122796> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/arthurs-knights-ii-the-secret-of-merlin/3030-2095/releases/#toc-release-122796> <http://dbpedia.org/ontology/releaseDate> "2002-04-26" .

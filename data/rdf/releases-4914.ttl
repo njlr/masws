@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/microoft-simulaattori/3030-4914/releases/#toc-release-12599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/microoft-simulaattori/3030-4914/releases/#toc-release-12599> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Micro$oft-Simulaattori/3030-4914/#game> .
+<http://www.giantbomb.com/microoft-simulaattori/3030-4914/releases/#toc-release-12599> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/microoft-simulaattori/3030-4914/releases/#toc-release-12599> <http://dbpedia.org/ontology/releaseDate> "1994-01-01" .

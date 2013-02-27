@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <http://xmlns.com/foaf/0.1/#name> "Altaïr Ibn-La'Ahad" .
 <http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Maria-Thorpe/3005-21229/#character> .
-<http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Al-Mualim/3005-1134/#character> .
-<http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Al-Mualim/3005-1134/#character> .
-<http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Tamir/3005-17215/#character> .
+<http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Maria-Thorpe/3005-21229/#character> .
+<http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Al-Mualim/3005-1134/#character> .
+<http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Al-Mualim/3005-1134/#character> .
+<http://www.giantbomb.com/altair-ibn-laahad/3005-48/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Tamir/3005-17215/#character> .

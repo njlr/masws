@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/bryan-fury/3005-540/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/bryan-fury/3005-540/#character> <http://xmlns.com/foaf/0.1/#name> "Bryan Fury" .
 <http://www.giantbomb.com/bryan-fury/3005-540/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jack/3005-7591/#character> .
-<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Yoshimitsu/3005-1210/#character> .
-<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Lei-Wulong/3005-1936/#character> .
-<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dr-Bosconovitch/3005-539/#character> .
-<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Hwoarang/3005-1941/#character> .
-<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dr-Abel/3005-19853/#character> .
-<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Armor-King/3005-3512/#character> .
+<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Jack/3005-7591/#character> .
+<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Yoshimitsu/3005-1210/#character> .
+<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Lei-Wulong/3005-1936/#character> .
+<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dr-Bosconovitch/3005-539/#character> .
+<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Hwoarang/3005-1941/#character> .
+<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dr-Abel/3005-19853/#character> .
+<http://www.giantbomb.com/bryan-fury/3005-540/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Armor-King/3005-3512/#character> .

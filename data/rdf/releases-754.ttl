@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/action-reflex/3030-754/releases/#toc-release-76932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/action-reflex/3030-754/releases/#toc-release-76932> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Action-Reflex/3030-754/#game> .
+<http://www.giantbomb.com/action-reflex/3030-754/releases/#toc-release-76932> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/action-reflex/3030-754/releases/#toc-release-76932> <http://dbpedia.org/ontology/releaseDate> "1986-01-01" .

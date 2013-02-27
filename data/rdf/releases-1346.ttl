@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/crazy-minigolf/3030-1346/releases/#toc-release-78773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/crazy-minigolf/3030-1346/releases/#toc-release-78773> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Crazy-Minigolf/3030-1346/#game> .
+<http://www.giantbomb.com/crazy-minigolf/3030-1346/releases/#toc-release-78773> <http://dbpedia.org/property/location> "Australia" .
+<http://www.giantbomb.com/crazy-minigolf/3030-1346/releases/#toc-release-78773> <http://dbpedia.org/ontology/releaseDate> "2008-11-13" .

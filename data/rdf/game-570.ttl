@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/fur-fighters/3030-570/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/fur-fighters/3030-570/#game> <http://xmlns.com/foaf/0.1/#name> "Fur Fighters" .
-<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Tweek/3005-6363/#character> .
-<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Bungalow/3005-6394/#character> .
-<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Rico/3005-6393/#character> .
-<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Juliette/3005-6391/#character> .
-<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Chang/3005-6390/#character> .
-<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Roofus/3005-6389/#character> .
+<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Tweek/3005-6363/#character> .
+<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Bungalow/3005-6394/#character> .
+<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Rico/3005-6393/#character> .
+<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Juliette/3005-6391/#character> .
+<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Chang/3005-6390/#character> .
+<http://www.giantbomb.com/fur-fighters/3030-570/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Roofus/3005-6389/#character> .

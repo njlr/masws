@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/flight-simulation/3030-1439/releases/#toc-release-95854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/flight-simulation/3030-1439/releases/#toc-release-95854> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Flight-Simulation/3030-1439/#game> .
+<http://www.giantbomb.com/flight-simulation/3030-1439/releases/#toc-release-95854> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/flight-simulation/3030-1439/releases/#toc-release-95854> <http://dbpedia.org/ontology/releaseDate> "1982-01-01" .

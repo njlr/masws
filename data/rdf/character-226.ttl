@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/john-morris/3005-226/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/john-morris/3005-226/#character> <http://xmlns.com/foaf/0.1/#name> "John Morris" .
 <http://www.giantbomb.com/john-morris/3005-226/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/john-morris/3005-226/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Eric-Lecarde/3005-2562/#character> .
-<http://www.giantbomb.com/john-morris/3005-226/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Quincey-P-Morris/3005-15838/#character> .
-<http://www.giantbomb.com/john-morris/3005-226/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Jonathan-Morris/3005-223/#character> .
-<http://www.giantbomb.com/john-morris/3005-226/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Elizabeth-Báthory/3005-13434/#character> .
+<http://www.giantbomb.com/john-morris/3005-226/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Eric-Lecarde/3005-2562/#character> .
+<http://www.giantbomb.com/john-morris/3005-226/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Quincey-P-Morris/3005-15838/#character> .
+<http://www.giantbomb.com/john-morris/3005-226/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Jonathan-Morris/3005-223/#character> .
+<http://www.giantbomb.com/john-morris/3005-226/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Elizabeth-Báthory/3005-13434/#character> .

@@ -1,8 +1,8 @@
-<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <http://xmlns.com/foaf/0.1/#name> "Baldur's Gate" .
-<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Baldur's-Gate/3030-52/#game> .
-<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Baldur's-Gate-II:-Throne-of-Bhaal/3030-6795/#game> .
-<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Baldur's-Gate:-Tales-of-the-Sword-Coast/3030-7392/#game> .
-<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Baldur's-Gate-II:-Shadows-of-Amn/3030-10637/#game> .
-<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Baldur's-Gate:-Dark-Alliance/3030-13091/#game> .
-<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Baldur's-Gate:-Dark-Alliance-II/3030-12107/#game> .
+<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baldur's-Gate/3030-52/#game> .
+<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baldur's-Gate-II:-Throne-of-Bhaal/3030-6795/#game> .
+<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baldur's-Gate:-Tales-of-the-Sword-Coast/3030-7392/#game> .
+<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baldur's-Gate-II:-Shadows-of-Amn/3030-10637/#game> .
+<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baldur's-Gate:-Dark-Alliance/3030-13091/#game> .
+<http://www.giantbomb.com/baldurs-gate/3025-44/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baldur's-Gate:-Dark-Alliance-II/3030-12107/#game> .

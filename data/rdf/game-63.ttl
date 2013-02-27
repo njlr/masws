@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/puyo-pop/3030-63/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/puyo-pop/3030-63/#game> <http://xmlns.com/foaf/0.1/#name> "Puyo Pop" .
-<http://www.giantbomb.com/puyo-pop/3030-63/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Carbuncle/3005-719/#character> .
-<http://www.giantbomb.com/puyo-pop/3030-63/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Arle-Nadja/3005-14463/#character> .
-<http://www.giantbomb.com/puyo-pop/3030-63/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Draco-Centauros/3005-24689/#character> .
-<http://www.giantbomb.com/puyo-pop/3030-63/#game> <https://github.com/nlr/masws/blob/master/vocab#features> <http://www.giantbomb.com/Suketoudara/3005-24881/#character> .
+<http://www.giantbomb.com/puyo-pop/3030-63/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Carbuncle/3005-719/#character> .
+<http://www.giantbomb.com/puyo-pop/3030-63/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Arle-Nadja/3005-14463/#character> .
+<http://www.giantbomb.com/puyo-pop/3030-63/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Draco-Centauros/3005-24689/#character> .
+<http://www.giantbomb.com/puyo-pop/3030-63/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Suketoudara/3005-24881/#character> .

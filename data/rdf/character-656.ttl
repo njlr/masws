@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/duke-nukem/3005-656/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/duke-nukem/3005-656/#character> <http://xmlns.com/foaf/0.1/#name> "Duke Nukem" .
 <http://www.giantbomb.com/duke-nukem/3005-656/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Kitty-Pousix/3005-18837/#character> .
-<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Trudy-Uprights/3005-18838/#character> .
-<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.giantbomb.com/Mary-Holsom/3005-18839/#character> .
-<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Mech-Morphix/3005-15955/#character> .
-<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Dr-Proton/3005-19221/#character> .
-<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.giantbomb.com/Jack-the-Ripper/3005-12848/#character> .
+<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Kitty-Pousix/3005-18837/#character> .
+<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Trudy-Uprights/3005-18838/#character> .
+<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Mary-Holsom/3005-18839/#character> .
+<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Mech-Morphix/3005-15955/#character> .
+<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dr-Proton/3005-19221/#character> .
+<http://www.giantbomb.com/duke-nukem/3005-656/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Jack-the-Ripper/3005-12848/#character> .

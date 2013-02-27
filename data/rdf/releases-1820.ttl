@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/eradicator/3030-1820/releases/#toc-release-103820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/eradicator/3030-1820/releases/#toc-release-103820> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Eradicator/3030-1820/#game> .
+<http://www.giantbomb.com/eradicator/3030-1820/releases/#toc-release-103820> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/eradicator/3030-1820/releases/#toc-release-103820> <http://dbpedia.org/ontology/releaseDate> "1996-11-16" .

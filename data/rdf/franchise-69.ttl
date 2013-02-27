@@ -1,7 +1,7 @@
-<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
+<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <http://xmlns.com/foaf/0.1/#name> "Breath of Fire" .
-<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Breath-of-Fire:-Dragon-Quarter/3030-1273/#game> .
-<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Breath-of-Fire-II/3030-3093/#game> .
-<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Breath-of-Fire-IV/3030-9177/#game> .
-<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Breath-of-Fire/3030-15629/#game> .
-<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.giantbomb.com/Breath-of-Fire-III/3030-19349/#game> .
+<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Breath-of-Fire:-Dragon-Quarter/3030-1273/#game> .
+<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Breath-of-Fire-II/3030-3093/#game> .
+<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Breath-of-Fire-IV/3030-9177/#game> .
+<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Breath-of-Fire/3030-15629/#game> .
+<http://www.giantbomb.com/breath-of-fire/3025-69/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Breath-of-Fire-III/3030-19349/#game> .

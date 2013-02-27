@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/godzilla-2-war-of-the-monsters/3030-1068/releases/#toc-release-113167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/godzilla-2-war-of-the-monsters/3030-1068/releases/#toc-release-113167> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Godzilla-2:-War-of-the-Monsters/3030-1068/#game> .
+<http://www.giantbomb.com/godzilla-2-war-of-the-monsters/3030-1068/releases/#toc-release-113167> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/godzilla-2-war-of-the-monsters/3030-1068/releases/#toc-release-113167> <http://dbpedia.org/ontology/releaseDate> "1992-02-01" .

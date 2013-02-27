@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Lost-World:-Jurassic-Park/3030-4125/#game> .
+<http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <http://dbpedia.org/ontology/releaseDate> "" .

@@ -1,1 +1,4 @@
-<> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/nlr/masws/blob/master/vocab#release> .
+<http://www.giantbomb.com/assault-city/3030-312/releases/#toc-release-121778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/assault-city/3030-312/releases/#toc-release-121778> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Assault-City/3030-312/#game> .
+<http://www.giantbomb.com/assault-city/3030-312/releases/#toc-release-121778> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/assault-city/3030-312/releases/#toc-release-121778> <http://dbpedia.org/ontology/releaseDate> "1990-01-01" .
