@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/american-softworks-corporation/3010-556/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/american-softworks-corporation/3010-556/#company> <http://xmlns.com/foaf/0.1/#name> "American Softworks Corporation" .
-<http://www.giantbomb.com/american-softworks-corporation/3010-556/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/snow-white-happily-ever-after/3030-40459/#game> .
+<http://www.giantbomb.com/american-softworks-corporation/3010-556/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/snow-white-happily-ever-after/3030-40459/#game> .
 <http://www.giantbomb.com/american-softworks-corporation/3010-556/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-mutant-virus-crisis-in-a-computer-world/3030-4998/#game> .
 <http://www.giantbomb.com/american-softworks-corporation/3010-556/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/power-punch-2/3030-15812/#game> .
 <http://www.giantbomb.com/american-softworks-corporation/3010-556/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/skuljagger-revolt-of-the-westicans/3030-8519/#game> .

@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/the-kremlin/3010-1578/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/the-kremlin/3010-1578/#company> <http://xmlns.com/foaf/0.1/#name> "The Kremlin" .
-<http://www.giantbomb.com/the-kremlin/3010-1578/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/james-bond-the-duel/3030-19542/#game> .
-<http://www.giantbomb.com/the-kremlin/3010-1578/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-spy-who-loved-me/3030-15705/#game> .
-<http://www.giantbomb.com/the-kremlin/3010-1578/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/superheroes/3030-1726/#game> .
-<http://www.giantbomb.com/the-kremlin/3010-1578/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/av8b-harrier-assault/3030-19957/#game> .
+<http://www.giantbomb.com/the-kremlin/3010-1578/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/james-bond-the-duel/3030-19542/#game> .
+<http://www.giantbomb.com/the-kremlin/3010-1578/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-spy-who-loved-me/3030-15705/#game> .
+<http://www.giantbomb.com/the-kremlin/3010-1578/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/superheroes/3030-1726/#game> .
+<http://www.giantbomb.com/the-kremlin/3010-1578/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/av8b-harrier-assault/3030-19957/#game> .

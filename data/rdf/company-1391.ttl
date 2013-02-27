@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <http://xmlns.com/foaf/0.1/#name> "Sega Technical Institute" .
-<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/comix-zone/3030-1416/#game> .
-<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-ooze/3030-7381/#game> .
-<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sonic-the-hedgehog-2/3030-1662/#game> .
-<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sonic-x-treme-canceled/3030-22804/#game> .
-<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sonic-the-hedgehog-3/3030-4628/#game> .
-<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sonic-knuckles/3030-18115/#game> .
-<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/kid-chameleon/3030-11175/#game> .
+<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/comix-zone/3030-1416/#game> .
+<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-ooze/3030-7381/#game> .
+<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/sonic-the-hedgehog-2/3030-1662/#game> .
+<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/sonic-x-treme-canceled/3030-22804/#game> .
+<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/sonic-the-hedgehog-3/3030-4628/#game> .
+<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/sonic-knuckles/3030-18115/#game> .
+<http://www.giantbomb.com/sega-technical-institute/3010-1391/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/kid-chameleon/3030-11175/#game> .

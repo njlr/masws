@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/gizmondo-games/3010-1757/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/gizmondo-games/3010-1757/#company> <http://xmlns.com/foaf/0.1/#name> "Gizmondo Games" .
-<http://www.giantbomb.com/gizmondo-games/3010-1757/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/momma-can-i-mow-the-lawn/3030-23774/#game> .
+<http://www.giantbomb.com/gizmondo-games/3010-1757/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/momma-can-i-mow-the-lawn/3030-23774/#game> .
 <http://www.giantbomb.com/gizmondo-games/3010-1757/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/classic-compendium-2/3030-2029/#game> .
 <http://www.giantbomb.com/gizmondo-games/3010-1757/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/classic-compendium/3030-2803/#game> .
 <http://www.giantbomb.com/gizmondo-games/3010-1757/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/trailblazer/3030-6711/#game> .

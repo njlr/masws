@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/digital-domain/3010-1717/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/digital-domain/3010-1717/#company> <http://xmlns.com/foaf/0.1/#name> "Digital Domain" .
-<http://www.giantbomb.com/digital-domain/3010-1717/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/barbie-fashion-designer/3030-1957/#game> .
+<http://www.giantbomb.com/digital-domain/3010-1717/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/barbie-fashion-designer/3030-1957/#game> .

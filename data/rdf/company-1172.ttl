@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/quality-software/3010-1172/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/quality-software/3010-1172/#company> <http://xmlns.com/foaf/0.1/#name> "Quality Software" .
-<http://www.giantbomb.com/quality-software/3010-1172/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fracas/3030-3315/#game> .
-<http://www.giantbomb.com/quality-software/3010-1172/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/beneath-apple-manor/3030-13653/#game> .
-<http://www.giantbomb.com/quality-software/3010-1172/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ali-baba-and-the-forty-thieves/3030-1116/#game> .
+<http://www.giantbomb.com/quality-software/3010-1172/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fracas/3030-3315/#game> .
+<http://www.giantbomb.com/quality-software/3010-1172/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/beneath-apple-manor/3030-13653/#game> .
+<http://www.giantbomb.com/quality-software/3010-1172/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/ali-baba-and-the-forty-thieves/3030-1116/#game> .
 <http://www.giantbomb.com/quality-software/3010-1172/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/beneath-apple-manor/3030-13653/#game> .
 <http://www.giantbomb.com/quality-software/3010-1172/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ali-baba-and-the-forty-thieves/3030-1116/#game> .

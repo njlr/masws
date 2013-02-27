@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/rockstar-games/3010-1194/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/rockstar-games/3010-1194/#company> <http://xmlns.com/foaf/0.1/#name> "Rockstar Games" .
-<http://www.giantbomb.com/rockstar-games/3010-1194/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/austin-powers-welcome-to-my-underground-lair/3030-2084/#game> .
+<http://www.giantbomb.com/rockstar-games/3010-1194/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/austin-powers-welcome-to-my-underground-lair/3030-2084/#game> .
 <http://www.giantbomb.com/rockstar-games/3010-1194/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bully-scholarship-edition/3030-5092/#game> .
 <http://www.giantbomb.com/rockstar-games/3010-1194/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/grand-theft-auto-2/3030-10593/#game> .
 <http://www.giantbomb.com/rockstar-games/3010-1194/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/grand-theft-auto-advance/3030-3527/#game> .

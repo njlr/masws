@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/ak-tronic-software-services-gmbh/3010-153/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/ak-tronic-software-services-gmbh/3010-153/#company> <http://xmlns.com/foaf/0.1/#name> "ak tronic Software & Services GmbH" .
-<http://www.giantbomb.com/ak-tronic-software-services-gmbh/3010-153/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-tomb-pinball/3030-31621/#game> .
+<http://www.giantbomb.com/ak-tronic-software-services-gmbh/3010-153/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-tomb-pinball/3030-31621/#game> .
 <http://www.giantbomb.com/ak-tronic-software-services-gmbh/3010-153/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crash-bandicoot-warped/3030-12909/#game> .
 <http://www.giantbomb.com/ak-tronic-software-services-gmbh/3010-153/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fur-fighters/3030-570/#game> .
 <http://www.giantbomb.com/ak-tronic-software-services-gmbh/3010-153/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/grand-theft-auto-vice-city/3030-17036/#game> .

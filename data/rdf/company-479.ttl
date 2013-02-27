@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> <http://xmlns.com/foaf/0.1/#name> "GT Interactive Software Corp." .
-<http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-smelly-mystery/3030-4386/#game> .
-<http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wayne-gretzkys-3d-hockey-98/3030-22796/#game> .
+<http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-smelly-mystery/3030-4386/#game> .
+<http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/wayne-gretzkys-3d-hockey-98/3030-22796/#game> .
 <http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chasm-the-rift/3030-17639/#game> .
 <http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bugriders-the-race-of-kings/3030-11070/#game> .
 <http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/courier-crisis/3030-14442/#game> .

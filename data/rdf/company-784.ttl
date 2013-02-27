@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/logicware-inc/3010-784/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/logicware-inc/3010-784/#company> <http://xmlns.com/foaf/0.1/#name> "Logicware, Inc." .
-<http://www.giantbomb.com/logicware-inc/3010-784/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/defiance/3030-16211/#game> .
-<http://www.giantbomb.com/logicware-inc/3010-784/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/quake-ii/3030-3207/#game> .
+<http://www.giantbomb.com/logicware-inc/3010-784/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/defiance/3030-16211/#game> .
+<http://www.giantbomb.com/logicware-inc/3010-784/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/quake-ii/3030-3207/#game> .
 <http://www.giantbomb.com/logicware-inc/3010-784/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jazz-jackrabbit-2/3030-641/#game> .
 <http://www.giantbomb.com/logicware-inc/3010-784/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/killing-time/3030-975/#game> .

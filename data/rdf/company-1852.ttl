@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/jocke-the-beast/3010-1852/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/jocke-the-beast/3010-1852/#company> <http://xmlns.com/foaf/0.1/#name> "Jocke The Beast" .
-<http://www.giantbomb.com/jocke-the-beast/3010-1852/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dark-woods-2/3030-2205/#game> .
+<http://www.giantbomb.com/jocke-the-beast/3010-1852/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dark-woods-2/3030-2205/#game> .
 <http://www.giantbomb.com/jocke-the-beast/3010-1852/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dark-woods-2/3030-2205/#game> .

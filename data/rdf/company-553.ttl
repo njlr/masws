@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <http://xmlns.com/foaf/0.1/#name> "Vectordean Ltd." .
-<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fire-and-brimstone/3030-11854/#game> .
-<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/james-pond-2-codename-robocod/3030-397/#game> .
-<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/james-pond-underwater-agent/3030-14773/#game> .
-<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rolo-to-the-rescue/3030-10371/#game> .
-<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bad-company/3030-10921/#game> .
-<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chart-attack/3030-5524/#game> .
+<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fire-and-brimstone/3030-11854/#game> .
+<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/james-pond-2-codename-robocod/3030-397/#game> .
+<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/james-pond-underwater-agent/3030-14773/#game> .
+<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rolo-to-the-rescue/3030-10371/#game> .
+<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/bad-company/3030-10921/#game> .
+<http://www.giantbomb.com/vectordean-ltd/3010-553/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/chart-attack/3030-5524/#game> .

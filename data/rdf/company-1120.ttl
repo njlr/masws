@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/grubby-games/3010-1120/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/grubby-games/3010-1120/#company> <http://xmlns.com/foaf/0.1/#name> "Grubby Games" .
-<http://www.giantbomb.com/grubby-games/3010-1120/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fizzball/3030-1029/#game> .
-<http://www.giantbomb.com/grubby-games/3010-1120/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/professor-fizzwizzle/3030-9152/#game> .
+<http://www.giantbomb.com/grubby-games/3010-1120/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fizzball/3030-1029/#game> .
+<http://www.giantbomb.com/grubby-games/3010-1120/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/professor-fizzwizzle/3030-9152/#game> .
 <http://www.giantbomb.com/grubby-games/3010-1120/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fizzball/3030-1029/#game> .
 <http://www.giantbomb.com/grubby-games/3010-1120/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/professor-fizzwizzle/3030-9152/#game> .

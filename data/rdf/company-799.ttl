@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/interactive-binary-illusions/3010-799/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/interactive-binary-illusions/3010-799/#company> <http://xmlns.com/foaf/0.1/#name> "Interactive Binary Illusions" .
-<http://www.giantbomb.com/interactive-binary-illusions/3010-799/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flight-of-the-amazon-queen/3030-9527/#game> .
-<http://www.giantbomb.com/interactive-binary-illusions/3010-799/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alien-carnage/3030-655/#game> .
+<http://www.giantbomb.com/interactive-binary-illusions/3010-799/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/flight-of-the-amazon-queen/3030-9527/#game> .
+<http://www.giantbomb.com/interactive-binary-illusions/3010-799/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/alien-carnage/3030-655/#game> .

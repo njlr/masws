@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/dtp-young-entertainment-gmbh-co-kg/3010-1832/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/dtp-young-entertainment-gmbh-co-kg/3010-1832/#company> <http://xmlns.com/foaf/0.1/#name> "dtp young entertainment GmbH & Co. KG" .
-<http://www.giantbomb.com/dtp-young-entertainment-gmbh-co-kg/3010-1832/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/thnk-logic-trainer-kids/3030-32739/#game> .
+<http://www.giantbomb.com/dtp-young-entertainment-gmbh-co-kg/3010-1832/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/thnk-logic-trainer-kids/3030-32739/#game> .
 <http://www.giantbomb.com/dtp-young-entertainment-gmbh-co-kg/3010-1832/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/riding-star-3/3030-2165/#game> .
 <http://www.giantbomb.com/dtp-young-entertainment-gmbh-co-kg/3010-1832/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/think-logik-trainer/3030-18364/#game> .
 <http://www.giantbomb.com/dtp-young-entertainment-gmbh-co-kg/3010-1832/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-woodleys-summer-sports/3030-21888/#game> .

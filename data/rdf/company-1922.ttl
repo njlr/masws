@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <http://xmlns.com/foaf/0.1/#name> "HotGen Ltd." .
-<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/indiana-jones-and-the-infernal-machine/3030-7284/#game> .
-<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mat-hoffmans-pro-bmx/3030-2341/#game> .
-<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/road-champs-bxs-stunt-biking/3030-11200/#game> .
-<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-wars-episode-i-obi-wans-adventures/3030-6181/#game> .
-<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tony-hawks-pro-skater-3/3030-5688/#game> .
-<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/petz-pony-beauty-pageant/3030-26851/#game> .
+<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/indiana-jones-and-the-infernal-machine/3030-7284/#game> .
+<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mat-hoffmans-pro-bmx/3030-2341/#game> .
+<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/road-champs-bxs-stunt-biking/3030-11200/#game> .
+<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/star-wars-episode-i-obi-wans-adventures/3030-6181/#game> .
+<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/tony-hawks-pro-skater-3/3030-5688/#game> .
+<http://www.giantbomb.com/hotgen-ltd/3010-1922/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/petz-pony-beauty-pageant/3030-26851/#game> .

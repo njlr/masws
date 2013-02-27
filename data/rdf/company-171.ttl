@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <http://xmlns.com/foaf/0.1/#name> "Virgin Mastertronic Ltd." .
-<http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/conflict/3030-4854/#game> .
-<http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/game-box-serie-esportes/3030-9915/#game> .
-<http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spot-the-video-game/3030-5156/#game> .
-<http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/judge-dredd/3030-28076/#game> .
+<http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/conflict/3030-4854/#game> .
+<http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/game-box-serie-esportes/3030-9915/#game> .
+<http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/spot-the-video-game/3030-5156/#game> .
+<http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/judge-dredd/3030-28076/#game> .
 <http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/conflict/3030-4854/#game> .
 <http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/continental-circus/3030-9241/#game> .
 <http://www.giantbomb.com/virgin-mastertronic-ltd/3010-171/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cosmic-storm/3030-15399/#game> .

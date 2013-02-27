@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://xmlns.com/foaf/0.1/#name> "Aventuras AD" .
-<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chichen-itza/3030-16095/#game> .
-<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jabato/3030-6772/#game> .
-<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/la-aventura-espacial/3030-1583/#game> .
-<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/la-aventura-original/3030-9444/#game> .
-<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/la-diosa-de-cozumel/3030-18338/#game> .
-<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/los-templos-sagrados/3030-7626/#game> .
+<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/chichen-itza/3030-16095/#game> .
+<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/jabato/3030-6772/#game> .
+<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/la-aventura-espacial/3030-1583/#game> .
+<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/la-aventura-original/3030-9444/#game> .
+<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/la-diosa-de-cozumel/3030-18338/#game> .
+<http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/los-templos-sagrados/3030-7626/#game> .
 <http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chichen-itza/3030-16095/#game> .
 <http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jabato/3030-6772/#game> .
 <http://www.giantbomb.com/aventuras-ad/3010-1500/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/la-aventura-espacial/3030-1583/#game> .

@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://xmlns.com/foaf/0.1/#name> "Mindscape International Ltd." .
-<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/out-to-lunch/3030-12516/#game> .
-<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/outlander/3030-4004/#game> .
-<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/knightmare/3030-5435/#game> .
-<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-24450/#game> .
-<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dance-paradise/3030-32865/#game> .
+<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/out-to-lunch/3030-12516/#game> .
+<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/outlander/3030-4004/#game> .
+<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/knightmare/3030-5435/#game> .
+<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/captain-planet-and-the-planeteers/3030-24450/#game> .
+<http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dance-paradise/3030-32865/#game> .
 <http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/captive-2-liberation/3030-5802/#game> .
 <http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/captive/3030-9575/#game> .
 <http://www.giantbomb.com/mindscape-international-ltd/3010-373/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/evasive-action/3030-7235/#game> .

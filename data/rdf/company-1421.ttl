@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <http://xmlns.com/foaf/0.1/#name> "Riverdeep Interactive Learning Limited" .
-<http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cluefinders-mystery-mansion-arcade/3030-1463/#game> .
-<http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/scooby-doo-case-file-1-the-glowing-bug-man/3030-10534/#game> .
-<http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/strawberry-shortcake-amazing-cookie-party/3030-9567/#game> .
-<http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mavis-beacon-teaches-typing-9/3030-39979/#game> .
+<http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cluefinders-mystery-mansion-arcade/3030-1463/#game> .
+<http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/scooby-doo-case-file-1-the-glowing-bug-man/3030-10534/#game> .
+<http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/strawberry-shortcake-amazing-cookie-party/3030-9567/#game> .
+<http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mavis-beacon-teaches-typing-9/3030-39979/#game> .
 <http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/caillou-magic-playhouse/3030-9420/#game> .
 <http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/caillou-four-seasons-of-fun/3030-14987/#game> .
 <http://www.giantbomb.com/riverdeep-interactive-learning-limited/3010-1421/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/scooby-doo-case-file-1-the-glowing-bug-man/3030-10534/#game> .

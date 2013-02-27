@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/dome-software-developments-the/3010-833/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/dome-software-developments-the/3010-833/#company> <http://xmlns.com/foaf/0.1/#name> "Dome Software Developments, The" .
-<http://www.giantbomb.com/dome-software-developments-the/3010-833/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bobs-bad-day/3030-19502/#game> .
-<http://www.giantbomb.com/dome-software-developments-the/3010-833/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/last-action-hero/3030-5717/#game> .
-<http://www.giantbomb.com/dome-software-developments-the/3010-833/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/complete-davis-cup-tennis/3030-35128/#game> .
+<http://www.giantbomb.com/dome-software-developments-the/3010-833/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/bobs-bad-day/3030-19502/#game> .
+<http://www.giantbomb.com/dome-software-developments-the/3010-833/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/last-action-hero/3030-5717/#game> .
+<http://www.giantbomb.com/dome-software-developments-the/3010-833/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/complete-davis-cup-tennis/3030-35128/#game> .

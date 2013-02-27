@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <http://xmlns.com/foaf/0.1/#name> "Bigben Interactive GmbH" .
-<http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/maze-action/3030-23463/#game> .
-<http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mots-croises/3030-30127/#game> .
-<http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pucca-noodle-rush/3030-35122/#game> .
-<http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hunters-trophy-2-europa/3030-40290/#game> .
+<http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/maze-action/3030-23463/#game> .
+<http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mots-croises/3030-30127/#game> .
+<http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/pucca-noodle-rush/3030-35122/#game> .
+<http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hunters-trophy-2-europa/3030-40290/#game> .
 <http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/danceuk/3030-10610/#game> .
 <http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gangland/3030-12100/#game> .
 <http://www.giantbomb.com/bigben-interactive-gmbh/3010-855/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/itch/3030-7063/#game> .

@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/mucky-foot-productions-limited/3010-563/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/mucky-foot-productions-limited/3010-563/#company> <http://xmlns.com/foaf/0.1/#name> "Mucky Foot Productions Limited" .
-<http://www.giantbomb.com/mucky-foot-productions-limited/3010-563/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/startopia/3030-401/#game> .
-<http://www.giantbomb.com/mucky-foot-productions-limited/3010-563/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/urban-chaos/3030-15032/#game> .
-<http://www.giantbomb.com/mucky-foot-productions-limited/3010-563/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blade-ii/3030-10154/#game> .
+<http://www.giantbomb.com/mucky-foot-productions-limited/3010-563/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/startopia/3030-401/#game> .
+<http://www.giantbomb.com/mucky-foot-productions-limited/3010-563/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/urban-chaos/3030-15032/#game> .
+<http://www.giantbomb.com/mucky-foot-productions-limited/3010-563/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/blade-ii/3030-10154/#game> .

@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <http://xmlns.com/foaf/0.1/#name> "Dartmoor Softworks" .
-<http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/domaine/3030-4079/#game> .
-<http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/web-of-power/3030-12762/#game> .
-<http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/big-oil/3030-32611/#game> .
+<http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/domaine/3030-4079/#game> .
+<http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/web-of-power/3030-12762/#game> .
+<http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/big-oil/3030-32611/#game> .
 <http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/domaine/3030-4079/#game> .
 <http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/torres/3030-2399/#game> .
 <http://www.giantbomb.com/dartmoor-softworks/3010-1953/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/web-of-power/3030-12762/#game> .

@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/killer-game/3010-1461/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/killer-game/3010-1461/#company> <http://xmlns.com/foaf/0.1/#name> "Killer Game" .
-<http://www.giantbomb.com/killer-game/3010-1461/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/frantix/3030-3881/#game> .
-<http://www.giantbomb.com/killer-game/3010-1461/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nhl-faceoff-97/3030-13662/#game> .
-<http://www.giantbomb.com/killer-game/3010-1461/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nhl-faceoff-98/3030-1525/#game> .
-<http://www.giantbomb.com/killer-game/3010-1461/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ncaa-final-four-99/3030-26483/#game> .
-<http://www.giantbomb.com/killer-game/3010-1461/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jet-x2o/3030-29075/#game> .
+<http://www.giantbomb.com/killer-game/3010-1461/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/frantix/3030-3881/#game> .
+<http://www.giantbomb.com/killer-game/3010-1461/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/nhl-faceoff-97/3030-13662/#game> .
+<http://www.giantbomb.com/killer-game/3010-1461/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/nhl-faceoff-98/3030-1525/#game> .
+<http://www.giantbomb.com/killer-game/3010-1461/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/ncaa-final-four-99/3030-26483/#game> .
+<http://www.giantbomb.com/killer-game/3010-1461/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/jet-x2o/3030-29075/#game> .

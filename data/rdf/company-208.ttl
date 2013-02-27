@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/imax-corp/3010-208/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/imax-corp/3010-208/#company> <http://xmlns.com/foaf/0.1/#name> "I'Max Corp." .
-<http://www.giantbomb.com/imax-corp/3010-208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cyber-doll/3030-4211/#game> .
-<http://www.giantbomb.com/imax-corp/3010-208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dual-orb/3030-2757/#game> .
-<http://www.giantbomb.com/imax-corp/3010-208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dual-orb-ii/3030-3201/#game> .
-<http://www.giantbomb.com/imax-corp/3010-208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nailn-scale/3030-120/#game> .
-<http://www.giantbomb.com/imax-corp/3010-208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/insmouse-no-yakata/3030-24236/#game> .
-<http://www.giantbomb.com/imax-corp/3010-208/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/irem-arcade-classics/3030-34884/#game> .
+<http://www.giantbomb.com/imax-corp/3010-208/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cyber-doll/3030-4211/#game> .
+<http://www.giantbomb.com/imax-corp/3010-208/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dual-orb/3030-2757/#game> .
+<http://www.giantbomb.com/imax-corp/3010-208/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dual-orb-ii/3030-3201/#game> .
+<http://www.giantbomb.com/imax-corp/3010-208/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/nailn-scale/3030-120/#game> .
+<http://www.giantbomb.com/imax-corp/3010-208/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/insmouse-no-yakata/3030-24236/#game> .
+<http://www.giantbomb.com/imax-corp/3010-208/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/irem-arcade-classics/3030-34884/#game> .
 <http://www.giantbomb.com/imax-corp/3010-208/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cyber-doll/3030-4211/#game> .
 <http://www.giantbomb.com/imax-corp/3010-208/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dossun-gasenki-battle/3030-16833/#game> .
 <http://www.giantbomb.com/imax-corp/3010-208/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dual-orb/3030-2757/#game> .

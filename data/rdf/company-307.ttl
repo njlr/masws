@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <http://xmlns.com/foaf/0.1/#name> "Brilliant Digital Entertainment" .
-<http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cyberswine/3030-20171/#game> .
-<http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gravity-angels-part-1-alien-discovery/3030-15744/#game> .
-<http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/popeye-and-the-quest-for-the-woolly-mammoth/3030-10677/#game> .
-<http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ace-ventura-pet-detective-the-case-of-the-serial-s/3030-201/#game> .
+<http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cyberswine/3030-20171/#game> .
+<http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/gravity-angels-part-1-alien-discovery/3030-15744/#game> .
+<http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/popeye-and-the-quest-for-the-woolly-mammoth/3030-10677/#game> .
+<http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/ace-ventura-pet-detective-the-case-of-the-serial-s/3030-201/#game> .
 <http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cyberswine/3030-20171/#game> .
 <http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gravity-angels-part-1-alien-discovery/3030-15744/#game> .
 <http://www.giantbomb.com/brilliant-digital-entertainment/3010-307/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/popeye-and-the-quest-for-the-woolly-mammoth/3030-10677/#game> .

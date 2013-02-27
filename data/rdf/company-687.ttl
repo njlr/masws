@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/tdk-mediactive-inc/3010-687/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/tdk-mediactive-inc/3010-687/#company> <http://xmlns.com/foaf/0.1/#name> "TDK Mediactive, Inc." .
-<http://www.giantbomb.com/tdk-mediactive-inc/3010-687/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/challenge-me-brain-puzzles/3030-28417/#game> .
-<http://www.giantbomb.com/tdk-mediactive-inc/3010-687/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/card-captor-sakura-sakura-card-de-mini-game/3030-33565/#game> .
+<http://www.giantbomb.com/tdk-mediactive-inc/3010-687/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/challenge-me-brain-puzzles/3030-28417/#game> .
+<http://www.giantbomb.com/tdk-mediactive-inc/3010-687/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/card-captor-sakura-sakura-card-de-mini-game/3030-33565/#game> .
 <http://www.giantbomb.com/tdk-mediactive-inc/3010-687/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/casper-spirit-dimensions/3030-10068/#game> .
 <http://www.giantbomb.com/tdk-mediactive-inc/3010-687/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/conan/3030-533/#game> .
 <http://www.giantbomb.com/tdk-mediactive-inc/3010-687/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/elevator-action-ex/3030-15009/#game> .

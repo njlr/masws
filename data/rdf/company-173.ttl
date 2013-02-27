@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/tradewest-inc/3010-173/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/tradewest-inc/3010-173/#company> <http://xmlns.com/foaf/0.1/#name> "Tradewest, Inc." .
-<http://www.giantbomb.com/tradewest-inc/3010-173/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/troy-aikman-nfl-football/3030-17989/#game> .
-<http://www.giantbomb.com/tradewest-inc/3010-173/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-off-road-the-baja/3030-22272/#game> .
-<http://www.giantbomb.com/tradewest-inc/3010-173/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-off-road/3030-32988/#game> .
+<http://www.giantbomb.com/tradewest-inc/3010-173/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/troy-aikman-nfl-football/3030-17989/#game> .
+<http://www.giantbomb.com/tradewest-inc/3010-173/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/super-off-road-the-baja/3030-22272/#game> .
+<http://www.giantbomb.com/tradewest-inc/3010-173/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/super-off-road/3030-32988/#game> .
 <http://www.giantbomb.com/tradewest-inc/3010-173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/double-dragon-v-the-shadow-falls/3030-15491/#game> .
 <http://www.giantbomb.com/tradewest-inc/3010-173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fun-n-games/3030-13395/#game> .
 <http://www.giantbomb.com/tradewest-inc/3010-173/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/high-speed/3030-4509/#game> .

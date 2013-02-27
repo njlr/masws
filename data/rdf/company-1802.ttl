@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://xmlns.com/foaf/0.1/#name> "FTL Games" .
-<http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dungeon-master/3030-18518/#game> .
-<http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dungeon-master-ii-the-legend-of-skullkeep/3030-15771/#game> .
-<http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dungeon-master-chaos-strikes-back-expansion-set-1/3030-11076/#game> .
-<http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/oids/3030-11845/#game> .
-<http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sundog-frozen-legacy/3030-2112/#game> .
-<http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/your-sinclair-four-pack-december-1990/3030-7606/#game> .
+<http://www.giantbomb.com/ftl-games/3010-1802/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dungeon-master/3030-18518/#game> .
+<http://www.giantbomb.com/ftl-games/3010-1802/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dungeon-master-ii-the-legend-of-skullkeep/3030-15771/#game> .
+<http://www.giantbomb.com/ftl-games/3010-1802/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dungeon-master-chaos-strikes-back-expansion-set-1/3030-11076/#game> .
+<http://www.giantbomb.com/ftl-games/3010-1802/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/oids/3030-11845/#game> .
+<http://www.giantbomb.com/ftl-games/3010-1802/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/sundog-frozen-legacy/3030-2112/#game> .
+<http://www.giantbomb.com/ftl-games/3010-1802/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/your-sinclair-four-pack-december-1990/3030-7606/#game> .
 <http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dungeon-master-chaos-strikes-back-expansion-set-1/3030-11076/#game> .
 <http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/oids/3030-11845/#game> .
 <http://www.giantbomb.com/ftl-games/3010-1802/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sundog-frozen-legacy/3030-2112/#game> .

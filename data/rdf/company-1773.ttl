@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/braingrey/3010-1773/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/braingrey/3010-1773/#company> <http://xmlns.com/foaf/0.1/#name> "BrainGrey" .
-<http://www.giantbomb.com/braingrey/3010-1773/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disk-station-0/3030-17508/#game> .
-<http://www.giantbomb.com/braingrey/3010-1773/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/last-armageddon/3030-2063/#game> .
+<http://www.giantbomb.com/braingrey/3010-1773/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/disk-station-0/3030-17508/#game> .
+<http://www.giantbomb.com/braingrey/3010-1773/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/last-armageddon/3030-2063/#game> .
 <http://www.giantbomb.com/braingrey/3010-1773/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/last-armageddon/3030-2063/#game> .

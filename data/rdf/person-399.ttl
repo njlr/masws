@@ -1,3 +1,4 @@
+<http://www.giantbomb.com/jared-baca/3040-399/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/jared-baca/3040-399/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/jared-baca/3040-399/#person> <http://xmlns.com/foaf/0.1/#name> "Jared Baca" .
 <http://www.giantbomb.com/jared-baca/3040-399/#person> <http://xmlns.com/foaf/0.1/#gender> "other" .
@@ -5,4 +6,4 @@
 <http://www.giantbomb.com/jared-baca/3040-399/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/jared-baca/3040-399/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Activision/3010-78/#company> .
 <http://www.giantbomb.com/jared-baca/3040-399/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Bizarre-Creations/3010-716/#company> .
-<http://www.giantbomb.com/jared-baca/3040-399/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Geometry-Wars:-Retro-Evolved-2/3030-21167/#game> .
+<http://www.giantbomb.com/jared-baca/3040-399/#person> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/Geometry-Wars:-Retro-Evolved-2/3030-21167/#game> .

@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/infinite-ventures-inc/3010-434/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/infinite-ventures-inc/3010-434/#company> <http://xmlns.com/foaf/0.1/#name> "Infinite Ventures, Inc." .
-<http://www.giantbomb.com/infinite-ventures-inc/3010-434/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/shadowgate-64-the-trials-of-the-four-towers/3030-1617/#game> .
+<http://www.giantbomb.com/infinite-ventures-inc/3010-434/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/shadowgate-64-the-trials-of-the-four-towers/3030-1617/#game> .

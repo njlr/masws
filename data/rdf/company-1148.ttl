@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://xmlns.com/foaf/0.1/#name> "Mattel Interactive" .
-<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hot-wheels-stunt-track-driver/3030-5636/#game> .
-<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/chessmaster-8000/3030-2357/#game> .
-<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-series-major-league-baseball/3030-34262/#game> .
-<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/party-print-n-play/3030-38709/#game> .
-<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-challenge-football/3030-32603/#game> .
-<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/baseball/3030-40532/#game> .
+<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hot-wheels-stunt-track-driver/3030-5636/#game> .
+<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/chessmaster-8000/3030-2357/#game> .
+<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/world-series-major-league-baseball/3030-34262/#game> .
+<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/party-print-n-play/3030-38709/#game> .
+<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/super-challenge-football/3030-32603/#game> .
+<http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/baseball/3030-40532/#game> .
 <http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cluefinders-mystery-mansion-arcade/3030-1463/#game> .
 <http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/championship-surfer/3030-6330/#game> .
 <http://www.giantbomb.com/mattel-interactive/3010-1148/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hot-wheels-stunt-track-driver-2-get-n-dirty/3030-1530/#game> .

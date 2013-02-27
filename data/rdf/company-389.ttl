@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <http://xmlns.com/foaf/0.1/#name> "Wideload Games, Inc." .
-<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stubbs-the-zombie-in-rebel-without-a-pulse/3030-261/#game> .
-<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hail-to-the-chimp/3030-20520/#game> .
-<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/texas-cheat-em/3030-25036/#game> .
-<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disney-guilty-party/3030-30111/#game> .
-<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/avengers-initiative/3030-39883/#game> .
+<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/stubbs-the-zombie-in-rebel-without-a-pulse/3030-261/#game> .
+<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hail-to-the-chimp/3030-20520/#game> .
+<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/texas-cheat-em/3030-25036/#game> .
+<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/disney-guilty-party/3030-30111/#game> .
+<http://www.giantbomb.com/wideload-games-inc/3010-389/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/avengers-initiative/3030-39883/#game> .

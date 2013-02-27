@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/enkord/3010-715/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/enkord/3010-715/#company> <http://xmlns.com/foaf/0.1/#name> "Enkord" .
-<http://www.giantbomb.com/enkord/3010-715/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/emerald-tale/3030-3487/#game> .
+<http://www.giantbomb.com/enkord/3010-715/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/emerald-tale/3030-3487/#game> .
 <http://www.giantbomb.com/enkord/3010-715/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/emerald-tale/3030-3487/#game> .
 <http://www.giantbomb.com/enkord/3010-715/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jewel-of-atlantis/3030-567/#game> .

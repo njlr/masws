@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/encore-inc/3010-1289/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/encore-inc/3010-1289/#company> <http://xmlns.com/foaf/0.1/#name> "Encore, Inc." .
-<http://www.giantbomb.com/encore-inc/3010-1289/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hoyle-casino-empire/3030-19458/#game> .
+<http://www.giantbomb.com/encore-inc/3010-1289/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hoyle-casino-empire/3030-19458/#game> .
 <http://www.giantbomb.com/encore-inc/3010-1289/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/echelon-wind-warriors/3030-14536/#game> .
 <http://www.giantbomb.com/encore-inc/3010-1289/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/elmos-deep-sea-adventure/3030-4107/#game> .
 <http://www.giantbomb.com/encore-inc/3010-1289/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/family-megahits-ii/3030-19348/#game> .

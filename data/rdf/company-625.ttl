@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/ballistic/3010-625/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/ballistic/3010-625/#company> <http://xmlns.com/foaf/0.1/#name> "Ballistic" .
-<http://www.giantbomb.com/ballistic/3010-625/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pac-man-2-the-new-adventures/3030-12294/#game> .
+<http://www.giantbomb.com/ballistic/3010-625/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/pac-man-2-the-new-adventures/3030-12294/#game> .
 <http://www.giantbomb.com/ballistic/3010-625/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-games-winter-challenge/3030-19530/#game> .
 <http://www.giantbomb.com/ballistic/3010-625/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hardball/3030-16242/#game> .
 <http://www.giantbomb.com/ballistic/3010-625/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ivan-iron-man-stewarts-super-off-road/3030-9509/#game> .

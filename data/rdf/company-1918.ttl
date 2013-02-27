@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <http://xmlns.com/foaf/0.1/#name> "Cyberdreams, Inc." .
-<http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cyberrace/3030-5509/#game> .
-<http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dark-seed/3030-2333/#game> .
-<http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dark-seed-ii/3030-16020/#game> .
+<http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cyberrace/3030-5509/#game> .
+<http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dark-seed/3030-2333/#game> .
+<http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dark-seed-ii/3030-16020/#game> .
 <http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cyberrace/3030-5509/#game> .
 <http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/noir-a-shadowy-thriller/3030-17426/#game> .
 <http://www.giantbomb.com/cyberdreams-inc/3010-1918/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/i-have-no-mouth-and-i-must-scream/3030-2695/#game> .

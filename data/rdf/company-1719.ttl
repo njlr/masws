@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/inside-team/3010-1719/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/inside-team/3010-1719/#company> <http://xmlns.com/foaf/0.1/#name> "InSide Team" .
-<http://www.giantbomb.com/inside-team/3010-1719/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/deadly-racer/3030-1960/#game> .
-<http://www.giantbomb.com/inside-team/3010-1719/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rally-championships/3030-2658/#game> .
+<http://www.giantbomb.com/inside-team/3010-1719/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/deadly-racer/3030-1960/#game> .
+<http://www.giantbomb.com/inside-team/3010-1719/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rally-championships/3030-2658/#game> .

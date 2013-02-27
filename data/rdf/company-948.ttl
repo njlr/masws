@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://xmlns.com/foaf/0.1/#name> "Iridon Interactive AB" .
-<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/heavyweight-thunder/3030-14388/#game> .
-<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/monster-truck-fury/3030-16017/#game> .
-<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pure-pinball/3030-817/#game> .
-<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wanted-dead-or-alive/3030-5339/#game> .
-<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/billy-blade-and-the-temple-of-time/3030-3588/#game> .
-<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/turbo-turtle-adventure/3030-25554/#game> .
-<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/akimbo-kung-fu-hero/3030-3910/#game> .
+<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/heavyweight-thunder/3030-14388/#game> .
+<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/monster-truck-fury/3030-16017/#game> .
+<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/pure-pinball/3030-817/#game> .
+<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/wanted-dead-or-alive/3030-5339/#game> .
+<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/billy-blade-and-the-temple-of-time/3030-3588/#game> .
+<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/turbo-turtle-adventure/3030-25554/#game> .
+<http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/akimbo-kung-fu-hero/3030-3910/#game> .
 <http://www.giantbomb.com/iridon-interactive-ab/3010-948/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dink-smallwood/3030-17340/#game> .

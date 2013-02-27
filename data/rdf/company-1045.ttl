@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/american-sammy-corporation/3010-1045/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/american-sammy-corporation/3010-1045/#company> <http://xmlns.com/foaf/0.1/#name> "American Sammy Corporation" .
-<http://www.giantbomb.com/american-sammy-corporation/3010-1045/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rolans-curse/3030-935/#game> .
-<http://www.giantbomb.com/american-sammy-corporation/3010-1045/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/arkistas-ring/3030-11353/#game> .
+<http://www.giantbomb.com/american-sammy-corporation/3010-1045/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rolans-curse/3030-935/#game> .
+<http://www.giantbomb.com/american-sammy-corporation/3010-1045/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/arkistas-ring/3030-11353/#game> .
 <http://www.giantbomb.com/american-sammy-corporation/3010-1045/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/michael-andrettis-world-gp/3030-12451/#game> .
 <http://www.giantbomb.com/american-sammy-corporation/3010-1045/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ninja-crusaders/3030-18230/#game> .
 <http://www.giantbomb.com/american-sammy-corporation/3010-1045/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rolans-curse/3030-935/#game> .

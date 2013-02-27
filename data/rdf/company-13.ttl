@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <http://xmlns.com/foaf/0.1/#name> "Simon & Schuster Interactive" .
-<http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-trek-borg/3030-17326/#game> .
-<http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-trek-klingon/3030-224/#game> .
-<http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mms-shell-shocked/3030-22905/#game> .
+<http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/star-trek-borg/3030-17326/#game> .
+<http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/star-trek-klingon/3030-224/#game> .
+<http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mms-shell-shocked/3030-22905/#game> .
 <http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cheerios-play-time/3030-165/#game> .
 <http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/curious-george-learns-phonics/3030-15755/#game> .
 <http://www.giantbomb.com/simon-schuster-interactive/3010-13/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/deer-avenger/3030-9684/#game> .

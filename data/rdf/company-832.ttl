@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/animagic-sa/3010-832/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/animagic-sa/3010-832/#company> <http://xmlns.com/foaf/0.1/#name> "Animagic S.A." .
-<http://www.giantbomb.com/animagic-sa/3010-832/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mortadelo-y-filemon-2/3030-694/#game> .
+<http://www.giantbomb.com/animagic-sa/3010-832/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mortadelo-y-filemon-2/3030-694/#game> .

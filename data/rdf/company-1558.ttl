@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/fluid-studios/3010-1558/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/fluid-studios/3010-1558/#company> <http://xmlns.com/foaf/0.1/#name> "Fluid Studios" .
-<http://www.giantbomb.com/fluid-studios/3010-1558/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/army-men-air-combat/3030-1691/#game> .
-<http://www.giantbomb.com/fluid-studios/3010-1558/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/et-the-extra-terrestrial/3030-3983/#game> .
-<http://www.giantbomb.com/fluid-studios/3010-1558/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/top-gun-firestorm/3030-32097/#game> .
+<http://www.giantbomb.com/fluid-studios/3010-1558/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/army-men-air-combat/3030-1691/#game> .
+<http://www.giantbomb.com/fluid-studios/3010-1558/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/et-the-extra-terrestrial/3030-3983/#game> .
+<http://www.giantbomb.com/fluid-studios/3010-1558/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/top-gun-firestorm/3030-32097/#game> .

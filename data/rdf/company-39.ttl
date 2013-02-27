@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://xmlns.com/foaf/0.1/#name> "Agetec, Inc." .
-<http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/puzzle-guzzle/3030-20997/#game> .
-<http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/womens-volleyball-championship/3030-22673/#game> .
-<http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silver-star-chess/3030-26620/#game> .
-<http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pauls-shooting-adventure/3030-33024/#game> .
-<http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/kung-fu-dragon/3030-36042/#game> .
+<http://www.giantbomb.com/agetec-inc/3010-39/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/puzzle-guzzle/3030-20997/#game> .
+<http://www.giantbomb.com/agetec-inc/3010-39/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/womens-volleyball-championship/3030-22673/#game> .
+<http://www.giantbomb.com/agetec-inc/3010-39/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/silver-star-chess/3030-26620/#game> .
+<http://www.giantbomb.com/agetec-inc/3010-39/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/pauls-shooting-adventure/3030-33024/#game> .
+<http://www.giantbomb.com/agetec-inc/3010-39/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/kung-fu-dragon/3030-36042/#game> .
 <http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/clock-tower-2-the-struggle-within/3030-18132/#game> .
 <http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/burai-fighter/3030-4422/#game> .
 <http://www.giantbomb.com/agetec-inc/3010-39/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crossroad-crisis/3030-15895/#game> .

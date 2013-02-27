@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://xmlns.com/foaf/0.1/#name> "Remedy Entertainment Ltd." .
-<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/death-rally/3030-18044/#game> .
-<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/max-payne-2-the-fall-of-max-payne/3030-3547/#game> .
-<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/max-payne/3030-2414/#game> .
-<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alan-wake/3030-20982/#game> .
-<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alan-wakes-american-nightmare/3030-35157/#game> .
+<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/death-rally/3030-18044/#game> .
+<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/max-payne-2-the-fall-of-max-payne/3030-3547/#game> .
+<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/max-payne/3030-2414/#game> .
+<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/alan-wake/3030-20982/#game> .
+<http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/alan-wakes-american-nightmare/3030-35157/#game> .
 <http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/death-rally/3030-18044/#game> .
 <http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/death-rally/3030-34623/#game> .
 <http://www.giantbomb.com/remedy-entertainment-ltd/3010-1961/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/alan-wake/3030-20982/#game> .

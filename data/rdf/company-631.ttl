@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/running-with-scissors/3010-631/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/running-with-scissors/3010-631/#company> <http://xmlns.com/foaf/0.1/#name> "Running With Scissors" .
-<http://www.giantbomb.com/running-with-scissors/3010-631/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/postal/3030-15891/#game> .
-<http://www.giantbomb.com/running-with-scissors/3010-631/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/postal-special-delivery/3030-20244/#game> .
-<http://www.giantbomb.com/running-with-scissors/3010-631/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/postal-2/3030-12863/#game> .
-<http://www.giantbomb.com/running-with-scissors/3010-631/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/postal-iii/3030-21155/#game> .
+<http://www.giantbomb.com/running-with-scissors/3010-631/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/postal/3030-15891/#game> .
+<http://www.giantbomb.com/running-with-scissors/3010-631/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/postal-special-delivery/3030-20244/#game> .
+<http://www.giantbomb.com/running-with-scissors/3010-631/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/postal-2/3030-12863/#game> .
+<http://www.giantbomb.com/running-with-scissors/3010-631/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/postal-iii/3030-21155/#game> .
 <http://www.giantbomb.com/running-with-scissors/3010-631/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/postal-special-delivery/3030-20244/#game> .
 <http://www.giantbomb.com/running-with-scissors/3010-631/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/postal-2/3030-12863/#game> .
 <http://www.giantbomb.com/running-with-scissors/3010-631/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/postal-2-apocalypse-weekend/3030-18837/#game> .

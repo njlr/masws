@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/chewy-software-llc/3010-390/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/chewy-software-llc/3010-390/#company> <http://xmlns.com/foaf/0.1/#name> "Chewy Software, LLC" .
-<http://www.giantbomb.com/chewy-software-llc/3010-390/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stubbs-the-zombie-in-rebel-without-a-pulse/3030-261/#game> .
+<http://www.giantbomb.com/chewy-software-llc/3010-390/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/stubbs-the-zombie-in-rebel-without-a-pulse/3030-261/#game> .

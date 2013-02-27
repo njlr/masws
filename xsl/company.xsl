@@ -47,7 +47,7 @@
 <xsl:template match="game" mode="dev">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;http://dbpedia.org/ontology/developer>'"/>
+        <xsl:with-param name="predicate" select="'&lt;https://raw.github.com/nlr/masws/master/vocab.n3#developer>'"/>
         <xsl:with-param name="object" select="concat('&lt;', concat(site_detail_url, '#game>'))"/>
     </xsl:call-template>
 </xsl:template>

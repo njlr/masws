@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://xmlns.com/foaf/0.1/#name> "Magic Bytes" .
-<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mindbender/3030-4015/#game> .
-<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/vampires-empire/3030-6507/#game> .
-<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/western-games/3030-3356/#game> .
-<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dino-wars/3030-30946/#game> .
-<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pink-panther/3030-37588/#game> .
-<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mission-elevator/3030-8418/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mindbender/3030-4015/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/vampires-empire/3030-6507/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/western-games/3030-3356/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dino-wars/3030-30946/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/pink-panther/3030-37588/#game> .
+<http://www.giantbomb.com/magic-bytes/3010-1017/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mission-elevator/3030-8418/#game> .
 <http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dark-secrets-of-africa/3030-2812/#game> .
 <http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dynatech/3030-892/#game> .
 <http://www.giantbomb.com/magic-bytes/3010-1017/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/elysium/3030-4847/#game> .

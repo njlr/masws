@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <http://xmlns.com/foaf/0.1/#name> "Spinnaker Software Corporation" .
-<http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/kindercomp/3030-6082/#game> .
-<http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/major-league-manager/3030-16722/#game> .
-<http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alphabet-zoo/3030-16340/#game> .
-<http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/laser-lords/3030-33195/#game> .
+<http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/kindercomp/3030-6082/#game> .
+<http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/major-league-manager/3030-16722/#game> .
+<http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/alphabet-zoo/3030-16340/#game> .
+<http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/laser-lords/3030-33195/#game> .
 <http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/in-search-of-the-most-amazing-thing/3030-13720/#game> .
 <http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/invaders-of-the-lost-tomb/3030-12538/#game> .
 <http://www.giantbomb.com/spinnaker-software-corporation/3010-1879/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/learn-to-add/3030-18101/#game> .

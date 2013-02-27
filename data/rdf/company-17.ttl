@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <http://xmlns.com/foaf/0.1/#name> "Ariolasoft UK" .
-<http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/werewolves-of-london/3030-6593/#game> .
-<http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/zombies/3030-2034/#game> .
-<http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/challenge-of-the-gobots/3030-39463/#game> .
+<http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/werewolves-of-london/3030-6593/#game> .
+<http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/zombies/3030-2034/#game> .
+<http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/challenge-of-the-gobots/3030-39463/#game> .
 <http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/camelot-warriors/3030-7/#game> .
 <http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/deactivators/3030-12239/#game> .
 <http://www.giantbomb.com/ariolasoft-uk/3010-17/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hard-hat-mack/3030-19148/#game> .

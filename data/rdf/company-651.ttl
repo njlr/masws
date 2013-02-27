@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <http://xmlns.com/foaf/0.1/#name> "CDV Software Entertainment AG" .
-<http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lula-3d/3030-5706/#game> .
-<http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lula-the-sexy-empire/3030-7766/#game> .
-<http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lula-virtual-babe/3030-20002/#game> .
+<http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lula-3d/3030-5706/#game> .
+<http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lula-the-sexy-empire/3030-7766/#game> .
+<http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lula-virtual-babe/3030-20002/#game> .
 <http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/combat-mission-anthology/3030-20304/#game> .
 <http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/combat-mission-ii-barbarossa-to-berlin/3030-7112/#game> .
 <http://www.giantbomb.com/cdv-software-entertainment-ag/3010-651/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/codename-panzers-phase-two/3030-14060/#game> .

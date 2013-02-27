@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://xmlns.com/foaf/0.1/#name> "Angelsoft, Inc." .
-<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/forbidden-castle/3030-18716/#game> .
-<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/high-take-by-dick-francis/3030-5404/#game> .
-<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/indiana-jones-in-revenge-of-the-ancients/3030-369/#game> .
-<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/james-bond-007-a-view-to-a-kill/3030-12791/#game> .
-<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/james-bond-007-goldfinger/3030-3856/#game> .
-<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-mist/3030-2387/#game> .
-<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/voodoo-island/3030-14166/#game> .
+<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/forbidden-castle/3030-18716/#game> .
+<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/high-take-by-dick-francis/3030-5404/#game> .
+<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/indiana-jones-in-revenge-of-the-ancients/3030-369/#game> .
+<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/james-bond-007-a-view-to-a-kill/3030-12791/#game> .
+<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/james-bond-007-goldfinger/3030-3856/#game> .
+<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-mist/3030-2387/#game> .
+<http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/voodoo-island/3030-14166/#game> .
 <http://www.giantbomb.com/angelsoft-inc/3010-529/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rambo-first-blood-part-ii/3030-7663/#game> .

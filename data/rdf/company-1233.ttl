@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ablaze-entertainment/3010-1233/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/ablaze-entertainment/3010-1233/#company> <http://xmlns.com/foaf/0.1/#name> "Ablaze Entertainment" .
-<http://www.giantbomb.com/ablaze-entertainment/3010-1233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/napalm-the-crimson-crisis/3030-14585/#game> .
-<http://www.giantbomb.com/ablaze-entertainment/3010-1233/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-strangers/3030-1199/#game> .
+<http://www.giantbomb.com/ablaze-entertainment/3010-1233/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/napalm-the-crimson-crisis/3030-14585/#game> .
+<http://www.giantbomb.com/ablaze-entertainment/3010-1233/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-strangers/3030-1199/#game> .

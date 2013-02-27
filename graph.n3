@@ -1,0 +1,64 @@
+<foaf:thing> <rdf:type> <rdf:class> .
+<dbpedia:fictionalCharacter> <rdf:type> <rdf:class> .
+<us:franchise> <rdf:type> <rdf:class> .
+<us:release> <rdf:type> <rdf:class> .
+<dbpedia:computerGame> <rdf:type> <rdf:class> .
+<dbpedia:software> <rdf:type> <rdf:class> .
+<dbpedia:work> <rdf:type> <rdf:class> .
+<dbpedia:organisation> <rdf:type> <rdf:class> .
+<dbpedia:person> <rdf:type> <rdf:class> .
+<foaf:person> <rdf:type> <rdf:class> .
+<foaf:person> <rdf:subClassOf> <foaf:thing> .
+
+<foaf:name> <rdf:type> <rdf:property> .
+<foaf:name> <rdf:domain> <foaf:person> .
+
+<foaf:gender> <rdf:type> <rdf:property> .
+<foaf:gender> <rdf:domain> <foaf:person> .
+
+<us:includes> <rdf:type> <rdf:property> .
+<us:includes> <rdf:domain> <us:franchise> .
+<us:includes> <rdf:range> <dbpedia:computerGame> .
+
+<us:foe> <rdf:type> <rdf:property> .
+<us:foe> <rdf:domain> <dbpedia:fictionalCharacter> .
+<us:foe> <rdf:range> <dbpedia:fictionalCharacter> .
+
+<us:friend> <rdf:type> <rdf:property> .
+<us:friend> <rdf:domain> <dbpedia:fictionalCharacter> .
+<us:friend> <rdf:range> <dbpedia:fictionalCharacter> .
+
+<us:isVersionOf> <rdf:type> <rdf:property> .
+<us:isVersionOf> <rdf:domain> <us:release> .
+<us:isVersionOf> <rdf:range> <dbpedia:computerGame> .
+
+<dbpedia:releaseDate> <rdf:type> <rdf:property> .
+
+<dbpedia:birthDate> <rdf:type> <rdf:property> .
+<dbpedia:birthDate> <rdf:domain> <dbpedia:person> .
+
+<dbpedia:birthPlace> <rdf:type> <rdf:property> .
+<dbpedia:birthPlace> <rdf:domain> <dbpedia:person> .
+
+<dbpedia:employer> <rdf:type> <rdf:property> .
+<dbpedia:employer> <rdf:domain> <dbpedia:person> .
+<dbpedia:employer> <rdf:range> <dbpedia:organisation> .
+
+<us:developer> <rdf:type> <rdf:property> .
+<us:developer> <rdf:range> <dbpedia:computerGame> .
+
+<dbpedia:publisher> <rdf:type> <rdf:property> .
+<dbpedia:publisher> <rdf:domain> <dbpedia:work> .
+<dbpedia:publisher> <rdf:range> <dbpedia:organisation> .
+
+<us:features> <rdf:type> <rdf:property> .
+<us:features> <rdf:domain> <dbpedia:computerGame> .
+<us:features> <rdf:range> <us:franchise> .
+
+<dbpedia:computerGame> <rdf:subClassOf> <dbpedia:software> .
+<dbpedia:software> <rdf:subClassOf> <dbpedia:work> .
+
+
+
+
+

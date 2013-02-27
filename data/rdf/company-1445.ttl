@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/black-element-software/3010-1445/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/black-element-software/3010-1445/#company> <http://xmlns.com/foaf/0.1/#name> "Black Element Software" .
-<http://www.giantbomb.com/black-element-software/3010-1445/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/shade-wrath-of-angels/3030-1496/#game> .
-<http://www.giantbomb.com/black-element-software/3010-1445/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/arma-queens-gambit/3030-9107/#game> .
-<http://www.giantbomb.com/black-element-software/3010-1445/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/alpha-prime/3030-7407/#game> .
-<http://www.giantbomb.com/black-element-software/3010-1445/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/carrier-command-gaea-mission/3030-23315/#game> .
+<http://www.giantbomb.com/black-element-software/3010-1445/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/shade-wrath-of-angels/3030-1496/#game> .
+<http://www.giantbomb.com/black-element-software/3010-1445/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/arma-queens-gambit/3030-9107/#game> .
+<http://www.giantbomb.com/black-element-software/3010-1445/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/alpha-prime/3030-7407/#game> .
+<http://www.giantbomb.com/black-element-software/3010-1445/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/carrier-command-gaea-mission/3030-23315/#game> .

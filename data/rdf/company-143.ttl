@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/hi-tec-software-ltd/3010-143/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/hi-tec-software-ltd/3010-143/#company> <http://xmlns.com/foaf/0.1/#name> "Hi-Tec Software Ltd." .
-<http://www.giantbomb.com/hi-tec-software-ltd/3010-143/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/daffy-duck/3030-29360/#game> .
+<http://www.giantbomb.com/hi-tec-software-ltd/3010-143/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/daffy-duck/3030-29360/#game> .
 <http://www.giantbomb.com/hi-tec-software-ltd/3010-143/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cauldron-ii-the-pumpkin-strikes-back/3030-12702/#game> .
 <http://www.giantbomb.com/hi-tec-software-ltd/3010-143/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hong-kong-phooey-no1-super-guy/3030-4021/#game> .
 <http://www.giantbomb.com/hi-tec-software-ltd/3010-143/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-jetsons-the-computer-game/3030-18890/#game> .

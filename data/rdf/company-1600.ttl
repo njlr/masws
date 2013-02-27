@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/selectsoft-publishing/3010-1600/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/selectsoft-publishing/3010-1600/#company> <http://xmlns.com/foaf/0.1/#name> "Selectsoft Publishing" .
-<http://www.giantbomb.com/selectsoft-publishing/3010-1600/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/101-kitty-pets/3030-32619/#game> .
-<http://www.giantbomb.com/selectsoft-publishing/3010-1600/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/101-pony-pets/3030-32618/#game> .
+<http://www.giantbomb.com/selectsoft-publishing/3010-1600/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/101-kitty-pets/3030-32619/#game> .
+<http://www.giantbomb.com/selectsoft-publishing/3010-1600/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/101-pony-pets/3030-32618/#game> .
 <http://www.giantbomb.com/selectsoft-publishing/3010-1600/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/casanova-the-duel-of-the-black-rose/3030-4371/#game> .
 <http://www.giantbomb.com/selectsoft-publishing/3010-1600/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/capcom-arcade-hits-volume-2/3030-15357/#game> .
 <http://www.giantbomb.com/selectsoft-publishing/3010-1600/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mad-dog-ii-the-lost-gold/3030-12886/#game> .

@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/valcon-games-llc/3010-555/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/valcon-games-llc/3010-555/#company> <http://xmlns.com/foaf/0.1/#name> "Valcon Games LLC" .
-<http://www.giantbomb.com/valcon-games-llc/3010-555/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/real-world-golf/3030-34128/#game> .
-<http://www.giantbomb.com/valcon-games-llc/3010-555/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gunslingers/3030-35794/#game> .
+<http://www.giantbomb.com/valcon-games-llc/3010-555/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/real-world-golf/3030-34128/#game> .
+<http://www.giantbomb.com/valcon-games-llc/3010-555/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/gunslingers/3030-35794/#game> .
 <http://www.giantbomb.com/valcon-games-llc/3010-555/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/corvette-evolution-gt/3030-9986/#game> .
 <http://www.giantbomb.com/valcon-games-llc/3010-555/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pirates-legend-of-the-black-buccaneer/3030-10662/#game> .
 <http://www.giantbomb.com/valcon-games-llc/3010-555/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/scar-squadra-corse-alfa-romeo/3030-1423/#game> .

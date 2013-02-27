@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/light-shock-software-snc/3010-1711/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/light-shock-software-snc/3010-1711/#company> <http://xmlns.com/foaf/0.1/#name> "Light Shock Software s.n.c." .
-<http://www.giantbomb.com/light-shock-software-snc/3010-1711/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pray-for-death/3030-1940/#game> .
-<http://www.giantbomb.com/light-shock-software-snc/3010-1711/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fightin-spirit/3030-17387/#game> .
-<http://www.giantbomb.com/light-shock-software-snc/3010-1711/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/black-viper/3030-9554/#game> .
+<http://www.giantbomb.com/light-shock-software-snc/3010-1711/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/pray-for-death/3030-1940/#game> .
+<http://www.giantbomb.com/light-shock-software-snc/3010-1711/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fightin-spirit/3030-17387/#game> .
+<http://www.giantbomb.com/light-shock-software-snc/3010-1711/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/black-viper/3030-9554/#game> .

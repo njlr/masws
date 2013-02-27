@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/matrix-games/3010-996/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/matrix-games/3010-996/#company> <http://xmlns.com/foaf/0.1/#name> "Matrix Games" .
-<http://www.giantbomb.com/matrix-games/3010-996/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-operational-art-of-war-iii/3030-15124/#game> .
-<http://www.giantbomb.com/matrix-games/3010-996/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/steel-panthers-world-at-war/3030-14994/#game> .
-<http://www.giantbomb.com/matrix-games/3010-996/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-chamber/3030-8026/#game> .
-<http://www.giantbomb.com/matrix-games/3010-996/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/close-combat-panthers-in-the-fog/3030-39944/#game> .
+<http://www.giantbomb.com/matrix-games/3010-996/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-operational-art-of-war-iii/3030-15124/#game> .
+<http://www.giantbomb.com/matrix-games/3010-996/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/steel-panthers-world-at-war/3030-14994/#game> .
+<http://www.giantbomb.com/matrix-games/3010-996/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/star-chamber/3030-8026/#game> .
+<http://www.giantbomb.com/matrix-games/3010-996/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/close-combat-panthers-in-the-fog/3030-39944/#game> .
 <http://www.giantbomb.com/matrix-games/3010-996/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/decisive-battles-of-wwii-across-the-dnepr/3030-2199/#game> .
 <http://www.giantbomb.com/matrix-games/3010-996/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/eric-youngs-squad-assault-west-front/3030-17932/#game> .
 <http://www.giantbomb.com/matrix-games/3010-996/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gary-grigsbys-world-at-war/3030-19157/#game> .

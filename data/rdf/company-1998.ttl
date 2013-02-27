@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/eai-interactive/3010-1998/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/eai-interactive/3010-1998/#company> <http://xmlns.com/foaf/0.1/#name> "EAI Interactive" .
-<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/clue-murder-at-boddy-mansion/3030-7898/#game> .
-<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/clue-chronicles-fatal-illusion/3030-2483/#game> .
-<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/championship-bass/3030-12267/#game> .
-<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/scooby-doo-mystery-of-the-fun-park-phantom/3030-19763/#game> .
-<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/barbie-magic-hair-styler/3030-4935/#game> .
-<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/animaniacs-a-gigantic-adventure/3030-12477/#game> .
-<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/animaniacs-splat-ball/3030-15846/#game> .
+<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/clue-murder-at-boddy-mansion/3030-7898/#game> .
+<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/clue-chronicles-fatal-illusion/3030-2483/#game> .
+<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/championship-bass/3030-12267/#game> .
+<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/scooby-doo-mystery-of-the-fun-park-phantom/3030-19763/#game> .
+<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/barbie-magic-hair-styler/3030-4935/#game> .
+<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/animaniacs-a-gigantic-adventure/3030-12477/#game> .
+<http://www.giantbomb.com/eai-interactive/3010-1998/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/animaniacs-splat-ball/3030-15846/#game> .

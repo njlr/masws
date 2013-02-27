@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/panther-games/3010-1894/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/panther-games/3010-1894/#company> <http://xmlns.com/foaf/0.1/#name> "Panther Games" .
-<http://www.giantbomb.com/panther-games/3010-1894/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fire-brigade/3030-2287/#game> .
-<http://www.giantbomb.com/panther-games/3010-1894/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/airborne-assault-red-devils-over-arnhem/3030-9287/#game> .
-<http://www.giantbomb.com/panther-games/3010-1894/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/airborne-assault-highway-to-the-reich/3030-23123/#game> .
-<http://www.giantbomb.com/panther-games/3010-1894/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/airborne-assault-conquest-of-the-aegean/3030-23124/#game> .
+<http://www.giantbomb.com/panther-games/3010-1894/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fire-brigade/3030-2287/#game> .
+<http://www.giantbomb.com/panther-games/3010-1894/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/airborne-assault-red-devils-over-arnhem/3030-9287/#game> .
+<http://www.giantbomb.com/panther-games/3010-1894/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/airborne-assault-highway-to-the-reich/3030-23123/#game> .
+<http://www.giantbomb.com/panther-games/3010-1894/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/airborne-assault-conquest-of-the-aegean/3030-23124/#game> .

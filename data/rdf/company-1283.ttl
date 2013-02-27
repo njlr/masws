@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/binary-systems/3010-1283/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/binary-systems/3010-1283/#company> <http://xmlns.com/foaf/0.1/#name> "Binary Systems" .
-<http://www.giantbomb.com/binary-systems/3010-1283/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/starflight-2-trade-routes-of-the-cloud-nebula/3030-1261/#game> .
-<http://www.giantbomb.com/binary-systems/3010-1283/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/starflight/3030-3607/#game> .
+<http://www.giantbomb.com/binary-systems/3010-1283/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/starflight-2-trade-routes-of-the-cloud-nebula/3030-1261/#game> .
+<http://www.giantbomb.com/binary-systems/3010-1283/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/starflight/3030-3607/#game> .

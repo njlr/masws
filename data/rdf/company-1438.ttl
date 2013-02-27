@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/zemina-co/3010-1438/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/zemina-co/3010-1438/#company> <http://xmlns.com/foaf/0.1/#name> "Zemina Co." .
-<http://www.giantbomb.com/zemina-co/3010-1438/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/brother-adventure/3030-16996/#game> .
+<http://www.giantbomb.com/zemina-co/3010-1438/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/brother-adventure/3030-16996/#game> .
 <http://www.giantbomb.com/zemina-co/3010-1438/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/robo-wres-2001/3030-3565/#game> .
 <http://www.giantbomb.com/zemina-co/3010-1438/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/super-bubble-bobble/3030-17048/#game> .
 <http://www.giantbomb.com/zemina-co/3010-1438/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/brother-adventure/3030-16996/#game> .

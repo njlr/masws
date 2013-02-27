@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/activision-value-publishing-inc/3010-955/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/activision-value-publishing-inc/3010-955/#company> <http://xmlns.com/foaf/0.1/#name> "Activision Value Publishing, Inc." .
-<http://www.giantbomb.com/activision-value-publishing-inc/3010-955/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/they-sold-a-million-3/3030-16357/#game> .
-<http://www.giantbomb.com/activision-value-publishing-inc/3010-955/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cabelas-big-game-hunter-iii-the-next-harvest/3030-10877/#game> .
+<http://www.giantbomb.com/activision-value-publishing-inc/3010-955/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/they-sold-a-million-3/3030-16357/#game> .
+<http://www.giantbomb.com/activision-value-publishing-inc/3010-955/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cabelas-big-game-hunter-iii-the-next-harvest/3030-10877/#game> .
 <http://www.giantbomb.com/activision-value-publishing-inc/3010-955/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cold-case-files/3030-821/#game> .
 <http://www.giantbomb.com/activision-value-publishing-inc/3010-955/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/civil-war-a-nation-divided/3030-3522/#game> .
 <http://www.giantbomb.com/activision-value-publishing-inc/3010-955/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cabelas-ultimate-deer-hunt-2/3030-11231/#game> .

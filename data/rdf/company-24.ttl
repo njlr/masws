@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/viva-media-llc/3010-24/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/viva-media-llc/3010-24/#company> <http://xmlns.com/foaf/0.1/#name> "Viva Media, LLC" .
-<http://www.giantbomb.com/viva-media-llc/3010-24/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/virtual-vegas-7007-slots/3030-29591/#game> .
-<http://www.giantbomb.com/viva-media-llc/3010-24/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/100000-games/3030-29592/#game> .
-<http://www.giantbomb.com/viva-media-llc/3010-24/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nightmares-from-the-deep-the-cursed-heart/3030-40500/#game> .
+<http://www.giantbomb.com/viva-media-llc/3010-24/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/virtual-vegas-7007-slots/3030-29591/#game> .
+<http://www.giantbomb.com/viva-media-llc/3010-24/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/100000-games/3030-29592/#game> .
+<http://www.giantbomb.com/viva-media-llc/3010-24/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/nightmares-from-the-deep-the-cursed-heart/3030-40500/#game> .
 <http://www.giantbomb.com/viva-media-llc/3010-24/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crazy-machines-15-more-gizmos-gadgets-whatchamacal/3030-6621/#game> .
 <http://www.giantbomb.com/viva-media-llc/3010-24/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crazy-machines-the-wacky-contraptions-game/3030-14836/#game> .
 <http://www.giantbomb.com/viva-media-llc/3010-24/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fritz-chessters-chess-for-winners/3030-7696/#game> .

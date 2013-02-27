@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/digitek-software/3010-1296/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/digitek-software/3010-1296/#company> <http://xmlns.com/foaf/0.1/#name> "DigiTek Software" .
-<http://www.giantbomb.com/digitek-software/3010-1296/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hole-in-one-miniature-golf/3030-1445/#game> .
+<http://www.giantbomb.com/digitek-software/3010-1296/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hole-in-one-miniature-golf/3030-1445/#game> .
 <http://www.giantbomb.com/digitek-software/3010-1296/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hole-in-one-miniature-golf/3030-1445/#game> .
 <http://www.giantbomb.com/digitek-software/3010-1296/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/joe-blade/3030-16291/#game> .
 <http://www.giantbomb.com/digitek-software/3010-1296/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tie-break/3030-1289/#game> .

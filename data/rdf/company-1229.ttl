@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/lemon-interactive-sp-z-oo/3010-1229/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/lemon-interactive-sp-z-oo/3010-1229/#company> <http://xmlns.com/foaf/0.1/#name> "Lemon Interactive Sp. z o.o." .
-<http://www.giantbomb.com/lemon-interactive-sp-z-oo/3010-1229/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/project-earth-starmageddon/3030-1193/#game> .
+<http://www.giantbomb.com/lemon-interactive-sp-z-oo/3010-1229/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/project-earth-starmageddon/3030-1193/#game> .

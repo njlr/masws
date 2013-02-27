@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/frogster-interactive-pictures-ag/3010-576/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/frogster-interactive-pictures-ag/3010-576/#company> <http://xmlns.com/foaf/0.1/#name> "Frogster Interactive Pictures AG" .
-<http://www.giantbomb.com/frogster-interactive-pictures-ag/3010-576/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stoneage-2/3030-23530/#game> .
+<http://www.giantbomb.com/frogster-interactive-pictures-ag/3010-576/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/stoneage-2/3030-23530/#game> .
 <http://www.giantbomb.com/frogster-interactive-pictures-ag/3010-576/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/championsheep-rally/3030-6151/#game> .
 <http://www.giantbomb.com/frogster-interactive-pictures-ag/3010-576/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/eets-hunger-its-emotional/3030-20298/#game> .
 <http://www.giantbomb.com/frogster-interactive-pictures-ag/3010-576/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/keepsake/3030-13511/#game> .

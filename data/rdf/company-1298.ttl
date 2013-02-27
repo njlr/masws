@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://xmlns.com/foaf/0.1/#name> "HPS Simulations" .
-<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/campaign-1776/3030-3994/#game> .
-<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/panzer-campaigns-vi-korsun-44/3030-3073/#game> .
-<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/squad-battles-vietnam/3030-1292/#game> .
-<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/panzer-campaigns-8-sicily-43/3030-25525/#game> .
-<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/modern-campaigns-korea-85/3030-32273/#game> .
+<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/campaign-1776/3030-3994/#game> .
+<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/panzer-campaigns-vi-korsun-44/3030-3073/#game> .
+<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/squad-battles-vietnam/3030-1292/#game> .
+<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/panzer-campaigns-8-sicily-43/3030-25525/#game> .
+<http://www.giantbomb.com/hps-simulations/3010-1298/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/modern-campaigns-korea-85/3030-32273/#game> .
 <http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/campaign-1776/3030-3994/#game> .
 <http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/panzer-campaigns-vi-korsun-44/3030-3073/#game> .
 <http://www.giantbomb.com/hps-simulations/3010-1298/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/squad-battles-vietnam/3030-1292/#game> .

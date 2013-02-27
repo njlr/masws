@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/soft-dorothy/3010-989/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/soft-dorothy/3010-989/#company> <http://xmlns.com/foaf/0.1/#name> "Soft Dorothy" .
-<http://www.giantbomb.com/soft-dorothy/3010-989/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/glypha-iii/3030-856/#game> .
-<http://www.giantbomb.com/soft-dorothy/3010-989/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/glider-pro/3030-22145/#game> .
+<http://www.giantbomb.com/soft-dorothy/3010-989/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/glypha-iii/3030-856/#game> .
+<http://www.giantbomb.com/soft-dorothy/3010-989/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/glider-pro/3030-22145/#game> .
 <http://www.giantbomb.com/soft-dorothy/3010-989/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/glypha-iii/3030-856/#game> .

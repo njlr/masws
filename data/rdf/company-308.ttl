@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/wizardworks-software/3010-308/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/wizardworks-software/3010-308/#company> <http://xmlns.com/foaf/0.1/#name> "WizardWorks Software" .
-<http://www.giantbomb.com/wizardworks-software/3010-308/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/harley-davidson-race-across-america/3030-11393/#game> .
-<http://www.giantbomb.com/wizardworks-software/3010-308/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/prime-target/3030-8243/#game> .
-<http://www.giantbomb.com/wizardworks-software/3010-308/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/squash/3030-13815/#game> .
-<http://www.giantbomb.com/wizardworks-software/3010-308/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/beach-head-2000/3030-1214/#game> .
+<http://www.giantbomb.com/wizardworks-software/3010-308/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/harley-davidson-race-across-america/3030-11393/#game> .
+<http://www.giantbomb.com/wizardworks-software/3010-308/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/prime-target/3030-8243/#game> .
+<http://www.giantbomb.com/wizardworks-software/3010-308/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/squash/3030-13815/#game> .
+<http://www.giantbomb.com/wizardworks-software/3010-308/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/beach-head-2000/3030-1214/#game> .
 <http://www.giantbomb.com/wizardworks-software/3010-308/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/carnivores/3030-7175/#game> .
 <http://www.giantbomb.com/wizardworks-software/3010-308/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/buckmasters-deer-hunting/3030-18993/#game> .
 <http://www.giantbomb.com/wizardworks-software/3010-308/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cryptic-passage-for-blood/3030-6130/#game> .

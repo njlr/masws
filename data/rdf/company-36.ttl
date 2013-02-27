@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://xmlns.com/foaf/0.1/#name> "dtp entertainment AG" .
-<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-hell-in-vietnam/3030-32924/#game> .
-<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/divinity-ii-flames-of-vengeance/3030-33039/#game> .
-<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/winter-sports-2011-go-for-gold/3030-33826/#game> .
-<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/black-mirror-3-the-final-fear/3030-31963/#game> .
-<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/summer-athletics-2009/3030-26838/#game> .
+<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-hell-in-vietnam/3030-32924/#game> .
+<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/divinity-ii-flames-of-vengeance/3030-33039/#game> .
+<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/winter-sports-2011-go-for-gold/3030-33826/#game> .
+<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/black-mirror-3-the-final-fear/3030-31963/#game> .
+<http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/summer-athletics-2009/3030-26838/#game> .
 <http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/die-pferdebande-falsches-spiel-bei-der-pferdeshow/3030-5687/#game> .
 <http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/freedom-force-vs-the-3rd-reich/3030-8894/#game> .
 <http://www.giantbomb.com/dtp-entertainment-ag/3010-36/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hello-kitty-roller-rescue/3030-5192/#game> .

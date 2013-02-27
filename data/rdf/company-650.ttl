@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/eclipse-software/3010-650/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/eclipse-software/3010-650/#company> <http://xmlns.com/foaf/0.1/#name> "Eclipse Software" .
-<http://www.giantbomb.com/eclipse-software/3010-650/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/m-alien-paranoia/3030-10742/#game> .
-<http://www.giantbomb.com/eclipse-software/3010-650/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tyrian/3030-499/#game> .
-<http://www.giantbomb.com/eclipse-software/3010-650/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tyrian-2000/3030-6784/#game> .
-<http://www.giantbomb.com/eclipse-software/3010-650/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/iron-soldier-3/3030-20761/#game> .
+<http://www.giantbomb.com/eclipse-software/3010-650/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/m-alien-paranoia/3030-10742/#game> .
+<http://www.giantbomb.com/eclipse-software/3010-650/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/tyrian/3030-499/#game> .
+<http://www.giantbomb.com/eclipse-software/3010-650/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/tyrian-2000/3030-6784/#game> .
+<http://www.giantbomb.com/eclipse-software/3010-650/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/iron-soldier-3/3030-20761/#game> .

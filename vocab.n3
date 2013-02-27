@@ -1,35 +1,40 @@
 # franchise
-<https://github.com/nlr/masws/blob/master/vocab#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 
 # includes
-<https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#includes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
 
-<https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.w3.org/2000/01/rdf-schema#domain> <https://github.com/nlr/masws/blob/master/vocab#franchise> .
-<https://github.com/nlr/masws/blob/master/vocab#includes> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#includes> <http://www.w3.org/2000/01/rdf-schema#domain> <https://raw.github.com/nlr/masws/blob/master/vocab.n3#franchise> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#includes> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 
 # release
-<https://github.com/nlr/masws/blob/master/vocab#release> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#release> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 
 # isVersionOf
-<https://github.com/nlr/masws/blob/master/vocab#isVersionOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#isVersionOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
 
-<https://github.com/nlr/masws/blob/master/vocab#isVersionOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://github.com/nlr/masws/blob/master/vocab#release> .
-<https://github.com/nlr/masws/blob/master/vocab#isVersionOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#isVersionOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://raw.github.com/nlr/masws/blob/master/vocab.n3#release> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#isVersionOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 
 # friend
-<https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#friend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
 
-<https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.w3.org/2000/01/rdf-schema#domain> <http://dbpedia.org/ontology/FictionalCharacter> .
-<https://github.com/nlr/masws/blob/master/vocab#friend> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/ontology/FictionalCharacter> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#friend> <http://www.w3.org/2000/01/rdf-schema#domain> <http://dbpedia.org/ontology/FictionalCharacter> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#friend> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/ontology/FictionalCharacter> .
 
 # foe
-<https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#foe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
 
-<https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.w3.org/2000/01/rdf-schema#domain> <http://dbpedia.org/ontology/FictionalCharacter> .
-<https://github.com/nlr/masws/blob/master/vocab#foe> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/ontology/FictionalCharacter> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#foe> <http://www.w3.org/2000/01/rdf-schema#domain> <http://dbpedia.org/ontology/FictionalCharacter> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#foe> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/ontology/FictionalCharacter> .
 
 # features
-<https://github.com/nlr/masws/blob/master/vocab#features> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#features> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
 
-<https://github.com/nlr/masws/blob/master/vocab#features> <http://www.w3.org/2000/01/rdf-schema#domain> <http://dbpedia.org/class/yago/ComputerGame100458890> .
-<https://github.com/nlr/masws/blob/master/vocab#features> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/ontology/FictionalCharacter> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#features> <http://www.w3.org/2000/01/rdf-schema#domain> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#features> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/ontology/FictionalCharacter> .
+
+#developer
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#developer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Property> .
+
+<https://raw.github.com/nlr/masws/blob/master/vocab.n3#developer> <http://www.w3.org/2000/01/rdf-schema#range> <http://dbpedia.org/class/yago/ComputerGame100458890> .

@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/buena-vista-games-inc/3010-478/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/buena-vista-games-inc/3010-478/#company> <http://xmlns.com/foaf/0.1/#name> "Buena Vista Games, Inc." .
-<http://www.giantbomb.com/buena-vista-games-inc/3010-478/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disneys-villains-revenge/3030-6902/#game> .
-<http://www.giantbomb.com/buena-vista-games-inc/3010-478/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hannah-montana-pop-star-exclusive/3030-21152/#game> .
+<http://www.giantbomb.com/buena-vista-games-inc/3010-478/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/disneys-villains-revenge/3030-6902/#game> .
+<http://www.giantbomb.com/buena-vista-games-inc/3010-478/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hannah-montana-pop-star-exclusive/3030-21152/#game> .
 <http://www.giantbomb.com/buena-vista-games-inc/3010-478/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disneys-aladdin-in-nasiras-revenge/3030-17158/#game> .
 <http://www.giantbomb.com/buena-vista-games-inc/3010-478/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disneys-american-dragon-jake-long-rise-of-the-hunt/3030-5096/#game> .
 <http://www.giantbomb.com/buena-vista-games-inc/3010-478/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disneys-atlantis-the-lost-empire-search-for-the-jo/3030-5968/#game> .

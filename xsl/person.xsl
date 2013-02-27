@@ -15,6 +15,11 @@
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
         <xsl:with-param name="predicate" select="'&lt;http://www.w3.org/TR/rdf-schema/#type>'"/>
+        <xsl:with-param name="object" select="'&lt;http://xmlns.com/foaf/0.1/#Person>'"/>
+    </xsl:call-template>
+    <xsl:call-template name="statement">
+        <xsl:with-param name="subject" select="$uri"/>
+        <xsl:with-param name="predicate" select="'&lt;http://www.w3.org/TR/rdf-schema/#type>'"/>
         <xsl:with-param name="object" select="'&lt;http://dbpedia.org/ontology/Person>'"/>
     </xsl:call-template>
     <xsl:apply-templates select="name"/>
@@ -128,7 +133,7 @@
     </xsl:variable>
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;http://dbpedia.org/ontology/developer>'"/>
+        <xsl:with-param name="predicate" select="'&lt;https://raw.github.com/nlr/masws/master/vocab.n3#developer>'"/>
         <xsl:with-param name="object" select="concat(concat(concat(concat('&lt;http://www.giantbomb.com/', $clean-name), '/3030-'), id), '/#game>')"/>
     </xsl:call-template>
 </xsl:template>

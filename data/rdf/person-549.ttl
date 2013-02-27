@@ -1,3 +1,4 @@
+<http://www.giantbomb.com/justin-gogue/3040-549/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/justin-gogue/3040-549/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/justin-gogue/3040-549/#person> <http://xmlns.com/foaf/0.1/#name> "Justin Gogue" .
 <http://www.giantbomb.com/justin-gogue/3040-549/#person> <http://xmlns.com/foaf/0.1/#gender> "other" .

@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <http://xmlns.com/foaf/0.1/#name> "Digital Fusion, Inc." .
-<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hell-cab/3030-315/#game> .
-<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tiger-hunt/3030-12609/#game> .
-<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/beach-head-desert-war/3030-16494/#game> .
-<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/beach-head-2002/3030-9252/#game> .
-<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/beach-head-2000/3030-1214/#game> .
+<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hell-cab/3030-315/#game> .
+<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/tiger-hunt/3030-12609/#game> .
+<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/beach-head-desert-war/3030-16494/#game> .
+<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/beach-head-2002/3030-9252/#game> .
+<http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/beach-head-2000/3030-1214/#game> .
 <http://www.giantbomb.com/digital-fusion-inc/3010-469/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/beach-head-desert-war/3030-16494/#game> .

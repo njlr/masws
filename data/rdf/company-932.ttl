@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/aksys-games/3010-932/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/aksys-games/3010-932/#company> <http://xmlns.com/foaf/0.1/#name> "Aksys Games" .
-<http://www.giantbomb.com/aksys-games/3010-932/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/real-motion-fishing-hooked-again/3030-29314/#game> .
-<http://www.giantbomb.com/aksys-games/3010-932/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/animal-puzzle-adventure/3030-29661/#game> .
+<http://www.giantbomb.com/aksys-games/3010-932/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/real-motion-fishing-hooked-again/3030-29314/#game> .
+<http://www.giantbomb.com/aksys-games/3010-932/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/animal-puzzle-adventure/3030-29661/#game> .
 <http://www.giantbomb.com/aksys-games/3010-932/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/family-table-tennis/3030-20692/#game> .
 <http://www.giantbomb.com/aksys-games/3010-932/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/minicopter-adventure-flight/3030-20866/#game> .
 <http://www.giantbomb.com/aksys-games/3010-932/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/castle-of-shikigami-iii/3030-20868/#game> .

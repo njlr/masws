@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <http://xmlns.com/foaf/0.1/#name> "Boku Strategy Games" .
-<http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/combat-command-2-danger-forward/3030-8784/#game> .
-<http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/prussias-glory/3030-645/#game> .
-<http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/armies-of-armageddon-wdk-2k/3030-7101/#game> .
-<http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-war-engine/3030-8921/#game> .
+<http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/combat-command-2-danger-forward/3030-8784/#game> .
+<http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/prussias-glory/3030-645/#game> .
+<http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/armies-of-armageddon-wdk-2k/3030-7101/#game> .
+<http://www.giantbomb.com/boku-strategy-games/3010-790/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-war-engine/3030-8921/#game> .

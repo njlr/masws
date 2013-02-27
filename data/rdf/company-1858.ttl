@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <http://xmlns.com/foaf/0.1/#name> "Electronic Arts Victor" .
-<http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/f1-2002/3030-11485/#game> .
-<http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/zico-soccer/3030-37604/#game> .
-<http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tactical-soccer/3030-37612/#game> .
+<http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/f1-2002/3030-11485/#game> .
+<http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/zico-soccer/3030-37604/#game> .
+<http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/tactical-soccer/3030-37612/#game> .
 <http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bulls-vs-lakers-and-the-nba-playoffs/3030-2778/#game> .
 <http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/die-hard-trilogy/3030-19345/#game> .
 <http://www.giantbomb.com/electronic-arts-victor/3010-1858/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/john-madden-football-93/3030-4511/#game> .

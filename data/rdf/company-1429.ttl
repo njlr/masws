@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/zeal-gmbh/3010-1429/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/zeal-gmbh/3010-1429/#company> <http://xmlns.com/foaf/0.1/#name> "ZEAL GmbH" .
-<http://www.giantbomb.com/zeal-gmbh/3010-1429/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/team-assault-baptism-of-fire/3030-34714/#game> .
-<http://www.giantbomb.com/zeal-gmbh/3010-1429/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/starvoid/3030-38636/#game> .
-<http://www.giantbomb.com/zeal-gmbh/3010-1429/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/a-game-of-dwarves/3030-37295/#game> .
+<http://www.giantbomb.com/zeal-gmbh/3010-1429/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/team-assault-baptism-of-fire/3030-34714/#game> .
+<http://www.giantbomb.com/zeal-gmbh/3010-1429/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/starvoid/3030-38636/#game> .
+<http://www.giantbomb.com/zeal-gmbh/3010-1429/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/a-game-of-dwarves/3030-37295/#game> .

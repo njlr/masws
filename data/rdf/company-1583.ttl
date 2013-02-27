@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/astros-productions/3010-1583/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/astros-productions/3010-1583/#company> <http://xmlns.com/foaf/0.1/#name> "Astros Productions" .
-<http://www.giantbomb.com/astros-productions/3010-1583/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/retribution/3030-8055/#game> .
-<http://www.giantbomb.com/astros-productions/3010-1583/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/robin-smiths-international-cricket/3030-1731/#game> .
-<http://www.giantbomb.com/astros-productions/3010-1583/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sandwarriors/3030-9021/#game> .
-<http://www.giantbomb.com/astros-productions/3010-1583/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/action-double/3030-16514/#game> .
+<http://www.giantbomb.com/astros-productions/3010-1583/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/retribution/3030-8055/#game> .
+<http://www.giantbomb.com/astros-productions/3010-1583/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/robin-smiths-international-cricket/3030-1731/#game> .
+<http://www.giantbomb.com/astros-productions/3010-1583/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/sandwarriors/3030-9021/#game> .
+<http://www.giantbomb.com/astros-productions/3010-1583/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/action-double/3030-16514/#game> .

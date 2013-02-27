@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <http://xmlns.com/foaf/0.1/#name> "G-mode, Inc." .
-<http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/drop-off/3030-20899/#game> .
-<http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/oekaki-logic/3030-30205/#game> .
-<http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/go-series-10-second-run/3030-37013/#game> .
-<http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/garou-densetsu-vs-fighters-history-dynamite/3030-39268/#game> .
+<http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/drop-off/3030-20899/#game> .
+<http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/oekaki-logic/3030-30205/#game> .
+<http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/go-series-10-second-run/3030-37013/#game> .
+<http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/garou-densetsu-vs-fighters-history-dynamite/3030-39268/#game> .
 <http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/magical-drop/3030-3827/#game> .
 <http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bloody-wolf/3030-2432/#game> .
 <http://www.giantbomb.com/g-mode-inc/3010-1973/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/oekaki-logic/3030-30205/#game> .

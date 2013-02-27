@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/rainbird-software/3010-816/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/rainbird-software/3010-816/#company> <http://xmlns.com/foaf/0.1/#name> "Rainbird Software" .
-<http://www.giantbomb.com/rainbird-software/3010-816/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/weird-dreams/3030-2770/#game> .
-<http://www.giantbomb.com/rainbird-software/3010-816/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/betrayal/3030-675/#game> .
+<http://www.giantbomb.com/rainbird-software/3010-816/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/weird-dreams/3030-2770/#game> .
+<http://www.giantbomb.com/rainbird-software/3010-816/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/betrayal/3030-675/#game> .
 <http://www.giantbomb.com/rainbird-software/3010-816/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/corruption/3030-4573/#game> .
 <http://www.giantbomb.com/rainbird-software/3010-816/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fish/3030-9770/#game> .
 <http://www.giantbomb.com/rainbird-software/3010-816/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ingrids-back/3030-6003/#game> .

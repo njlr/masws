@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/big-five-software/3010-156/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/big-five-software/3010-156/#company> <http://xmlns.com/foaf/0.1/#name> "Big Five Software" .
-<http://www.giantbomb.com/big-five-software/3010-156/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bounty-bob-strikes-back/3030-5532/#game> .
-<http://www.giantbomb.com/big-five-software/3010-156/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/miner-2049er/3030-14533/#game> .
-<http://www.giantbomb.com/big-five-software/3010-156/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/miner-2049er-volume-ii/3030-90/#game> .
+<http://www.giantbomb.com/big-five-software/3010-156/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/bounty-bob-strikes-back/3030-5532/#game> .
+<http://www.giantbomb.com/big-five-software/3010-156/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/miner-2049er/3030-14533/#game> .
+<http://www.giantbomb.com/big-five-software/3010-156/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/miner-2049er-volume-ii/3030-90/#game> .
 <http://www.giantbomb.com/big-five-software/3010-156/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/miner-2049er/3030-14533/#game> .

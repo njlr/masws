@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <http://xmlns.com/foaf/0.1/#name> "Destiny Software Productions, Inc." .
-<http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/creepers/3030-5848/#game> .
-<http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/origamo/3030-3390/#game> .
-<http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/time-out-sports-basketball/3030-9773/#game> .
-<http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/blood-bowl/3030-572/#game> .
+<http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/creepers/3030-5848/#game> .
+<http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/origamo/3030-3390/#game> .
+<http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/time-out-sports-basketball/3030-9773/#game> .
+<http://www.giantbomb.com/destiny-software-productions-inc/3010-719/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/blood-bowl/3030-572/#game> .

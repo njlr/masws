@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/aki-usa-inc/3010-1959/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/aki-usa-inc/3010-1959/#company> <http://xmlns.com/foaf/0.1/#name> "AKI USA, Inc." .
-<http://www.giantbomb.com/aki-usa-inc/3010-1959/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/def-jam-vendetta/3030-2410/#game> .
-<http://www.giantbomb.com/aki-usa-inc/3010-1959/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/virtual-pro-wrestling-2-odo-keisho/3030-23213/#game> .
+<http://www.giantbomb.com/aki-usa-inc/3010-1959/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/def-jam-vendetta/3030-2410/#game> .
+<http://www.giantbomb.com/aki-usa-inc/3010-1959/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/virtual-pro-wrestling-2-odo-keisho/3030-23213/#game> .

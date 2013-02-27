@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <http://xmlns.com/foaf/0.1/#name> "10tacle studios AG" .
-<http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/totems/3030-25551/#game> .
-<http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/david-douillet-judo/3030-238/#game> .
-<http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/boulder-dash-rocks/3030-38518/#game> .
+<http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/totems/3030-25551/#game> .
+<http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/david-douillet-judo/3030-238/#game> .
+<http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/boulder-dash-rocks/3030-38518/#game> .
 <http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gt-legends/3030-275/#game> .
 <http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gtr-2-fia-gt-racing-game/3030-14858/#game> .
 <http://www.giantbomb.com/10tacle-studios-ag/3010-409/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/neocron-2-beyond-dome-of-york/3030-9258/#game> .

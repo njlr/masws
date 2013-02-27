@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://xmlns.com/foaf/0.1/#name> "Songbird Productions" .
-<http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ponx/3030-7346/#game> .
+<http://www.giantbomb.com/songbird-productions/3010-966/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/ponx/3030-7346/#game> .
 <http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hyperforce/3030-830/#game> .
 <http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lexis/3030-11956/#game> .
 <http://www.giantbomb.com/songbird-productions/3010-966/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/loopz/3030-20227/#game> .

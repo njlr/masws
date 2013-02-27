@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://xmlns.com/foaf/0.1/#name> "Addictive 247" .
-<http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/coin-world/3030-5283/#game> .
-<http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mini-spheres/3030-7602/#game> .
-<http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/onslaught/3030-15280/#game> .
-<http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rotadim/3030-13523/#game> .
-<http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/shift-247/3030-8331/#game> .
-<http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/smucs/3030-1409/#game> .
+<http://www.giantbomb.com/addictive-247/3010-1386/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/coin-world/3030-5283/#game> .
+<http://www.giantbomb.com/addictive-247/3010-1386/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mini-spheres/3030-7602/#game> .
+<http://www.giantbomb.com/addictive-247/3010-1386/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/onslaught/3030-15280/#game> .
+<http://www.giantbomb.com/addictive-247/3010-1386/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rotadim/3030-13523/#game> .
+<http://www.giantbomb.com/addictive-247/3010-1386/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/shift-247/3030-8331/#game> .
+<http://www.giantbomb.com/addictive-247/3010-1386/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/smucs/3030-1409/#game> .
 <http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/coin-world/3030-5283/#game> .
 <http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mini-spheres/3030-7602/#game> .
 <http://www.giantbomb.com/addictive-247/3010-1386/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/onslaught/3030-15280/#game> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/house-of-moves-inc/3010-632/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/house-of-moves-inc/3010-632/#company> <http://xmlns.com/foaf/0.1/#name> "House of Moves, Inc." .
-<http://www.giantbomb.com/house-of-moves-inc/3010-632/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/postal-2-apocalypse-weekend/3030-18837/#game> .
-<http://www.giantbomb.com/house-of-moves-inc/3010-632/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/madden-nfl-99/3030-13996/#game> .
+<http://www.giantbomb.com/house-of-moves-inc/3010-632/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/postal-2-apocalypse-weekend/3030-18837/#game> .
+<http://www.giantbomb.com/house-of-moves-inc/3010-632/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/madden-nfl-99/3030-13996/#game> .

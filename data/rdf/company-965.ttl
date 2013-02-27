@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://xmlns.com/foaf/0.1/#name> "Merit Studios, Inc." .
-<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bud-tucker-in-double-trouble/3030-19713/#game> .
-<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/universal-warrior/3030-16659/#game> .
-<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-hockey-95/3030-6156/#game> .
-<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/micro-machines/3030-2140/#game> .
-<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cyberjudas/3030-19368/#game> .
+<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/bud-tucker-in-double-trouble/3030-19713/#game> .
+<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/universal-warrior/3030-16659/#game> .
+<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/world-hockey-95/3030-6156/#game> .
+<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/micro-machines/3030-2140/#game> .
+<http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cyberjudas/3030-19368/#game> .
 <http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/command-adventures-starship/3030-17525/#game> .
 <http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fighter-wing/3030-10241/#game> .
 <http://www.giantbomb.com/merit-studios-inc/3010-965/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-fortress-of-dr-radiaki/3030-17466/#game> .

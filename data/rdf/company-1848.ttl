@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <http://xmlns.com/foaf/0.1/#name> "Aeon Electronic Entertainment, Inc." .
-<http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silent-hunter/3030-11896/#game> .
-<http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silent-hunter-patrol-disk/3030-16973/#game> .
-<http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silent-hunter-patrol-disk-2/3030-10501/#game> .
-<http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flyff-fly-for-fun/3030-22187/#game> .
+<http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/silent-hunter/3030-11896/#game> .
+<http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/silent-hunter-patrol-disk/3030-16973/#game> .
+<http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/silent-hunter-patrol-disk-2/3030-10501/#game> .
+<http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/flyff-fly-for-fun/3030-22187/#game> .
 <http://www.giantbomb.com/aeon-electronic-entertainment-inc/3010-1848/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/flyff-fly-for-fun/3030-22187/#game> .

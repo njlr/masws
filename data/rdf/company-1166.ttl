@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <http://xmlns.com/foaf/0.1/#name> "Leaping Lizard Software, Inc." .
-<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magic-the-gathering-online/3030-9558/#game> .
-<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/monopoly-casino/3030-5616/#game> .
-<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/simfarm/3030-1103/#game> .
-<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bicycle-casino/3030-18403/#game> .
-<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/centipede/3030-25567/#game> .
+<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/magic-the-gathering-online/3030-9558/#game> .
+<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/monopoly-casino/3030-5616/#game> .
+<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/simfarm/3030-1103/#game> .
+<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/bicycle-casino/3030-18403/#game> .
+<http://www.giantbomb.com/leaping-lizard-software-inc/3010-1166/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/centipede/3030-25567/#game> .

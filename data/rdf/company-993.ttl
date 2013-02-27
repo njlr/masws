@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <http://xmlns.com/foaf/0.1/#name> "Grandslam Entertainment" .
-<http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/liverpool/3030-8342/#game> .
-<http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/peter-shiltons-handball-maradona/3030-9718/#game> .
-<http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/thunderbirds/3030-9421/#game> .
+<http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/liverpool/3030-8342/#game> .
+<http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/peter-shiltons-handball-maradona/3030-9718/#game> .
+<http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/thunderbirds/3030-9421/#game> .
 <http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chambers-of-shaolin/3030-13934/#game> .
 <http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/die-hard-2-die-harder/3030-14613/#game> .
 <http://www.giantbomb.com/grandslam-entertainment/3010-993/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-flintstones/3030-16005/#game> .

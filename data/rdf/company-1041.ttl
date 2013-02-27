@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://xmlns.com/foaf/0.1/#name> "Interactive Magic" .
-<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/if-22/3030-10331/#game> .
-<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ifa-18e-carrier-strike-fighter/3030-10685/#game> .
-<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-rangers/3030-16433/#game> .
-<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/warbirds/3030-3001/#game> .
-<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/warbirds-ii/3030-7733/#game> .
+<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/if-22/3030-10331/#game> .
+<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/ifa-18e-carrier-strike-fighter/3030-10685/#game> .
+<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/star-rangers/3030-16433/#game> .
+<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/warbirds/3030-3001/#game> .
+<http://www.giantbomb.com/interactive-magic/3010-1041/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/warbirds-ii/3030-7733/#game> .
 <http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/capitalism/3030-7664/#game> .
 <http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bruce-jenners-world-class-decathlon/3030-17889/#game> .
 <http://www.giantbomb.com/interactive-magic/3010-1041/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/destiny/3030-10172/#game> .

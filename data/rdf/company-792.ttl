@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/target-games/3010-792/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/target-games/3010-792/#company> <http://xmlns.com/foaf/0.1/#name> "Target Games" .
-<http://www.giantbomb.com/target-games/3010-792/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rebelstar-ii-alien-encounter/3030-14944/#game> .
-<http://www.giantbomb.com/target-games/3010-792/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/laser-squad/3030-646/#game> .
-<http://www.giantbomb.com/target-games/3010-792/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/havets-vargar/3030-22208/#game> .
+<http://www.giantbomb.com/target-games/3010-792/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rebelstar-ii-alien-encounter/3030-14944/#game> .
+<http://www.giantbomb.com/target-games/3010-792/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/laser-squad/3030-646/#game> .
+<http://www.giantbomb.com/target-games/3010-792/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/havets-vargar/3030-22208/#game> .
 <http://www.giantbomb.com/target-games/3010-792/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/havets-vargar/3030-22208/#game> .

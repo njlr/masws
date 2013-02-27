@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://xmlns.com/foaf/0.1/#name> "DreamCatcher Interactive Inc." .
-<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-adventures-of-jonny-quest/3030-11391/#game> .
-<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hellboy-dogs-of-the-night/3030-23008/#game> .
-<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/animates/3030-24685/#game> .
-<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/learn-math/3030-24828/#game> .
-<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/turok-2/3030-25257/#game> .
-<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dreamer-shop-owner/3030-25004/#game> .
+<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-adventures-of-jonny-quest/3030-11391/#game> .
+<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hellboy-dogs-of-the-night/3030-23008/#game> .
+<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/animates/3030-24685/#game> .
+<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/learn-math/3030-24828/#game> .
+<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/turok-2/3030-25257/#game> .
+<http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dreamer-shop-owner/3030-25004/#game> .
 <http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/casino-mogul/3030-10377/#game> .
 <http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/destination-treasure-island/3030-11688/#game> .
 <http://www.giantbomb.com/dreamcatcher-interactive-inc/3010-662/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dunes-of-war/3030-14661/#game> .

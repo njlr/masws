@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/xicat-interactive-inc/3010-1029/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/xicat-interactive-inc/3010-1029/#company> <http://xmlns.com/foaf/0.1/#name> "Xicat Interactive, Inc." .
-<http://www.giantbomb.com/xicat-interactive-inc/3010-1029/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rally-challenge-2000/3030-36714/#game> .
+<http://www.giantbomb.com/xicat-interactive-inc/3010-1029/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rally-challenge-2000/3030-36714/#game> .
 <http://www.giantbomb.com/xicat-interactive-inc/3010-1029/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cowhunter/3030-19780/#game> .
 <http://www.giantbomb.com/xicat-interactive-inc/3010-1029/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/demonworld-dark-armies/3030-9723/#game> .
 <http://www.giantbomb.com/xicat-interactive-inc/3010-1029/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fa-18-precision-strike-fighter/3030-4835/#game> .

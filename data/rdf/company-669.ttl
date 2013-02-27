@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <http://xmlns.com/foaf/0.1/#name> "Clockwork Games Limited" .
-<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/enemy-infestation/3030-11165/#game> .
-<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lemmings-3d/3030-7673/#game> .
-<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lets-go-crazy-with-lemmings/3030-16466/#game> .
-<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rush-hour/3030-516/#game> .
-<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/vanishing-point/3030-2970/#game> .
-<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/3d-lemmings-winterland/3030-6547/#game> .
+<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/enemy-infestation/3030-11165/#game> .
+<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lemmings-3d/3030-7673/#game> .
+<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lets-go-crazy-with-lemmings/3030-16466/#game> .
+<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rush-hour/3030-516/#game> .
+<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/vanishing-point/3030-2970/#game> .
+<http://www.giantbomb.com/clockwork-games-limited/3010-669/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/3d-lemmings-winterland/3030-6547/#game> .

@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/graphsim-entertainment/3010-97/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/graphsim-entertainment/3010-97/#company> <http://xmlns.com/foaf/0.1/#name> "GraphSim Entertainment" .
-<http://www.giantbomb.com/graphsim-entertainment/3010-97/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fa-18-hornet-30/3030-15012/#game> .
+<http://www.giantbomb.com/graphsim-entertainment/3010-97/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fa-18-hornet-30/3030-15012/#game> .
 <http://www.giantbomb.com/graphsim-entertainment/3010-97/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fa-18-hornet-30/3030-15012/#game> .
 <http://www.giantbomb.com/graphsim-entertainment/3010-97/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/x-plane-9/3030-21316/#game> .
 <http://www.giantbomb.com/graphsim-entertainment/3010-97/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/falcon-40-allied-force/3030-11755/#game> .

@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/nis-america-inc/3010-618/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/nis-america-inc/3010-618/#company> <http://xmlns.com/foaf/0.1/#name> "NIS America, Inc." .
-<http://www.giantbomb.com/nis-america-inc/3010-618/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/phantom-brave-heroes-of-the-hermuda-triangle/3030-34125/#game> .
+<http://www.giantbomb.com/nis-america-inc/3010-618/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/phantom-brave-heroes-of-the-hermuda-triangle/3030-34125/#game> .
 <http://www.giantbomb.com/nis-america-inc/3010-618/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/phantom-brave/3030-3731/#game> .
 <http://www.giantbomb.com/nis-america-inc/3010-618/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disgaea-3-absence-of-justice/3030-20939/#game> .
 <http://www.giantbomb.com/nis-america-inc/3010-618/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disgaea-2-cursed-memories/3030-2652/#game> .

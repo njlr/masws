@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <http://xmlns.com/foaf/0.1/#name> "Kodiak Interactive Software Studios, Inc." .
-<http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/circus-maximus-chariot-wars/3030-11530/#game> .
-<http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stratosphere-conquest-of-the-skies/3030-2331/#game> .
-<http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wcw-backstage-assault/3030-10286/#game> .
-<http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wcw-mayhem/3030-1204/#game> .
+<http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/circus-maximus-chariot-wars/3030-11530/#game> .
+<http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/stratosphere-conquest-of-the-skies/3030-2331/#game> .
+<http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/wcw-backstage-assault/3030-10286/#game> .
+<http://www.giantbomb.com/kodiak-interactive-software-studios-inc/3010-1240/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/wcw-mayhem/3030-1204/#game> .

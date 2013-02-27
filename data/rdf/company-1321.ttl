@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <http://xmlns.com/foaf/0.1/#name> "Funnybone Interactive" .
-<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fisher-price-big-action-garage/3030-17489/#game> .
-<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jump-start-animal-adventures/3030-4754/#game> .
-<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stay-tooned/3030-11008/#game> .
-<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/barbie-as-rapunzel-a-creative-adventure/3030-1322/#game> .
-<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/animaniacs-game-pack/3030-21266/#game> .
-<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fisher-price-learning-in-toyland/3030-12257/#game> .
+<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fisher-price-big-action-garage/3030-17489/#game> .
+<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/jump-start-animal-adventures/3030-4754/#game> .
+<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/stay-tooned/3030-11008/#game> .
+<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/barbie-as-rapunzel-a-creative-adventure/3030-1322/#game> .
+<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/animaniacs-game-pack/3030-21266/#game> .
+<http://www.giantbomb.com/funnybone-interactive/3010-1321/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fisher-price-learning-in-toyland/3030-12257/#game> .

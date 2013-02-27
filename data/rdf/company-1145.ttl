@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://xmlns.com/foaf/0.1/#name> "Toho Company Ltd." .
-<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/circus-caper/3030-19308/#game> .
-<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/godzilla-2-war-of-the-monsters/3030-1068/#game> .
-<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/godzilla-battle-legends/3030-22765/#game> .
-<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lupin-the-third-cagliostro-no-shiro/3030-33517/#game> .
-<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lupin-the-3rd-babylon-no-ougon-densetsu/3030-33523/#game> .
-<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/godzilla-trading-battle/3030-22891/#game> .
+<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/circus-caper/3030-19308/#game> .
+<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/godzilla-2-war-of-the-monsters/3030-1068/#game> .
+<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/godzilla-battle-legends/3030-22765/#game> .
+<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lupin-the-third-cagliostro-no-shiro/3030-33517/#game> .
+<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lupin-the-3rd-babylon-no-ougon-densetsu/3030-33523/#game> .
+<http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/godzilla-trading-battle/3030-22891/#game> .
 <http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/circus-caper/3030-19308/#game> .
 <http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/godzilla/3030-3063/#game> .
 <http://www.giantbomb.com/toho-company-ltd/3010-1145/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/godzilla-2-war-of-the-monsters/3030-1068/#game> .

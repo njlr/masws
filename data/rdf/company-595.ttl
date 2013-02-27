@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <http://xmlns.com/foaf/0.1/#name> "Wizards of the Coast, Inc." .
-<http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magic-the-gathering-interactive-encyclopedia/3030-6291/#game> .
-<http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magic-the-gathering-online/3030-9558/#game> .
-<http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magic-the-gathering-duels-of-the-planeswalkers/3030-23609/#game> .
+<http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/magic-the-gathering-interactive-encyclopedia/3030-6291/#game> .
+<http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/magic-the-gathering-online/3030-9558/#game> .
+<http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/magic-the-gathering-duels-of-the-planeswalkers/3030-23609/#game> .
 <http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ditto-leapfrog/3030-1122/#game> .
 <http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/diving-corsola/3030-1047/#game> .
 <http://www.giantbomb.com/wizards-of-the-coast-inc/3010-595/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dream-eater/3030-20079/#game> .

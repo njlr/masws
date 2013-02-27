@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://xmlns.com/foaf/0.1/#name> "Tandy Corporation" .
-<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bingo-math/3030-25391/#game> .
+<http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/bingo-math/3030-25391/#game> .
 <http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cave-walker/3030-19296/#game> .
 <http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/demon-attack/3030-15941/#game> .
 <http://www.giantbomb.com/tandy-corporation/3010-1602/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mickeys-space-adventure/3030-14212/#game> .

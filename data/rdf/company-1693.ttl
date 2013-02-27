@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <http://xmlns.com/foaf/0.1/#name> "Bothtech, Inc." .
-<http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/eggy/3030-28888/#game> .
-<http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dai-senryaku/3030-33739/#game> .
-<http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ginga-eiyuu-densetsu/3030-23991/#game> .
-<http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/topple-zip/3030-39608/#game> .
+<http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/eggy/3030-28888/#game> .
+<http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dai-senryaku/3030-33739/#game> .
+<http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/ginga-eiyuu-densetsu/3030-23991/#game> .
+<http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/topple-zip/3030-39608/#game> .
 <http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/puyo-puyo/3030-1916/#game> .
 <http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ranma-12-hiryuu-densetsu/3030-23370/#game> .
 <http://www.giantbomb.com/bothtech-inc/3010-1693/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aspic/3030-28486/#game> .

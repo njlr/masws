@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://xmlns.com/foaf/0.1/#name> "Buena Vista Interactive" .
-<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gargoyles/3030-352/#game> .
+<http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/gargoyles/3030-352/#game> .
 <http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/disneys-lilo-stitch-2-hamsterviel-havoc/3030-7319/#game> .
 <http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gargoyles/3030-352/#game> .
 <http://www.giantbomb.com/buena-vista-interactive/3010-515/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/tim-burtons-the-nightmare-before-christmas-the-pum/3030-11486/#game> .

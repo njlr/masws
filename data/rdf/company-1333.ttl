@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <http://xmlns.com/foaf/0.1/#name> "Charybdis Limited" .
-<http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/machines/3030-6127/#game> .
-<http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magic-mayhem-the-art-of-magic/3030-1340/#game> .
-<http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spud/3030-9912/#game> .
-<http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/super-league-pro-rugby/3030-11702/#game> .
+<http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/machines/3030-6127/#game> .
+<http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/magic-mayhem-the-art-of-magic/3030-1340/#game> .
+<http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/spud/3030-9912/#game> .
+<http://www.giantbomb.com/charybdis-limited/3010-1333/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/super-league-pro-rugby/3030-11702/#game> .

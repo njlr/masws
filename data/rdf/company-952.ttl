@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/xs-games-llc/3010-952/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/xs-games-llc/3010-952/#company> <http://xmlns.com/foaf/0.1/#name> "XS Games, LLC" .
-<http://www.giantbomb.com/xs-games-llc/3010-952/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/xs-moto/3030-30992/#game> .
+<http://www.giantbomb.com/xs-games-llc/3010-952/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/xs-moto/3030-30992/#game> .
 <http://www.giantbomb.com/xs-games-llc/3010-952/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mobile-light-force-2/3030-3926/#game> .
 <http://www.giantbomb.com/xs-games-llc/3010-952/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pure-pinball/3030-817/#game> .
 <http://www.giantbomb.com/xs-games-llc/3010-952/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-red-star/3030-5483/#game> .

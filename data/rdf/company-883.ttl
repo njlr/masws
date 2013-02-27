@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/nobilis-france/3010-883/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/nobilis-france/3010-883/#company> <http://xmlns.com/foaf/0.1/#name> "Nobilis France" .
-<http://www.giantbomb.com/nobilis-france/3010-883/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/emma-at-the-farm/3030-24644/#game> .
-<http://www.giantbomb.com/nobilis-france/3010-883/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/my-baby-first-steps/3030-26802/#game> .
-<http://www.giantbomb.com/nobilis-france/3010-883/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hotel-giant-ds/3030-30038/#game> .
-<http://www.giantbomb.com/nobilis-france/3010-883/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/music-for-everyone/3030-30832/#game> .
+<http://www.giantbomb.com/nobilis-france/3010-883/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/emma-at-the-farm/3030-24644/#game> .
+<http://www.giantbomb.com/nobilis-france/3010-883/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/my-baby-first-steps/3030-26802/#game> .
+<http://www.giantbomb.com/nobilis-france/3010-883/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hotel-giant-ds/3030-30038/#game> .
+<http://www.giantbomb.com/nobilis-france/3010-883/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/music-for-everyone/3030-30832/#game> .
 <http://www.giantbomb.com/nobilis-france/3010-883/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/death-to-spies/3030-16093/#game> .
 <http://www.giantbomb.com/nobilis-france/3010-883/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/nitro-family/3030-16355/#game> .
 <http://www.giantbomb.com/nobilis-france/3010-883/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/operation-matriarchy/3030-4071/#game> .

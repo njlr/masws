@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <http://xmlns.com/foaf/0.1/#name> "BAM! Entertainment, Inc." .
-<http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dexters-laboratory-mandarks-lab/3030-16536/#game> .
-<http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dexters-laboratory-chess-challenge/3030-23934/#game> .
-<http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dexters-laboratory-deesaster-strikes/3030-23935/#game> .
+<http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dexters-laboratory-mandarks-lab/3030-16536/#game> .
+<http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dexters-laboratory-chess-challenge/3030-23934/#game> .
+<http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dexters-laboratory-deesaster-strikes/3030-23935/#game> .
 <http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/broken-sword-the-shadow-of-the-templars/3030-17544/#game> .
 <http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/contender-2/3030-13941/#game> .
 <http://www.giantbomb.com/bam-entertainment-inc/3010-538/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dexters-laboratory-mandarks-lab/3030-16536/#game> .

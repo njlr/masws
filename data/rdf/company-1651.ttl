@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <http://xmlns.com/foaf/0.1/#name> "Electric Dreams Software" .
-<http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hijack/3030-15607/#game> .
-<http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spindizzy/3030-3137/#game> .
-<http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spindizzy-worlds/3030-4385/#game> .
-<http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/back-to-the-future/3030-33557/#game> .
+<http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hijack/3030-15607/#game> .
+<http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/spindizzy/3030-3137/#game> .
+<http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/spindizzy-worlds/3030-4385/#game> .
+<http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/back-to-the-future/3030-33557/#game> .
 <http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dandy/3030-5344/#game> .
 <http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/explorer/3030-18267/#game> .
 <http://www.giantbomb.com/electric-dreams-software/3010-1651/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/firetrap/3030-12366/#game> .

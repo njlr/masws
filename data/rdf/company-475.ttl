@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/al-baker-associates/3010-475/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/al-baker-associates/3010-475/#company> <http://xmlns.com/foaf/0.1/#name> "Al Baker & Associates" .
-<http://www.giantbomb.com/al-baker-associates/3010-475/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disneys-bonkers-wax-up/3030-320/#game> .
-<http://www.giantbomb.com/al-baker-associates/3010-475/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/arcade-classics/3030-41102/#game> .
+<http://www.giantbomb.com/al-baker-associates/3010-475/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/disneys-bonkers-wax-up/3030-320/#game> .
+<http://www.giantbomb.com/al-baker-associates/3010-475/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/arcade-classics/3030-41102/#game> .

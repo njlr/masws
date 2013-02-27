@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <http://xmlns.com/foaf/0.1/#name> "LiveMedia UK" .
-<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/david-olearys-total-soccer-2000/3030-18123/#game> .
-<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/oleary-manager-2000/3030-2035/#game> .
-<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/total-soccer/3030-15694/#game> .
-<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/total-soccer-2000/3030-18054/#game> .
-<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/barca-total-2000/3030-36467/#game> .
+<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/david-olearys-total-soccer-2000/3030-18123/#game> .
+<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/oleary-manager-2000/3030-2035/#game> .
+<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/total-soccer/3030-15694/#game> .
+<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/total-soccer-2000/3030-18054/#game> .
+<http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/barca-total-2000/3030-36467/#game> .
 <http://www.giantbomb.com/livemedia-uk/3010-1762/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/total-soccer/3030-15694/#game> .

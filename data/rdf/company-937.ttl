@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://xmlns.com/foaf/0.1/#name> "Hi-Tech Expressions, Inc." .
-<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mega-man-3-the-robots-are-revolting/3030-3140/#game> .
-<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/orb-3d/3030-13595/#game> .
-<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gremlins-2-the-new-batch/3030-4028/#game> .
-<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mega-man/3030-30993/#game> .
-<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tom-jerry-cat-astrophe/3030-806/#game> .
+<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mega-man-3-the-robots-are-revolting/3030-3140/#game> .
+<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/orb-3d/3030-13595/#game> .
+<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/gremlins-2-the-new-batch/3030-4028/#game> .
+<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mega-man/3030-30993/#game> .
+<http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/tom-jerry-cat-astrophe/3030-806/#game> .
 <http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chip-n-dale-rescue-rangers-the-adventure-in-nimnul/3030-2554/#game> .
 <http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-chessmaster/3030-11752/#game> .
 <http://www.giantbomb.com/hi-tech-expressions-inc/3010-937/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-chase-on-tom-sawyers-island/3030-17796/#game> .

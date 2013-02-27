@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/fci/3010-345/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/fci/3010-345/#company> <http://xmlns.com/foaf/0.1/#name> "FCI" .
-<http://www.giantbomb.com/fci/3010-345/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bards-tale/3030-22770/#game> .
+<http://www.giantbomb.com/fci/3010-345/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/bards-tale/3030-22770/#game> .
 <http://www.giantbomb.com/fci/3010-345/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bubble-ghost/3030-11516/#game> .
 <http://www.giantbomb.com/fci/3010-345/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/break-time-the-national-pool-tour/3030-14120/#game> .
 <http://www.giantbomb.com/fci/3010-345/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/boxxle-ii/3030-16266/#game> .

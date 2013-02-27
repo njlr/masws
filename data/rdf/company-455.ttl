@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/buka-entertainment/3010-455/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/buka-entertainment/3010-455/#company> <http://xmlns.com/foaf/0.1/#name> "Buka Entertainment" .
-<http://www.giantbomb.com/buka-entertainment/3010-455/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gromada/3030-15247/#game> .
-<http://www.giantbomb.com/buka-entertainment/3010-455/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gromada-revenge/3030-17699/#game> .
-<http://www.giantbomb.com/buka-entertainment/3010-455/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sledge-hammer/3030-36618/#game> .
+<http://www.giantbomb.com/buka-entertainment/3010-455/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/gromada/3030-15247/#game> .
+<http://www.giantbomb.com/buka-entertainment/3010-455/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/gromada-revenge/3030-17699/#game> .
+<http://www.giantbomb.com/buka-entertainment/3010-455/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/sledge-hammer/3030-36618/#game> .
 <http://www.giantbomb.com/buka-entertainment/3010-455/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/catz-5/3030-10273/#game> .
 <http://www.giantbomb.com/buka-entertainment/3010-455/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dogz-5/3030-11022/#game> .
 <http://www.giantbomb.com/buka-entertainment/3010-455/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/escape-from-paradise-city/3030-19660/#game> .

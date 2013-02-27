@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/sold-out-sales-marketing-ltd/3010-167/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/sold-out-sales-marketing-ltd/3010-167/#company> <http://xmlns.com/foaf/0.1/#name> "Sold Out Sales & Marketing Ltd." .
-<http://www.giantbomb.com/sold-out-sales-marketing-ltd/3010-167/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/conflict-desert-storm/3030-3055/#game> .
+<http://www.giantbomb.com/sold-out-sales-marketing-ltd/3010-167/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/conflict-desert-storm/3030-3055/#game> .
 <http://www.giantbomb.com/sold-out-sales-marketing-ltd/3010-167/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/codename-outbreak/3030-20183/#game> .
 <http://www.giantbomb.com/sold-out-sales-marketing-ltd/3010-167/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/championship-manager-season-0102/3030-17370/#game> .
 <http://www.giantbomb.com/sold-out-sales-marketing-ltd/3010-167/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/championship-manager-season-0001/3030-10275/#game> .

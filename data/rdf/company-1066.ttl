@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/blue-dojo-studios/3010-1066/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/blue-dojo-studios/3010-1066/#company> <http://xmlns.com/foaf/0.1/#name> "Blue Dojo Studios" .
-<http://www.giantbomb.com/blue-dojo-studios/3010-1066/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/buboids-the-3d-action-puzzle-game/3030-965/#game> .
-<http://www.giantbomb.com/blue-dojo-studios/3010-1066/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jigsaw-blocks/3030-14766/#game> .
+<http://www.giantbomb.com/blue-dojo-studios/3010-1066/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/buboids-the-3d-action-puzzle-game/3030-965/#game> .
+<http://www.giantbomb.com/blue-dojo-studios/3010-1066/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/jigsaw-blocks/3030-14766/#game> .
 <http://www.giantbomb.com/blue-dojo-studios/3010-1066/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/buboids-the-3d-action-puzzle-game/3030-965/#game> .
 <http://www.giantbomb.com/blue-dojo-studios/3010-1066/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/jigsaw-blocks/3030-14766/#game> .

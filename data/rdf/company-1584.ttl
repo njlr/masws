@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://xmlns.com/foaf/0.1/#name> "Oberon Media, Inc." .
-<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/scrubbles/3030-15585/#game> .
-<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fairy-godmother-tycoon/3030-26197/#game> .
-<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dream-day-wedding-married-in-manhattan/3030-29576/#game> .
-<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/zzed/3030-40554/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/scrubbles/3030-15585/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fairy-godmother-tycoon/3030-26197/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dream-day-wedding-married-in-manhattan/3030-29576/#game> .
+<http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/zzed/3030-40554/#game> .
 <http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mayawaka/3030-1733/#game> .
 <http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/scrubbles/3030-15585/#game> .
 <http://www.giantbomb.com/oberon-media-inc/3010-1584/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/steam/3030-12551/#game> .

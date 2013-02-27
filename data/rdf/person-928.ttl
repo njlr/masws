@@ -1,3 +1,4 @@
+<http://www.giantbomb.com/ken-williams/3040-928/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://xmlns.com/foaf/0.1/#name> "Ken Williams" .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
@@ -46,6 +47,6 @@
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/EIM-Ltd/3010-6033/#company> .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Micro-Cabin-Co/3010-1547/#company> .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Hanbitsoft/3010-7158/#company> .
-<http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Police-Quest-3:-The-Kindred/3030-152/#game> .
-<http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Police-Quest:-In-Pursuit-of-the-Death-Angel/3030-147/#game> .
-<http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Mixed-Up-Mother-Goose/3030-6816/#game> .
+<http://www.giantbomb.com/ken-williams/3040-928/#person> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/Police-Quest-3:-The-Kindred/3030-152/#game> .
+<http://www.giantbomb.com/ken-williams/3040-928/#person> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/Police-Quest:-In-Pursuit-of-the-Death-Angel/3030-147/#game> .
+<http://www.giantbomb.com/ken-williams/3040-928/#person> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/Mixed-Up-Mother-Goose/3030-6816/#game> .

@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/doodlebug-designs-ltd/3010-1076/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/doodlebug-designs-ltd/3010-1076/#company> <http://xmlns.com/foaf/0.1/#name> "Doodlebug Designs Ltd." .
-<http://www.giantbomb.com/doodlebug-designs-ltd/3010-1076/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/treasure-trap/3030-974/#game> .
+<http://www.giantbomb.com/doodlebug-designs-ltd/3010-1076/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/treasure-trap/3030-974/#game> .

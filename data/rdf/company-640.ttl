@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/studio-gigante/3010-640/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/studio-gigante/3010-640/#company> <http://xmlns.com/foaf/0.1/#name> "Studio Gigante" .
-<http://www.giantbomb.com/studio-gigante/3010-640/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/tao-feng-fist-of-the-lotus/3030-16870/#game> .
-<http://www.giantbomb.com/studio-gigante/3010-640/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wwe-wrestlemania-21/3030-487/#game> .
+<http://www.giantbomb.com/studio-gigante/3010-640/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/tao-feng-fist-of-the-lotus/3030-16870/#game> .
+<http://www.giantbomb.com/studio-gigante/3010-640/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/wwe-wrestlemania-21/3030-487/#game> .

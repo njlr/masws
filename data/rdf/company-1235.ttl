@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <http://xmlns.com/foaf/0.1/#name> "International Computer Entertainment Ltd." .
-<http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fire-force/3030-3097/#game> .
-<http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/akira/3030-26040/#game> .
-<http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/sign-of-the-sun/3030-14379/#game> .
+<http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fire-force/3030-3097/#game> .
+<http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/akira/3030-26040/#game> .
+<http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/sign-of-the-sun/3030-14379/#game> .
 <http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/deep-core/3030-17076/#game> .
 <http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mean-arenas/3030-17425/#game> .
 <http://www.giantbomb.com/international-computer-entertainment-ltd/3010-1235/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/abandoned-places-2/3030-7813/#game> .

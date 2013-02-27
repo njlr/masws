@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://xmlns.com/foaf/0.1/#name> "Arcadia Systems, Inc." .
-<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magic-johnsons-fast-break/3030-1725/#game> .
-<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/metropolis/3030-11238/#game> .
-<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/roadwars/3030-16109/#game> .
-<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rockford-the-arcade-game/3030-6407/#game> .
-<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/artura/3030-1195/#game> .
-<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/firezone/3030-25379/#game> .
+<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/magic-johnsons-fast-break/3030-1725/#game> .
+<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/metropolis/3030-11238/#game> .
+<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/roadwars/3030-16109/#game> .
+<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rockford-the-arcade-game/3030-6407/#game> .
+<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/artura/3030-1195/#game> .
+<http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/firezone/3030-25379/#game> .
 <http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ny-warriors/3030-11542/#game> .
 <http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/silver-surfer/3030-12487/#game> .
 <http://www.giantbomb.com/arcadia-systems-inc/3010-1230/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hyperbowl/3030-20369/#game> .

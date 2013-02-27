@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://xmlns.com/foaf/0.1/#name> "UTV Ignition Entertainment" .
-<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stadium-games/3030-1246/#game> .
-<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/international-karate/3030-16939/#game> .
-<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/el-shaddai-ascension-of-the-metatron/3030-31242/#game> .
-<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/magical-drop-v/3030-35868/#game> .
-<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/unnamed-el-shaddai-project/3030-37720/#game> .
-<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pinball-tycoon/3030-40073/#game> .
+<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/stadium-games/3030-1246/#game> .
+<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/international-karate/3030-16939/#game> .
+<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/el-shaddai-ascension-of-the-metatron/3030-31242/#game> .
+<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/magical-drop-v/3030-35868/#game> .
+<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/unnamed-el-shaddai-project/3030-37720/#game> .
+<http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/pinball-tycoon/3030-40073/#game> .
 <http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/demon-driver-time-to-burn-rubber/3030-14687/#game> .
 <http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-king-of-fighters-xi/3030-5030/#game> .
 <http://www.giantbomb.com/utv-ignition-entertainment/3010-759/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lotus-challenge/3030-15558/#game> .

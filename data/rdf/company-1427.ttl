@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://xmlns.com/foaf/0.1/#name> "3000AD, Inc." .
-<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/universal-combat/3030-1469/#game> .
-<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/battlecruiser-3000ad-v20/3030-18610/#game> .
-<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/galactic-command-excalibur/3030-22719/#game> .
-<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/all-aspect-warfare/3030-24393/#game> .
-<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/angle-of-attack/3030-27728/#game> .
-<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/line-of-defense/3030-37642/#game> .
+<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/universal-combat/3030-1469/#game> .
+<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/battlecruiser-3000ad-v20/3030-18610/#game> .
+<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/galactic-command-excalibur/3030-22719/#game> .
+<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/all-aspect-warfare/3030-24393/#game> .
+<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/angle-of-attack/3030-27728/#game> .
+<http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/line-of-defense/3030-37642/#game> .
 <http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/universal-combat/3030-1469/#game> .
 <http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/battlecruiser-3000ad-v20/3030-18610/#game> .
 <http://www.giantbomb.com/3000ad-inc/3010-1427/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/galactic-command-excalibur/3030-22719/#game> .

@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://xmlns.com/foaf/0.1/#name> "Destination Software, Inc." .
-<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/puzzler-collection/3030-20931/#game> .
-<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/f1-2002/3030-11485/#game> .
-<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/army-men-soldiers-of-misfortune/3030-21026/#game> .
-<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/barnyard-blast-swine-of-the-night/3030-28402/#game> .
-<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bigfoot-collision-course/3030-24613/#game> .
-<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dick-tracy-the-crime-solving-adventure/3030-14554/#game> .
+<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/puzzler-collection/3030-20931/#game> .
+<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/f1-2002/3030-11485/#game> .
+<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/army-men-soldiers-of-misfortune/3030-21026/#game> .
+<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/barnyard-blast-swine-of-the-night/3030-28402/#game> .
+<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/bigfoot-collision-course/3030-24613/#game> .
+<http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dick-tracy-the-crime-solving-adventure/3030-14554/#game> .
 <http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chicken-shoot-2/3030-16212/#game> .
 <http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/deal-or-no-deal/3030-4449/#game> .
 <http://www.giantbomb.com/destination-software-inc/3010-1703/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dr-seuss-how-the-grinch-stole-christmas/3030-17539/#game> .

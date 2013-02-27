@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/lego-media/3010-1975/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/lego-media/3010-1975/#company> <http://xmlns.com/foaf/0.1/#name> "Lego Media" .
-<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lego-stunt-rally/3030-7480/#game> .
-<http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lego-chess/3030-24881/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lego-stunt-rally/3030-7480/#game> .
+<http://www.giantbomb.com/lego-media/3010-1975/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lego-chess/3030-24881/#game> .
 <http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-alpha-team/3030-17575/#game> .
 <http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-bionicle-tales-of-tohunga/3030-16342/#game> .
 <http://www.giantbomb.com/lego-media/3010-1975/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lego-friends/3030-2435/#game> .

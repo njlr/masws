@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/deep-silver/3010-52/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/deep-silver/3010-52/#company> <http://xmlns.com/foaf/0.1/#name> "Deep Silver" .
-<http://www.giantbomb.com/deep-silver/3010-52/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/professor-heinz-wolffs-gravity/3030-24651/#game> .
-<http://www.giantbomb.com/deep-silver/3010-52/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dj-star/3030-25954/#game> .
-<http://www.giantbomb.com/deep-silver/3010-52/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/iron-front/3030-35306/#game> .
-<http://www.giantbomb.com/deep-silver/3010-52/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jasf-janes-advanced-strike-fighters/3030-36617/#game> .
+<http://www.giantbomb.com/deep-silver/3010-52/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/professor-heinz-wolffs-gravity/3030-24651/#game> .
+<http://www.giantbomb.com/deep-silver/3010-52/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dj-star/3030-25954/#game> .
+<http://www.giantbomb.com/deep-silver/3010-52/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/iron-front/3030-35306/#game> .
+<http://www.giantbomb.com/deep-silver/3010-52/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/jasf-janes-advanced-strike-fighters/3030-36617/#game> .
 <http://www.giantbomb.com/deep-silver/3010-52/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cold-zero-no-mercy/3030-4479/#game> .
 <http://www.giantbomb.com/deep-silver/3010-52/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chrome-specforce/3030-6824/#game> .
 <http://www.giantbomb.com/deep-silver/3010-52/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crusty-demons/3030-5462/#game> .

@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://xmlns.com/foaf/0.1/#name> "Yanoman Corporation" .
-<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nobunaga-kouki/3030-28392/#game> .
+<http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/nobunaga-kouki/3030-28392/#game> .
 <http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rejoice-aretha-oukoku-no-kanata/3030-717/#game> .
 <http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aretha-ii-ariel-fushigi-no-tabi/3030-18252/#game> .
 <http://www.giantbomb.com/yanoman-corporation/3010-851/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/aretha/3030-1791/#game> .

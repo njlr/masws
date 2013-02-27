@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/europress-software/3010-1086/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/europress-software/3010-1086/#company> <http://xmlns.com/foaf/0.1/#name> "EuroPress Software" .
-<http://www.giantbomb.com/europress-software/3010-1086/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fun-school-4-for-5-to-7-year-olds/3030-11954/#game> .
-<http://www.giantbomb.com/europress-software/3010-1086/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/journey-to-the-centre-of-the-earth/3030-4916/#game> .
-<http://www.giantbomb.com/europress-software/3010-1086/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rallye-racing-97/3030-20307/#game> .
-<http://www.giantbomb.com/europress-software/3010-1086/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/romeo/3030-4027/#game> .
+<http://www.giantbomb.com/europress-software/3010-1086/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fun-school-4-for-5-to-7-year-olds/3030-11954/#game> .
+<http://www.giantbomb.com/europress-software/3010-1086/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/journey-to-the-centre-of-the-earth/3030-4916/#game> .
+<http://www.giantbomb.com/europress-software/3010-1086/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rallye-racing-97/3030-20307/#game> .
+<http://www.giantbomb.com/europress-software/3010-1086/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/romeo/3030-4027/#game> .
 <http://www.giantbomb.com/europress-software/3010-1086/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dojo-dan/3030-19896/#game> .
 <http://www.giantbomb.com/europress-software/3010-1086/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/f1-manager/3030-7151/#game> .
 <http://www.giantbomb.com/europress-software/3010-1086/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fun-school-4-for-5-to-7-year-olds/3030-11954/#game> .

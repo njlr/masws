@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/just-flight/3010-1316/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/just-flight/3010-1316/#company> <http://xmlns.com/foaf/0.1/#name> "Just Flight" .
-<http://www.giantbomb.com/just-flight/3010-1316/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/757-captain/3030-26762/#game> .
-<http://www.giantbomb.com/just-flight/3010-1316/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/air-hauler/3030-26763/#game> .
-<http://www.giantbomb.com/just-flight/3010-1316/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/traffic-x/3030-26764/#game> .
-<http://www.giantbomb.com/just-flight/3010-1316/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/warbirds-of-wwii/3030-26765/#game> .
-<http://www.giantbomb.com/just-flight/3010-1316/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-airports-3-north-america/3030-26766/#game> .
+<http://www.giantbomb.com/just-flight/3010-1316/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/757-captain/3030-26762/#game> .
+<http://www.giantbomb.com/just-flight/3010-1316/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/air-hauler/3030-26763/#game> .
+<http://www.giantbomb.com/just-flight/3010-1316/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/traffic-x/3030-26764/#game> .
+<http://www.giantbomb.com/just-flight/3010-1316/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/warbirds-of-wwii/3030-26765/#game> .
+<http://www.giantbomb.com/just-flight/3010-1316/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/world-airports-3-north-america/3030-26766/#game> .
 <http://www.giantbomb.com/just-flight/3010-1316/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/vfr-real-scenery-birmingham-coventry-wolverhampton/3030-2605/#game> .
 <http://www.giantbomb.com/just-flight/3010-1316/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/vfr-real-scenery-central-southern-england/3030-4025/#game> .
 <http://www.giantbomb.com/just-flight/3010-1316/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/vfr-real-scenery-isle-of-wight/3030-7691/#game> .

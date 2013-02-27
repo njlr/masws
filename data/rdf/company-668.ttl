@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/codeblender-software/3010-668/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/codeblender-software/3010-668/#company> <http://xmlns.com/foaf/0.1/#name> "Codeblender Software" .
-<http://www.giantbomb.com/codeblender-software/3010-668/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/deep-trouble-2/3030-15066/#game> .
-<http://www.giantbomb.com/codeblender-software/3010-668/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/deeptrouble/3030-515/#game> .
-<http://www.giantbomb.com/codeblender-software/3010-668/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/epsilon-tahari-reign-of-the-machines/3030-11537/#game> .
-<http://www.giantbomb.com/codeblender-software/3010-668/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rally-shift/3030-5416/#game> .
+<http://www.giantbomb.com/codeblender-software/3010-668/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/deep-trouble-2/3030-15066/#game> .
+<http://www.giantbomb.com/codeblender-software/3010-668/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/deeptrouble/3030-515/#game> .
+<http://www.giantbomb.com/codeblender-software/3010-668/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/epsilon-tahari-reign-of-the-machines/3030-11537/#game> .
+<http://www.giantbomb.com/codeblender-software/3010-668/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rally-shift/3030-5416/#game> .
 <http://www.giantbomb.com/codeblender-software/3010-668/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/deep-trouble-2/3030-15066/#game> .
 <http://www.giantbomb.com/codeblender-software/3010-668/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/deeptrouble/3030-515/#game> .
 <http://www.giantbomb.com/codeblender-software/3010-668/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/epsilon-tahari-reign-of-the-machines/3030-11537/#game> .

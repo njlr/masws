@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/empire-software/3010-483/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/empire-software/3010-483/#company> <http://xmlns.com/foaf/0.1/#name> "Empire Software" .
-<http://www.giantbomb.com/empire-software/3010-483/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/campaign-ii/3030-19757/#game> .
-<http://www.giantbomb.com/empire-software/3010-483/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/campaign/3030-17892/#game> .
-<http://www.giantbomb.com/empire-software/3010-483/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cool-croc-twins/3030-7046/#game> .
-<http://www.giantbomb.com/empire-software/3010-483/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gazzas-super-soccer/3030-15735/#game> .
-<http://www.giantbomb.com/empire-software/3010-483/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/campaign-from-north-africa-to-northern-europe/3030-10602/#game> .
+<http://www.giantbomb.com/empire-software/3010-483/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/campaign-ii/3030-19757/#game> .
+<http://www.giantbomb.com/empire-software/3010-483/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/campaign/3030-17892/#game> .
+<http://www.giantbomb.com/empire-software/3010-483/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cool-croc-twins/3030-7046/#game> .
+<http://www.giantbomb.com/empire-software/3010-483/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/gazzas-super-soccer/3030-15735/#game> .
+<http://www.giantbomb.com/empire-software/3010-483/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/campaign-from-north-africa-to-northern-europe/3030-10602/#game> .
 <http://www.giantbomb.com/empire-software/3010-483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/campaign-ii/3030-19757/#game> .
 <http://www.giantbomb.com/empire-software/3010-483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/campaign/3030-17892/#game> .
 <http://www.giantbomb.com/empire-software/3010-483/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cool-croc-twins/3030-7046/#game> .

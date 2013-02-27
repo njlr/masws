@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/virgin-interactive-entertainment-europe-ltd/3010-102/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/virgin-interactive-entertainment-europe-ltd/3010-102/#company> <http://xmlns.com/foaf/0.1/#name> "Virgin Interactive Entertainment (Europe) Ltd." .
-<http://www.giantbomb.com/virgin-interactive-entertainment-europe-ltd/3010-102/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dragon-the-bruce-lee-story/3030-11980/#game> .
+<http://www.giantbomb.com/virgin-interactive-entertainment-europe-ltd/3010-102/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dragon-the-bruce-lee-story/3030-11980/#game> .
 <http://www.giantbomb.com/virgin-interactive-entertainment-europe-ltd/3010-102/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/command-conquer-red-alert-the-aftermath/3030-16365/#game> .
 <http://www.giantbomb.com/virgin-interactive-entertainment-europe-ltd/3010-102/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/carmageddon-ii-carpocalypse-now/3030-10553/#game> .
 <http://www.giantbomb.com/virgin-interactive-entertainment-europe-ltd/3010-102/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/capcom-vs-snk-millennium-fight-2000/3030-8768/#game> .

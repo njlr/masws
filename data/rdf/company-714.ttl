@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <http://xmlns.com/foaf/0.1/#name> "Boss Game Studios Inc." .
-<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spider/3030-10554/#game> .
-<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/stunt-racer-64/3030-12060/#game> .
-<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/top-gear-rally/3030-9838/#game> .
-<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/twisted-edge-extreme-snowboarding/3030-565/#game> .
-<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/world-driver-championship/3030-10150/#game> .
-<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/boss-rally/3030-13421/#game> .
+<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/spider/3030-10554/#game> .
+<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/stunt-racer-64/3030-12060/#game> .
+<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/top-gear-rally/3030-9838/#game> .
+<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/twisted-edge-extreme-snowboarding/3030-565/#game> .
+<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/world-driver-championship/3030-10150/#game> .
+<http://www.giantbomb.com/boss-game-studios-inc/3010-714/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/boss-rally/3030-13421/#game> .

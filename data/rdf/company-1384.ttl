@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <http://xmlns.com/foaf/0.1/#name> "Bandai America, Inc." .
-<http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/inuyasha-a-feudal-fairy-tale/3030-16165/#game> .
-<http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-adventures-of-gilligans-island/3030-10759/#game> .
-<http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ultimate-muscle-the-kinnikuman-legacy-the-path-of-/3030-34825/#game> .
-<http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/active-life-magical-carnival/3030-36773/#game> .
+<http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/inuyasha-a-feudal-fairy-tale/3030-16165/#game> .
+<http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-adventures-of-gilligans-island/3030-10759/#game> .
+<http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/ultimate-muscle-the-kinnikuman-legacy-the-path-of-/3030-34825/#game> .
+<http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/active-life-magical-carnival/3030-36773/#game> .
 <http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chubby-cherub/3030-19535/#game> .
 <http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dig-dug-ii-trouble-in-paradise/3030-17397/#game> .
 <http://www.giantbomb.com/bandai-america-inc/3010-1384/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/digimon-rumble-arena/3030-18389/#game> .

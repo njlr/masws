@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://xmlns.com/foaf/0.1/#name> "Fox Interactive" .
-<http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/anastasia-adventures-with-pooka-and-bartok/3030-11680/#game> .
-<http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-simpsons-road-rage/3030-17855/#game> .
-<http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-simpsons-night-of-the-living-treehouse-of-horr/3030-21949/#game> .
-<http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/worlds-scariest-police-chases/3030-12282/#game> .
-<http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/die-hard-nakatomi-plaza/3030-827/#game> .
-<http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-x-files-unrestricted-access/3030-40673/#game> .
+<http://www.giantbomb.com/fox-interactive/3010-44/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/anastasia-adventures-with-pooka-and-bartok/3030-11680/#game> .
+<http://www.giantbomb.com/fox-interactive/3010-44/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-simpsons-road-rage/3030-17855/#game> .
+<http://www.giantbomb.com/fox-interactive/3010-44/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-simpsons-night-of-the-living-treehouse-of-horr/3030-21949/#game> .
+<http://www.giantbomb.com/fox-interactive/3010-44/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/worlds-scariest-police-chases/3030-12282/#game> .
+<http://www.giantbomb.com/fox-interactive/3010-44/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/die-hard-nakatomi-plaza/3030-827/#game> .
+<http://www.giantbomb.com/fox-interactive/3010-44/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-x-files-unrestricted-access/3030-40673/#game> .
 <http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/die-hard-trilogy-2-viva-las-vegas/3030-8941/#game> .
 <http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fox-sports-golf-99/3030-17072/#game> .
 <http://www.giantbomb.com/fox-interactive/3010-44/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/independence-day/3030-4589/#game> .

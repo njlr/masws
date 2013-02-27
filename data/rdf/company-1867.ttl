@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/red-ant-enterprises-pty-ltd/3010-1867/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/red-ant-enterprises-pty-ltd/3010-1867/#company> <http://xmlns.com/foaf/0.1/#name> "Red Ant Enterprises Pty Ltd." .
-<http://www.giantbomb.com/red-ant-enterprises-pty-ltd/3010-1867/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rugby-league-live/3030-32065/#game> .
+<http://www.giantbomb.com/red-ant-enterprises-pty-ltd/3010-1867/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rugby-league-live/3030-32065/#game> .
 <http://www.giantbomb.com/red-ant-enterprises-pty-ltd/3010-1867/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pdc-world-championship-darts-2008/3030-21368/#game> .
 <http://www.giantbomb.com/red-ant-enterprises-pty-ltd/3010-1867/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/spinout/3030-20999/#game> .
 <http://www.giantbomb.com/red-ant-enterprises-pty-ltd/3010-1867/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/pdc-world-championship-darts/3030-26123/#game> .

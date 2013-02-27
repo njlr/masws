@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/black-bean/3010-1395/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/black-bean/3010-1395/#company> <http://xmlns.com/foaf/0.1/#name> "Black Bean" .
-<http://www.giantbomb.com/black-bean/3010-1395/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/diabolik-the-original-sin/3030-20969/#game> .
-<http://www.giantbomb.com/black-bean/3010-1395/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/superstars-v8-next-challenge/3030-29726/#game> .
-<http://www.giantbomb.com/black-bean/3010-1395/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/nat-geo-quiz-wild-life/3030-30574/#game> .
+<http://www.giantbomb.com/black-bean/3010-1395/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/diabolik-the-original-sin/3030-20969/#game> .
+<http://www.giantbomb.com/black-bean/3010-1395/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/superstars-v8-next-challenge/3030-29726/#game> .
+<http://www.giantbomb.com/black-bean/3010-1395/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/nat-geo-quiz-wild-life/3030-30574/#game> .
 <http://www.giantbomb.com/black-bean/3010-1395/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/great-battles-of-wwii-stalingrad/3030-2210/#game> .
 <http://www.giantbomb.com/black-bean/3010-1395/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/rising-kingdoms/3030-12803/#game> .
 <http://www.giantbomb.com/black-bean/3010-1395/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sbk-07-superbike-world-championship/3030-2948/#game> .

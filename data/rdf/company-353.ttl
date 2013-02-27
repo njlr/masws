@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/the-adventure-company/3010-353/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/the-adventure-company/3010-353/#company> <http://xmlns.com/foaf/0.1/#name> "The Adventure Company" .
-<http://www.giantbomb.com/the-adventure-company/3010-353/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cleopatra-riddle-of-the-tomb/3030-38668/#game> .
+<http://www.giantbomb.com/the-adventure-company/3010-353/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cleopatra-riddle-of-the-tomb/3030-38668/#game> .
 <http://www.giantbomb.com/the-adventure-company/3010-353/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-cameron-files-pharaohs-curse/3030-14850/#game> .
 <http://www.giantbomb.com/the-adventure-company/3010-353/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crystal-key-ii-the-far-realm/3030-17095/#game> .
 <http://www.giantbomb.com/the-adventure-company/3010-353/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/curse-of-atlantis-thorgals-quest/3030-17498/#game> .

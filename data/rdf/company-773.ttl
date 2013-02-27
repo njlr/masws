@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/lighthouse-interactive-game-publishing-bv/3010-773/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/lighthouse-interactive-game-publishing-bv/3010-773/#company> <http://xmlns.com/foaf/0.1/#name> "Lighthouse Interactive Game Publishing BV" .
-<http://www.giantbomb.com/lighthouse-interactive-game-publishing-bv/3010-773/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mychristmas/3030-31908/#game> .
+<http://www.giantbomb.com/lighthouse-interactive-game-publishing-bv/3010-773/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mychristmas/3030-31908/#game> .
 <http://www.giantbomb.com/lighthouse-interactive-game-publishing-bv/3010-773/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/delaware-st-john-volume-1-the-curse-of-midnight-ma/3030-8672/#game> .
 <http://www.giantbomb.com/lighthouse-interactive-game-publishing-bv/3010-773/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/delaware-st-john-volume-1-the-curse-of-midnight-ma/3030-13188/#game> .
 <http://www.giantbomb.com/lighthouse-interactive-game-publishing-bv/3010-773/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/delaware-st-john-volume-2-the-town-with-no-name/3030-893/#game> .

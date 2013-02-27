@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <http://xmlns.com/foaf/0.1/#name> "Dragonfly Game Design, LLC" .
-<http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/qbicles/3030-1741/#game> .
-<http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/upwords-boggle-hangman-word-hunter-collection/3030-19979/#game> .
-<http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/yahtzee-parcheesi-aggravation-collection/3030-18363/#game> .
-<http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/soldier-front/3030-22609/#game> .
+<http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/qbicles/3030-1741/#game> .
+<http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/upwords-boggle-hangman-word-hunter-collection/3030-19979/#game> .
+<http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/yahtzee-parcheesi-aggravation-collection/3030-18363/#game> .
+<http://www.giantbomb.com/dragonfly-game-design-llc/3010-1593/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/soldier-front/3030-22609/#game> .

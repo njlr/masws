@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cheetahsoft-ltd/3010-252/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/cheetahsoft-ltd/3010-252/#company> <http://xmlns.com/foaf/0.1/#name> "Cheetahsoft Ltd." .
-<http://www.giantbomb.com/cheetahsoft-ltd/3010-252/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/parky-and-the-yellow-submarine/3030-33017/#game> .
+<http://www.giantbomb.com/cheetahsoft-ltd/3010-252/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/parky-and-the-yellow-submarine/3030-33017/#game> .
 <http://www.giantbomb.com/cheetahsoft-ltd/3010-252/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/parky-and-the-yellow-submarine/3030-33017/#game> .

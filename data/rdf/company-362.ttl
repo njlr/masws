@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/zoo-digital-publishing-ltd/3010-362/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/zoo-digital-publishing-ltd/3010-362/#company> <http://xmlns.com/foaf/0.1/#name> "ZOO Digital Publishing Ltd" .
-<http://www.giantbomb.com/zoo-digital-publishing-ltd/3010-362/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mms-adventure/3030-25837/#game> .
-<http://www.giantbomb.com/zoo-digital-publishing-ltd/3010-362/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-garfield-show-threat-of-the-space-lasagna/3030-39233/#game> .
+<http://www.giantbomb.com/zoo-digital-publishing-ltd/3010-362/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mms-adventure/3030-25837/#game> .
+<http://www.giantbomb.com/zoo-digital-publishing-ltd/3010-362/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-garfield-show-threat-of-the-space-lasagna/3030-39233/#game> .
 <http://www.giantbomb.com/zoo-digital-publishing-ltd/3010-362/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/choroq/3030-4160/#game> .
 <http://www.giantbomb.com/zoo-digital-publishing-ltd/3010-362/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cabelas-dangerous-hunts/3030-19528/#game> .
 <http://www.giantbomb.com/zoo-digital-publishing-ltd/3010-362/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/gadget-racers/3030-15562/#game> .

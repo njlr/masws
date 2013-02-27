@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/369-interactive/3010-1051/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/369-interactive/3010-1051/#company> <http://xmlns.com/foaf/0.1/#name> "369 Interactive" .
-<http://www.giantbomb.com/369-interactive/3010-1051/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/csi-crime-scene-investigation/3030-943/#game> .
-<http://www.giantbomb.com/369-interactive/3010-1051/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/csi-crime-scene-investigation-dark-motives/3030-5702/#game> .
-<http://www.giantbomb.com/369-interactive/3010-1051/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/csi-miami/3030-3728/#game> .
+<http://www.giantbomb.com/369-interactive/3010-1051/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/csi-crime-scene-investigation/3030-943/#game> .
+<http://www.giantbomb.com/369-interactive/3010-1051/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/csi-crime-scene-investigation-dark-motives/3030-5702/#game> .
+<http://www.giantbomb.com/369-interactive/3010-1051/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/csi-miami/3030-3728/#game> .

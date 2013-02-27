@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://xmlns.com/foaf/0.1/#name> "Midas Interactive Entertainment Ltd" .
-<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/skate-park-city/3030-21001/#game> .
-<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wwii-battle-over-the-pacific/3030-21382/#game> .
-<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/absolute-x/3030-36445/#game> .
-<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/deadly-strike/3030-24157/#game> .
-<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-sniper-2/3030-24772/#game> .
+<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/skate-park-city/3030-21001/#game> .
+<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/wwii-battle-over-the-pacific/3030-21382/#game> .
+<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/absolute-x/3030-36445/#game> .
+<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/deadly-strike/3030-24157/#game> .
+<http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-sniper-2/3030-24772/#game> .
 <http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/championship-rugby-manager/3030-1779/#game> .
 <http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/castrol-honda-superbike-2000/3030-9952/#game> .
 <http://www.giantbomb.com/midas-interactive-entertainment-ltd/3010-839/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cyberball/3030-8655/#game> .

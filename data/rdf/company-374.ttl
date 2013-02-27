@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <http://xmlns.com/foaf/0.1/#name> "Imagineer Co., Ltd." .
-<http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/quest-64/3030-4924/#game> .
-<http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/zool-maju-tsukai-densetsu/3030-39661/#game> .
-<http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/matsumoto-tooru-no-kabushiki-hisshou-gaku/3030-39909/#game> .
+<http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/quest-64/3030-4924/#game> .
+<http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/zool-maju-tsukai-densetsu/3030-39661/#game> .
+<http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/matsumoto-tooru-no-kabushiki-hisshou-gaku/3030-39909/#game> .
 <http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/descent-3/3030-2903/#game> .
 <http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/elite/3030-10902/#game> .
 <http://www.giantbomb.com/imagineer-co-ltd/3010-374/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/eracer/3030-19011/#game> .

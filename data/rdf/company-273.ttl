@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <http://xmlns.com/foaf/0.1/#name> "Trilobyte, Inc." .
-<http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/clandestiny/3030-177/#game> .
-<http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/uncle-henrys-playhouse/3030-18477/#game> .
-<http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-7th-guest/3030-16298/#game> .
-<http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-11th-hour/3030-1724/#game> .
+<http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/clandestiny/3030-177/#game> .
+<http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/uncle-henrys-playhouse/3030-18477/#game> .
+<http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-7th-guest/3030-16298/#game> .
+<http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-11th-hour/3030-1724/#game> .
 <http://www.giantbomb.com/trilobyte-inc/3010-273/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/uncle-henrys-playhouse/3030-18477/#game> .

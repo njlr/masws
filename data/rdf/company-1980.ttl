@@ -1,11 +1,11 @@
 <http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://xmlns.com/foaf/0.1/#name> "Bug-Byte Software Ltd." .
-<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cavern-fighter/3030-12206/#game> .
-<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/#game> .
-<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/rapscallion/3030-6307/#game> .
-<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/spectral-invaders/3030-9236/#game> .
-<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-birds-and-the-bees-ii-antics/3030-14058/#game> .
-<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/styx/3030-30730/#game> .
+<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cavern-fighter/3030-12206/#game> .
+<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/#game> .
+<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/rapscallion/3030-6307/#game> .
+<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/spectral-invaders/3030-9236/#game> .
+<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-birds-and-the-bees-ii-antics/3030-14058/#game> .
+<http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/styx/3030-30730/#game> .
 <http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cavern-fighter/3030-12206/#game> .
 <http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/#game> .
 <http://www.giantbomb.com/bug-byte-software-ltd/3010-1980/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/glider-rider/3030-13112/#game> .

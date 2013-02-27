@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/noviy-disk/3010-896/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/noviy-disk/3010-896/#company> <http://xmlns.com/foaf/0.1/#name> "Noviy Disk" .
-<http://www.giantbomb.com/noviy-disk/3010-896/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dark-sector/3030-20497/#game> .
+<http://www.giantbomb.com/noviy-disk/3010-896/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dark-sector/3030-20497/#game> .
 <http://www.giantbomb.com/noviy-disk/3010-896/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crime-life-gang-wars/3030-1375/#game> .
 <http://www.giantbomb.com/noviy-disk/3010-896/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/desperate-housewives-the-game/3030-18760/#game> .
 <http://www.giantbomb.com/noviy-disk/3010-896/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/devastro/3030-4349/#game> .

@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/cypron-studios/3010-1353/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/cypron-studios/3010-1353/#company> <http://xmlns.com/foaf/0.1/#name> "Cypron Studios" .
-<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/gods-lands-of-infinity/3030-11633/#game> .
-<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/state-of-war/3030-1887/#game> .
-<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/state-of-war-warmonger/3030-1358/#game> .
-<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/jagged-alliance/3030-24466/#game> .
-<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/command-and-destroy/3030-28423/#game> .
-<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/state-of-war-2-arcon/3030-38775/#game> .
+<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/gods-lands-of-infinity/3030-11633/#game> .
+<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/state-of-war/3030-1887/#game> .
+<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/state-of-war-warmonger/3030-1358/#game> .
+<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/jagged-alliance/3030-24466/#game> .
+<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/command-and-destroy/3030-28423/#game> .
+<http://www.giantbomb.com/cypron-studios/3010-1353/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/state-of-war-2-arcon/3030-38775/#game> .

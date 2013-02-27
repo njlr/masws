@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/softgold-computerspiele-gmbh/3010-238/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/softgold-computerspiele-gmbh/3010-238/#company> <http://xmlns.com/foaf/0.1/#name> "Softgold Computerspiele GmbH" .
-<http://www.giantbomb.com/softgold-computerspiele-gmbh/3010-238/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/legend/3030-14402/#game> .
+<http://www.giantbomb.com/softgold-computerspiele-gmbh/3010-238/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/legend/3030-14402/#game> .
 <http://www.giantbomb.com/softgold-computerspiele-gmbh/3010-238/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/comanche-cd/3030-4927/#game> .
 <http://www.giantbomb.com/softgold-computerspiele-gmbh/3010-238/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crown/3030-12075/#game> .
 <http://www.giantbomb.com/softgold-computerspiele-gmbh/3010-238/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dark-sun-shattered-lands/3030-146/#game> .

@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <http://xmlns.com/foaf/0.1/#name> "Inland Productions, Inc." .
-<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/deer-hunt-challenge/3030-8309/#game> .
-<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/monster-4x4-masters-of-metal/3030-18229/#game> .
-<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/outdoorsman-mania/3030-3033/#game> .
-<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/ultimate-hunt-challenge/3030-5420/#game> .
-<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wcw-nitro/3030-7908/#game> .
-<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wcwnwo-thunder/3030-1873/#game> .
-<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/arctic-thunder/3030-5118/#game> .
+<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/deer-hunt-challenge/3030-8309/#game> .
+<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/monster-4x4-masters-of-metal/3030-18229/#game> .
+<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/outdoorsman-mania/3030-3033/#game> .
+<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/ultimate-hunt-challenge/3030-5420/#game> .
+<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/wcw-nitro/3030-7908/#game> .
+<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/wcwnwo-thunder/3030-1873/#game> .
+<http://www.giantbomb.com/inland-productions-inc/3010-1663/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/arctic-thunder/3030-5118/#game> .

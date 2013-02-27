@@ -1,3 +1,4 @@
+<http://www.giantbomb.com/luis-levy/3040-283/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/luis-levy/3040-283/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/luis-levy/3040-283/#person> <http://xmlns.com/foaf/0.1/#name> "Luis Levy" .
 <http://www.giantbomb.com/luis-levy/3040-283/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
@@ -5,4 +6,4 @@
 <http://www.giantbomb.com/luis-levy/3040-283/#person> <http://dbpedia.org/ontology/birthPlace> "USA" .
 <http://www.giantbomb.com/luis-levy/3040-283/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Activision/3010-78/#company> .
 <http://www.giantbomb.com/luis-levy/3040-283/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/Treyarch/3010-1488/#company> .
-<http://www.giantbomb.com/luis-levy/3040-283/#person> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/Call-of-Duty-3/3030-7524/#game> .
+<http://www.giantbomb.com/luis-levy/3040-283/#person> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/Call-of-Duty-3/3030-7524/#game> .

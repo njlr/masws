@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/feral-interactive/3010-677/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/feral-interactive/3010-677/#company> <http://xmlns.com/foaf/0.1/#name> "Feral Interactive" .
-<http://www.giantbomb.com/feral-interactive/3010-677/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/batman-arkham-asylum/3030-23245/#game> .
-<http://www.giantbomb.com/feral-interactive/3010-677/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/brothers-in-arms-double-time/3030-20940/#game> .
-<http://www.giantbomb.com/feral-interactive/3010-677/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/empire-total-war/3030-20509/#game> .
+<http://www.giantbomb.com/feral-interactive/3010-677/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/batman-arkham-asylum/3030-23245/#game> .
+<http://www.giantbomb.com/feral-interactive/3010-677/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/brothers-in-arms-double-time/3030-20940/#game> .
+<http://www.giantbomb.com/feral-interactive/3010-677/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/empire-total-war/3030-20509/#game> .
 <http://www.giantbomb.com/feral-interactive/3010-677/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/colin-mcrae-rally-2005/3030-15863/#game> .
 <http://www.giantbomb.com/feral-interactive/3010-677/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/chessmaster-9000/3030-11104/#game> .
 <http://www.giantbomb.com/feral-interactive/3010-677/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/championship-manager-season-0304/3030-9111/#game> .

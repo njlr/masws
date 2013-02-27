@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/erbe-software-sa/3010-1295/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/erbe-software-sa/3010-1295/#company> <http://xmlns.com/foaf/0.1/#name> "Erbe Software, S.A." .
-<http://www.giantbomb.com/erbe-software-sa/3010-1295/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/conquestador/3030-11243/#game> .
+<http://www.giantbomb.com/erbe-software-sa/3010-1295/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/conquestador/3030-11243/#game> .
 <http://www.giantbomb.com/erbe-software-sa/3010-1295/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cruise-for-a-corpse/3030-3942/#game> .
 <http://www.giantbomb.com/erbe-software-sa/3010-1295/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/desolator/3030-12063/#game> .
 <http://www.giantbomb.com/erbe-software-sa/3010-1295/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dynasty-wars/3030-3772/#game> .

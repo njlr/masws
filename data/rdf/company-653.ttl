@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/computer-artworks-ltd/3010-653/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/computer-artworks-ltd/3010-653/#company> <http://xmlns.com/foaf/0.1/#name> "Computer Artworks Ltd." .
-<http://www.giantbomb.com/computer-artworks-ltd/3010-653/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/evolva/3030-11045/#game> .
-<http://www.giantbomb.com/computer-artworks-ltd/3010-653/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-thing/3030-500/#game> .
+<http://www.giantbomb.com/computer-artworks-ltd/3010-653/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/evolva/3030-11045/#game> .
+<http://www.giantbomb.com/computer-artworks-ltd/3010-653/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-thing/3030-500/#game> .

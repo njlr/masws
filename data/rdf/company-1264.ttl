@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <http://xmlns.com/foaf/0.1/#name> "Divide By Zero, Ltd." .
-<http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-gene-machine/3030-1228/#game> .
-<http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/guilty/3030-15307/#game> .
-<http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/innocent-until-caught/3030-17345/#game> .
-<http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-orion-conspiracy/3030-19438/#game> .
+<http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-gene-machine/3030-1228/#game> .
+<http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/guilty/3030-15307/#game> .
+<http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/innocent-until-caught/3030-17345/#game> .
+<http://www.giantbomb.com/divide-by-zero-ltd/3010-1264/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-orion-conspiracy/3030-19438/#game> .

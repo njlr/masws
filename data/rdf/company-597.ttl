@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://xmlns.com/foaf/0.1/#name> "Syrox Developments, Ltd." .
-<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/net-fighter/3030-15865/#game> .
-<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/scud-industrial-evolution/3030-17147/#game> .
-<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/scud-the-disposable-assassin/3030-11835/#game> .
-<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/woody-woodpecker-racing/3030-14384/#game> .
-<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/asteroids-hyper-64/3030-437/#game> .
-<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/vr-troopers/3030-22161/#game> .
-<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/asteroids/3030-40238/#game> .
+<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/net-fighter/3030-15865/#game> .
+<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/scud-industrial-evolution/3030-17147/#game> .
+<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/scud-the-disposable-assassin/3030-11835/#game> .
+<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/woody-woodpecker-racing/3030-14384/#game> .
+<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/asteroids-hyper-64/3030-437/#game> .
+<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/vr-troopers/3030-22161/#game> .
+<http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/asteroids/3030-40238/#game> .
 <http://www.giantbomb.com/syrox-developments-ltd/3010-597/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/vr-troopers/3030-22161/#game> .

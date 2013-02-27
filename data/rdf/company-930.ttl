@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <http://xmlns.com/foaf/0.1/#name> "Amedio Co., Ltd." .
-<http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/card-games/3030-797/#game> .
-<http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/putter-golf/3030-2359/#game> .
-<http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/zoids-legacy/3030-1342/#game> .
-<http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/simple-1500-series-hello-kitty-vol-04-trump/3030-39601/#game> .
+<http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/card-games/3030-797/#game> .
+<http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/putter-golf/3030-2359/#game> .
+<http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/zoids-legacy/3030-1342/#game> .
+<http://www.giantbomb.com/amedio-co-ltd/3010-930/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/simple-1500-series-hello-kitty-vol-04-trump/3030-39601/#game> .

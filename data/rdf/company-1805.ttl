@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/g-collections/3010-1805/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/g-collections/3010-1805/#company> <http://xmlns.com/foaf/0.1/#name> "G-Collections" .
-<http://www.giantbomb.com/g-collections/3010-1805/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/come-see-me-tonight/3030-20070/#game> .
+<http://www.giantbomb.com/g-collections/3010-1805/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/come-see-me-tonight/3030-20070/#game> .
 <http://www.giantbomb.com/g-collections/3010-1805/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/come-see-me-tonight/3030-20070/#game> .
 <http://www.giantbomb.com/g-collections/3010-1805/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crescendo/3030-12907/#game> .
 <http://www.giantbomb.com/g-collections/3010-1805/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/do-you-like-horny-bunnies/3030-16334/#game> .

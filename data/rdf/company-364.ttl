@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <http://xmlns.com/foaf/0.1/#name> "Game Factory Interactive Ltd." .
-<http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hired-guns-the-jagged-edge/3030-29553/#game> .
-<http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/warfare-reloaded/3030-34630/#game> .
-<http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/mia-mission-in-asia/3030-34653/#game> .
+<http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hired-guns-the-jagged-edge/3030-29553/#game> .
+<http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/warfare-reloaded/3030-34630/#game> .
+<http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/mia-mission-in-asia/3030-34653/#game> .
 <http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/cycling-manager-4/3030-1041/#game> .
 <http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/emergency-4-global-fighters-for-life/3030-15091/#game> .
 <http://www.giantbomb.com/game-factory-interactive-ltd/3010-364/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fallen-lords-condemnation/3030-12808/#game> .

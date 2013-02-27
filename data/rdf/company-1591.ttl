@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://xmlns.com/foaf/0.1/#name> "JAST USA" .
-<http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/seasons-of-sakura/3030-5889/#game> .
+<http://www.giantbomb.com/jast-usa/3010-1591/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/seasons-of-sakura/3030-5889/#game> .
 <http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/hentai-anime-poker/3030-13194/#game> .
 <http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/seasons-of-sakura/3030-5889/#game> .
 <http://www.giantbomb.com/jast-usa/3010-1591/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/three-sisters-story/3030-1740/#game> .

@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/kd-vision/3010-861/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/kd-vision/3010-861/#company> <http://xmlns.com/foaf/0.1/#name> "KD Vision" .
-<http://www.giantbomb.com/kd-vision/3010-861/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/maelstrom/3030-3904/#game> .
-<http://www.giantbomb.com/kd-vision/3010-861/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/perimeter/3030-14676/#game> .
-<http://www.giantbomb.com/kd-vision/3010-861/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/perimeter-emperors-testament/3030-724/#game> .
-<http://www.giantbomb.com/kd-vision/3010-861/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/vangers/3030-18937/#game> .
-<http://www.giantbomb.com/kd-vision/3010-861/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/perimeter-2-new-earth/3030-23447/#game> .
+<http://www.giantbomb.com/kd-vision/3010-861/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/maelstrom/3030-3904/#game> .
+<http://www.giantbomb.com/kd-vision/3010-861/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/perimeter/3030-14676/#game> .
+<http://www.giantbomb.com/kd-vision/3010-861/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/perimeter-emperors-testament/3030-724/#game> .
+<http://www.giantbomb.com/kd-vision/3010-861/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/vangers/3030-18937/#game> .
+<http://www.giantbomb.com/kd-vision/3010-861/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/perimeter-2-new-earth/3030-23447/#game> .

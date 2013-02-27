@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/team-silent/3010-757/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/team-silent/3010-757/#company> <http://xmlns.com/foaf/0.1/#name> "Team Silent" .
-<http://www.giantbomb.com/team-silent/3010-757/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silent-hill/3030-4312/#game> .
-<http://www.giantbomb.com/team-silent/3010-757/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silent-hill-2/3030-10780/#game> .
-<http://www.giantbomb.com/team-silent/3010-757/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silent-hill-2-restless-dreams/3030-614/#game> .
-<http://www.giantbomb.com/team-silent/3010-757/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silent-hill-3/3030-10369/#game> .
-<http://www.giantbomb.com/team-silent/3010-757/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/silent-hill-4-the-room/3030-6328/#game> .
+<http://www.giantbomb.com/team-silent/3010-757/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/silent-hill/3030-4312/#game> .
+<http://www.giantbomb.com/team-silent/3010-757/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/silent-hill-2/3030-10780/#game> .
+<http://www.giantbomb.com/team-silent/3010-757/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/silent-hill-2-restless-dreams/3030-614/#game> .
+<http://www.giantbomb.com/team-silent/3010-757/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/silent-hill-3/3030-10369/#game> .
+<http://www.giantbomb.com/team-silent/3010-757/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/silent-hill-4-the-room/3030-6328/#game> .

@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/a-few-screws-loose-lc/3010-1153/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/a-few-screws-loose-lc/3010-1153/#company> <http://xmlns.com/foaf/0.1/#name> "A Few Screws Loose, LC" .
-<http://www.giantbomb.com/a-few-screws-loose-lc/3010-1153/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/serious-sam-the-second-encounter/3030-29323/#game> .
+<http://www.giantbomb.com/a-few-screws-loose-lc/3010-1153/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/serious-sam-the-second-encounter/3030-29323/#game> .

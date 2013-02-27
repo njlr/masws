@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/gametap/3010-1268/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/gametap/3010-1268/#company> <http://xmlns.com/foaf/0.1/#name> "GameTap" .
-<http://www.giantbomb.com/gametap/3010-1268/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/command-conquer-the-first-decade/3030-38672/#game> .
+<http://www.giantbomb.com/gametap/3010-1268/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/command-conquer-the-first-decade/3030-38672/#game> .
 <http://www.giantbomb.com/gametap/3010-1268/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/port-royale-2/3030-5775/#game> .
 <http://www.giantbomb.com/gametap/3010-1268/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/t-72-balkans-on-fire/3030-15027/#game> .
 <http://www.giantbomb.com/gametap/3010-1268/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sam-max-episode-1-culture-shock/3030-10832/#game> .

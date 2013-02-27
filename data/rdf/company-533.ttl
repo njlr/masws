@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <http://xmlns.com/foaf/0.1/#name> "Crystal Interactive, Inc." .
-<http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/crazy-minigolf/3030-1346/#game> .
-<http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/egyptian-challenge/3030-31546/#game> .
-<http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/psyworld/3030-31549/#game> .
-<http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/laser-hawk/3030-6085/#game> .
+<http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/crazy-minigolf/3030-1346/#game> .
+<http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/egyptian-challenge/3030-31546/#game> .
+<http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/psyworld/3030-31549/#game> .
+<http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/laser-hawk/3030-6085/#game> .
 <http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/journeys-end/3030-18506/#game> .
 <http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/state-of-war/3030-1887/#game> .
 <http://www.giantbomb.com/crystal-interactive-inc/3010-533/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/swarog/3030-15193/#game> .

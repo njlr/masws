@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/focus-home-interactive/3010-720/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/focus-home-interactive/3010-720/#company> <http://xmlns.com/foaf/0.1/#name> "Focus Home Interactive" .
-<http://www.giantbomb.com/focus-home-interactive/3010-720/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/cities-xl-2012/3030-36453/#game> .
-<http://www.giantbomb.com/focus-home-interactive/3010-720/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/last-king-of-africa/3030-33594/#game> .
+<http://www.giantbomb.com/focus-home-interactive/3010-720/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/cities-xl-2012/3030-36453/#game> .
+<http://www.giantbomb.com/focus-home-interactive/3010-720/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/last-king-of-africa/3030-33594/#game> .
 <http://www.giantbomb.com/focus-home-interactive/3010-720/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fire-department-episode-3/3030-5408/#game> .
 <http://www.giantbomb.com/focus-home-interactive/3010-720/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/loki-heroes-of-mythology/3030-13806/#game> .
 <http://www.giantbomb.com/focus-home-interactive/3010-720/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/sherlock-holmes-nemesis/3030-574/#game> .

@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/wanadoo-edition/3010-431/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/wanadoo-edition/3010-431/#company> <http://xmlns.com/foaf/0.1/#name> "Wanadoo Edition" .
-<http://www.giantbomb.com/wanadoo-edition/3010-431/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/inquisition/3030-13873/#game> .
-<http://www.giantbomb.com/wanadoo-edition/3010-431/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/necronomicon-the-dawning-of-darkness/3030-1920/#game> .
+<http://www.giantbomb.com/wanadoo-edition/3010-431/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/inquisition/3030-13873/#game> .
+<http://www.giantbomb.com/wanadoo-edition/3010-431/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/necronomicon-the-dawning-of-darkness/3030-1920/#game> .
 <http://www.giantbomb.com/wanadoo-edition/3010-431/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-cameron-files-secret-at-loch-ness/3030-4856/#game> .
 <http://www.giantbomb.com/wanadoo-edition/3010-431/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/curse-the-eye-of-isis/3030-5956/#game> .
 <http://www.giantbomb.com/wanadoo-edition/3010-431/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/dark-age-of-camelot/3030-12149/#game> .

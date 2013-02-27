@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/hexacto-games-inc/3010-982/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/hexacto-games-inc/3010-982/#company> <http://xmlns.com/foaf/0.1/#name> "Hexacto Games Inc." .
-<http://www.giantbomb.com/hexacto-games-inc/3010-982/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-emperors-mahjong/3030-850/#game> .
-<http://www.giantbomb.com/hexacto-games-inc/3010-982/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/kasparov-chessmate/3030-5135/#game> .
-<http://www.giantbomb.com/hexacto-games-inc/3010-982/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/lemonade-tycoon/3030-26967/#game> .
+<http://www.giantbomb.com/hexacto-games-inc/3010-982/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-emperors-mahjong/3030-850/#game> .
+<http://www.giantbomb.com/hexacto-games-inc/3010-982/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/kasparov-chessmate/3030-5135/#game> .
+<http://www.giantbomb.com/hexacto-games-inc/3010-982/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/lemonade-tycoon/3030-26967/#game> .
 <http://www.giantbomb.com/hexacto-games-inc/3010-982/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lemonade-tycoon/3030-26967/#game> .

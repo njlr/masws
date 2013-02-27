@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/14-east/3010-1154/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/14-east/3010-1154/#company> <http://xmlns.com/foaf/0.1/#name> "14° East" .
-<http://www.giantbomb.com/14-east/3010-1154/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-trek-klingon-academy/3030-20121/#game> .
-<http://www.giantbomb.com/14-east/3010-1154/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-trek-new-worlds/3030-6357/#game> .
-<http://www.giantbomb.com/14-east/3010-1154/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/star-trek-starfleet-command/3030-1080/#game> .
-<http://www.giantbomb.com/14-east/3010-1154/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fallout-tactics-brotherhood-of-steel/3030-6346/#game> .
+<http://www.giantbomb.com/14-east/3010-1154/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/star-trek-klingon-academy/3030-20121/#game> .
+<http://www.giantbomb.com/14-east/3010-1154/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/star-trek-new-worlds/3030-6357/#game> .
+<http://www.giantbomb.com/14-east/3010-1154/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/star-trek-starfleet-command/3030-1080/#game> .
+<http://www.giantbomb.com/14-east/3010-1154/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fallout-tactics-brotherhood-of-steel/3030-6346/#game> .
 <http://www.giantbomb.com/14-east/3010-1154/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fallout-tactics-brotherhood-of-steel/3030-6346/#game> .

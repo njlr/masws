@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/dk-games/3010-612/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/dk-games/3010-612/#company> <http://xmlns.com/foaf/0.1/#name> "DK Games" .
-<http://www.giantbomb.com/dk-games/3010-612/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/my-little-flufties/3030-448/#game> .
-<http://www.giantbomb.com/dk-games/3010-612/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/equilibrio/3030-25090/#game> .
-<http://www.giantbomb.com/dk-games/3010-612/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/fishie-fishie/3030-30608/#game> .
+<http://www.giantbomb.com/dk-games/3010-612/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/my-little-flufties/3030-448/#game> .
+<http://www.giantbomb.com/dk-games/3010-612/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/equilibrio/3030-25090/#game> .
+<http://www.giantbomb.com/dk-games/3010-612/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/fishie-fishie/3030-30608/#game> .
 <http://www.giantbomb.com/dk-games/3010-612/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/fishie-fishie/3030-30608/#game> .

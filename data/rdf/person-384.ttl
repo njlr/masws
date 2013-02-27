@@ -1,3 +1,4 @@
+<http://www.giantbomb.com/eddie-araujo/3040-384/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/eddie-araujo/3040-384/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/eddie-araujo/3040-384/#person> <http://xmlns.com/foaf/0.1/#name> "Eddie Araujo" .
 <http://www.giantbomb.com/eddie-araujo/3040-384/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .

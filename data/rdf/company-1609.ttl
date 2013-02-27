@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <http://xmlns.com/foaf/0.1/#name> "Barking Dog Studios, Ltd." .
-<http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/disneys-treasure-planet-battle-at-procyon/3030-3855/#game> .
-<http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/global-operations/3030-1773/#game> .
-<http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/homeworld-cataclysm/3030-14029/#game> .
-<http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/half-life-counter-strike/3030-11663/#game> .
+<http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/disneys-treasure-planet-battle-at-procyon/3030-3855/#game> .
+<http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/global-operations/3030-1773/#game> .
+<http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/homeworld-cataclysm/3030-14029/#game> .
+<http://www.giantbomb.com/barking-dog-studios-ltd/3010-1609/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/half-life-counter-strike/3030-11663/#game> .

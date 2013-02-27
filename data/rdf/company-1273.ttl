@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/groove-games/3010-1273/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/groove-games/3010-1273/#company> <http://xmlns.com/foaf/0.1/#name> "Groove Games" .
-<http://www.giantbomb.com/groove-games/3010-1273/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/marine-sharpshooter-4/3030-29076/#game> .
-<http://www.giantbomb.com/groove-games/3010-1273/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/marine-sharpshooter/3030-29078/#game> .
-<http://www.giantbomb.com/groove-games/3010-1273/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/warpath/3030-1241/#game> .
-<http://www.giantbomb.com/groove-games/3010-1273/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/day-of-the-zombie/3030-39109/#game> .
+<http://www.giantbomb.com/groove-games/3010-1273/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/marine-sharpshooter-4/3030-29076/#game> .
+<http://www.giantbomb.com/groove-games/3010-1273/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/marine-sharpshooter/3030-29078/#game> .
+<http://www.giantbomb.com/groove-games/3010-1273/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/warpath/3030-1241/#game> .
+<http://www.giantbomb.com/groove-games/3010-1273/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/day-of-the-zombie/3030-39109/#game> .
 <http://www.giantbomb.com/groove-games/3010-1273/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/combat-task-force-121/3030-4878/#game> .
 <http://www.giantbomb.com/groove-games/3010-1273/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/close-quarters-conflict/3030-2965/#game> .
 <http://www.giantbomb.com/groove-games/3010-1273/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/ctu-marine-sharpshooter/3030-4273/#game> .

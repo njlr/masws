@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/universal-interactive-inc/3010-124/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/universal-interactive-inc/3010-124/#company> <http://xmlns.com/foaf/0.1/#name> "Universal Interactive Inc." .
-<http://www.giantbomb.com/universal-interactive-inc/3010-124/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/crash-spyro-superpack/3030-35406/#game> .
+<http://www.giantbomb.com/universal-interactive-inc/3010-124/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/crash-spyro-superpack/3030-35406/#game> .
 <http://www.giantbomb.com/universal-interactive-inc/3010-124/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/bruce-lee-quest-of-the-dragon/3030-17800/#game> .
 <http://www.giantbomb.com/universal-interactive-inc/3010-124/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crash-bandicoot-the-huge-adventure/3030-7659/#game> .
 <http://www.giantbomb.com/universal-interactive-inc/3010-124/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/crash-bandicoot-the-wrath-of-cortex/3030-68/#game> .

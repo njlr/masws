@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/midway-studios-newcastle/3010-1320/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/midway-studios-newcastle/3010-1320/#company> <http://xmlns.com/foaf/0.1/#name> "Midway Studios Newcastle" .
-<http://www.giantbomb.com/midway-studios-newcastle/3010-1320/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/l-a-rush/3030-1321/#game> .
-<http://www.giantbomb.com/midway-studios-newcastle/3010-1320/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/wheelman/3030-20698/#game> .
-<http://www.giantbomb.com/midway-studios-newcastle/3010-1320/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/necessary-force/3030-27058/#game> .
+<http://www.giantbomb.com/midway-studios-newcastle/3010-1320/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/l-a-rush/3030-1321/#game> .
+<http://www.giantbomb.com/midway-studios-newcastle/3010-1320/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/wheelman/3030-20698/#game> .
+<http://www.giantbomb.com/midway-studios-newcastle/3010-1320/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/necessary-force/3030-27058/#game> .

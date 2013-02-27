@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <http://xmlns.com/foaf/0.1/#name> "Big Time Software, Inc." .
-<http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/flight-commander-2/3030-9660/#game> .
-<http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/achtung-spitfire/3030-1612/#game> .
-<http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/over-the-reich/3030-7554/#game> .
-<http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/combat-mission-beyond-overlord/3030-8562/#game> .
+<http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/flight-commander-2/3030-9660/#game> .
+<http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/achtung-spitfire/3030-1612/#game> .
+<http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/over-the-reich/3030-7554/#game> .
+<http://www.giantbomb.com/big-time-software-inc/3010-1519/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/combat-mission-beyond-overlord/3030-8562/#game> .

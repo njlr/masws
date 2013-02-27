@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/animax-entertainment/3010-522/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/animax-entertainment/3010-522/#company> <http://xmlns.com/foaf/0.1/#name> "Animax Entertainment" .
-<http://www.giantbomb.com/animax-entertainment/3010-522/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-tuttles-madcap-misadventures/3030-358/#game> .
+<http://www.giantbomb.com/animax-entertainment/3010-522/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-tuttles-madcap-misadventures/3030-358/#game> .

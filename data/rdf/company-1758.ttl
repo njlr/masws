@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <http://xmlns.com/foaf/0.1/#name> "AI Factory Limited" .
-<http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/classic-compendium-2/3030-2029/#game> .
-<http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/classic-compendium/3030-2803/#game> .
-<http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/shotest-shogi/3030-21852/#game> .
-<http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/aya-go/3030-26047/#game> .
+<http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/classic-compendium-2/3030-2029/#game> .
+<http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/classic-compendium/3030-2803/#game> .
+<http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/shotest-shogi/3030-21852/#game> .
+<http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/aya-go/3030-26047/#game> .
 <http://www.giantbomb.com/ai-factory-limited/3010-1758/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/shotest-shogi/3030-21852/#game> .

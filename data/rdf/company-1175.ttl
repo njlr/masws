@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/cd-projekt-sp-z-oo/3010-1175/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/cd-projekt-sp-z-oo/3010-1175/#company> <http://xmlns.com/foaf/0.1/#name> "CD Projekt Sp. z o.o." .
-<http://www.giantbomb.com/cd-projekt-sp-z-oo/3010-1175/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-witcher/3030-10473/#game> .
-<http://www.giantbomb.com/cd-projekt-sp-z-oo/3010-1175/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/the-witcher-2-assassins-of-kings/3030-28178/#game> .
+<http://www.giantbomb.com/cd-projekt-sp-z-oo/3010-1175/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-witcher/3030-10473/#game> .
+<http://www.giantbomb.com/cd-projekt-sp-z-oo/3010-1175/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/the-witcher-2-assassins-of-kings/3030-28178/#game> .
 <http://www.giantbomb.com/cd-projekt-sp-z-oo/3010-1175/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/lew-leon/3030-23126/#game> .
 <http://www.giantbomb.com/cd-projekt-sp-z-oo/3010-1175/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/the-witcher-2-assassins-of-kings/3030-28178/#game> .
 <http://www.giantbomb.com/cd-projekt-sp-z-oo/3010-1175/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/mount-and-blade-with-fire-sword/3030-34889/#game> .

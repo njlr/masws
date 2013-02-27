@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <http://xmlns.com/foaf/0.1/#name> "21st Century Entertainment Ltd." .
-<http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/deliverance-stormlord-ii/3030-6454/#game> .
-<http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pinball-2000/3030-17913/#game> .
-<http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/pinball-madness-4/3030-11732/#game> .
+<http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/deliverance-stormlord-ii/3030-6454/#game> .
+<http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/pinball-2000/3030-17913/#game> .
+<http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/pinball-madness-4/3030-11732/#game> .
 <http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/its-a-funny-old-game/3030-10165/#game> .
 <http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/marvins-marvellous-adventure/3030-2584/#game> .
 <http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> <http://dbpedia.org/ontology/publisher> <http://www.giantbomb.com/nebulus-2-pogo-a-go-go/3030-12403/#game> .

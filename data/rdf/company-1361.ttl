@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/vivid-image/3010-1361/#company> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Organisation> .
 <http://www.giantbomb.com/vivid-image/3010-1361/#company> <http://xmlns.com/foaf/0.1/#name> "Vivid Image" .
-<http://www.giantbomb.com/vivid-image/3010-1361/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/dual-blades/3030-14248/#game> .
-<http://www.giantbomb.com/vivid-image/3010-1361/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/first-samurai/3030-1371/#game> .
-<http://www.giantbomb.com/vivid-image/3010-1361/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/hammerfist/3030-19079/#game> .
-<http://www.giantbomb.com/vivid-image/3010-1361/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/scars/3030-7156/#game> .
-<http://www.giantbomb.com/vivid-image/3010-1361/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/second-samurai/3030-10030/#game> .
-<http://www.giantbomb.com/vivid-image/3010-1361/#company> <http://dbpedia.org/ontology/developer> <http://www.giantbomb.com/street-racer/3030-22190/#game> .
+<http://www.giantbomb.com/vivid-image/3010-1361/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/dual-blades/3030-14248/#game> .
+<http://www.giantbomb.com/vivid-image/3010-1361/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/first-samurai/3030-1371/#game> .
+<http://www.giantbomb.com/vivid-image/3010-1361/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hammerfist/3030-19079/#game> .
+<http://www.giantbomb.com/vivid-image/3010-1361/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/scars/3030-7156/#game> .
+<http://www.giantbomb.com/vivid-image/3010-1361/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/second-samurai/3030-10030/#game> .
+<http://www.giantbomb.com/vivid-image/3010-1361/#company> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/street-racer/3030-22190/#game> .
