@@ -3,6 +3,7 @@
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes"/>
 
+<!-- Strips out the query metadata -->
 <xsl:template match="/response/results">
     <xsl:element name="entry">
         <xsl:copy-of select="*"/>

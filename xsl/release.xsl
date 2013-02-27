@@ -5,6 +5,7 @@
 
 <xsl:output method="text"/>
 
+<!-- Stores the URI as a variable -->
 <xsl:variable name="uri" select="concat('&lt;', concat(entry/release/site_detail_url, '>'))"/>
 
 <xsl:template match="/">
@@ -15,6 +16,7 @@
     <xsl:apply-templates select="release"/>
 </xsl:template>
 
+<!-- Matches the release element. Generates the type relation. -->
 <xsl:template match="release">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>

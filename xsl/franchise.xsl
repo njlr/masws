@@ -5,12 +5,14 @@
 
 <xsl:output method="text"/>
 
+<!-- Stores the URI as a variable -->
 <xsl:variable name="uri" select="concat('&lt;', concat(/entry/site_detail_url, '#franchise>'))"/> 
 
 <xsl:template match="/">
     <xsl:apply-templates select="entry"/>
 </xsl:template>
 
+<!-- Matches the entry element. Generates the type relation. -->
 <xsl:template match="entry">
     <xsl:call-template name="statement">
         <xsl:with-param name="subject" select="$uri"/>

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xsl:stylesheet version="1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
+<!-- Provides a number of helper templates for generating Turtle -->
+
 <xsl:output method="text"/>
 
+<!-- Use to create a single line of Turtle (n3) -->
 <xsl:template name="statement">
     <xsl:param name="subject"/>
     <xsl:param name="predicate"/>
@@ -15,6 +18,8 @@
     <xsl:text> .&#xa;</xsl:text>
 </xsl:template>
 
+<!-- Performs a replacement of ppattern with prepalcement on ptext -->
+<!-- Particularly useful when sanitizing text -->
 <xsl:template name="replace">
     <xsl:param name="ptext"/>
     <xsl:param name="ppattern"/>
@@ -35,6 +40,7 @@
     </xsl:choose>
 </xsl:template>
 
+<!-- A simple variable holding double quotes -->
 <xsl:variable name="dq">
     <xsl:text>"</xsl:text>
 </xsl:variable>
@@ -42,6 +48,7 @@
     <xsl:text>"</xsl:text>
 </xsl:variable>
 
+<!-- Cleans up a name for use as part of a URL -->
 <xsl:template name="clean-name">
     <xsl:param name="name"/>
     <xsl:variable name="i">
