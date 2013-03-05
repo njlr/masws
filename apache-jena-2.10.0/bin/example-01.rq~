@@ -1,0 +1,7 @@
+SELECT DISTINCT ?name1 ?name2
+FROM <./all.ttl>
+WHERE { 
+        ?a <http://xmlns.com/foaf/0.1/#name> ?name1 .
+        ?a <https://raw.github.com/nlr/masws/master/vocab.n3#friend> ?b . 
+        ?b <http://xmlns.com/foaf/0.1/#name> ?name2 .
+      }
