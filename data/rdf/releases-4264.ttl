@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/jonah-lomu-rugby/3030-4264/releases/#toc-release-90310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/jonah-lomu-rugby/3030-4264/releases/#toc-release-90310> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/jonah-lomu-rugby/3030-4264/releases/#toc-release-90310> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Jonah-Lomu-Rugby/3030-4264/#game> .
 <http://www.giantbomb.com/jonah-lomu-rugby/3030-4264/releases/#toc-release-90310> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/jonah-lomu-rugby/3030-4264/releases/#toc-release-90310> <http://dbpedia.org/ontology/releaseDate> "" .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/donald-ducks-playground/3030-4668/releases/#toc-release-97228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/donald-ducks-playground/3030-4668/releases/#toc-release-97228> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/donald-ducks-playground/3030-4668/releases/#toc-release-97228> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Donald-Duck's-Playground/3030-4668/#game> .
 <http://www.giantbomb.com/donald-ducks-playground/3030-4668/releases/#toc-release-97228> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/donald-ducks-playground/3030-4668/releases/#toc-release-97228> <http://dbpedia.org/ontology/releaseDate> "1984-01-01" .

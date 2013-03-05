@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/the-legend-of-zelda/3025-9/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/the-legend-of-zelda/3025-9/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/the-legend-of-zelda/3025-9/#franchise> <http://xmlns.com/foaf/0.1/#name> "The Legend of Zelda" .
 <http://www.giantbomb.com/the-legend-of-zelda/3025-9/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/The-Legend-of-Zelda/3030-11949/#game> .
 <http://www.giantbomb.com/the-legend-of-zelda/3025-9/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Zelda's-Adventure/3030-14181/#game> .

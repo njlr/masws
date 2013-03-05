@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/real-bout-fatal-fury-best-collection/3030-951/releases/#toc-release-121745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/real-bout-fatal-fury-best-collection/3030-951/releases/#toc-release-121745> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/real-bout-fatal-fury-best-collection/3030-951/releases/#toc-release-121745> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Real-Bout-Fatal-Fury-Best-Collection/3030-951/#game> .
 <http://www.giantbomb.com/real-bout-fatal-fury-best-collection/3030-951/releases/#toc-release-121745> <http://dbpedia.org/property/location> "Japan" .
 <http://www.giantbomb.com/real-bout-fatal-fury-best-collection/3030-951/releases/#toc-release-121745> <http://dbpedia.org/ontology/releaseDate> "1998-08-06" .

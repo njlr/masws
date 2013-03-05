@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/battlezone-rise-of-the-black-dogs/3030-3720/releases/#toc-release-82578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/battlezone-rise-of-the-black-dogs/3030-3720/releases/#toc-release-82578> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/battlezone-rise-of-the-black-dogs/3030-3720/releases/#toc-release-82578> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Battlezone:-Rise-of-the-Black-Dogs/3030-3720/#game> .
 <http://www.giantbomb.com/battlezone-rise-of-the-black-dogs/3030-3720/releases/#toc-release-82578> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/battlezone-rise-of-the-black-dogs/3030-3720/releases/#toc-release-82578> <http://dbpedia.org/ontology/releaseDate> "2000-03-01" .

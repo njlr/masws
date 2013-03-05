@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/international-superstar-soccer-2/3030-4542/releases/#toc-release-93456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/international-superstar-soccer-2/3030-4542/releases/#toc-release-93456> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/international-superstar-soccer-2/3030-4542/releases/#toc-release-93456> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/International-Superstar-Soccer-2/3030-4542/#game> .
 <http://www.giantbomb.com/international-superstar-soccer-2/3030-4542/releases/#toc-release-93456> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/international-superstar-soccer-2/3030-4542/releases/#toc-release-93456> <http://dbpedia.org/ontology/releaseDate> "2002-05-03" .

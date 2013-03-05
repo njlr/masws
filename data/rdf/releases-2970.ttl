@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/vanishing-point/3030-2970/releases/#toc-release-123428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/vanishing-point/3030-2970/releases/#toc-release-123428> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/vanishing-point/3030-2970/releases/#toc-release-123428> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Vanishing-Point/3030-2970/#game> .
 <http://www.giantbomb.com/vanishing-point/3030-2970/releases/#toc-release-123428> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/vanishing-point/3030-2970/releases/#toc-release-123428> <http://dbpedia.org/ontology/releaseDate> "2000-12-21" .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/assassins-creed/3025-38/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/assassins-creed/3025-38/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/assassins-creed/3025-38/#franchise> <http://xmlns.com/foaf/0.1/#name> "Assassin's Creed" .
 <http://www.giantbomb.com/assassins-creed/3025-38/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Assassin's-Creed:-Altaïr's-Chronicles/3030-5613/#game> .
 <http://www.giantbomb.com/assassins-creed/3025-38/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Assassin's-Creed-II/3030-22928/#game> .

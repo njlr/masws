@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/#game> <http://xmlns.com/foaf/0.1/#name> "Hokuto no Ken 7 : Seiken Retsuden: Denshousha e no Michi" .
 <http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Kenshiro/3005-7319/#character> .
 <http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mr-Heart/3005-23862/#character> .

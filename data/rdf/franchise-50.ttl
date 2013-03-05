@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/battle-arena-toshinden/3025-50/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/battle-arena-toshinden/3025-50/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/battle-arena-toshinden/3025-50/#franchise> <http://xmlns.com/foaf/0.1/#name> "Battle Arena Toshinden" .
 <http://www.giantbomb.com/battle-arena-toshinden/3025-50/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Battle-Arena-Toshinden-Remix/3030-1513/#game> .
 <http://www.giantbomb.com/battle-arena-toshinden/3025-50/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Battle-Arena-Toshinden-3/3030-2895/#game> .

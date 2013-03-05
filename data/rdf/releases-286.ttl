@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/night-city/3030-286/releases/#toc-release-840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/night-city/3030-286/releases/#toc-release-840> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/night-city/3030-286/releases/#toc-release-840> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Night-City/3030-286/#game> .
 <http://www.giantbomb.com/night-city/3030-286/releases/#toc-release-840> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/night-city/3030-286/releases/#toc-release-840> <http://dbpedia.org/ontology/releaseDate> "2006-12-21" .

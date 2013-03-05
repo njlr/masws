@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/harvest-moon-more-friends-of-mineral-town/3030-2067/releases/#toc-release-74924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/harvest-moon-more-friends-of-mineral-town/3030-2067/releases/#toc-release-74924> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/harvest-moon-more-friends-of-mineral-town/3030-2067/releases/#toc-release-74924> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Harvest-Moon:-More-Friends-of-Mineral-Town/3030-2067/#game> .
 <http://www.giantbomb.com/harvest-moon-more-friends-of-mineral-town/3030-2067/releases/#toc-release-74924> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/harvest-moon-more-friends-of-mineral-town/3030-2067/releases/#toc-release-74924> <http://dbpedia.org/ontology/releaseDate> "2005-07-26" .

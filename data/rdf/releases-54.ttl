@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/star-wars/3030-54/releases/#toc-release-92716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/star-wars/3030-54/releases/#toc-release-92716> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/star-wars/3030-54/releases/#toc-release-92716> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Star-Wars/3030-54/#game> .
 <http://www.giantbomb.com/star-wars/3030-54/releases/#toc-release-92716> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/star-wars/3030-54/releases/#toc-release-92716> <http://dbpedia.org/ontology/releaseDate> "1991-11-01" .

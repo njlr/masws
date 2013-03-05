@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/harry-potter-and-the-philosophers-stone/3030-577/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/harry-potter-and-the-philosophers-stone/3030-577/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/harry-potter-and-the-philosophers-stone/3030-577/#game> <http://xmlns.com/foaf/0.1/#name> "Harry Potter and the Philosopher's Stone" .
 <http://www.giantbomb.com/harry-potter-and-the-philosophers-stone/3030-577/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Harry-Potter/3005-1373/#character> .
 <http://www.giantbomb.com/harry-potter-and-the-philosophers-stone/3030-577/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Lord-Voldemort/3005-3945/#character> .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/carmen-sandiego/3025-85/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/carmen-sandiego/3025-85/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/carmen-sandiego/3025-85/#franchise> <http://xmlns.com/foaf/0.1/#name> "Carmen Sandiego" .
 <http://www.giantbomb.com/carmen-sandiego/3025-85/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Carmen-Sandiego:-Junior-Detective-Edition/3030-10240/#game> .
 <http://www.giantbomb.com/carmen-sandiego/3025-85/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Carmen-Sandiego-Word-Detective/3030-18291/#game> .

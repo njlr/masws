@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/super-back-to-the-future-ii/3030-3200/releases/#toc-release-122309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/super-back-to-the-future-ii/3030-3200/releases/#toc-release-122309> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/super-back-to-the-future-ii/3030-3200/releases/#toc-release-122309> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Super-Back-to-the-Future-II/3030-3200/#game> .
 <http://www.giantbomb.com/super-back-to-the-future-ii/3030-3200/releases/#toc-release-122309> <http://dbpedia.org/property/location> "Japan" .
 <http://www.giantbomb.com/super-back-to-the-future-ii/3030-3200/releases/#toc-release-122309> <http://dbpedia.org/ontology/releaseDate> "1993-07-23" .

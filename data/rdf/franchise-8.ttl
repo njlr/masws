@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/samurai-shodown/3025-8/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/samurai-shodown/3025-8/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/samurai-shodown/3025-8/#franchise> <http://xmlns.com/foaf/0.1/#name> "Samurai Shodown" .
 <http://www.giantbomb.com/samurai-shodown/3025-8/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Samurai-Shodown-V/3030-3387/#game> .
 <http://www.giantbomb.com/samurai-shodown/3025-8/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Samurai-Shodown-IV:-Amakusa's-Revenge/3030-4363/#game> .

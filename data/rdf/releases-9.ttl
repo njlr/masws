@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/fritz-9-play-chess/3030-9/releases/#toc-release-77559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/fritz-9-play-chess/3030-9/releases/#toc-release-77559> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/fritz-9-play-chess/3030-9/releases/#toc-release-77559> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Fritz-9:-Play-Chess/3030-9/#game> .
 <http://www.giantbomb.com/fritz-9-play-chess/3030-9/releases/#toc-release-77559> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/fritz-9-play-chess/3030-9/releases/#toc-release-77559> <http://dbpedia.org/ontology/releaseDate> "2005-12-15" .

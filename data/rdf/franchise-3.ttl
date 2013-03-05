@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/metroid/3025-3/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/metroid/3025-3/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/metroid/3025-3/#franchise> <http://xmlns.com/foaf/0.1/#name> "Metroid" .
 <http://www.giantbomb.com/metroid/3025-3/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Metroid-Prime-2:-Echoes/3030-1597/#game> .
 <http://www.giantbomb.com/metroid/3025-3/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Metroid-Prime-3:-Corruption/3030-4725/#game> .

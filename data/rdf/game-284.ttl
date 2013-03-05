@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/nascar-2005-chase-for-the-cup/3030-284/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/nascar-2005-chase-for-the-cup/3030-284/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/nascar-2005-chase-for-the-cup/3030-284/#game> <http://xmlns.com/foaf/0.1/#name> "NASCAR 2005: Chase for the Cup" .
 <http://www.giantbomb.com/nascar-2005-chase-for-the-cup/3030-284/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Jeff-Gordon/3005-5526/#character> .
 <http://www.giantbomb.com/nascar-2005-chase-for-the-cup/3030-284/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Dale-Earnhardt/3005-5761/#character> .

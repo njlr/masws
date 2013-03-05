@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/live-a-live/3030-3570/releases/#toc-release-108595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/live-a-live/3030-3570/releases/#toc-release-108595> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/live-a-live/3030-3570/releases/#toc-release-108595> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Live-a-Live/3030-3570/#game> .
 <http://www.giantbomb.com/live-a-live/3030-3570/releases/#toc-release-108595> <http://dbpedia.org/property/location> "Japan" .
 <http://www.giantbomb.com/live-a-live/3030-3570/releases/#toc-release-108595> <http://dbpedia.org/ontology/releaseDate> "1994-09-02" .

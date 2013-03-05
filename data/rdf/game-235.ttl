@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/the-black-mirror/3030-235/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/the-black-mirror/3030-235/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/the-black-mirror/3030-235/#game> <http://xmlns.com/foaf/0.1/#name> "The Black Mirror" .
 <http://www.giantbomb.com/the-black-mirror/3030-235/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Samuel-Gordon/3005-22064/#character> .
 <http://www.giantbomb.com/the-black-mirror/3030-235/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/William-Gordon/3005-22065/#character> .

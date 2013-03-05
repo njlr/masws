@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/ace-combat/3025-16/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/ace-combat/3025-16/#franchise> <http://xmlns.com/foaf/0.1/#name> "Ace Combat" .
 <http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Ace-Combat-04:-Shattered-Skies/3030-1602/#game> .
 <http://www.giantbomb.com/ace-combat/3025-16/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Ace-Combat-2/3030-3605/#game> .

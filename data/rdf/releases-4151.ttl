@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/6-days-a-sacrifice/3030-4151/releases/#toc-release-10775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/6-days-a-sacrifice/3030-4151/releases/#toc-release-10775> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/6-days-a-sacrifice/3030-4151/releases/#toc-release-10775> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/6-Days-a-Sacrifice/3030-4151/#game> .
 <http://www.giantbomb.com/6-days-a-sacrifice/3030-4151/releases/#toc-release-10775> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/6-days-a-sacrifice/3030-4151/releases/#toc-release-10775> <http://dbpedia.org/ontology/releaseDate> "2007-01-25" .

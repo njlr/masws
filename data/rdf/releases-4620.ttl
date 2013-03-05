@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/uwitron/3030-4620/releases/#toc-release-11902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/uwitron/3030-4620/releases/#toc-release-11902> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/uwitron/3030-4620/releases/#toc-release-11902> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/UwiTron/3030-4620/#game> .
 <http://www.giantbomb.com/uwitron/3030-4620/releases/#toc-release-11902> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/uwitron/3030-4620/releases/#toc-release-11902> <http://dbpedia.org/ontology/releaseDate> "2005-06-12" .

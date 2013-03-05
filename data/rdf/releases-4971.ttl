@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/total-annihilation-battle-tactics/3030-4971/releases/#toc-release-113258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/total-annihilation-battle-tactics/3030-4971/releases/#toc-release-113258> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/total-annihilation-battle-tactics/3030-4971/releases/#toc-release-113258> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Total-Annihilation:-Battle-Tactics/3030-4971/#game> .
 <http://www.giantbomb.com/total-annihilation-battle-tactics/3030-4971/releases/#toc-release-113258> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/total-annihilation-battle-tactics/3030-4971/releases/#toc-release-113258> <http://dbpedia.org/ontology/releaseDate> "1998-06-30" .

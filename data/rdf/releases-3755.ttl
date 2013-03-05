@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/persona-2-innocent-sin/3030-3755/releases/#toc-release-85522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/persona-2-innocent-sin/3030-3755/releases/#toc-release-85522> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/persona-2-innocent-sin/3030-3755/releases/#toc-release-85522> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Persona-2:-Innocent-Sin/3030-3755/#game> .
 <http://www.giantbomb.com/persona-2-innocent-sin/3030-3755/releases/#toc-release-85522> <http://dbpedia.org/property/location> "Japan" .
 <http://www.giantbomb.com/persona-2-innocent-sin/3030-3755/releases/#toc-release-85522> <http://dbpedia.org/ontology/releaseDate> "1999-06-24" .

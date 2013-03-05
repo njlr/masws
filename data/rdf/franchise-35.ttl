@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/armored-core/3025-35/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/armored-core/3025-35/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/armored-core/3025-35/#franchise> <http://xmlns.com/foaf/0.1/#name> "Armored Core" .
 <http://www.giantbomb.com/armored-core/3025-35/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Armored-Core-2:-Another-Age/3030-4609/#game> .
 <http://www.giantbomb.com/armored-core/3025-35/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Armored-Core-3/3030-15116/#game> .

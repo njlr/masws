@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/robo-rumble/3030-55/releases/#toc-release-98538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/robo-rumble/3030-55/releases/#toc-release-98538> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/robo-rumble/3030-55/releases/#toc-release-98538> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Robo-Rumble/3030-55/#game> .
 <http://www.giantbomb.com/robo-rumble/3030-55/releases/#toc-release-98538> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/robo-rumble/3030-55/releases/#toc-release-98538> <http://dbpedia.org/ontology/releaseDate> "2000-01-01" .

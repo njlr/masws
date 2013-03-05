@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <http://xmlns.com/foaf/0.1/#name> "Command & Conquer: Red Alert" .
 <http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Albert-Einstein/3005-791/#character> .
 <http://www.giantbomb.com/command-conquer-red-alert/3030-249/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Tanya-Adams/3005-2718/#character> .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/asteroids/3025-40/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/asteroids/3025-40/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/asteroids/3025-40/#franchise> <http://xmlns.com/foaf/0.1/#name> "Asteroids" .
 <http://www.giantbomb.com/asteroids/3025-40/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Asteroids-Hyper-64/3030-437/#game> .
 <http://www.giantbomb.com/asteroids/3025-40/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Asteroids/3030-1034/#game> .

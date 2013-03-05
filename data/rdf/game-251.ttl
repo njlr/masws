@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/lego-star-wars-the-video-game/3030-251/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/lego-star-wars-the-video-game/3030-251/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/lego-star-wars-the-video-game/3030-251/#game> <http://xmlns.com/foaf/0.1/#name> "LEGO Star Wars: The Video Game" .
 <http://www.giantbomb.com/lego-star-wars-the-video-game/3030-251/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Obi-Wan-Kenobi/3005-669/#character> .
 <http://www.giantbomb.com/lego-star-wars-the-video-game/3030-251/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Darth-Vader/3005-308/#character> .

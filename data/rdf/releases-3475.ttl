@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/iq-mania/3030-3475/releases/#toc-release-111058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/iq-mania/3030-3475/releases/#toc-release-111058> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/iq-mania/3030-3475/releases/#toc-release-111058> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/IQ-Mania/3030-3475/#game> .
 <http://www.giantbomb.com/iq-mania/3030-3475/releases/#toc-release-111058> <http://dbpedia.org/property/location> "Japan" .
 <http://www.giantbomb.com/iq-mania/3030-3475/releases/#toc-release-111058> <http://dbpedia.org/ontology/releaseDate> "2006-03-09" .

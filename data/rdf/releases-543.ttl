@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/dawn-a-new-beginning/3030-543/releases/#toc-release-1458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/dawn-a-new-beginning/3030-543/releases/#toc-release-1458> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/dawn-a-new-beginning/3030-543/releases/#toc-release-1458> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Dawn:-A-New-Beginning/3030-543/#game> .
 <http://www.giantbomb.com/dawn-a-new-beginning/3030-543/releases/#toc-release-1458> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/dawn-a-new-beginning/3030-543/releases/#toc-release-1458> <http://dbpedia.org/ontology/releaseDate> "1996-01-01" .

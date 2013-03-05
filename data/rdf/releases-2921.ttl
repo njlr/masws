@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/He-162-Volksjäger-Tour-of-Duty/3030-2921/#game> .
 <http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <http://dbpedia.org/ontology/releaseDate> "1994-01-01" .

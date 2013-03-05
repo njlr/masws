@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <http://xmlns.com/foaf/0.1/#name> "Tales of Eternia" .
 <http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Arche-Klein/3005-4138/#character> .
 <http://www.giantbomb.com/tales-of-eternia/3030-595/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Cless-Alvein/3005-2787/#character> .

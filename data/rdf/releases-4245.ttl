@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Dark-Age-of-Camelot:-Trials-of-Atlantis/3030-4245/#game> .
 <http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <http://dbpedia.org/ontology/releaseDate> "2005-10-11" .

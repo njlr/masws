@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/hack/3025-12/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/hack/3025-12/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/hack/3025-12/#franchise> <http://xmlns.com/foaf/0.1/#name> ".hack" .
 <http://www.giantbomb.com/hack/3025-12/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/hack//GU-Vol-1:-Rebirth/3030-1695/#game> .
 <http://www.giantbomb.com/hack/3025-12/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/hack//OUTBREAK---Part-3/3030-2038/#game> .

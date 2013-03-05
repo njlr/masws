@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/spongebob-squarepants-the-movie/3030-581/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/spongebob-squarepants-the-movie/3030-581/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/spongebob-squarepants-the-movie/3030-581/#game> <http://xmlns.com/foaf/0.1/#name> "SpongeBob SquarePants: The Movie" .
 <http://www.giantbomb.com/spongebob-squarepants-the-movie/3030-581/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/SpongeBob-SquarePants/3005-2336/#character> .
 <http://www.giantbomb.com/spongebob-squarepants-the-movie/3030-581/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Patrick-Star/3005-5187/#character> .

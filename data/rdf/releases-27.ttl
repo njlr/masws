@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/covert-front-episode-one-all-quiet-on-covert-front/3030-27/releases/#toc-release-78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/covert-front-episode-one-all-quiet-on-covert-front/3030-27/releases/#toc-release-78> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/covert-front-episode-one-all-quiet-on-covert-front/3030-27/releases/#toc-release-78> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Covert-Front:-Episode-One---All-Quiet-on-Covert-Front/3030-27/#game> .
 <http://www.giantbomb.com/covert-front-episode-one-all-quiet-on-covert-front/3030-27/releases/#toc-release-78> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/covert-front-episode-one-all-quiet-on-covert-front/3030-27/releases/#toc-release-78> <http://dbpedia.org/ontology/releaseDate> "2007-01-01" .

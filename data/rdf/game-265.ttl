@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/csi-crime-scene-investigation-hard-evidence/3030-265/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/csi-crime-scene-investigation-hard-evidence/3030-265/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/csi-crime-scene-investigation-hard-evidence/3030-265/#game> <http://xmlns.com/foaf/0.1/#name> "CSI: Crime Scene Investigation - Hard Evidence" .
 <http://www.giantbomb.com/csi-crime-scene-investigation-hard-evidence/3030-265/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Catherine-Willows/3005-8106/#character> .
 <http://www.giantbomb.com/csi-crime-scene-investigation-hard-evidence/3030-265/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Gil-Grissom/3005-8105/#character> .

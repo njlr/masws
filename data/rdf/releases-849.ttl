@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/retro-grannys-garden/3030-849/releases/#toc-release-2227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/retro-grannys-garden/3030-849/releases/#toc-release-2227> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/retro-grannys-garden/3030-849/releases/#toc-release-2227> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Retro-Granny's-Garden/3030-849/#game> .
 <http://www.giantbomb.com/retro-grannys-garden/3030-849/releases/#toc-release-2227> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/retro-grannys-garden/3030-849/releases/#toc-release-2227> <http://dbpedia.org/ontology/releaseDate> "2006-12-08" .

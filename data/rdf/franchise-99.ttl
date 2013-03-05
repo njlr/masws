@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/command-conquer-red-alert/3025-99/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/command-conquer-red-alert/3025-99/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/command-conquer-red-alert/3025-99/#franchise> <http://xmlns.com/foaf/0.1/#name> "Command & Conquer: Red Alert" .
 <http://www.giantbomb.com/command-conquer-red-alert/3025-99/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Command-&-Conquer:-Red-Alert/3030-249/#game> .
 <http://www.giantbomb.com/command-conquer-red-alert/3025-99/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Command-&-Conquer:-Red-Alert-2/3030-18072/#game> .

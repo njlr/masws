@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/bionic-commando/3025-60/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/bionic-commando/3025-60/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/bionic-commando/3025-60/#franchise> <http://xmlns.com/foaf/0.1/#name> "Bionic Commando" .
 <http://www.giantbomb.com/bionic-commando/3025-60/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bionic-Commando/3030-7860/#game> .
 <http://www.giantbomb.com/bionic-commando/3025-60/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bionic-Commando/3030-20470/#game> .

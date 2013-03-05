@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/the-eternal-dagger/3030-3303/releases/#toc-release-115016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/the-eternal-dagger/3030-3303/releases/#toc-release-115016> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/the-eternal-dagger/3030-3303/releases/#toc-release-115016> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Eternal-Dagger/3030-3303/#game> .
 <http://www.giantbomb.com/the-eternal-dagger/3030-3303/releases/#toc-release-115016> <http://dbpedia.org/property/location> "Australia" .
 <http://www.giantbomb.com/the-eternal-dagger/3030-3303/releases/#toc-release-115016> <http://dbpedia.org/ontology/releaseDate> "1987-01-01" .

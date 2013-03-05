@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/star-trek-deep-space-nine-dominion-wars/3030-3745/releases/#toc-release-118452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/star-trek-deep-space-nine-dominion-wars/3030-3745/releases/#toc-release-118452> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/star-trek-deep-space-nine-dominion-wars/3030-3745/releases/#toc-release-118452> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Star-Trek:-Deep-Space-Nine---Dominion-Wars/3030-3745/#game> .
 <http://www.giantbomb.com/star-trek-deep-space-nine-dominion-wars/3030-3745/releases/#toc-release-118452> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/star-trek-deep-space-nine-dominion-wars/3030-3745/releases/#toc-release-118452> <http://dbpedia.org/ontology/releaseDate> "2001-06-10" .

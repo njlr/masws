@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <http://xmlns.com/foaf/0.1/#name> "X-Men: Wolverine's Rage" .
 <http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Wolverine/3005-10/#character> .
 <http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Professor-Charles-Xavier/3005-3856/#character> .

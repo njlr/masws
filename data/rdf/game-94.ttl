@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/power-instinct/3030-94/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/power-instinct/3030-94/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/power-instinct/3030-94/#game> <http://xmlns.com/foaf/0.1/#name> "Power Instinct" .
 <http://www.giantbomb.com/power-instinct/3030-94/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Tane-Goketsu/3005-17879/#character> .
 <http://www.giantbomb.com/power-instinct/3030-94/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Saizo-Hattori/3005-17878/#character> .

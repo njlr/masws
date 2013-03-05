@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/warriors-of-might-and-magic/3030-3030/releases/#toc-release-87114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/warriors-of-might-and-magic/3030-3030/releases/#toc-release-87114> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/warriors-of-might-and-magic/3030-3030/releases/#toc-release-87114> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Warriors-of-Might-and-Magic/3030-3030/#game> .
 <http://www.giantbomb.com/warriors-of-might-and-magic/3030-3030/releases/#toc-release-87114> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/warriors-of-might-and-magic/3030-3030/releases/#toc-release-87114> <http://dbpedia.org/ontology/releaseDate> "2001-03-20" .

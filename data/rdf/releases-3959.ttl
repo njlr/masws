@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/gutertrennung/3030-3959/releases/#toc-release-110030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/gutertrennung/3030-3959/releases/#toc-release-110030> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/gutertrennung/3030-3959/releases/#toc-release-110030> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Gütertrennung/3030-3959/#game> .
 <http://www.giantbomb.com/gutertrennung/3030-3959/releases/#toc-release-110030> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/gutertrennung/3030-3959/releases/#toc-release-110030> <http://dbpedia.org/ontology/releaseDate> "2004-03-01" .

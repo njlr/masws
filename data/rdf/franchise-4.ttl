@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/warcraft/3025-4/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/warcraft/3025-4/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/warcraft/3025-4/#franchise> <http://xmlns.com/foaf/0.1/#name> "Warcraft" .
 <http://www.giantbomb.com/warcraft/3025-4/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Warcraft:-Orcs-&-Humans/3030-9719/#game> .
 <http://www.giantbomb.com/warcraft/3025-4/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Warcraft-II:-Beyond-the-Dark-Portal/3030-11816/#game> .

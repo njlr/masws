@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/bugs-bunny-crazy-castle/3025-75/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/bugs-bunny-crazy-castle/3025-75/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/bugs-bunny-crazy-castle/3025-75/#franchise> <http://xmlns.com/foaf/0.1/#name> "Bugs Bunny Crazy Castle" .
 <http://www.giantbomb.com/bugs-bunny-crazy-castle/3025-75/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/The-Bugs-Bunny-Crazy-Castle-II/3030-569/#game> .
 <http://www.giantbomb.com/bugs-bunny-crazy-castle/3025-75/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/The-Bugs-Bunny-Crazy-Castle/3030-12029/#game> .

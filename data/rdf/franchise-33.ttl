@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/ape-escape/3025-33/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/ape-escape/3025-33/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/ape-escape/3025-33/#franchise> <http://xmlns.com/foaf/0.1/#name> "Ape Escape" .
 <http://www.giantbomb.com/ape-escape/3025-33/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Ape-Escape:-On-the-Loose/3030-7961/#game> .
 <http://www.giantbomb.com/ape-escape/3025-33/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Ape-Escape-2/3030-11667/#game> .

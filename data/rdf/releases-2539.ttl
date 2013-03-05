@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/nancy-drew-legend-of-the-crystal-skull/3030-2539/releases/#toc-release-6756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/nancy-drew-legend-of-the-crystal-skull/3030-2539/releases/#toc-release-6756> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/nancy-drew-legend-of-the-crystal-skull/3030-2539/releases/#toc-release-6756> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Nancy-Drew:-Legend-of-the-Crystal-Skull/3030-2539/#game> .
 <http://www.giantbomb.com/nancy-drew-legend-of-the-crystal-skull/3030-2539/releases/#toc-release-6756> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/nancy-drew-legend-of-the-crystal-skull/3030-2539/releases/#toc-release-6756> <http://dbpedia.org/ontology/releaseDate> "2007-12-16" .

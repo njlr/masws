@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/mario/3025-1/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/mario/3025-1/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/mario/3025-1/#franchise> <http://xmlns.com/foaf/0.1/#name> "Mario" .
 <http://www.giantbomb.com/mario/3025-1/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Super-Mario-All-Stars-&-Super-Mario-World/3030-544/#game> .
 <http://www.giantbomb.com/mario/3025-1/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Super-Mario-World/3030-1334/#game> .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/poing-6/3030-4095/releases/#toc-release-10652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/poing-6/3030-4095/releases/#toc-release-10652> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/poing-6/3030-4095/releases/#toc-release-10652> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Poing-6/3030-4095/#game> .
 <http://www.giantbomb.com/poing-6/3030-4095/releases/#toc-release-10652> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/poing-6/3030-4095/releases/#toc-release-10652> <http://dbpedia.org/ontology/releaseDate> "1998-02-22" .

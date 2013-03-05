@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/gothic-ii/3030-1804/releases/#toc-release-74694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/gothic-ii/3030-1804/releases/#toc-release-74694> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/gothic-ii/3030-1804/releases/#toc-release-74694> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Gothic-II/3030-1804/#game> .
 <http://www.giantbomb.com/gothic-ii/3030-1804/releases/#toc-release-74694> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/gothic-ii/3030-1804/releases/#toc-release-74694> <http://dbpedia.org/ontology/releaseDate> "2002-11-19" .

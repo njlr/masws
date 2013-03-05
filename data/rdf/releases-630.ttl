@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/adventure-xt/3030-630/releases/#toc-release-1660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/adventure-xt/3030-630/releases/#toc-release-1660> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/adventure-xt/3030-630/releases/#toc-release-1660> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Adventure-XT/3030-630/#game> .
 <http://www.giantbomb.com/adventure-xt/3030-630/releases/#toc-release-1660> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/adventure-xt/3030-630/releases/#toc-release-1660> <http://dbpedia.org/ontology/releaseDate> "2007-09-30" .

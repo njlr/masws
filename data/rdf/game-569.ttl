@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/the-bugs-bunny-crazy-castle-ii/3030-569/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/the-bugs-bunny-crazy-castle-ii/3030-569/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/the-bugs-bunny-crazy-castle-ii/3030-569/#game> <http://xmlns.com/foaf/0.1/#name> "The Bugs Bunny Crazy Castle II" .
 <http://www.giantbomb.com/the-bugs-bunny-crazy-castle-ii/3030-569/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Bugs-Bunny/3005-3896/#character> .
 <http://www.giantbomb.com/the-bugs-bunny-crazy-castle-ii/3030-569/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Witch-Hazel/3005-7278/#character> .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <http://xmlns.com/foaf/0.1/#name> "Alone in the Dark" .
 <http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Alone-in-the-Dark/3030-3102/#game> .
 <http://www.giantbomb.com/alone-in-the-dark/3025-28/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Alone-in-the-Dark-3/3030-7535/#game> .

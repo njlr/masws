@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/commander-keen-2-the-earth-explodes/3030-231/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/commander-keen-2-the-earth-explodes/3030-231/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/commander-keen-2-the-earth-explodes/3030-231/#game> <http://xmlns.com/foaf/0.1/#name> "Commander Keen 2: The Earth Explodes" .
 <http://www.giantbomb.com/commander-keen-2-the-earth-explodes/3030-231/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Commander-Keen/3005-2664/#character> .
 <http://www.giantbomb.com/commander-keen-2-the-earth-explodes/3030-231/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mortimer-McMire/3005-6258/#character> .

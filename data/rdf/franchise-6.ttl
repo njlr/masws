@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/grand-theft-auto/3025-6/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/grand-theft-auto/3025-6/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/grand-theft-auto/3025-6/#franchise> <http://xmlns.com/foaf/0.1/#name> "Grand Theft Auto" .
 <http://www.giantbomb.com/grand-theft-auto/3025-6/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Grand-Theft-Auto/3030-13567/#game> .
 <http://www.giantbomb.com/grand-theft-auto/3025-6/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Grand-Theft-Auto-2/3030-10593/#game> .

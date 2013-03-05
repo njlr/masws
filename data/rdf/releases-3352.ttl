@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-r/3030-3352/releases/#toc-release-105018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-r/3030-3352/releases/#toc-release-105018> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/bishoujo-senshi-sailor-moon-r/3030-3352/releases/#toc-release-105018> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Bishoujo-Senshi-Sailor-Moon-R/3030-3352/#game> .
 <http://www.giantbomb.com/bishoujo-senshi-sailor-moon-r/3030-3352/releases/#toc-release-105018> <http://dbpedia.org/property/location> "Japan" .
 <http://www.giantbomb.com/bishoujo-senshi-sailor-moon-r/3030-3352/releases/#toc-release-105018> <http://dbpedia.org/ontology/releaseDate> "1993-12-29" .

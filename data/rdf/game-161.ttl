@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/simon-the-sorcerer-ii-the-lion-the-wizard-and-the-/3030-161/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/simon-the-sorcerer-ii-the-lion-the-wizard-and-the-/3030-161/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/simon-the-sorcerer-ii-the-lion-the-wizard-and-the-/3030-161/#game> <http://xmlns.com/foaf/0.1/#name> "Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe" .
 <http://www.giantbomb.com/simon-the-sorcerer-ii-the-lion-the-wizard-and-the-/3030-161/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Simon-the-Sorcerer/3005-1967/#character> .
 <http://www.giantbomb.com/simon-the-sorcerer-ii-the-lion-the-wizard-and-the-/3030-161/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Sordid/3005-5335/#character> .

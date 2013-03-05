@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/bubble-bobble/3025-72/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/bubble-bobble/3025-72/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/bubble-bobble/3025-72/#franchise> <http://xmlns.com/foaf/0.1/#name> "Bubble Bobble" .
 <http://www.giantbomb.com/bubble-bobble/3025-72/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bubble-Bobble-Revolution/3030-4401/#game> .
 <http://www.giantbomb.com/bubble-bobble/3025-72/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bubble-Bobble/3030-4995/#game> .

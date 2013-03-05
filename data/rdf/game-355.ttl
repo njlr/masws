@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/crash-bandicoot-2-n-tranced/3030-355/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/crash-bandicoot-2-n-tranced/3030-355/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/crash-bandicoot-2-n-tranced/3030-355/#game> <http://xmlns.com/foaf/0.1/#name> "Crash Bandicoot 2: N-Tranced" .
 <http://www.giantbomb.com/crash-bandicoot-2-n-tranced/3030-355/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Crash-Bandicoot/3005-368/#character> .
 <http://www.giantbomb.com/crash-bandicoot-2-n-tranced/3030-355/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Coco-Bandicoot/3005-1153/#character> .

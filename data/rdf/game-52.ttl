@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/baldurs-gate/3030-52/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/baldurs-gate/3030-52/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/baldurs-gate/3030-52/#game> <http://xmlns.com/foaf/0.1/#name> "Baldur's Gate" .
 <http://www.giantbomb.com/baldurs-gate/3030-52/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Drizzt-Do'Urden/3005-643/#character> .
 <http://www.giantbomb.com/baldurs-gate/3030-52/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Elminster/3005-644/#character> .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/the-big-red-adventure/3030-1062/releases/#toc-release-95528> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/the-big-red-adventure/3030-1062/releases/#toc-release-95528> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/the-big-red-adventure/3030-1062/releases/#toc-release-95528> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Big-Red-Adventure/3030-1062/#game> .
 <http://www.giantbomb.com/the-big-red-adventure/3030-1062/releases/#toc-release-95528> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/the-big-red-adventure/3030-1062/releases/#toc-release-95528> <http://dbpedia.org/ontology/releaseDate> "2005-01-01" .

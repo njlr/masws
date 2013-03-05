@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <http://xmlns.com/foaf/0.1/#name> "The House of the Dead 2" .
 <http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Goldman/3005-7492/#character> .
 <http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Agent-G/3005-8710/#character> .

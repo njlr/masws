@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/beatmania/3025-56/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/beatmania/3025-56/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/beatmania/3025-56/#franchise> <http://xmlns.com/foaf/0.1/#name> "beatmania" .
 <http://www.giantbomb.com/beatmania/3025-56/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/beatmania/3030-2951/#game> .
 <http://www.giantbomb.com/beatmania/3025-56/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/beatmania/3030-24384/#game> .

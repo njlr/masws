@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/call-of-duty/3025-82/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/call-of-duty/3025-82/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/call-of-duty/3025-82/#franchise> <http://xmlns.com/foaf/0.1/#name> "Call of Duty" .
 <http://www.giantbomb.com/call-of-duty/3025-82/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Call-of-Duty/3030-1629/#game> .
 <http://www.giantbomb.com/call-of-duty/3025-82/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Call-of-Duty-2:-Big-Red-One/3030-16711/#game> .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/shining-tears/3030-130/releases/#toc-release-124277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/shining-tears/3030-130/releases/#toc-release-124277> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/shining-tears/3030-130/releases/#toc-release-124277> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Shining-Tears/3030-130/#game> .
 <http://www.giantbomb.com/shining-tears/3030-130/releases/#toc-release-124277> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/shining-tears/3030-130/releases/#toc-release-124277> <http://dbpedia.org/ontology/releaseDate> "2005-03-24" .

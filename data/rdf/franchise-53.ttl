@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/battletoads/3025-53/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/battletoads/3025-53/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/battletoads/3025-53/#franchise> <http://xmlns.com/foaf/0.1/#name> "Battletoads" .
 <http://www.giantbomb.com/battletoads/3025-53/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Battletoads-in-Ragnarok's-World/3030-14224/#game> .
 <http://www.giantbomb.com/battletoads/3025-53/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Battletoads-&-Double-Dragon:-The-Ultimate-Team/3030-19366/#game> .

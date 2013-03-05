@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/the-sims-2-glamour-life-stuff/3030-2737/releases/#toc-release-7251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/the-sims-2-glamour-life-stuff/3030-2737/releases/#toc-release-7251> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/the-sims-2-glamour-life-stuff/3030-2737/releases/#toc-release-7251> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Sims-2:-Glamour-Life-Stuff/3030-2737/#game> .
 <http://www.giantbomb.com/the-sims-2-glamour-life-stuff/3030-2737/releases/#toc-release-7251> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/the-sims-2-glamour-life-stuff/3030-2737/releases/#toc-release-7251> <http://dbpedia.org/ontology/releaseDate> "2007-06-01" .

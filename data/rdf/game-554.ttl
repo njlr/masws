@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/mega-man-x8/3030-554/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/mega-man-x8/3030-554/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/mega-man-x8/3030-554/#game> <http://xmlns.com/foaf/0.1/#name> "Mega Man X8" .
 <http://www.giantbomb.com/mega-man-x8/3030-554/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Zero/3005-1261/#character> .
 <http://www.giantbomb.com/mega-man-x8/3030-554/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mega-Man-X/3005-1474/#character> .

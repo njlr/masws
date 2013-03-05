@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/vampire-the-masquerade-redemption/3030-4505/releases/#toc-release-85796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/vampire-the-masquerade-redemption/3030-4505/releases/#toc-release-85796> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/vampire-the-masquerade-redemption/3030-4505/releases/#toc-release-85796> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Vampire:-The-Masquerade---Redemption/3030-4505/#game> .
 <http://www.giantbomb.com/vampire-the-masquerade-redemption/3030-4505/releases/#toc-release-85796> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/vampire-the-masquerade-redemption/3030-4505/releases/#toc-release-85796> <http://dbpedia.org/ontology/releaseDate> "2000-06-07" .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/weihnachtsquiz-fur-schulkinder/3030-4904/releases/#toc-release-12582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/weihnachtsquiz-fur-schulkinder/3030-4904/releases/#toc-release-12582> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/weihnachtsquiz-fur-schulkinder/3030-4904/releases/#toc-release-12582> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Weihnachtsquiz-für-Schulkinder/3030-4904/#game> .
 <http://www.giantbomb.com/weihnachtsquiz-fur-schulkinder/3030-4904/releases/#toc-release-12582> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/weihnachtsquiz-fur-schulkinder/3030-4904/releases/#toc-release-12582> <http://dbpedia.org/ontology/releaseDate> "2002-01-01" .

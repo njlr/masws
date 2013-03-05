@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/ballz-3d-fighting-at-its-ballziest/3030-1942/releases/#toc-release-106973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/ballz-3d-fighting-at-its-ballziest/3030-1942/releases/#toc-release-106973> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/ballz-3d-fighting-at-its-ballziest/3030-1942/releases/#toc-release-106973> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Ballz-3D:-Fighting-at-its-Ballziest/3030-1942/#game> .
 <http://www.giantbomb.com/ballz-3d-fighting-at-its-ballziest/3030-1942/releases/#toc-release-106973> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/ballz-3d-fighting-at-its-ballziest/3030-1942/releases/#toc-release-106973> <http://dbpedia.org/ontology/releaseDate> "1994-04-01" .

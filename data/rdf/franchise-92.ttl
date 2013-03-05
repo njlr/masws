@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/chuck-rock/3025-92/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/chuck-rock/3025-92/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/chuck-rock/3025-92/#franchise> <http://xmlns.com/foaf/0.1/#name> "Chuck Rock" .
 <http://www.giantbomb.com/chuck-rock/3025-92/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Chuck-Rock/3030-2941/#game> .
 <http://www.giantbomb.com/chuck-rock/3025-92/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Chuck-Rock-II:-Son-of-Chuck/3030-6536/#game> .

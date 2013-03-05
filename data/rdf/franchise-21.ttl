@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/after-burner/3025-21/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/after-burner/3025-21/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/after-burner/3025-21/#franchise> <http://xmlns.com/foaf/0.1/#name> "After Burner" .
 <http://www.giantbomb.com/after-burner/3025-21/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/After-Burner-II/3030-2139/#game> .
 <http://www.giantbomb.com/after-burner/3025-21/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/After-Burner/3030-3629/#game> .

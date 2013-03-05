@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/wwe-wrestlemania-21/3030-487/releases/#toc-release-102767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/wwe-wrestlemania-21/3030-487/releases/#toc-release-102767> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/wwe-wrestlemania-21/3030-487/releases/#toc-release-102767> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/WWE-WrestleMania-21/3030-487/#game> .
 <http://www.giantbomb.com/wwe-wrestlemania-21/3030-487/releases/#toc-release-102767> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/wwe-wrestlemania-21/3030-487/releases/#toc-release-102767> <http://dbpedia.org/ontology/releaseDate> "2005-05-27" .

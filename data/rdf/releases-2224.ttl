@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/gyroball/3030-2224/releases/#toc-release-5842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/gyroball/3030-2224/releases/#toc-release-5842> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/gyroball/3030-2224/releases/#toc-release-5842> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Gyroball/3030-2224/#game> .
 <http://www.giantbomb.com/gyroball/3030-2224/releases/#toc-release-5842> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/gyroball/3030-2224/releases/#toc-release-5842> <http://dbpedia.org/ontology/releaseDate> "2005-01-01" .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-2-the-lost/3030-1367/releases/#toc-release-3527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-2-the-lost/3030-1367/releases/#toc-release-3527> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-2-the-lost/3030-1367/releases/#toc-release-3527> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Ben-Jordan:-Paranormal-Investigator-Case-2---The-Lost-Galleon-of-the-Salton-Sea/3030-1367/#game> .
 <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-2-the-lost/3030-1367/releases/#toc-release-3527> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/ben-jordan-paranormal-investigator-case-2-the-lost/3030-1367/releases/#toc-release-3527> <http://dbpedia.org/ontology/releaseDate> "2004-01-01" .

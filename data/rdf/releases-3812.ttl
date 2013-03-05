@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/you-are-empty/3030-3812/releases/#toc-release-112127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/you-are-empty/3030-3812/releases/#toc-release-112127> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/you-are-empty/3030-3812/releases/#toc-release-112127> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/You-Are-Empty/3030-3812/#game> .
 <http://www.giantbomb.com/you-are-empty/3030-3812/releases/#toc-release-112127> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/you-are-empty/3030-3812/releases/#toc-release-112127> <http://dbpedia.org/ontology/releaseDate> "2007-10-16" .

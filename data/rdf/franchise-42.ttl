@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/back-to-the-future/3025-42/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/back-to-the-future/3025-42/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/back-to-the-future/3025-42/#franchise> <http://xmlns.com/foaf/0.1/#name> "Back to the Future" .
 <http://www.giantbomb.com/back-to-the-future/3025-42/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Back-to-the-Future-Part-II/3030-10834/#game> .
 <http://www.giantbomb.com/back-to-the-future/3025-42/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Back-to-the-Future-Part-III/3030-12919/#game> .

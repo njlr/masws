@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/mortal-kombat/3025-7/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/mortal-kombat/3025-7/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/mortal-kombat/3025-7/#franchise> <http://xmlns.com/foaf/0.1/#name> "Mortal Kombat" .
 <http://www.giantbomb.com/mortal-kombat/3025-7/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Mortal-Kombat/3030-15743/#game> .
 <http://www.giantbomb.com/mortal-kombat/3025-7/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Mortal-Kombat-3/3030-1434/#game> .

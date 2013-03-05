@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/command-conquer/3025-98/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/command-conquer/3025-98/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/command-conquer/3025-98/#franchise> <http://xmlns.com/foaf/0.1/#name> "Command & Conquer" .
 <http://www.giantbomb.com/command-conquer/3025-98/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Command-&-Conquer:-Tiberian-Sun/3030-2068/#game> .
 <http://www.giantbomb.com/command-conquer/3025-98/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Command-&-Conquer:-Renegade/3030-4170/#game> .

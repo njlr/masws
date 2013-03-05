@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/tony-hawk/3025-10/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/tony-hawk/3025-10/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/tony-hawk/3025-10/#franchise> <http://xmlns.com/foaf/0.1/#name> "Tony Hawk" .
 <http://www.giantbomb.com/tony-hawk/3025-10/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Tony-Hawk's-Underground-2/3030-1492/#game> .
 <http://www.giantbomb.com/tony-hawk/3025-10/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Tony-Hawk's-Pro-Skater-4/3030-2101/#game> .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/black-white/3025-61/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/black-white/3025-61/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/black-white/3025-61/#franchise> <http://xmlns.com/foaf/0.1/#name> "Black & White" .
 <http://www.giantbomb.com/black-white/3025-61/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Black-&-White-2:-Battle-of-the-Gods/3030-738/#game> .
 <http://www.giantbomb.com/black-white/3025-61/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Black-&-White-2/3030-12474/#game> .

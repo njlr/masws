@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/instinct/3030-4689/releases/#toc-release-12061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/instinct/3030-4689/releases/#toc-release-12061> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/instinct/3030-4689/releases/#toc-release-12061> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Instinct/3030-4689/#game> .
 <http://www.giantbomb.com/instinct/3030-4689/releases/#toc-release-12061> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/instinct/3030-4689/releases/#toc-release-12061> <http://dbpedia.org/ontology/releaseDate> "2007-08-21" .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/ghosthunter/3030-179/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/ghosthunter/3030-179/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/ghosthunter/3030-179/#game> <http://xmlns.com/foaf/0.1/#name> "Ghosthunter" .
 <http://www.giantbomb.com/ghosthunter/3030-179/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Lazarus-Jones/3005-21678/#character> .
 <http://www.giantbomb.com/ghosthunter/3030-179/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Astral/3005-21679/#character> .

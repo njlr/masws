@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/big-money-deluxe/3030-1512/releases/#toc-release-3924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/big-money-deluxe/3030-1512/releases/#toc-release-3924> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/big-money-deluxe/3030-1512/releases/#toc-release-3924> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Big-Money!-Deluxe/3030-1512/#game> .
 <http://www.giantbomb.com/big-money-deluxe/3030-1512/releases/#toc-release-3924> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/big-money-deluxe/3030-1512/releases/#toc-release-3924> <http://dbpedia.org/ontology/releaseDate> "2002-12-23" .

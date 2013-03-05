@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/brainburst/3030-1082/releases/#toc-release-2807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/brainburst/3030-1082/releases/#toc-release-2807> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/brainburst/3030-1082/releases/#toc-release-2807> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/BrainBurst!/3030-1082/#game> .
 <http://www.giantbomb.com/brainburst/3030-1082/releases/#toc-release-2807> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/brainburst/3030-1082/releases/#toc-release-2807> <http://dbpedia.org/ontology/releaseDate> "2002-01-01" .

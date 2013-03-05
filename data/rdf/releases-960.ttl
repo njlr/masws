@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/finders-keepers/3030-960/releases/#toc-release-99128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/finders-keepers/3030-960/releases/#toc-release-99128> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/finders-keepers/3030-960/releases/#toc-release-99128> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Finders-Keepers/3030-960/#game> .
 <http://www.giantbomb.com/finders-keepers/3030-960/releases/#toc-release-99128> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/finders-keepers/3030-960/releases/#toc-release-99128> <http://dbpedia.org/ontology/releaseDate> "1985-02-01" .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/tengai-makyou-fuun-kabuki-den/3030-4303/releases/#toc-release-86612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/tengai-makyou-fuun-kabuki-den/3030-4303/releases/#toc-release-86612> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/tengai-makyou-fuun-kabuki-den/3030-4303/releases/#toc-release-86612> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Tengai-Makyou:-Fuun-Kabuki-Den/3030-4303/#game> .
 <http://www.giantbomb.com/tengai-makyou-fuun-kabuki-den/3030-4303/releases/#toc-release-86612> <http://dbpedia.org/property/location> "Japan" .
 <http://www.giantbomb.com/tengai-makyou-fuun-kabuki-den/3030-4303/releases/#toc-release-86612> <http://dbpedia.org/ontology/releaseDate> "1993-07-10" .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/seiken-densetsu-3/3030-1296/releases/#toc-release-98867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/seiken-densetsu-3/3030-1296/releases/#toc-release-98867> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/seiken-densetsu-3/3030-1296/releases/#toc-release-98867> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Seiken-Densetsu-3/3030-1296/#game> .
 <http://www.giantbomb.com/seiken-densetsu-3/3030-1296/releases/#toc-release-98867> <http://dbpedia.org/property/location> "Japan" .
 <http://www.giantbomb.com/seiken-densetsu-3/3030-1296/releases/#toc-release-98867> <http://dbpedia.org/ontology/releaseDate> "1995-09-30" .

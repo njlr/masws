@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/v-for-victory-market-garden/3030-1303/releases/#toc-release-98664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/v-for-victory-market-garden/3030-1303/releases/#toc-release-98664> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/v-for-victory-market-garden/3030-1303/releases/#toc-release-98664> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/V-for-Victory:-Market-Garden/3030-1303/#game> .
 <http://www.giantbomb.com/v-for-victory-market-garden/3030-1303/releases/#toc-release-98664> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/v-for-victory-market-garden/3030-1303/releases/#toc-release-98664> <http://dbpedia.org/ontology/releaseDate> "1993-01-01" .

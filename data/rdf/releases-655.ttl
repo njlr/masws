@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/alien-carnage/3030-655/releases/#toc-release-1734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/alien-carnage/3030-655/releases/#toc-release-1734> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/alien-carnage/3030-655/releases/#toc-release-1734> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Alien-Carnage/3030-655/#game> .
 <http://www.giantbomb.com/alien-carnage/3030-655/releases/#toc-release-1734> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/alien-carnage/3030-655/releases/#toc-release-1734> <http://dbpedia.org/ontology/releaseDate> "2007-05-24" .

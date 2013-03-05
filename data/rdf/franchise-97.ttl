@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/columns/3025-97/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/columns/3025-97/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/columns/3025-97/#franchise> <http://xmlns.com/foaf/0.1/#name> "Columns" .
 <http://www.giantbomb.com/columns/3025-97/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Columns-Crown/3030-1271/#game> .
 <http://www.giantbomb.com/columns/3025-97/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Columns/3030-5487/#game> .

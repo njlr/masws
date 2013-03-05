@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/ice-age-2-the-meltdown/3030-1999/releases/#toc-release-103006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/ice-age-2-the-meltdown/3030-1999/releases/#toc-release-103006> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/ice-age-2-the-meltdown/3030-1999/releases/#toc-release-103006> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Ice-Age-2:-The-Meltdown/3030-1999/#game> .
 <http://www.giantbomb.com/ice-age-2-the-meltdown/3030-1999/releases/#toc-release-103006> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/ice-age-2-the-meltdown/3030-1999/releases/#toc-release-103006> <http://dbpedia.org/ontology/releaseDate> "2006-03-14" .

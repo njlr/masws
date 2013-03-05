@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/ty-the-tasmanian-tiger-2-bush-rescue/3030-159/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/ty-the-tasmanian-tiger-2-bush-rescue/3030-159/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/ty-the-tasmanian-tiger-2-bush-rescue/3030-159/#game> <http://xmlns.com/foaf/0.1/#name> "Ty the Tasmanian Tiger 2: Bush Rescue" .
 <http://www.giantbomb.com/ty-the-tasmanian-tiger-2-bush-rescue/3030-159/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Ty/3005-9435/#character> .
 <http://www.giantbomb.com/ty-the-tasmanian-tiger-2-bush-rescue/3030-159/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Shazza/3005-15716/#character> .

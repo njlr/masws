@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/asterix-and-obelix-take-on-caesar/3030-204/releases/#toc-release-113541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/asterix-and-obelix-take-on-caesar/3030-204/releases/#toc-release-113541> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/asterix-and-obelix-take-on-caesar/3030-204/releases/#toc-release-113541> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Asterix-and-Obelix-Take-on-Caesar/3030-204/#game> .
 <http://www.giantbomb.com/asterix-and-obelix-take-on-caesar/3030-204/releases/#toc-release-113541> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/asterix-and-obelix-take-on-caesar/3030-204/releases/#toc-release-113541> <http://dbpedia.org/ontology/releaseDate> "1999-01-01" .

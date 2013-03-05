@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/elf-bowling/3030-4937/releases/#toc-release-12647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/elf-bowling/3030-4937/releases/#toc-release-12647> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/elf-bowling/3030-4937/releases/#toc-release-12647> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Elf-Bowling/3030-4937/#game> .
 <http://www.giantbomb.com/elf-bowling/3030-4937/releases/#toc-release-12647> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/elf-bowling/3030-4937/releases/#toc-release-12647> <http://dbpedia.org/ontology/releaseDate> "1999-01-01" .

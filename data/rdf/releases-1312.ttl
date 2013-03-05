@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/colony/3030-1312/releases/#toc-release-111609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/colony/3030-1312/releases/#toc-release-111609> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/colony/3030-1312/releases/#toc-release-111609> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Colony/3030-1312/#game> .
 <http://www.giantbomb.com/colony/3030-1312/releases/#toc-release-111609> <http://dbpedia.org/property/location> "United-Kingdom" .
 <http://www.giantbomb.com/colony/3030-1312/releases/#toc-release-111609> <http://dbpedia.org/ontology/releaseDate> "1987-01-01" .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/froggers-adventures-the-rescue/3030-2672/releases/#toc-release-124298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/froggers-adventures-the-rescue/3030-2672/releases/#toc-release-124298> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/froggers-adventures-the-rescue/3030-2672/releases/#toc-release-124298> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Frogger's-Adventures:-The-Rescue/3030-2672/#game> .
 <http://www.giantbomb.com/froggers-adventures-the-rescue/3030-2672/releases/#toc-release-124298> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/froggers-adventures-the-rescue/3030-2672/releases/#toc-release-124298> <http://dbpedia.org/ontology/releaseDate> "2003-10-28" .

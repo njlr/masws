@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/ultima-ix-ascension/3030-2694/releases/#toc-release-97684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/ultima-ix-ascension/3030-2694/releases/#toc-release-97684> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/ultima-ix-ascension/3030-2694/releases/#toc-release-97684> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Ultima-IX:-Ascension/3030-2694/#game> .
 <http://www.giantbomb.com/ultima-ix-ascension/3030-2694/releases/#toc-release-97684> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/ultima-ix-ascension/3030-2694/releases/#toc-release-97684> <http://dbpedia.org/ontology/releaseDate> "2000-01-01" .

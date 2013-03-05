@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <http://xmlns.com/foaf/0.1/#name> "Teenage Mutant Ninja Turtles: Manhattan Missions" .
 <http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Donatello/3005-300/#character> .
 <http://www.giantbomb.com/teenage-mutant-ninja-turtles-manhattan-missions/3030-525/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Raphael/3005-121/#character> .

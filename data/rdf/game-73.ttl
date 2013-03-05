@@ -1,2 +1,2 @@
-<http://www.giantbomb.com/steel-panthers-iii-brigade-command-1939-1999/3030-73/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/steel-panthers-iii-brigade-command-1939-1999/3030-73/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/steel-panthers-iii-brigade-command-1939-1999/3030-73/#game> <http://xmlns.com/foaf/0.1/#name> "Steel Panthers III: Brigade Command (1939-1999)" .

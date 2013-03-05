@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/lost/3030-1175/releases/#toc-release-3051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/lost/3030-1175/releases/#toc-release-3051> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/lost/3030-1175/releases/#toc-release-3051> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Lost/3030-1175/#game> .
 <http://www.giantbomb.com/lost/3030-1175/releases/#toc-release-3051> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/lost/3030-1175/releases/#toc-release-3051> <http://dbpedia.org/ontology/releaseDate> "2007-01-01" .

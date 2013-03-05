@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/braxx-bluff/3030-524/releases/#toc-release-95227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/braxx-bluff/3030-524/releases/#toc-release-95227> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/braxx-bluff/3030-524/releases/#toc-release-95227> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Braxx-Bluff/3030-524/#game> .
 <http://www.giantbomb.com/braxx-bluff/3030-524/releases/#toc-release-95227> <http://dbpedia.org/property/location> "United-States" .
 <http://www.giantbomb.com/braxx-bluff/3030-524/releases/#toc-release-95227> <http://dbpedia.org/ontology/releaseDate> "1985-01-01" .

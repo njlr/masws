@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/burnout/3025-76/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/burnout/3025-76/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/burnout/3025-76/#franchise> <http://xmlns.com/foaf/0.1/#name> "Burnout" .
 <http://www.giantbomb.com/burnout/3025-76/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Burnout/3030-20484/#game> .
 <http://www.giantbomb.com/burnout/3025-76/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Burnout-2:-Point-of-Impact/3030-13514/#game> .

@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/clayfighter/3030-489/#game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+<http://www.giantbomb.com/clayfighter/3030-489/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/clayfighter/3030-489/#game> <http://xmlns.com/foaf/0.1/#name> "ClayFighter" .
 <http://www.giantbomb.com/clayfighter/3030-489/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Blue-Suede-Goo/3005-4006/#character> .
 <http://www.giantbomb.com/clayfighter/3030-489/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Ickybod-Clay/3005-3851/#character> .

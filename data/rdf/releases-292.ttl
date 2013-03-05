@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Hokuto-no-Ken-7-:-Seiken-Retsuden:-Denshousha-e-no-Michi/3030-292/#game> .
 <http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <http://dbpedia.org/property/location> "Japan" .
 <http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <http://dbpedia.org/ontology/releaseDate> "1993-12-24" .

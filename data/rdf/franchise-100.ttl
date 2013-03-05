@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/commander-keen/3025-100/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/commander-keen/3025-100/#franchise> <http://xmlns.com/foaf/0.1/#name> "Commander Keen" .
 <http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Commander-Keen-2:-The-Earth-Explodes/3030-231/#game> .
 <http://www.giantbomb.com/commander-keen/3025-100/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Commander-Keen:-Invasion-of-the-Vorticons/3030-1656/#game> .

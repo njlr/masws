@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/pixelships-retro/3030-2275/releases/#toc-release-5962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/pixelships-retro/3030-2275/releases/#toc-release-5962> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/pixelships-retro/3030-2275/releases/#toc-release-5962> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/PixelShips-Retro/3030-2275/#game> .
 <http://www.giantbomb.com/pixelships-retro/3030-2275/releases/#toc-release-5962> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/pixelships-retro/3030-2275/releases/#toc-release-5962> <http://dbpedia.org/ontology/releaseDate> "2006-09-21" .

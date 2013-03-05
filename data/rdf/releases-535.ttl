@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/blasterball-2-holidays/3030-535/releases/#toc-release-1448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/blasterball-2-holidays/3030-535/releases/#toc-release-1448> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
 <http://www.giantbomb.com/blasterball-2-holidays/3030-535/releases/#toc-release-1448> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Blasterball-2:-Holidays/3030-535/#game> .
 <http://www.giantbomb.com/blasterball-2-holidays/3030-535/releases/#toc-release-1448> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/blasterball-2-holidays/3030-535/releases/#toc-release-1448> <http://dbpedia.org/ontology/releaseDate> "2004-01-01" .

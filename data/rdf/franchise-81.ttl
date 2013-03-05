@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/california-games/3025-81/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/california-games/3025-81/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/california-games/3025-81/#franchise> <http://xmlns.com/foaf/0.1/#name> "California Games" .
 <http://www.giantbomb.com/california-games/3025-81/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/California-Games/3030-3193/#game> .
 <http://www.giantbomb.com/california-games/3025-81/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/California-Games-II/3030-11315/#game> .

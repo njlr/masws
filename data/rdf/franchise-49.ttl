@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/batman/3025-49/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/batman/3025-49/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/batman/3025-49/#franchise> <http://xmlns.com/foaf/0.1/#name> "Batman" .
 <http://www.giantbomb.com/batman/3025-49/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Batman-Begins/3030-34/#game> .
 <http://www.giantbomb.com/batman/3025-49/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Batman-Beyond:-Return-of-the-Joker/3030-1238/#game> .

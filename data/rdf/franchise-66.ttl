@@ -1,4 +1,4 @@
-<http://www.giantbomb.com/boktai/3025-66/#franchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
+<http://www.giantbomb.com/boktai/3025-66/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/boktai/3025-66/#franchise> <http://xmlns.com/foaf/0.1/#name> "Boktai" .
 <http://www.giantbomb.com/boktai/3025-66/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Boktai-2:-Solar-Boy-Django/3030-14556/#game> .
 <http://www.giantbomb.com/boktai/3025-66/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Boktai:-The-Sun-is-in-Your-Hand/3030-7136/#game> .
