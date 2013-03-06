@@ -1,0 +1,17 @@
+PREFIX foaf: <http://xmlns.com/foaf/0.1/#>
+PREFIX dbpedia: <http://es.dbpedia.org/ontology/>
+
+SELECT DISTINCT ?characterOneName ?characterFoeName
+WHERE
+{
+	?characterOne <http://www.w3.org/TR/rdf-schema/#type> dbpedia:FictionalCharacter ;
+	foaf:name ?characterOneName;
+	<https://raw.github.com/nlr/masws/master/vocab.n3#foe> ?characterOneFoe.
+
+	?characterOneFoe <http://www.w3.org/TR/rdf-schema/#type> dbpedia:FictionalCharacter ;
+	foaf:name ?characterFoeName.
+
+	?characterOneFoe <https://raw.github.com/nlr/masws/master/vocab.n3#foe> ?characterOne.
+
+	?characterOne <https://raw.github.com/nlr/masws/master/vocab.n3#foe> ?characterOneFoe.
+}
