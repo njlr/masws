@@ -1,0 +1,31 @@
+# List the names of all franchises containing two games such that one game has a release at least 10 years before a release of the other game
+prefix xsd:  <http://www.w3.org/2001/XMLSchema#> 
+SELECT DISTINCT ?name  
+WHERE 
+{
+    ?franchise <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> . 
+    ?franchise <http://xmlns.com/foaf/0.1/#name> ?name . 
+    ?franchise <https://raw.github.com/nlr/masws/master/vocab.n3#includes> ?game1 . 
+    ?franchise <https://raw.github.com/nlr/masws/master/vocab.n3#includes> ?game2 . 
+    
+    ?game1 <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> . 
+    ?game2 <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> . 
+    
+    FILTER ( ?game1 != ?game2 ) . 
+    
+    ?release1 <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> . 
+    ?release1 <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> ?game1 . 
+    ?release1 <http://dbpedia.org/ontology/releaseDate> ?date1 . 
+    
+    ?release2 <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> . 
+    ?release2 <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> ?game2 . 
+    ?release2 <http://dbpedia.org/ontology/releaseDate> ?date2 . 
+    
+    BIND (YEAR(xsd:date(?date1)) AS ?year)
+    BIND (MONTH(xsd:date(?date1)) AS ?month)
+    BIND (DAY(xsd:date(?date1)) AS ?day)
+    
+    BIND (xsd:string(?year + 10) + '-' + xsd:string(?month) + '-' + xsd:string(?day) AS ?newDate)
+    
+    #FILTER ( xsd:date(?newDate) <= xsd:date(?date2) ) . 
+}
