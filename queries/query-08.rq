@@ -1,0 +1,3 @@
+# Find out about Japanese game developers 
+DESCRIBE <http://dbpedia.org/resource/Shigeru_Miyamoto>
+FROM <dbpedia.org/sparql>

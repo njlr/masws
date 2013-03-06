@@ -1,5 +1,5 @@
 # List the names of all franchises containing two games such that one game has a release at least 10 years before a release of the other game
-prefix xsd:  <http://www.w3.org/2001/XMLSchema#> 
+prefix xsd: <http://www.w3.org/2001/XMLSchema#> 
 SELECT DISTINCT ?name  
 WHERE 
 {

@@ -1,18 +1,21 @@
+<<<<<<< HEAD
 #List all character pairs that are foes of each-other
+=======
+# List the names of all character pairs such that each is a foe of the other. 
+>>>>>>> 8a65af33d965ff1045ea45778ae11cb7dd43741d
 PREFIX foaf: <http://xmlns.com/foaf/0.1/#>
 PREFIX dbpedia: <http://es.dbpedia.org/ontology/>
 
-SELECT DISTINCT ?characterOneName ?characterFoeName
+SELECT DISTINCT ?characterOneName ?characterTwoName
 WHERE
 {
 	?characterOne <http://www.w3.org/TR/rdf-schema/#type> dbpedia:FictionalCharacter ;
 	foaf:name ?characterOneName;
-	<https://raw.github.com/nlr/masws/master/vocab.n3#foe> ?characterOneFoe.
+	<https://raw.github.com/nlr/masws/master/vocab.n3#foe> ?characterTwo.
 
 	?characterOneFoe <http://www.w3.org/TR/rdf-schema/#type> dbpedia:FictionalCharacter ;
-	foaf:name ?characterFoeName.
+	foaf:name ?characterTwoName.
 
-	?characterOneFoe <https://raw.github.com/nlr/masws/master/vocab.n3#foe> ?characterOne.
-
-	?characterOne <https://raw.github.com/nlr/masws/master/vocab.n3#foe> ?characterOneFoe.
+	?characterTwo <https://raw.github.com/nlr/masws/master/vocab.n3#foe> ?characterOne.
+	?characterOne <https://raw.github.com/nlr/masws/master/vocab.n3#foe> ?characterTwo.
 }
