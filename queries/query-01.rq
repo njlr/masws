@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#List all character pairs that are foes of each-other
-=======
 # List the names of all character pairs such that each is a foe of the other. 
->>>>>>> 8a65af33d965ff1045ea45778ae11cb7dd43741d
 PREFIX foaf: <http://xmlns.com/foaf/0.1/#>
 PREFIX dbpedia: <http://es.dbpedia.org/ontology/>
 
