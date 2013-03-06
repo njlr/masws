@@ -1,5 +1,5 @@
-# List the names of all games and characters such that the game features two characters who are foes of eachother. 
-SELECT DISTINCT ?gameName ?character1Name ?character2Name
+# List the names of all games such that the game features two characters who are foes of eachother. 
+SELECT DISTINCT ?gameName 
 WHERE 
 {
     ?game <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> . 

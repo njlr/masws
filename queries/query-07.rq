@@ -40,4 +40,5 @@ WHERE
         FILTER ( ?person2 != ?person3 ) . 
     }
 }
-LIMIT 3000 # Limited as this is a complex query
+# Limited as this is a complex query
+LIMIT 3000 

@@ -1,10 +1,18 @@
-# List the names of all games that have been released in Japan
+# List the names of all games that have been released in Japan that have not been released in the United States
 SELECT DISTINCT ?name
 WHERE 
 {
-    ?release <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> . 
-    ?release <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> ?game . 
-    ?release <http://dbpedia.org/property/location> "japan" . 
+    ?release1 <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> . 
+    ?release1 <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> ?game . 
+    ?release1 <http://dbpedia.org/property/location> "japan" . 
+    
     ?game <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> . 
     ?game <http://xmlns.com/foaf/0.1/#name> ?name . 
+    
+    FILTER NOT EXISTS
+    {
+        ?release2 <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> . 
+        ?release2 <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> ?game . 
+        ?release2 <http://dbpedia.org/property/location> "united-states" . 
+    }
 }
