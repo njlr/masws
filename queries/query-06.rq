@@ -1,0 +1,17 @@
+# List the names of all games and characters such that the game features two characters who are foes of eachother. 
+SELECT DISTINCT ?name1 ?name2 ?gameName 
+WHERE 
+{
+    ?person1 <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> . 
+    ?person1 <http://xmlns.com/foaf/0.1/#name> ?name1 . 
+    ?person1 <https://raw.github.com/nlr/masws/master/vocab.n3#developer> ?game . 
+    
+    ?person2 <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> . 
+    ?person2 <http://xmlns.com/foaf/0.1/#name> ?name2 . 
+    ?person2 <https://raw.github.com/nlr/masws/master/vocab.n3#developer> ?game .  
+    
+    FILTER ( ?person1 != ?person2 ) . 
+    
+    ?game <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> . 
+    ?game <http://xmlns.com/foaf/0.1/#name> ?gameName . 
+}
