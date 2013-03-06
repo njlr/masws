@@ -1,0 +1,25 @@
+#List the games that have multiple releases at least one year apart. (Find games with  delayed releases between regions)
+PREFIX foaf: <http://xmlns.com/foaf/0.1/#>
+prefix xsd:  <http://www.w3.org/2001/XMLSchema#> 
+
+SELECT DISTINCT ?name
+WHERE
+{
+	?release <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+	?release <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> ?game.
+	?release <http://dbpedia.org/ontology/releaseDate> ?date1 .
+	?release <http://dbpedia.org/ontology/releaseDate> ?date2 .
+	
+	FILTER (?date1 != ?date2).
+
+	BIND (YEAR(xsd:date(?date1)) AS ?year)
+    	BIND (MONTH(xsd:date(?date1)) AS ?month)
+    	BIND (DAY(xsd:date(?date1)) AS ?day)
+
+	BIND (xsd:string(?year + 1) + '-' + xsd:string(?month) + '-' + xsd:string(?day) AS ?newDate)
+
+	FILTER ( xsd:date(?newDate) <= xsd:date(?date2) ) . 
+
+	?game <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
+	?game foaf:name ?name.
+}
