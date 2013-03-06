@@ -1,4 +1,4 @@
-# List the names of all games and characters such that the game features two characters who are foes of eachother. 
+# Find a list all games and developer pairs such that both developers worked on the game. 
 SELECT DISTINCT ?name1 ?name2 ?gameName 
 WHERE 
 {
