@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <http://xmlns.com/foaf/0.1/#name> "Tsarevna Alena" .
 <http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Maya/3005-7205/#character> .
-<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Meena/3005-7236/#character> .
-<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Hero/3005-7510/#character> .
-<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Psaro-the-Manslayer/3005-7517/#character> .
-<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Borya/3005-7872/#character> .
-<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Kiryl/3005-7873/#character> .
-<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Psaro-the-Manslayer/3005-7517/#character> .
+<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/maya/3005-7205/#character> .
+<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/meena/3005-7236/#character> .
+<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/hero/3005-7510/#character> .
+<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/psaro-the-manslayer/3005-7517/#character> .
+<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/borya/3005-7872/#character> .
+<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/kiryl/3005-7873/#character> .
+<http://www.giantbomb.com/tsarevna-alena/3005-340/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/psaro-the-manslayer/3005-7517/#character> .

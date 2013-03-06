@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/strider-hiryu/3005-53/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/strider-hiryu/3005-53/#character> <http://xmlns.com/foaf/0.1/#name> "Strider Hiryu" .
 <http://www.giantbomb.com/strider-hiryu/3005-53/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Sentinel/3005-3337/#character> .
-<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Kirrin/3005-13444/#character> .
-<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Captain-America/3005-1376/#character> .
-<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Strider-Hien/3005-4474/#character> .
-<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Abyss/3005-5798/#character> .
-<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Grandmaster-Meio/3005-17067/#character> .
-<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Ton-Pooh/3005-5792/#character> .
+<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/sentinel/3005-3337/#character> .
+<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/kirrin/3005-13444/#character> .
+<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/captain-america/3005-1376/#character> .
+<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/strider-hien/3005-4474/#character> .
+<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/abyss/3005-5798/#character> .
+<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/grandmaster-meio/3005-17067/#character> .
+<http://www.giantbomb.com/strider-hiryu/3005-53/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/ton-pooh/3005-5792/#character> .

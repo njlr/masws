@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <http://xmlns.com/foaf/0.1/#name> "X-Men: Wolverine's Rage" .
-<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Wolverine/3005-10/#character> .
-<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Professor-Charles-Xavier/3005-3856/#character> .
-<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Lady-Deathstrike/3005-14717/#character> .
-<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Cyber/3005-19074/#character> .
-<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Sabretooth/3005-4897/#character> .
+<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/wolverine/3005-10/#character> .
+<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/professor-charles-xavier/3005-3856/#character> .
+<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/lady-deathstrike/3005-14717/#character> .
+<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/cyber/3005-19074/#character> .
+<http://www.giantbomb.com/x-men-wolverines-rage/3030-458/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/sabretooth/3005-4897/#character> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cosmos-quest-i-to-find-a-sun/3030-3548/releases/#toc-release-9255> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/cosmos-quest-i-to-find-a-sun/3030-3548/releases/#toc-release-9255> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Cosmos-Quest-I:-To-Find-a-Sun/3030-3548/#game> .
+<http://www.giantbomb.com/cosmos-quest-i-to-find-a-sun/3030-3548/releases/#toc-release-9255> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cosmos-quest-i-to-find-a-sun/3030-3548/#game> .
 <http://www.giantbomb.com/cosmos-quest-i-to-find-a-sun/3030-3548/releases/#toc-release-9255> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/cosmos-quest-i-to-find-a-sun/3030-3548/releases/#toc-release-9255> <http://dbpedia.org/ontology/releaseDate> "2006-02-08" .

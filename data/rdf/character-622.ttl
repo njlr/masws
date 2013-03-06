@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/roddy-piper/3005-622/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/roddy-piper/3005-622/#character> <http://xmlns.com/foaf/0.1/#name> "Roddy Piper" .
 <http://www.giantbomb.com/roddy-piper/3005-622/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/roddy-piper/3005-622/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Hulk-Hogan/3005-247/#character> .
-<http://www.giantbomb.com/roddy-piper/3005-622/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/B-A-Baracus/3005-7991/#character> .
-<http://www.giantbomb.com/roddy-piper/3005-622/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Ric-Flair/3005-594/#character> .
+<http://www.giantbomb.com/roddy-piper/3005-622/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/hulk-hogan/3005-247/#character> .
+<http://www.giantbomb.com/roddy-piper/3005-622/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/b-a-baracus/3005-7991/#character> .
+<http://www.giantbomb.com/roddy-piper/3005-622/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/ric-flair/3005-594/#character> .

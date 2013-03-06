@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <http://xmlns.com/foaf/0.1/#name> "Colin McRae Rally" .
-<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Colin-McRae-Rally/3030-1794/#game> .
-<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Colin-McRae-Rally-20/3030-14115/#game> .
-<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Colin-McRae-Rally-04/3030-14519/#game> .
-<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Colin-McRae-Rally-2005/3030-15863/#game> .
-<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Colin-McRae-Rally-3/3030-20033/#game> .
-<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/DiRT/3030-3916/#game> .
-<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/DiRT-2/3030-24513/#game> .
+<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/colin-mcrae-rally/3030-1794/#game> .
+<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/colin-mcrae-rally-20/3030-14115/#game> .
+<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/colin-mcrae-rally-04/3030-14519/#game> .
+<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/colin-mcrae-rally-2005/3030-15863/#game> .
+<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/colin-mcrae-rally-3/3030-20033/#game> .
+<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/dirt/3030-3916/#game> .
+<http://www.giantbomb.com/colin-mcrae-rally/3025-95/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/dirt-2/3030-24513/#game> .

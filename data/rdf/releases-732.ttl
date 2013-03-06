@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/crash-bandicoot-purple-riptos-rampage/3030-732/releases/#toc-release-110194> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/crash-bandicoot-purple-riptos-rampage/3030-732/releases/#toc-release-110194> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Crash-Bandicoot-Purple:-Ripto's-Rampage/3030-732/#game> .
-<http://www.giantbomb.com/crash-bandicoot-purple-riptos-rampage/3030-732/releases/#toc-release-110194> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/crash-bandicoot-purple-riptos-rampage/3030-732/releases/#toc-release-110194> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/crash-bandicoot-purple-ripto's-rampage/3030-732/#game> .
+<http://www.giantbomb.com/crash-bandicoot-purple-riptos-rampage/3030-732/releases/#toc-release-110194> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/crash-bandicoot-purple-riptos-rampage/3030-732/releases/#toc-release-110194> <http://dbpedia.org/ontology/releaseDate> "2004-06-01" .

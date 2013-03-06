@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/varitale/3030-4140/releases/#toc-release-10753> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/varitale/3030-4140/releases/#toc-release-10753> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/VariTale/3030-4140/#game> .
+<http://www.giantbomb.com/varitale/3030-4140/releases/#toc-release-10753> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/varitale/3030-4140/#game> .
 <http://www.giantbomb.com/varitale/3030-4140/releases/#toc-release-10753> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/varitale/3030-4140/releases/#toc-release-10753> <http://dbpedia.org/ontology/releaseDate> "1987-01-01" .

@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <http://xmlns.com/foaf/0.1/#name> "Ganbare Goemon Gaiden: Kieta Ougon Kiseru" .
-<http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Goemon/3005-1989/#character> .
-<http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Ebisumaru/3005-2000/#character> .
-<http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Yae/3005-2002/#character> .
-<http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Sasuke/3005-2001/#character> .
+<http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/goemon/3005-1989/#character> .
+<http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/ebisumaru/3005-2000/#character> .
+<http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/yae/3005-2002/#character> .
+<http://www.giantbomb.com/ganbare-goemon-gaiden-kieta-ougon-kiseru/3030-44/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/sasuke/3005-2001/#character> .

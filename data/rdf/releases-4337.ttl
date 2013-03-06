@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/slam-n-jam-96-featuring-magic-and-kareem/3030-4337/releases/#toc-release-111907> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/slam-n-jam-96-featuring-magic-and-kareem/3030-4337/releases/#toc-release-111907> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Slam-'N-Jam-'96-featuring-Magic-and-Kareem/3030-4337/#game> .
-<http://www.giantbomb.com/slam-n-jam-96-featuring-magic-and-kareem/3030-4337/releases/#toc-release-111907> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/slam-n-jam-96-featuring-magic-and-kareem/3030-4337/releases/#toc-release-111907> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/slam-'n-jam-'96-featuring-magic-and-kareem/3030-4337/#game> .
+<http://www.giantbomb.com/slam-n-jam-96-featuring-magic-and-kareem/3030-4337/releases/#toc-release-111907> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/slam-n-jam-96-featuring-magic-and-kareem/3030-4337/releases/#toc-release-111907> <http://dbpedia.org/ontology/releaseDate> "1996-01-01" .

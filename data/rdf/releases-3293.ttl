@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/power-dolls/3030-3293/releases/#toc-release-95561> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/power-dolls/3030-3293/releases/#toc-release-95561> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Power-Dolls/3030-3293/#game> .
-<http://www.giantbomb.com/power-dolls/3030-3293/releases/#toc-release-95561> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/power-dolls/3030-3293/releases/#toc-release-95561> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/power-dolls/3030-3293/#game> .
+<http://www.giantbomb.com/power-dolls/3030-3293/releases/#toc-release-95561> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/power-dolls/3030-3293/releases/#toc-release-95561> <http://dbpedia.org/ontology/releaseDate> "2009-03-27" .

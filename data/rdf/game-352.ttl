@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/gargoyles/3030-352/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/gargoyles/3030-352/#game> <http://xmlns.com/foaf/0.1/#name> "Gargoyles" .
-<http://www.giantbomb.com/gargoyles/3030-352/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Goliath/3005-14908/#character> .
-<http://www.giantbomb.com/gargoyles/3030-352/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Demona/3005-14926/#character> .
+<http://www.giantbomb.com/gargoyles/3030-352/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/goliath/3005-14908/#character> .
+<http://www.giantbomb.com/gargoyles/3030-352/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/demona/3005-14926/#character> .

@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/fantasy-zone-the-maze/3030-271/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/fantasy-zone-the-maze/3030-271/#game> <http://xmlns.com/foaf/0.1/#name> "Fantasy Zone: The Maze" .
-<http://www.giantbomb.com/fantasy-zone-the-maze/3030-271/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Opa-Opa/3005-5163/#character> .
+<http://www.giantbomb.com/fantasy-zone-the-maze/3030-271/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/opa-opa/3005-5163/#character> .

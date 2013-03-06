@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <http://xmlns.com/foaf/0.1/#name> "The House of the Dead 2" .
-<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Goldman/3005-7492/#character> .
-<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Agent-G/3005-8710/#character> .
-<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Thomas-Rogan/3005-9014/#character> .
-<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/James-Taylor/3005-13363/#character> .
-<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Gary-Stewart/3005-13364/#character> .
-<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Amy-Crystal/3005-13365/#character> .
-<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Harry-Harris/3005-13366/#character> .
+<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/goldman/3005-7492/#character> .
+<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/agent-g/3005-8710/#character> .
+<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/thomas-rogan/3005-9014/#character> .
+<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/james-taylor/3005-13363/#character> .
+<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/gary-stewart/3005-13364/#character> .
+<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/amy-crystal/3005-13365/#character> .
+<http://www.giantbomb.com/the-house-of-the-dead-2/3030-422/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/harry-harris/3005-13366/#character> .

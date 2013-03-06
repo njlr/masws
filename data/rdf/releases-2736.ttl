@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/iggys-reckin-balls/3030-2736/releases/#toc-release-91168> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/iggys-reckin-balls/3030-2736/releases/#toc-release-91168> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Iggy's-Reckin'-Balls/3030-2736/#game> .
-<http://www.giantbomb.com/iggys-reckin-balls/3030-2736/releases/#toc-release-91168> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/iggys-reckin-balls/3030-2736/releases/#toc-release-91168> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/iggy's-reckin'-balls/3030-2736/#game> .
+<http://www.giantbomb.com/iggys-reckin-balls/3030-2736/releases/#toc-release-91168> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/iggys-reckin-balls/3030-2736/releases/#toc-release-91168> <http://dbpedia.org/ontology/releaseDate> "1998-01-01" .

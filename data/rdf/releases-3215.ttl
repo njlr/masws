@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/top-gear-3000/3030-3215/releases/#toc-release-92799> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/top-gear-3000/3030-3215/releases/#toc-release-92799> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Top-Gear-3000/3030-3215/#game> .
-<http://www.giantbomb.com/top-gear-3000/3030-3215/releases/#toc-release-92799> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/top-gear-3000/3030-3215/releases/#toc-release-92799> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/top-gear-3000/3030-3215/#game> .
+<http://www.giantbomb.com/top-gear-3000/3030-3215/releases/#toc-release-92799> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/top-gear-3000/3030-3215/releases/#toc-release-92799> <http://dbpedia.org/ontology/releaseDate> "1995-04-27" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/dragon-ball-3-gokuuden/3030-4850/releases/#toc-release-116723> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/dragon-ball-3-gokuuden/3030-4850/releases/#toc-release-116723> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Dragon-Ball-3:-Gokuuden/3030-4850/#game> .
-<http://www.giantbomb.com/dragon-ball-3-gokuuden/3030-4850/releases/#toc-release-116723> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/dragon-ball-3-gokuuden/3030-4850/releases/#toc-release-116723> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/dragon-ball-3-gokuuden/3030-4850/#game> .
+<http://www.giantbomb.com/dragon-ball-3-gokuuden/3030-4850/releases/#toc-release-116723> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/dragon-ball-3-gokuuden/3030-4850/releases/#toc-release-116723> <http://dbpedia.org/ontology/releaseDate> "1989-10-27" .

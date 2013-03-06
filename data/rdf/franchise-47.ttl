@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <http://xmlns.com/foaf/0.1/#name> "Baseball Stars" .
-<http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baseball-Stars-2/3030-5577/#game> .
-<http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baseball-Stars/3030-5811/#game> .
-<http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baseball-Stars-Professional/3030-17106/#game> .
-<http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Baseball-Stars-Color/3030-21437/#game> .
+<http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/baseball-stars-2/3030-5577/#game> .
+<http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/baseball-stars/3030-5811/#game> .
+<http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/baseball-stars-professional/3030-17106/#game> .
+<http://www.giantbomb.com/baseball-stars/3025-47/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/baseball-stars-color/3030-21437/#game> .

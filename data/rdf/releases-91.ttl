@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/b-wings/3030-91/releases/#toc-release-125012> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/b-wings/3030-91/releases/#toc-release-125012> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/B-Wings/3030-91/#game> .
-<http://www.giantbomb.com/b-wings/3030-91/releases/#toc-release-125012> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/b-wings/3030-91/releases/#toc-release-125012> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/b-wings/3030-91/#game> .
+<http://www.giantbomb.com/b-wings/3030-91/releases/#toc-release-125012> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/b-wings/3030-91/releases/#toc-release-125012> <http://dbpedia.org/ontology/releaseDate> "1986-06-03" .

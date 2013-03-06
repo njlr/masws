@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/super-jazz-man/3030-344/releases/#toc-release-963> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/super-jazz-man/3030-344/releases/#toc-release-963> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Super-Jazz-Man/3030-344/#game> .
+<http://www.giantbomb.com/super-jazz-man/3030-344/releases/#toc-release-963> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/super-jazz-man/3030-344/#game> .
 <http://www.giantbomb.com/super-jazz-man/3030-344/releases/#toc-release-963> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/super-jazz-man/3030-344/releases/#toc-release-963> <http://dbpedia.org/ontology/releaseDate> "2006-12-21" .

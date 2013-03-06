@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/fuuma/3005-283/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/fuuma/3005-283/#character> <http://xmlns.com/foaf/0.1/#name> "Fuuma" .
 <http://www.giantbomb.com/fuuma/3005-283/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/fuuma/3005-283/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Hanzo/3005-265/#character> .
+<http://www.giantbomb.com/fuuma/3005-283/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/hanzo/3005-265/#character> .

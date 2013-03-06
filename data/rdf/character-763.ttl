@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/judy-nails/3005-763/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/judy-nails/3005-763/#character> <http://xmlns.com/foaf/0.1/#name> "Judy Nails" .
 <http://www.giantbomb.com/judy-nails/3005-763/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Axel-Steel/3005-780/#character> .
-<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Clive-Winston/3005-801/#character> .
-<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Pandora/3005-777/#character> .
-<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Zakk-Wylde/3005-8908/#character> .
-<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Lou/3005-1789/#character> .
+<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/axel-steel/3005-780/#character> .
+<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/clive-winston/3005-801/#character> .
+<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/pandora/3005-777/#character> .
+<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/zakk-wylde/3005-8908/#character> .
+<http://www.giantbomb.com/judy-nails/3005-763/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/lou/3005-1789/#character> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/shalom-knightmare-iii/3030-3124/releases/#toc-release-122392> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/shalom-knightmare-iii/3030-3124/releases/#toc-release-122392> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Shalom:-Knightmare-III/3030-3124/#game> .
-<http://www.giantbomb.com/shalom-knightmare-iii/3030-3124/releases/#toc-release-122392> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/shalom-knightmare-iii/3030-3124/releases/#toc-release-122392> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shalom-knightmare-iii/3030-3124/#game> .
+<http://www.giantbomb.com/shalom-knightmare-iii/3030-3124/releases/#toc-release-122392> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/shalom-knightmare-iii/3030-3124/releases/#toc-release-122392> <http://dbpedia.org/ontology/releaseDate> "1987-01-01" .

@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/helena-douglas/3005-493/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/helena-douglas/3005-493/#character> <http://xmlns.com/foaf/0.1/#name> "Helena Douglas" .
 <http://www.giantbomb.com/helena-douglas/3005-493/#character> <http://xmlns.com/foaf/0.1/#gender> "female" .
-<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Zack/3005-503/#character> .
-<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Fame-Douglas/3005-17593/#character> .
-<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Hayate/3005-489/#character> .
-<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Kasumi/3005-490/#character> .
-<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Christie/3005-494/#character> .
-<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Victor-Donovan/3005-19027/#character> .
+<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/zack/3005-503/#character> .
+<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/fame-douglas/3005-17593/#character> .
+<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/hayate/3005-489/#character> .
+<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/kasumi/3005-490/#character> .
+<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/christie/3005-494/#character> .
+<http://www.giantbomb.com/helena-douglas/3005-493/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/victor-donovan/3005-19027/#character> .

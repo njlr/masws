@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/kate-mcreary/3005-438/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/kate-mcreary/3005-438/#character> <http://xmlns.com/foaf/0.1/#name> "Kate McReary" .
 <http://www.giantbomb.com/kate-mcreary/3005-438/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Niko-Bellic/3005-154/#character> .
-<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Packie-McReary/3005-439/#character> .
-<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Gerry-McReary/3005-4236/#character> .
-<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Derrick-McReary/3005-4173/#character> .
-<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Francis-McReary/3005-1035/#character> .
-<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dimitri-Rascalov/3005-941/#character> .
+<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/niko-bellic/3005-154/#character> .
+<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/packie-mcreary/3005-439/#character> .
+<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/gerry-mcreary/3005-4236/#character> .
+<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/derrick-mcreary/3005-4173/#character> .
+<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/francis-mcreary/3005-1035/#character> .
+<http://www.giantbomb.com/kate-mcreary/3005-438/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/dimitri-rascalov/3005-941/#character> .

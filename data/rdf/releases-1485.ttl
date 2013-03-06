@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/thunder-brigade/3030-1485/releases/#toc-release-3832> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/thunder-brigade/3030-1485/releases/#toc-release-3832> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Thunder-Brigade/3030-1485/#game> .
+<http://www.giantbomb.com/thunder-brigade/3030-1485/releases/#toc-release-3832> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/thunder-brigade/3030-1485/#game> .
 <http://www.giantbomb.com/thunder-brigade/3030-1485/releases/#toc-release-3832> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/thunder-brigade/3030-1485/releases/#toc-release-3832> <http://dbpedia.org/ontology/releaseDate> "1998-12-28" .

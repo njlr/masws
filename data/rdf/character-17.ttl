@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/tom/3005-17/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/tom/3005-17/#character> <http://xmlns.com/foaf/0.1/#name> "Tom" .
 <http://www.giantbomb.com/tom/3005-17/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/tom/3005-17/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Nick/3005-155/#character> .
+<http://www.giantbomb.com/tom/3005-17/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/nick/3005-155/#character> .

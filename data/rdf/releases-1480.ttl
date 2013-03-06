@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/star-gladiator-episode-1-final-crusade/3030-1480/releases/#toc-release-95023> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/star-gladiator-episode-1-final-crusade/3030-1480/releases/#toc-release-95023> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Star-Gladiator-Episode-1:-Final-Crusade/3030-1480/#game> .
-<http://www.giantbomb.com/star-gladiator-episode-1-final-crusade/3030-1480/releases/#toc-release-95023> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/star-gladiator-episode-1-final-crusade/3030-1480/releases/#toc-release-95023> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/star-gladiator-episode-1-final-crusade/3030-1480/#game> .
+<http://www.giantbomb.com/star-gladiator-episode-1-final-crusade/3030-1480/releases/#toc-release-95023> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/star-gladiator-episode-1-final-crusade/3030-1480/releases/#toc-release-95023> <http://dbpedia.org/ontology/releaseDate> "1996-10-29" .

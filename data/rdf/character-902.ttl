@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/sarah-fisher/3005-902/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/sarah-fisher/3005-902/#character> <http://xmlns.com/foaf/0.1/#name> "Sarah Fisher" .
 <http://www.giantbomb.com/sarah-fisher/3005-902/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/sarah-fisher/3005-902/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Sam-Fisher/3005-101/#character> .
-<http://www.giantbomb.com/sarah-fisher/3005-902/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Victor-Coste/3005-14895/#character> .
-<http://www.giantbomb.com/sarah-fisher/3005-902/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Tom-Reed/3005-14894/#character> .
+<http://www.giantbomb.com/sarah-fisher/3005-902/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/sam-fisher/3005-101/#character> .
+<http://www.giantbomb.com/sarah-fisher/3005-902/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/victor-coste/3005-14895/#character> .
+<http://www.giantbomb.com/sarah-fisher/3005-902/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/tom-reed/3005-14894/#character> .

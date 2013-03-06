@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/rambo-iii/3030-1172/releases/#toc-release-121297> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/rambo-iii/3030-1172/releases/#toc-release-121297> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Rambo-III/3030-1172/#game> .
-<http://www.giantbomb.com/rambo-iii/3030-1172/releases/#toc-release-121297> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/rambo-iii/3030-1172/releases/#toc-release-121297> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/rambo-iii/3030-1172/#game> .
+<http://www.giantbomb.com/rambo-iii/3030-1172/releases/#toc-release-121297> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/rambo-iii/3030-1172/releases/#toc-release-121297> <http://dbpedia.org/ontology/releaseDate> "1988-01-01" .

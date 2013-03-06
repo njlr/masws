@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/hiro-miyamoto/3005-546/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/hiro-miyamoto/3005-546/#character> <http://xmlns.com/foaf/0.1/#name> "Hiro Miyamoto" .
 <http://www.giantbomb.com/hiro-miyamoto/3005-546/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/hiro-miyamoto/3005-546/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Mikiko-Ebihara/3005-14561/#character> .
-<http://www.giantbomb.com/hiro-miyamoto/3005-546/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Superfly-Johnson/3005-15505/#character> .
+<http://www.giantbomb.com/hiro-miyamoto/3005-546/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/mikiko-ebihara/3005-14561/#character> .
+<http://www.giantbomb.com/hiro-miyamoto/3005-546/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/superfly-johnson/3005-15505/#character> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/prehistorik/3030-2556/releases/#toc-release-97249> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/prehistorik/3030-2556/releases/#toc-release-97249> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Prehistorik/3030-2556/#game> .
-<http://www.giantbomb.com/prehistorik/3030-2556/releases/#toc-release-97249> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/prehistorik/3030-2556/releases/#toc-release-97249> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/prehistorik/3030-2556/#game> .
+<http://www.giantbomb.com/prehistorik/3030-2556/releases/#toc-release-97249> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/prehistorik/3030-2556/releases/#toc-release-97249> <http://dbpedia.org/ontology/releaseDate> "1994-01-01" .

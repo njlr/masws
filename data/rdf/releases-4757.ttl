@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/egaint/3030-4757/releases/#toc-release-109958> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/egaint/3030-4757/releases/#toc-release-109958> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Egaint/3030-4757/#game> .
-<http://www.giantbomb.com/egaint/3030-4757/releases/#toc-release-109958> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/egaint/3030-4757/releases/#toc-release-109958> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/egaint/3030-4757/#game> .
+<http://www.giantbomb.com/egaint/3030-4757/releases/#toc-release-109958> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/egaint/3030-4757/releases/#toc-release-109958> <http://dbpedia.org/ontology/releaseDate> "1989-05-02" .

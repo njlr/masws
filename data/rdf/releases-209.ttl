@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/releases/#toc-release-111040> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/releases/#toc-release-111040> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Tiny-Toon-Adventures:-The-Great-Beanstalk/3030-209/#game> .
-<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/releases/#toc-release-111040> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/releases/#toc-release-111040> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/#game> .
+<http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/releases/#toc-release-111040> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/tiny-toon-adventures-the-great-beanstalk/3030-209/releases/#toc-release-111040> <http://dbpedia.org/ontology/releaseDate> "1998-10-27" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/heroes-of-might-and-magic-iv-the-gathering-storm/3030-634/releases/#toc-release-96331> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/heroes-of-might-and-magic-iv-the-gathering-storm/3030-634/releases/#toc-release-96331> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Heroes-of-Might-and-Magic-IV:-The-Gathering-Storm/3030-634/#game> .
-<http://www.giantbomb.com/heroes-of-might-and-magic-iv-the-gathering-storm/3030-634/releases/#toc-release-96331> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/heroes-of-might-and-magic-iv-the-gathering-storm/3030-634/releases/#toc-release-96331> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/heroes-of-might-and-magic-iv-the-gathering-storm/3030-634/#game> .
+<http://www.giantbomb.com/heroes-of-might-and-magic-iv-the-gathering-storm/3030-634/releases/#toc-release-96331> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/heroes-of-might-and-magic-iv-the-gathering-storm/3030-634/releases/#toc-release-96331> <http://dbpedia.org/ontology/releaseDate> "2004-09-09" .

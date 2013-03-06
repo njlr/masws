@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/karnov/3005-410/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/karnov/3005-410/#character> <http://xmlns.com/foaf/0.1/#name> "Karnov" .
 <http://www.giantbomb.com/karnov/3005-410/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/karnov/3005-410/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/God/3005-7315/#character> .
-<http://www.giantbomb.com/karnov/3005-410/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Makoto-Mizoguchi/3005-10784/#character> .
+<http://www.giantbomb.com/karnov/3005-410/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/god/3005-7315/#character> .
+<http://www.giantbomb.com/karnov/3005-410/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/makoto-mizoguchi/3005-10784/#character> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/konami-krazy-racers/3030-710/releases/#toc-release-84316> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/konami-krazy-racers/3030-710/releases/#toc-release-84316> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Konami-Krazy-Racers/3030-710/#game> .
-<http://www.giantbomb.com/konami-krazy-racers/3030-710/releases/#toc-release-84316> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/konami-krazy-racers/3030-710/releases/#toc-release-84316> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/konami-krazy-racers/3030-710/#game> .
+<http://www.giantbomb.com/konami-krazy-racers/3030-710/releases/#toc-release-84316> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/konami-krazy-racers/3030-710/releases/#toc-release-84316> <http://dbpedia.org/ontology/releaseDate> "2001-06-15" .

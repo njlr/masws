@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/yu-gi-oh-world-championship-2007/3030-3277/releases/#toc-release-8627> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/yu-gi-oh-world-championship-2007/3030-3277/releases/#toc-release-8627> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Yu-Gi-Oh!-World-Championship-2007/3030-3277/#game> .
-<http://www.giantbomb.com/yu-gi-oh-world-championship-2007/3030-3277/releases/#toc-release-8627> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/yu-gi-oh-world-championship-2007/3030-3277/releases/#toc-release-8627> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/yu-gi-oh!-world-championship-2007/3030-3277/#game> .
+<http://www.giantbomb.com/yu-gi-oh-world-championship-2007/3030-3277/releases/#toc-release-8627> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/yu-gi-oh-world-championship-2007/3030-3277/releases/#toc-release-8627> <http://dbpedia.org/ontology/releaseDate> "2007-03-20" .

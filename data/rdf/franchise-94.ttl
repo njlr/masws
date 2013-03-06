@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/clock-tower/3025-94/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/clock-tower/3025-94/#franchise> <http://xmlns.com/foaf/0.1/#name> "Clock Tower" .
-<http://www.giantbomb.com/clock-tower/3025-94/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Clock-Tower/3030-2364/#game> .
-<http://www.giantbomb.com/clock-tower/3025-94/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Clock-Tower-3/3030-17962/#game> .
-<http://www.giantbomb.com/clock-tower/3025-94/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Clock-Tower-2:-The-Struggle-Within/3030-18132/#game> .
-<http://www.giantbomb.com/clock-tower/3025-94/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Clock-Tower:-The-First-Fear/3030-31949/#game> .
+<http://www.giantbomb.com/clock-tower/3025-94/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/clock-tower/3030-2364/#game> .
+<http://www.giantbomb.com/clock-tower/3025-94/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/clock-tower-3/3030-17962/#game> .
+<http://www.giantbomb.com/clock-tower/3025-94/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/clock-tower-2-the-struggle-within/3030-18132/#game> .
+<http://www.giantbomb.com/clock-tower/3025-94/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/clock-tower-the-first-fear/3030-31949/#game> .

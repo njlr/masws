@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/doc-louis/3005-358/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/doc-louis/3005-358/#character> <http://xmlns.com/foaf/0.1/#name> "Doc Louis" .
 <http://www.giantbomb.com/doc-louis/3005-358/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/doc-louis/3005-358/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Little-Mac/3005-357/#character> .
-<http://www.giantbomb.com/doc-louis/3005-358/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Bald-Bull/3005-60/#character> .
+<http://www.giantbomb.com/doc-louis/3005-358/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/little-mac/3005-357/#character> .
+<http://www.giantbomb.com/doc-louis/3005-358/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/bald-bull/3005-60/#character> .

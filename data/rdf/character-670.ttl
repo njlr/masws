@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/cate-archer/3005-670/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/cate-archer/3005-670/#character> <http://xmlns.com/foaf/0.1/#name> "Cate Archer" .
 <http://www.giantbomb.com/cate-archer/3005-670/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Bruno-Lawrie/3005-3351/#character> .
-<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Magnus-Armstrong/3005-2862/#character> .
-<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dimitrij-Volkov/3005-3343/#character> .
-<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Magnus-Armstrong/3005-2862/#character> .
-<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Tom-Goodman/3005-3415/#character> .
+<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/bruno-lawrie/3005-3351/#character> .
+<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/magnus-armstrong/3005-2862/#character> .
+<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/dimitrij-volkov/3005-3343/#character> .
+<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/magnus-armstrong/3005-2862/#character> .
+<http://www.giantbomb.com/cate-archer/3005-670/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/tom-goodman/3005-3415/#character> .

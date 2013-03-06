@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/altered-beast/3025-29/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/altered-beast/3025-29/#franchise> <http://xmlns.com/foaf/0.1/#name> "Altered Beast" .
-<http://www.giantbomb.com/altered-beast/3025-29/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Altered-Beast/3030-2536/#game> .
-<http://www.giantbomb.com/altered-beast/3025-29/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Altered-Beast:-Guardian-of-the-Realms/3030-11220/#game> .
-<http://www.giantbomb.com/altered-beast/3025-29/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Altered-Beast/3030-35737/#game> .
+<http://www.giantbomb.com/altered-beast/3025-29/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/altered-beast/3030-2536/#game> .
+<http://www.giantbomb.com/altered-beast/3025-29/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/altered-beast-guardian-of-the-realms/3030-11220/#game> .
+<http://www.giantbomb.com/altered-beast/3025-29/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/altered-beast/3030-35737/#game> .

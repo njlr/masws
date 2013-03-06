@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/monster-jam-maximum-destruction/3030-2589/releases/#toc-release-124154> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/monster-jam-maximum-destruction/3030-2589/releases/#toc-release-124154> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Monster-Jam:-Maximum-Destruction/3030-2589/#game> .
-<http://www.giantbomb.com/monster-jam-maximum-destruction/3030-2589/releases/#toc-release-124154> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/monster-jam-maximum-destruction/3030-2589/releases/#toc-release-124154> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/monster-jam-maximum-destruction/3030-2589/#game> .
+<http://www.giantbomb.com/monster-jam-maximum-destruction/3030-2589/releases/#toc-release-124154> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/monster-jam-maximum-destruction/3030-2589/releases/#toc-release-124154> <http://dbpedia.org/ontology/releaseDate> "2008-06-05" .

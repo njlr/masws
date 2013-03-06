@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/zombie-shooter/3030-3819/releases/#toc-release-9975> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/zombie-shooter/3030-3819/releases/#toc-release-9975> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Zombie-Shooter/3030-3819/#game> .
+<http://www.giantbomb.com/zombie-shooter/3030-3819/releases/#toc-release-9975> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/zombie-shooter/3030-3819/#game> .
 <http://www.giantbomb.com/zombie-shooter/3030-3819/releases/#toc-release-9975> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/zombie-shooter/3030-3819/releases/#toc-release-9975> <http://dbpedia.org/ontology/releaseDate> "2007-12-29" .

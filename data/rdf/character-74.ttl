@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/sonia-belmont/3005-74/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/sonia-belmont/3005-74/#character> <http://xmlns.com/foaf/0.1/#name> "Sonia Belmont" .
 <http://www.giantbomb.com/sonia-belmont/3005-74/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/sonia-belmont/3005-74/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Alucard/3005-646/#character> .
-<http://www.giantbomb.com/sonia-belmont/3005-74/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Trevor-Belmont/3005-33/#character> .
-<http://www.giantbomb.com/sonia-belmont/3005-74/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dracula/3005-348/#character> .
-<http://www.giantbomb.com/sonia-belmont/3005-74/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Death/3005-5581/#character> .
+<http://www.giantbomb.com/sonia-belmont/3005-74/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/alucard/3005-646/#character> .
+<http://www.giantbomb.com/sonia-belmont/3005-74/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/trevor-belmont/3005-33/#character> .
+<http://www.giantbomb.com/sonia-belmont/3005-74/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/dracula/3005-348/#character> .
+<http://www.giantbomb.com/sonia-belmont/3005-74/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/death/3005-5581/#character> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/hellcats-over-the-pacific/3030-2680/releases/#toc-release-115017> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/hellcats-over-the-pacific/3030-2680/releases/#toc-release-115017> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Hellcats-Over-the-Pacific/3030-2680/#game> .
-<http://www.giantbomb.com/hellcats-over-the-pacific/3030-2680/releases/#toc-release-115017> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/hellcats-over-the-pacific/3030-2680/releases/#toc-release-115017> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hellcats-over-the-pacific/3030-2680/#game> .
+<http://www.giantbomb.com/hellcats-over-the-pacific/3030-2680/releases/#toc-release-115017> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/hellcats-over-the-pacific/3030-2680/releases/#toc-release-115017> <http://dbpedia.org/ontology/releaseDate> "1991-01-01" .

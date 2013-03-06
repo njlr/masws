@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/the-legend-of-kyrandia/3030-295/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/the-legend-of-kyrandia/3030-295/#game> <http://xmlns.com/foaf/0.1/#name> "The Legend of Kyrandia" .
-<http://www.giantbomb.com/the-legend-of-kyrandia/3030-295/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Zanthia/3005-11396/#character> .
-<http://www.giantbomb.com/the-legend-of-kyrandia/3030-295/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Malcolm/3005-11699/#character> .
-<http://www.giantbomb.com/the-legend-of-kyrandia/3030-295/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Brandon/3005-11849/#character> .
+<http://www.giantbomb.com/the-legend-of-kyrandia/3030-295/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/zanthia/3005-11396/#character> .
+<http://www.giantbomb.com/the-legend-of-kyrandia/3030-295/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/malcolm/3005-11699/#character> .
+<http://www.giantbomb.com/the-legend-of-kyrandia/3030-295/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/brandon/3005-11849/#character> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/gallop-racer/3030-999/releases/#toc-release-91233> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/gallop-racer/3030-999/releases/#toc-release-91233> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Gallop-Racer/3030-999/#game> .
-<http://www.giantbomb.com/gallop-racer/3030-999/releases/#toc-release-91233> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/gallop-racer/3030-999/releases/#toc-release-91233> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/gallop-racer/3030-999/#game> .
+<http://www.giantbomb.com/gallop-racer/3030-999/releases/#toc-release-91233> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/gallop-racer/3030-999/releases/#toc-release-91233> <http://dbpedia.org/ontology/releaseDate> "1999-03-17" .

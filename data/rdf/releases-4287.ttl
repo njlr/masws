@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/mario-pinball-land/3030-4287/releases/#toc-release-83387> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/mario-pinball-land/3030-4287/releases/#toc-release-83387> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Mario-Pinball-Land/3030-4287/#game> .
-<http://www.giantbomb.com/mario-pinball-land/3030-4287/releases/#toc-release-83387> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/mario-pinball-land/3030-4287/releases/#toc-release-83387> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mario-pinball-land/3030-4287/#game> .
+<http://www.giantbomb.com/mario-pinball-land/3030-4287/releases/#toc-release-83387> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/mario-pinball-land/3030-4287/releases/#toc-release-83387> <http://dbpedia.org/ontology/releaseDate> "2004-10-04" .

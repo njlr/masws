@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/tiger-woods-pga-tour-2002/3030-1943/releases/#toc-release-121814> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/tiger-woods-pga-tour-2002/3030-1943/releases/#toc-release-121814> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Tiger-Woods-PGA-Tour-2002/3030-1943/#game> .
-<http://www.giantbomb.com/tiger-woods-pga-tour-2002/3030-1943/releases/#toc-release-121814> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/tiger-woods-pga-tour-2002/3030-1943/releases/#toc-release-121814> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/tiger-woods-pga-tour-2002/3030-1943/#game> .
+<http://www.giantbomb.com/tiger-woods-pga-tour-2002/3030-1943/releases/#toc-release-121814> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/tiger-woods-pga-tour-2002/3030-1943/releases/#toc-release-121814> <http://dbpedia.org/ontology/releaseDate> "2002-05-20" .

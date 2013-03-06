@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/asteroids-hyper-64/3030-437/releases/#toc-release-88001> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/asteroids-hyper-64/3030-437/releases/#toc-release-88001> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Asteroids-Hyper-64/3030-437/#game> .
-<http://www.giantbomb.com/asteroids-hyper-64/3030-437/releases/#toc-release-88001> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/asteroids-hyper-64/3030-437/releases/#toc-release-88001> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/asteroids-hyper-64/3030-437/#game> .
+<http://www.giantbomb.com/asteroids-hyper-64/3030-437/releases/#toc-release-88001> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/asteroids-hyper-64/3030-437/releases/#toc-release-88001> <http://dbpedia.org/ontology/releaseDate> "1999-12-14" .

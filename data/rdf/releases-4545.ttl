@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ganbare-goemon-mononoke-sugoroku/3030-4545/releases/#toc-release-97953> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/ganbare-goemon-mononoke-sugoroku/3030-4545/releases/#toc-release-97953> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Ganbare-Goemon:-Mononoke-Sugoroku/3030-4545/#game> .
-<http://www.giantbomb.com/ganbare-goemon-mononoke-sugoroku/3030-4545/releases/#toc-release-97953> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/ganbare-goemon-mononoke-sugoroku/3030-4545/releases/#toc-release-97953> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ganbare-goemon-mononoke-sugoroku/3030-4545/#game> .
+<http://www.giantbomb.com/ganbare-goemon-mononoke-sugoroku/3030-4545/releases/#toc-release-97953> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/ganbare-goemon-mononoke-sugoroku/3030-4545/releases/#toc-release-97953> <http://dbpedia.org/ontology/releaseDate> "1999-12-25" .

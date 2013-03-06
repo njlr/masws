@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/town-country-surf-designs-wood-water-rage/3030-2963/releases/#toc-release-87279> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/town-country-surf-designs-wood-water-rage/3030-2963/releases/#toc-release-87279> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Town-&-Country-Surf-Designs:-Wood-&-Water-Rage/3030-2963/#game> .
-<http://www.giantbomb.com/town-country-surf-designs-wood-water-rage/3030-2963/releases/#toc-release-87279> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/town-country-surf-designs-wood-water-rage/3030-2963/releases/#toc-release-87279> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/town-&-country-surf-designs-wood-&-water-rage/3030-2963/#game> .
+<http://www.giantbomb.com/town-country-surf-designs-wood-water-rage/3030-2963/releases/#toc-release-87279> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/town-country-surf-designs-wood-water-rage/3030-2963/releases/#toc-release-87279> <http://dbpedia.org/ontology/releaseDate> "1988-02-01" .

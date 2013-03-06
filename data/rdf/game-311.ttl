@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/donkey-kong/3030-311/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/donkey-kong/3030-311/#game> <http://xmlns.com/foaf/0.1/#name> "Donkey Kong" .
-<http://www.giantbomb.com/donkey-kong/3030-311/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mario/3005-177/#character> .
-<http://www.giantbomb.com/donkey-kong/3030-311/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Pauline/3005-1246/#character> .
-<http://www.giantbomb.com/donkey-kong/3030-311/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Donkey-Kong/3005-299/#character> .
-<http://www.giantbomb.com/donkey-kong/3030-311/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Cranky-Kong/3005-311/#character> .
+<http://www.giantbomb.com/donkey-kong/3030-311/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/mario/3005-177/#character> .
+<http://www.giantbomb.com/donkey-kong/3030-311/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/pauline/3005-1246/#character> .
+<http://www.giantbomb.com/donkey-kong/3030-311/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/donkey-kong/3005-299/#character> .
+<http://www.giantbomb.com/donkey-kong/3030-311/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/cranky-kong/3005-311/#character> .

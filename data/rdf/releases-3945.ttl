@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/star-warped/3030-3945/releases/#toc-release-95011> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/star-warped/3030-3945/releases/#toc-release-95011> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Star-Warped/3030-3945/#game> .
-<http://www.giantbomb.com/star-warped/3030-3945/releases/#toc-release-95011> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/star-warped/3030-3945/releases/#toc-release-95011> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/star-warped/3030-3945/#game> .
+<http://www.giantbomb.com/star-warped/3030-3945/releases/#toc-release-95011> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/star-warped/3030-3945/releases/#toc-release-95011> <http://dbpedia.org/ontology/releaseDate> "1997-12-31" .

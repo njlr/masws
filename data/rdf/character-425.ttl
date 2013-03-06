@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <http://xmlns.com/foaf/0.1/#name> "King of All Cosmos" .
 <http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/The-Prince/3005-944/#character> .
-<http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Lucha/3005-3779/#character> .
-<http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/RoboKing/3005-12434/#character> .
-<http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/The-Prince/3005-944/#character> .
+<http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/the-prince/3005-944/#character> .
+<http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/lucha/3005-3779/#character> .
+<http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/roboking/3005-12434/#character> .
+<http://www.giantbomb.com/king-of-all-cosmos/3005-425/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/the-prince/3005-944/#character> .

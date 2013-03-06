@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bee-52/3030-1813/releases/#toc-release-100449> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/bee-52/3030-1813/releases/#toc-release-100449> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Bee-52/3030-1813/#game> .
-<http://www.giantbomb.com/bee-52/3030-1813/releases/#toc-release-100449> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/bee-52/3030-1813/releases/#toc-release-100449> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bee-52/3030-1813/#game> .
+<http://www.giantbomb.com/bee-52/3030-1813/releases/#toc-release-100449> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/bee-52/3030-1813/releases/#toc-release-100449> <http://dbpedia.org/ontology/releaseDate> "1992-01-01" .

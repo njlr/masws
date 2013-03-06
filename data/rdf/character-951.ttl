@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <http://xmlns.com/foaf/0.1/#name> "Stay-Puft Marshmallow Man" .
 <http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Gozer-the-Gozerian/3005-14698/#character> .
-<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Egon-Spengler/3005-1290/#character> .
-<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Winston-Zeddemore/3005-1645/#character> .
-<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Peter-Venkman/3005-1284/#character> .
-<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Ray-Stantz/3005-1286/#character> .
-<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Rookie-(Ghostbusters)/3005-17202/#character> .
-<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Walter-Peck/3005-18924/#character> .
+<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/gozer-the-gozerian/3005-14698/#character> .
+<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/egon-spengler/3005-1290/#character> .
+<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/winston-zeddemore/3005-1645/#character> .
+<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/peter-venkman/3005-1284/#character> .
+<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/ray-stantz/3005-1286/#character> .
+<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/rookie-(ghostbusters)/3005-17202/#character> .
+<http://www.giantbomb.com/stay-puft-marshmallow-man/3005-951/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/walter-peck/3005-18924/#character> .

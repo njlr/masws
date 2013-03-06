@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/metal-slug/3030-847/releases/#toc-release-105712> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/metal-slug/3030-847/releases/#toc-release-105712> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Metal-Slug/3030-847/#game> .
-<http://www.giantbomb.com/metal-slug/3030-847/releases/#toc-release-105712> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/metal-slug/3030-847/releases/#toc-release-105712> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/metal-slug/3030-847/#game> .
+<http://www.giantbomb.com/metal-slug/3030-847/releases/#toc-release-105712> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/metal-slug/3030-847/releases/#toc-release-105712> <http://dbpedia.org/ontology/releaseDate> "2010-12-21" .

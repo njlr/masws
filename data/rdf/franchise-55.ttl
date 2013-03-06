@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/beach-head/3025-55/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/beach-head/3025-55/#franchise> <http://xmlns.com/foaf/0.1/#name> "Beach Head" .
-<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Beach-Head-2000/3030-1214/#game> .
-<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Beach-Head-II:-The-Dictator-Strikes-Back!/3030-6429/#game> .
-<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Beach-Head/3030-8464/#game> .
-<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Beach-Head-2002/3030-9252/#game> .
-<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Beach-Head:-Desert-War/3030-16494/#game> .
+<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/beach-head-2000/3030-1214/#game> .
+<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/beach-head-ii-the-dictator-strikes-back!/3030-6429/#game> .
+<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/beach-head/3030-8464/#game> .
+<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/beach-head-2002/3030-9252/#game> .
+<http://www.giantbomb.com/beach-head/3025-55/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/beach-head-desert-war/3030-16494/#game> .

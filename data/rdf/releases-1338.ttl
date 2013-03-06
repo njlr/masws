@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/new-ghostbusters-ii/3030-1338/releases/#toc-release-122274> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/new-ghostbusters-ii/3030-1338/releases/#toc-release-122274> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/New-Ghostbusters-II/3030-1338/#game> .
-<http://www.giantbomb.com/new-ghostbusters-ii/3030-1338/releases/#toc-release-122274> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/new-ghostbusters-ii/3030-1338/releases/#toc-release-122274> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/new-ghostbusters-ii/3030-1338/#game> .
+<http://www.giantbomb.com/new-ghostbusters-ii/3030-1338/releases/#toc-release-122274> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/new-ghostbusters-ii/3030-1338/releases/#toc-release-122274> <http://dbpedia.org/ontology/releaseDate> "1990-12-26" .

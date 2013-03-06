@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/machine-hell/3030-2656/releases/#toc-release-7072> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/machine-hell/3030-2656/releases/#toc-release-7072> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Machine-Hell/3030-2656/#game> .
+<http://www.giantbomb.com/machine-hell/3030-2656/releases/#toc-release-7072> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/machine-hell/3030-2656/#game> .
 <http://www.giantbomb.com/machine-hell/3030-2656/releases/#toc-release-7072> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/machine-hell/3030-2656/releases/#toc-release-7072> <http://dbpedia.org/ontology/releaseDate> "2005-03-02" .

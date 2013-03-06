@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ashen-empires/3030-1521/releases/#toc-release-3950> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/ashen-empires/3030-1521/releases/#toc-release-3950> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Ashen-Empires/3030-1521/#game> .
+<http://www.giantbomb.com/ashen-empires/3030-1521/releases/#toc-release-3950> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ashen-empires/3030-1521/#game> .
 <http://www.giantbomb.com/ashen-empires/3030-1521/releases/#toc-release-3950> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/ashen-empires/3030-1521/releases/#toc-release-3950> <http://dbpedia.org/ontology/releaseDate> "2004-01-01" .

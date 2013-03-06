@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/mr-pants/3005-167/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/mr-pants/3005-167/#character> <http://xmlns.com/foaf/0.1/#name> "Mr. Pants" .
 <http://www.giantbomb.com/mr-pants/3005-167/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/mr-pants/3005-167/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Boggy/3005-9283/#character> .
+<http://www.giantbomb.com/mr-pants/3005-167/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/boggy/3005-9283/#character> .

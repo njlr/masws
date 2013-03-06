@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/candice-michelle/3005-613/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/candice-michelle/3005-613/#character> <http://xmlns.com/foaf/0.1/#name> "Candice Michelle" .
 <http://www.giantbomb.com/candice-michelle/3005-613/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Mickie-James/3005-612/#character> .
-<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/John-Cena/3005-470/#character> .
-<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Ric-Flair/3005-594/#character> .
-<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Torrie-Wilson/3005-608/#character> .
-<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Melina/3005-611/#character> .
+<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/mickie-james/3005-612/#character> .
+<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/john-cena/3005-470/#character> .
+<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/ric-flair/3005-594/#character> .
+<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/torrie-wilson/3005-608/#character> .
+<http://www.giantbomb.com/candice-michelle/3005-613/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/melina/3005-611/#character> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/flesh-feast/3030-3568/releases/#toc-release-95526> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/flesh-feast/3030-3568/releases/#toc-release-95526> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Flesh-Feast/3030-3568/#game> .
-<http://www.giantbomb.com/flesh-feast/3030-3568/releases/#toc-release-95526> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/flesh-feast/3030-3568/releases/#toc-release-95526> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/flesh-feast/3030-3568/#game> .
+<http://www.giantbomb.com/flesh-feast/3030-3568/releases/#toc-release-95526> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/flesh-feast/3030-3568/releases/#toc-release-95526> <http://dbpedia.org/ontology/releaseDate> "2005-01-01" .

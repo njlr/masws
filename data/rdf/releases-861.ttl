@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/pac-mania/3030-861/releases/#toc-release-85501> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/pac-mania/3030-861/releases/#toc-release-85501> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Pac-Mania/3030-861/#game> .
-<http://www.giantbomb.com/pac-mania/3030-861/releases/#toc-release-85501> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/pac-mania/3030-861/releases/#toc-release-85501> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pac-mania/3030-861/#game> .
+<http://www.giantbomb.com/pac-mania/3030-861/releases/#toc-release-85501> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/pac-mania/3030-861/releases/#toc-release-85501> <http://dbpedia.org/ontology/releaseDate> "2009-08-07" .

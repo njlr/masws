@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/serious-sam/3030-65/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/serious-sam/3030-65/#game> <http://xmlns.com/foaf/0.1/#name> "Serious Sam" .
-<http://www.giantbomb.com/serious-sam/3030-65/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Sam-Serious-Stone/3005-1620/#character> .
-<http://www.giantbomb.com/serious-sam/3030-65/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Ugh-Zan-III/3005-5998/#character> .
+<http://www.giantbomb.com/serious-sam/3030-65/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/sam-serious-stone/3005-1620/#character> .
+<http://www.giantbomb.com/serious-sam/3030-65/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/ugh-zan-iii/3005-5998/#character> .

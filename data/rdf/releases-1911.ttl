@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/armadillo/3030-1911/releases/#toc-release-104582> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/armadillo/3030-1911/releases/#toc-release-104582> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Armadillo/3030-1911/#game> .
-<http://www.giantbomb.com/armadillo/3030-1911/releases/#toc-release-104582> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/armadillo/3030-1911/releases/#toc-release-104582> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/armadillo/3030-1911/#game> .
+<http://www.giantbomb.com/armadillo/3030-1911/releases/#toc-release-104582> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/armadillo/3030-1911/releases/#toc-release-104582> <http://dbpedia.org/ontology/releaseDate> "1991-08-09" .

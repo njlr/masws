@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/quarantine-ii-road-warrior/3030-4543/releases/#toc-release-117717> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/quarantine-ii-road-warrior/3030-4543/releases/#toc-release-117717> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Quarantine-II:-Road-Warrior/3030-4543/#game> .
-<http://www.giantbomb.com/quarantine-ii-road-warrior/3030-4543/releases/#toc-release-117717> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/quarantine-ii-road-warrior/3030-4543/releases/#toc-release-117717> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/quarantine-ii-road-warrior/3030-4543/#game> .
+<http://www.giantbomb.com/quarantine-ii-road-warrior/3030-4543/releases/#toc-release-117717> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/quarantine-ii-road-warrior/3030-4543/releases/#toc-release-117717> <http://dbpedia.org/ontology/releaseDate> "1995-01-01" .

@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/captain-sawada/3005-268/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/captain-sawada/3005-268/#character> <http://xmlns.com/foaf/0.1/#name> "Captain Sawada" .
 <http://www.giantbomb.com/captain-sawada/3005-268/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/captain-sawada/3005-268/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Guile/3005-266/#character> .
-<http://www.giantbomb.com/captain-sawada/3005-268/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/M-Bison/3005-185/#character> .
+<http://www.giantbomb.com/captain-sawada/3005-268/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/guile/3005-266/#character> .
+<http://www.giantbomb.com/captain-sawada/3005-268/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/m-bison/3005-185/#character> .

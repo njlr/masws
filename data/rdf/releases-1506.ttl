@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/twinbee-da/3030-1506/releases/#toc-release-100342> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/twinbee-da/3030-1506/releases/#toc-release-100342> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Twinbee-da!/3030-1506/#game> .
-<http://www.giantbomb.com/twinbee-da/3030-1506/releases/#toc-release-100342> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/twinbee-da/3030-1506/releases/#toc-release-100342> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/twinbee-da!/3030-1506/#game> .
+<http://www.giantbomb.com/twinbee-da/3030-1506/releases/#toc-release-100342> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/twinbee-da/3030-1506/releases/#toc-release-100342> <http://dbpedia.org/ontology/releaseDate> "2000-01-01" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/little-magic/3030-2263/releases/#toc-release-109203> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/little-magic/3030-2263/releases/#toc-release-109203> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Little-Magic/3030-2263/#game> .
-<http://www.giantbomb.com/little-magic/3030-2263/releases/#toc-release-109203> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/little-magic/3030-2263/releases/#toc-release-109203> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/little-magic/3030-2263/#game> .
+<http://www.giantbomb.com/little-magic/3030-2263/releases/#toc-release-109203> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/little-magic/3030-2263/releases/#toc-release-109203> <http://dbpedia.org/ontology/releaseDate> "1993-12-24" .

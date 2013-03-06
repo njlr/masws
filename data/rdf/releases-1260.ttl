@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/evander-holyfields-real-deal-boxing/3030-1260/releases/#toc-release-89071> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/evander-holyfields-real-deal-boxing/3030-1260/releases/#toc-release-89071> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Evander-Holyfield's-Real-Deal-Boxing/3030-1260/#game> .
-<http://www.giantbomb.com/evander-holyfields-real-deal-boxing/3030-1260/releases/#toc-release-89071> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/evander-holyfields-real-deal-boxing/3030-1260/releases/#toc-release-89071> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/evander-holyfield's-real-deal-boxing/3030-1260/#game> .
+<http://www.giantbomb.com/evander-holyfields-real-deal-boxing/3030-1260/releases/#toc-release-89071> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/evander-holyfields-real-deal-boxing/3030-1260/releases/#toc-release-89071> <http://dbpedia.org/ontology/releaseDate> "1992-01-01" .

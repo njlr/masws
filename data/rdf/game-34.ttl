@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/batman-begins/3030-34/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/batman-begins/3030-34/#game> <http://xmlns.com/foaf/0.1/#name> "Batman Begins" .
-<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Batman/3005-66/#character> .
-<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Scarecrow/3005-4907/#character> .
-<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/James-Gordon/3005-6404/#character> .
-<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Ra's-Al-Ghul/3005-10163/#character> .
-<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mr-Zsasz/3005-10486/#character> .
-<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Alfred-Pennyworth/3005-8250/#character> .
-<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/The-Joker/3005-952/#character> .
+<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/batman/3005-66/#character> .
+<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/scarecrow/3005-4907/#character> .
+<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/james-gordon/3005-6404/#character> .
+<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/ra's-al-ghul/3005-10163/#character> .
+<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/mr-zsasz/3005-10486/#character> .
+<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/alfred-pennyworth/3005-8250/#character> .
+<http://www.giantbomb.com/batman-begins/3030-34/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/the-joker/3005-952/#character> .

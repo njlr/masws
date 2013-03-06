@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/kaze-no-klonoa-moonlight-museum/3030-2202/releases/#toc-release-79452> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/kaze-no-klonoa-moonlight-museum/3030-2202/releases/#toc-release-79452> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Kaze-no-Klonoa:-Moonlight-Museum/3030-2202/#game> .
-<http://www.giantbomb.com/kaze-no-klonoa-moonlight-museum/3030-2202/releases/#toc-release-79452> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/kaze-no-klonoa-moonlight-museum/3030-2202/releases/#toc-release-79452> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/kaze-no-klonoa-moonlight-museum/3030-2202/#game> .
+<http://www.giantbomb.com/kaze-no-klonoa-moonlight-museum/3030-2202/releases/#toc-release-79452> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/kaze-no-klonoa-moonlight-museum/3030-2202/releases/#toc-release-79452> <http://dbpedia.org/ontology/releaseDate> "1999-05-20" .

@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/blaster-master/3025-62/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/blaster-master/3025-62/#franchise> <http://xmlns.com/foaf/0.1/#name> "Blaster Master" .
-<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Blaster-Master-Boy/3030-1018/#game> .
-<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Blaster-Master/3030-1257/#game> .
-<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Blaster-Master-2/3030-9851/#game> .
-<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Blaster-Master:-Enemy-Below/3030-10374/#game> .
-<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Blaster-Master:-Blasting-Again/3030-16758/#game> .
-<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Blaster-Master:-Overdrive/3030-29979/#game> .
+<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/blaster-master-boy/3030-1018/#game> .
+<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/blaster-master/3030-1257/#game> .
+<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/blaster-master-2/3030-9851/#game> .
+<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/blaster-master-enemy-below/3030-10374/#game> .
+<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/blaster-master-blasting-again/3030-16758/#game> .
+<http://www.giantbomb.com/blaster-master/3025-62/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/blaster-master-overdrive/3030-29979/#game> .

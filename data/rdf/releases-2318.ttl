@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/wheel-of-fortune/3030-2318/releases/#toc-release-87102> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/wheel-of-fortune/3030-2318/releases/#toc-release-87102> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Wheel-of-Fortune/3030-2318/#game> .
-<http://www.giantbomb.com/wheel-of-fortune/3030-2318/releases/#toc-release-87102> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/wheel-of-fortune/3030-2318/releases/#toc-release-87102> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/wheel-of-fortune/3030-2318/#game> .
+<http://www.giantbomb.com/wheel-of-fortune/3030-2318/releases/#toc-release-87102> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/wheel-of-fortune/3030-2318/releases/#toc-release-87102> <http://dbpedia.org/ontology/releaseDate> "2003-11-12" .

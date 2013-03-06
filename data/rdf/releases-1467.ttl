@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/fa-premier-league-football-manager-2000/3030-1467/releases/#toc-release-96631> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/fa-premier-league-football-manager-2000/3030-1467/releases/#toc-release-96631> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/FA-Premier-League-Football-Manager-2000/3030-1467/#game> .
-<http://www.giantbomb.com/fa-premier-league-football-manager-2000/3030-1467/releases/#toc-release-96631> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/fa-premier-league-football-manager-2000/3030-1467/releases/#toc-release-96631> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/fa-premier-league-football-manager-2000/3030-1467/#game> .
+<http://www.giantbomb.com/fa-premier-league-football-manager-2000/3030-1467/releases/#toc-release-96631> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/fa-premier-league-football-manager-2000/3030-1467/releases/#toc-release-96631> <http://dbpedia.org/ontology/releaseDate> "2000-01-01" .

@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/johnny-napalm/3005-796/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/johnny-napalm/3005-796/#character> <http://xmlns.com/foaf/0.1/#name> "Johnny Napalm" .
 <http://www.giantbomb.com/johnny-napalm/3005-796/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/johnny-napalm/3005-796/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Axel-Steel/3005-780/#character> .
-<http://www.giantbomb.com/johnny-napalm/3005-796/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Xavier-Stone/3005-806/#character> .
-<http://www.giantbomb.com/johnny-napalm/3005-796/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Pandora/3005-777/#character> .
+<http://www.giantbomb.com/johnny-napalm/3005-796/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/axel-steel/3005-780/#character> .
+<http://www.giantbomb.com/johnny-napalm/3005-796/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/xavier-stone/3005-806/#character> .
+<http://www.giantbomb.com/johnny-napalm/3005-796/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/pandora/3005-777/#character> .

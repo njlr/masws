@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/postman-pat-and-the-greendale-rocket/3030-1042/releases/#toc-release-2706> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/postman-pat-and-the-greendale-rocket/3030-1042/releases/#toc-release-2706> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Postman-Pat-and-the-Greendale-Rocket/3030-1042/#game> .
-<http://www.giantbomb.com/postman-pat-and-the-greendale-rocket/3030-1042/releases/#toc-release-2706> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/postman-pat-and-the-greendale-rocket/3030-1042/releases/#toc-release-2706> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/postman-pat-and-the-greendale-rocket/3030-1042/#game> .
+<http://www.giantbomb.com/postman-pat-and-the-greendale-rocket/3030-1042/releases/#toc-release-2706> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/postman-pat-and-the-greendale-rocket/3030-1042/releases/#toc-release-2706> <http://dbpedia.org/ontology/releaseDate> "2007-02-16" .

@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/general-akhboob/3005-533/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/general-akhboob/3005-533/#character> <http://xmlns.com/foaf/0.1/#name> "General Akhboob" .
 <http://www.giantbomb.com/general-akhboob/3005-533/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/general-akhboob/3005-533/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Captain-Carnage/3005-531/#character> .
-<http://www.giantbomb.com/general-akhboob/3005-533/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Major-Mayhem/3005-532/#character> .
+<http://www.giantbomb.com/general-akhboob/3005-533/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/captain-carnage/3005-531/#character> .
+<http://www.giantbomb.com/general-akhboob/3005-533/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/major-mayhem/3005-532/#character> .

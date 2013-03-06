@@ -40,20 +40,25 @@
     </xsl:choose>
 </xsl:template>
 
-<!-- A simple variable holding double quotes -->
+<!-- Helper variables -->
 <xsl:variable name="dq">
     <xsl:text>"</xsl:text>
 </xsl:variable>
 <xsl:variable name="dq2">
     <xsl:text>"</xsl:text>
 </xsl:variable>
+<xsl:variable name="colon">
+    <xsl:text>:</xsl:text>
+</xsl:variable>
+<xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz'" />
+<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
 
 <!-- Cleans up a name for use as part of a URL -->
 <xsl:template name="clean-name">
     <xsl:param name="name"/>
     <xsl:variable name="i">
         <xsl:call-template name="replace">
-            <xsl:with-param name="ptext" select="$name"/>
+            <xsl:with-param name="ptext" select="translate($name, $uppercase, $lowercase)"/>
             <xsl:with-param name="ppattern" select="' '"/>
             <xsl:with-param name="preplacement" select="'-'"/>
         </xsl:call-template>
@@ -79,8 +84,15 @@
             <xsl:with-param name="preplacement" select="''"/>
         </xsl:call-template>
     </xsl:variable>
+    <xsl:variable name="m">
+        <xsl:call-template name="replace">
+            <xsl:with-param name="ptext" select="$l"/>
+            <xsl:with-param name="ppattern" select="$colon"/>
+            <xsl:with-param name="preplacement" select="''"/>
+        </xsl:call-template>
+    </xsl:variable>
     <xsl:call-template name="replace">
-        <xsl:with-param name="ptext" select="$l"/>
+        <xsl:with-param name="ptext" select="$m"/>
         <xsl:with-param name="ppattern" select="'.'"/>
         <xsl:with-param name="preplacement" select="''"/>
     </xsl:call-template>

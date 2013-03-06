@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/zanzarah-the-hidden-portal/3030-908/releases/#toc-release-105581> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/zanzarah-the-hidden-portal/3030-908/releases/#toc-release-105581> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Zanzarah:-The-Hidden-Portal/3030-908/#game> .
-<http://www.giantbomb.com/zanzarah-the-hidden-portal/3030-908/releases/#toc-release-105581> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/zanzarah-the-hidden-portal/3030-908/releases/#toc-release-105581> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/zanzarah-the-hidden-portal/3030-908/#game> .
+<http://www.giantbomb.com/zanzarah-the-hidden-portal/3030-908/releases/#toc-release-105581> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/zanzarah-the-hidden-portal/3030-908/releases/#toc-release-105581> <http://dbpedia.org/ontology/releaseDate> "2002-12-18" .

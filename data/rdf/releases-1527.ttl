@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-divorce/3030-1527/releases/#toc-release-3960> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-divorce/3030-1527/releases/#toc-release-3960> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Divorce/3030-1527/#game> .
+<http://www.giantbomb.com/the-divorce/3030-1527/releases/#toc-release-3960> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-divorce/3030-1527/#game> .
 <http://www.giantbomb.com/the-divorce/3030-1527/releases/#toc-release-3960> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/the-divorce/3030-1527/releases/#toc-release-3960> <http://dbpedia.org/ontology/releaseDate> "2007-04-01" .

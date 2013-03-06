@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/t-hawk/3005-46/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/t-hawk/3005-46/#character> <http://xmlns.com/foaf/0.1/#name> "T. Hawk" .
 <http://www.giantbomb.com/t-hawk/3005-46/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Juli/3005-6136/#character> .
-<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Guile/3005-266/#character> .
-<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Noembelu/3005-24557/#character> .
-<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/El-Fuerte/3005-4988/#character> .
-<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dhalsim/3005-427/#character> .
-<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Ken-Masters/3005-212/#character> .
-<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/M-Bison/3005-185/#character> .
+<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/juli/3005-6136/#character> .
+<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/guile/3005-266/#character> .
+<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/noembelu/3005-24557/#character> .
+<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/el-fuerte/3005-4988/#character> .
+<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/dhalsim/3005-427/#character> .
+<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/ken-masters/3005-212/#character> .
+<http://www.giantbomb.com/t-hawk/3005-46/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/m-bison/3005-185/#character> .

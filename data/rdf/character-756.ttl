@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/elaine-marley/3005-756/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/elaine-marley/3005-756/#character> <http://xmlns.com/foaf/0.1/#name> "Elaine Marley" .
 <http://www.giantbomb.com/elaine-marley/3005-756/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Guybrush-Threepwood/3005-657/#character> .
-<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Wally-B-Feed/3005-768/#character> .
-<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Herman-Toothrot/3005-3484/#character> .
-<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Meathook/3005-2333/#character> .
-<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/LeChuck/3005-762/#character> .
-<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Largo-LaGrande/3005-2462/#character> .
-<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/McGillicutty/3005-12488/#character> .
+<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/guybrush-threepwood/3005-657/#character> .
+<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/wally-b-feed/3005-768/#character> .
+<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/herman-toothrot/3005-3484/#character> .
+<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/meathook/3005-2333/#character> .
+<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/lechuck/3005-762/#character> .
+<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/largo-lagrande/3005-2462/#character> .
+<http://www.giantbomb.com/elaine-marley/3005-756/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/mcgillicutty/3005-12488/#character> .

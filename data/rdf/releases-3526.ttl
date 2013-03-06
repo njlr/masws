@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bishoujo-senshi-sailor-moon-another-story/3030-3526/releases/#toc-release-104288> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-another-story/3030-3526/releases/#toc-release-104288> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Bishoujo-Senshi-Sailor-Moon:-Another-Story/3030-3526/#game> .
-<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-another-story/3030-3526/releases/#toc-release-104288> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-another-story/3030-3526/releases/#toc-release-104288> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bishoujo-senshi-sailor-moon-another-story/3030-3526/#game> .
+<http://www.giantbomb.com/bishoujo-senshi-sailor-moon-another-story/3030-3526/releases/#toc-release-104288> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/bishoujo-senshi-sailor-moon-another-story/3030-3526/releases/#toc-release-104288> <http://dbpedia.org/ontology/releaseDate> "1995-09-22" .

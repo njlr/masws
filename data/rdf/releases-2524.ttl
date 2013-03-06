@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/men-in-black-ii-alien-escape/3030-2524/releases/#toc-release-124326> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/men-in-black-ii-alien-escape/3030-2524/releases/#toc-release-124326> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Men-in-Black-II:-Alien-Escape/3030-2524/#game> .
-<http://www.giantbomb.com/men-in-black-ii-alien-escape/3030-2524/releases/#toc-release-124326> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/men-in-black-ii-alien-escape/3030-2524/releases/#toc-release-124326> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/men-in-black-ii-alien-escape/3030-2524/#game> .
+<http://www.giantbomb.com/men-in-black-ii-alien-escape/3030-2524/releases/#toc-release-124326> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/men-in-black-ii-alien-escape/3030-2524/releases/#toc-release-124326> <http://dbpedia.org/ontology/releaseDate> "2002-06-28" .

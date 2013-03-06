@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/stubbs-the-zombie-in-rebel-without-a-pulse/3030-261/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/stubbs-the-zombie-in-rebel-without-a-pulse/3030-261/#game> <http://xmlns.com/foaf/0.1/#name> "Stubbs the Zombie in Rebel Without a Pulse" .
-<http://www.giantbomb.com/stubbs-the-zombie-in-rebel-without-a-pulse/3030-261/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Stubbs/3005-2051/#character> .
+<http://www.giantbomb.com/stubbs-the-zombie-in-rebel-without-a-pulse/3030-261/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/stubbs/3005-2051/#character> .

@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/tengu/3005-508/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/tengu/3005-508/#character> <http://xmlns.com/foaf/0.1/#name> "Tengu" .
 <http://www.giantbomb.com/tengu/3005-508/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/tengu/3005-508/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Ryu-Hayabusa/3005-104/#character> .
-<http://www.giantbomb.com/tengu/3005-508/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Lei-Fang/3005-502/#character> .
+<http://www.giantbomb.com/tengu/3005-508/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/ryu-hayabusa/3005-104/#character> .
+<http://www.giantbomb.com/tengu/3005-508/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/lei-fang/3005-502/#character> .

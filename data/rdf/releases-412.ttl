@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/actua-soccer-3/3030-412/releases/#toc-release-89264> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/actua-soccer-3/3030-412/releases/#toc-release-89264> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Actua-Soccer-3/3030-412/#game> .
-<http://www.giantbomb.com/actua-soccer-3/3030-412/releases/#toc-release-89264> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/actua-soccer-3/3030-412/releases/#toc-release-89264> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/actua-soccer-3/3030-412/#game> .
+<http://www.giantbomb.com/actua-soccer-3/3030-412/releases/#toc-release-89264> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/actua-soccer-3/3030-412/releases/#toc-release-89264> <http://dbpedia.org/ontology/releaseDate> "1998-12-01" .

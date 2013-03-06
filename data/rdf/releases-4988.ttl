@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/links-ls-2000/3030-4988/releases/#toc-release-113190> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/links-ls-2000/3030-4988/releases/#toc-release-113190> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Links-LS-2000/3030-4988/#game> .
-<http://www.giantbomb.com/links-ls-2000/3030-4988/releases/#toc-release-113190> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/links-ls-2000/3030-4988/releases/#toc-release-113190> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/links-ls-2000/3030-4988/#game> .
+<http://www.giantbomb.com/links-ls-2000/3030-4988/releases/#toc-release-113190> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/links-ls-2000/3030-4988/releases/#toc-release-113190> <http://dbpedia.org/ontology/releaseDate> "1999-01-01" .

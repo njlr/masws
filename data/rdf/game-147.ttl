@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/police-quest-in-pursuit-of-the-death-angel/3030-147/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/police-quest-in-pursuit-of-the-death-angel/3030-147/#game> <http://xmlns.com/foaf/0.1/#name> "Police Quest: In Pursuit of the Death Angel" .
-<http://www.giantbomb.com/police-quest-in-pursuit-of-the-death-angel/3030-147/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Sonny-Bonds/3005-1759/#character> .
-<http://www.giantbomb.com/police-quest-in-pursuit-of-the-death-angel/3030-147/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Jesse-Bains/3005-4091/#character> .
+<http://www.giantbomb.com/police-quest-in-pursuit-of-the-death-angel/3030-147/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/sonny-bonds/3005-1759/#character> .
+<http://www.giantbomb.com/police-quest-in-pursuit-of-the-death-angel/3030-147/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/jesse-bains/3005-4091/#character> .

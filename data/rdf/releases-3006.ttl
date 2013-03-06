@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ushio-to-tora-shinen-no-daiyou/3030-3006/releases/#toc-release-106181> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/ushio-to-tora-shinen-no-daiyou/3030-3006/releases/#toc-release-106181> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Ushio-to-Tora:-Shin'en-no-Daiyou/3030-3006/#game> .
-<http://www.giantbomb.com/ushio-to-tora-shinen-no-daiyou/3030-3006/releases/#toc-release-106181> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/ushio-to-tora-shinen-no-daiyou/3030-3006/releases/#toc-release-106181> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ushio-to-tora-shin'en-no-daiyou/3030-3006/#game> .
+<http://www.giantbomb.com/ushio-to-tora-shinen-no-daiyou/3030-3006/releases/#toc-release-106181> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/ushio-to-tora-shinen-no-daiyou/3030-3006/releases/#toc-release-106181> <http://dbpedia.org/ontology/releaseDate> "1993-07-09" .

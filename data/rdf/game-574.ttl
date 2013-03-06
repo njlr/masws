@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/sherlock-holmes-nemesis/3030-574/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/sherlock-holmes-nemesis/3030-574/#game> <http://xmlns.com/foaf/0.1/#name> "Sherlock Holmes: Nemesis" .
-<http://www.giantbomb.com/sherlock-holmes-nemesis/3030-574/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Sherlock-Holmes/3005-2661/#character> .
-<http://www.giantbomb.com/sherlock-holmes-nemesis/3030-574/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Dr-Watson/3005-16712/#character> .
-<http://www.giantbomb.com/sherlock-holmes-nemesis/3030-574/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Arsène-Lupin/3005-24571/#character> .
+<http://www.giantbomb.com/sherlock-holmes-nemesis/3030-574/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/sherlock-holmes/3005-2661/#character> .
+<http://www.giantbomb.com/sherlock-holmes-nemesis/3030-574/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/dr-watson/3005-16712/#character> .
+<http://www.giantbomb.com/sherlock-holmes-nemesis/3030-574/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/arsène-lupin/3005-24571/#character> .

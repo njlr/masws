@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <http://xmlns.com/foaf/0.1/#name> "Wolfgang Krauser" .
 <http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Mr-Big/3005-2040/#character> .
-<http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Geese-Howard/3005-280/#character> .
-<http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Terry-Bogard/3005-34/#character> .
-<http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Michael-Max/3005-9391/#character> .
+<http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/mr-big/3005-2040/#character> .
+<http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/geese-howard/3005-280/#character> .
+<http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/terry-bogard/3005-34/#character> .
+<http://www.giantbomb.com/wolfgang-krauser/3005-11/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/michael-max/3005-9391/#character> .

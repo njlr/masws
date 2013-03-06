@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/#game> <http://xmlns.com/foaf/0.1/#name> "NFL Football '94 Starring Joe Montana" .
-<http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Dan-Marino/3005-16868/#character> .
-<http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Joe-Montana/3005-18501/#character> .
+<http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/dan-marino/3005-16868/#character> .
+<http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/joe-montana/3005-18501/#character> .

@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/nightmare-creatures/3030-584/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/nightmare-creatures/3030-584/#game> <http://xmlns.com/foaf/0.1/#name> "Nightmare Creatures" .
-<http://www.giantbomb.com/nightmare-creatures/3030-584/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Adam-Crowley/3005-16153/#character> .
-<http://www.giantbomb.com/nightmare-creatures/3030-584/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Father-Ignatius-Blackward/3005-18401/#character> .
-<http://www.giantbomb.com/nightmare-creatures/3030-584/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Nadia-Franciscus/3005-18402/#character> .
+<http://www.giantbomb.com/nightmare-creatures/3030-584/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/adam-crowley/3005-16153/#character> .
+<http://www.giantbomb.com/nightmare-creatures/3030-584/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/father-ignatius-blackward/3005-18401/#character> .
+<http://www.giantbomb.com/nightmare-creatures/3030-584/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/nadia-franciscus/3005-18402/#character> .

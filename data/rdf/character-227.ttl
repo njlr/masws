@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/john-madden/3005-227/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/john-madden/3005-227/#character> <http://xmlns.com/foaf/0.1/#name> "John Madden" .
 <http://www.giantbomb.com/john-madden/3005-227/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/john-madden/3005-227/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Brett-Favre/3005-3386/#character> .
-<http://www.giantbomb.com/john-madden/3005-227/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Tom-Brady/3005-7944/#character> .
+<http://www.giantbomb.com/john-madden/3005-227/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/brett-favre/3005-3386/#character> .
+<http://www.giantbomb.com/john-madden/3005-227/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/tom-brady/3005-7944/#character> .

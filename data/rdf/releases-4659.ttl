@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/nfl-2k/3030-4659/releases/#toc-release-76721> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/nfl-2k/3030-4659/releases/#toc-release-76721> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/NFL-2K/3030-4659/#game> .
-<http://www.giantbomb.com/nfl-2k/3030-4659/releases/#toc-release-76721> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/nfl-2k/3030-4659/releases/#toc-release-76721> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/nfl-2k/3030-4659/#game> .
+<http://www.giantbomb.com/nfl-2k/3030-4659/releases/#toc-release-76721> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/nfl-2k/3030-4659/releases/#toc-release-76721> <http://dbpedia.org/ontology/releaseDate> "1999-09-09" .

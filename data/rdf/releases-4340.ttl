@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/fright-night/3030-4340/releases/#toc-release-107384> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/fright-night/3030-4340/releases/#toc-release-107384> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Fright-Night/3030-4340/#game> .
-<http://www.giantbomb.com/fright-night/3030-4340/releases/#toc-release-107384> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/fright-night/3030-4340/releases/#toc-release-107384> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/fright-night/3030-4340/#game> .
+<http://www.giantbomb.com/fright-night/3030-4340/releases/#toc-release-107384> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/fright-night/3030-4340/releases/#toc-release-107384> <http://dbpedia.org/ontology/releaseDate> "1988-01-01" .

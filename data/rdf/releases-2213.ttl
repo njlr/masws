@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-lucky-dime-caper-starring-donald-duck/3030-2213/releases/#toc-release-81443> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-lucky-dime-caper-starring-donald-duck/3030-2213/releases/#toc-release-81443> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Lucky-Dime-Caper-starring-Donald-Duck/3030-2213/#game> .
-<http://www.giantbomb.com/the-lucky-dime-caper-starring-donald-duck/3030-2213/releases/#toc-release-81443> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/the-lucky-dime-caper-starring-donald-duck/3030-2213/releases/#toc-release-81443> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-lucky-dime-caper-starring-donald-duck/3030-2213/#game> .
+<http://www.giantbomb.com/the-lucky-dime-caper-starring-donald-duck/3030-2213/releases/#toc-release-81443> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/the-lucky-dime-caper-starring-donald-duck/3030-2213/releases/#toc-release-81443> <http://dbpedia.org/ontology/releaseDate> "1991-01-01" .

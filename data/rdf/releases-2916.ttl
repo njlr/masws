@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/3d-ultra-minigolf-deluxe/3030-2916/releases/#toc-release-96386> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/3d-ultra-minigolf-deluxe/3030-2916/releases/#toc-release-96386> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/3D-Ultra-Minigolf-Deluxe/3030-2916/#game> .
-<http://www.giantbomb.com/3d-ultra-minigolf-deluxe/3030-2916/releases/#toc-release-96386> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/3d-ultra-minigolf-deluxe/3030-2916/releases/#toc-release-96386> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/3d-ultra-minigolf-deluxe/3030-2916/#game> .
+<http://www.giantbomb.com/3d-ultra-minigolf-deluxe/3030-2916/releases/#toc-release-96386> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/3d-ultra-minigolf-deluxe/3030-2916/releases/#toc-release-96386> <http://dbpedia.org/ontology/releaseDate> "1999-03-03" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/heros-puzzle-path/3030-148/releases/#toc-release-420> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/heros-puzzle-path/3030-148/releases/#toc-release-420> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Hero's-Puzzle-Path/3030-148/#game> .
-<http://www.giantbomb.com/heros-puzzle-path/3030-148/releases/#toc-release-420> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/heros-puzzle-path/3030-148/releases/#toc-release-420> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hero's-puzzle-path/3030-148/#game> .
+<http://www.giantbomb.com/heros-puzzle-path/3030-148/releases/#toc-release-420> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/heros-puzzle-path/3030-148/releases/#toc-release-420> <http://dbpedia.org/ontology/releaseDate> "2007-11-01" .

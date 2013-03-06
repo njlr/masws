@@ -1,0 +1,10 @@
+# List the names of all games that have been released in Japan
+SELECT DISTINCT ?name
+WHERE 
+{
+    ?release <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> . 
+    ?release <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> ?game . 
+    ?release <http://dbpedia.org/property/location> "japan" . 
+    ?game <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> . 
+    ?game <http://xmlns.com/foaf/0.1/#name> ?name . 
+}

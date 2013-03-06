@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <http://xmlns.com/foaf/0.1/#name> "Tales of Phantasia" .
-<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Chester-Burklight/3005-3132/#character> .
-<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Cless-Alvein/3005-2787/#character> .
-<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Arche-Klein/3005-4138/#character> .
-<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mint-Adnade/3005-4938/#character> .
-<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Dhaos/3005-8603/#character> .
-<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Claus-F-Lester/3005-10537/#character> .
-<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Suzu-Fujibayashi/3005-10536/#character> .
+<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/chester-burklight/3005-3132/#character> .
+<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/cless-alvein/3005-2787/#character> .
+<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/arche-klein/3005-4138/#character> .
+<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/mint-adnade/3005-4938/#character> .
+<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/dhaos/3005-8603/#character> .
+<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/claus-f-lester/3005-10537/#character> .
+<http://www.giantbomb.com/tales-of-phantasia/3030-255/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/suzu-fujibayashi/3005-10536/#character> .

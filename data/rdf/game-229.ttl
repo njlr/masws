@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/kingdom-under-fire-the-crusaders/3030-229/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/kingdom-under-fire-the-crusaders/3030-229/#game> <http://xmlns.com/foaf/0.1/#name> "Kingdom Under Fire: The Crusaders" .
-<http://www.giantbomb.com/kingdom-under-fire-the-crusaders/3030-229/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Regnier/3005-8661/#character> .
-<http://www.giantbomb.com/kingdom-under-fire-the-crusaders/3030-229/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Leinhart/3005-16372/#character> .
-<http://www.giantbomb.com/kingdom-under-fire-the-crusaders/3030-229/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Kendal/3005-16415/#character> .
+<http://www.giantbomb.com/kingdom-under-fire-the-crusaders/3030-229/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/regnier/3005-8661/#character> .
+<http://www.giantbomb.com/kingdom-under-fire-the-crusaders/3030-229/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/leinhart/3005-16372/#character> .
+<http://www.giantbomb.com/kingdom-under-fire-the-crusaders/3030-229/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/kendal/3005-16415/#character> .

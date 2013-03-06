@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/will-grey/3005-356/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/will-grey/3005-356/#character> <http://xmlns.com/foaf/0.1/#name> "Will Grey" .
 <http://www.giantbomb.com/will-grey/3005-356/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/will-grey/3005-356/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Nikola-Tesla/3005-9322/#character> .
-<http://www.giantbomb.com/will-grey/3005-356/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Atem/3005-9383/#character> .
+<http://www.giantbomb.com/will-grey/3005-356/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/nikola-tesla/3005-9322/#character> .
+<http://www.giantbomb.com/will-grey/3005-356/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/atem/3005-9383/#character> .

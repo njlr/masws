@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <http://xmlns.com/foaf/0.1/#name> "Chavo Guerrero" .
 <http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Eddie-Guerrero/3005-625/#character> .
-<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Edge/3005-566/#character> .
-<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Chris-Benoit/3005-11119/#character> .
-<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Rey-Mysterio/3005-587/#character> .
-<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/William-Regal/3005-606/#character> .
-<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Eddie-Guerrero/3005-625/#character> .
+<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/eddie-guerrero/3005-625/#character> .
+<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/edge/3005-566/#character> .
+<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/chris-benoit/3005-11119/#character> .
+<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/rey-mysterio/3005-587/#character> .
+<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/william-regal/3005-606/#character> .
+<http://www.giantbomb.com/chavo-guerrero/3005-590/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/eddie-guerrero/3005-625/#character> .

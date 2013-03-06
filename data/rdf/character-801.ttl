@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/clive-winston/3005-801/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/clive-winston/3005-801/#character> <http://xmlns.com/foaf/0.1/#name> "Clive Winston" .
 <http://www.giantbomb.com/clive-winston/3005-801/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Axel-Steel/3005-780/#character> .
-<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Xavier-Stone/3005-806/#character> .
-<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Judy-Nails/3005-763/#character> .
-<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Lars-Ümlaüt/3005-794/#character> .
-<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/God-Of-Rock/3005-4848/#character> .
-<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Lou/3005-1789/#character> .
+<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/axel-steel/3005-780/#character> .
+<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/xavier-stone/3005-806/#character> .
+<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/judy-nails/3005-763/#character> .
+<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/lars-Ümlaüt/3005-794/#character> .
+<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/god-of-rock/3005-4848/#character> .
+<http://www.giantbomb.com/clive-winston/3005-801/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/lou/3005-1789/#character> .

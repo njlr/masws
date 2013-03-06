@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/eddie-wachowski/3005-313/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/eddie-wachowski/3005-313/#character> <http://xmlns.com/foaf/0.1/#name> "Eddie Wachowski" .
 <http://www.giantbomb.com/eddie-wachowski/3005-313/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/eddie-wachowski/3005-313/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Kaori-Nishidake/3005-314/#character> .
-<http://www.giantbomb.com/eddie-wachowski/3005-313/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Mac-Fraser/3005-312/#character> .
-<http://www.giantbomb.com/eddie-wachowski/3005-313/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Elise-Riggs/3005-857/#character> .
+<http://www.giantbomb.com/eddie-wachowski/3005-313/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/kaori-nishidake/3005-314/#character> .
+<http://www.giantbomb.com/eddie-wachowski/3005-313/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/mac-fraser/3005-312/#character> .
+<http://www.giantbomb.com/eddie-wachowski/3005-313/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/elise-riggs/3005-857/#character> .

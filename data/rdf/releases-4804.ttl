@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/1213-episode-3/3030-4804/releases/#toc-release-12341> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/1213-episode-3/3030-4804/releases/#toc-release-12341> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/1213:-Episode-3/3030-4804/#game> .
+<http://www.giantbomb.com/1213-episode-3/3030-4804/releases/#toc-release-12341> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/1213-episode-3/3030-4804/#game> .
 <http://www.giantbomb.com/1213-episode-3/3030-4804/releases/#toc-release-12341> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/1213-episode-3/3030-4804/releases/#toc-release-12341> <http://dbpedia.org/ontology/releaseDate> "2006-02-19" .

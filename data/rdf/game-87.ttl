@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/the-immortal/3030-87/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/the-immortal/3030-87/#game> <http://xmlns.com/foaf/0.1/#name> "The Immortal" .
-<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/The-Apprentice/3005-17150/#character> .
-<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Mordamir/3005-17148/#character> .
-<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Dunric/3005-17159/#character> .
-<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Anna/3005-17160/#character> .
-<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/The-Norlac/3005-17161/#character> .
+<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/the-apprentice/3005-17150/#character> .
+<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/mordamir/3005-17148/#character> .
+<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/dunric/3005-17159/#character> .
+<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/anna/3005-17160/#character> .
+<http://www.giantbomb.com/the-immortal/3030-87/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/the-norlac/3005-17161/#character> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/where-in-americas-past-is-carmen-sandiego/3030-3952/releases/#toc-release-102655> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/where-in-americas-past-is-carmen-sandiego/3030-3952/releases/#toc-release-102655> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Where-in-America's-Past-is-Carmen-Sandiego?/3030-3952/#game> .
-<http://www.giantbomb.com/where-in-americas-past-is-carmen-sandiego/3030-3952/releases/#toc-release-102655> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/where-in-americas-past-is-carmen-sandiego/3030-3952/releases/#toc-release-102655> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/where-in-america's-past-is-carmen-sandiego?/3030-3952/#game> .
+<http://www.giantbomb.com/where-in-americas-past-is-carmen-sandiego/3030-3952/releases/#toc-release-102655> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/where-in-americas-past-is-carmen-sandiego/3030-3952/releases/#toc-release-102655> <http://dbpedia.org/ontology/releaseDate> "1991-01-01" .

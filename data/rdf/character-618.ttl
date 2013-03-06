@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/john-morrison/3005-618/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/john-morrison/3005-618/#character> <http://xmlns.com/foaf/0.1/#name> "John Morrison" .
 <http://www.giantbomb.com/john-morrison/3005-618/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Jeff-Hardy/3005-571/#character> .
-<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/JTG/3005-598/#character> .
-<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Shad-Gaspard/3005-607/#character> .
-<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/The-Miz/3005-3483/#character> .
-<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Big-Show/3005-559/#character> .
+<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/jeff-hardy/3005-571/#character> .
+<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/jtg/3005-598/#character> .
+<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/shad-gaspard/3005-607/#character> .
+<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/the-miz/3005-3483/#character> .
+<http://www.giantbomb.com/john-morrison/3005-618/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/big-show/3005-559/#character> .

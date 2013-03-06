@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <http://xmlns.com/foaf/0.1/#name> "Reinhardt Schneider" .
 <http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Renon/3005-5359/#character> .
-<http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dracula/3005-348/#character> .
-<http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Death/3005-5581/#character> .
-<http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Cerberus/3005-3709/#character> .
+<http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/renon/3005-5359/#character> .
+<http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/dracula/3005-348/#character> .
+<http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/death/3005-5581/#character> .
+<http://www.giantbomb.com/reinhardt-schneider/3005-118/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/cerberus/3005-3709/#character> .

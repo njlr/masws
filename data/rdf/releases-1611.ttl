@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/dragons-lair-ii-escape-from-singes-castle/3030-1611/releases/#toc-release-102603> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/dragons-lair-ii-escape-from-singes-castle/3030-1611/releases/#toc-release-102603> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Dragon's-Lair-II:-Escape-from-Singe's-Castle/3030-1611/#game> .
-<http://www.giantbomb.com/dragons-lair-ii-escape-from-singes-castle/3030-1611/releases/#toc-release-102603> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/dragons-lair-ii-escape-from-singes-castle/3030-1611/releases/#toc-release-102603> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/dragon's-lair-ii-escape-from-singe's-castle/3030-1611/#game> .
+<http://www.giantbomb.com/dragons-lair-ii-escape-from-singes-castle/3030-1611/releases/#toc-release-102603> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/dragons-lair-ii-escape-from-singes-castle/3030-1611/releases/#toc-release-102603> <http://dbpedia.org/ontology/releaseDate> "1987-01-01" .

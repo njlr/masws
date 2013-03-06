@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/battle-out-run/3030-407/releases/#toc-release-121802> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/battle-out-run/3030-407/releases/#toc-release-121802> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Battle-Out-Run/3030-407/#game> .
-<http://www.giantbomb.com/battle-out-run/3030-407/releases/#toc-release-121802> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/battle-out-run/3030-407/releases/#toc-release-121802> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/battle-out-run/3030-407/#game> .
+<http://www.giantbomb.com/battle-out-run/3030-407/releases/#toc-release-121802> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/battle-out-run/3030-407/releases/#toc-release-121802> <http://dbpedia.org/ontology/releaseDate> "1989-01-01" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/evil-rose/3005-916/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/evil-rose/3005-916/#character> <http://xmlns.com/foaf/0.1/#name> "Evil Rose" .
 <http://www.giantbomb.com/evil-rose/3005-916/#character> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/evil-rose/3005-916/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Reiko-Hinomoto/3005-903/#character> .
+<http://www.giantbomb.com/evil-rose/3005-916/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/reiko-hinomoto/3005-903/#character> .

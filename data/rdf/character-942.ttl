@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <http://xmlns.com/foaf/0.1/#name> "Pyre Fierceshot" .
 <http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Vekk/3005-935/#character> .
-<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Ogden-Stonehealer/3005-934/#character> .
-<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/King-Jalis-Ironhammer/3005-1241/#character> .
-<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Mhenlo/3005-1887/#character> .
-<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Jora/3005-12141/#character> .
+<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/vekk/3005-935/#character> .
+<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/ogden-stonehealer/3005-934/#character> .
+<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/king-jalis-ironhammer/3005-1241/#character> .
+<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/mhenlo/3005-1887/#character> .
+<http://www.giantbomb.com/pyre-fierceshot/3005-942/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/jora/3005-12141/#character> .

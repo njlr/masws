@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/hamsters/3030-1860/releases/#toc-release-4889> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/hamsters/3030-1860/releases/#toc-release-4889> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Hamsters/3030-1860/#game> .
+<http://www.giantbomb.com/hamsters/3030-1860/releases/#toc-release-4889> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hamsters/3030-1860/#game> .
 <http://www.giantbomb.com/hamsters/3030-1860/releases/#toc-release-4889> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/hamsters/3030-1860/releases/#toc-release-4889> <http://dbpedia.org/ontology/releaseDate> "1994-01-01" .

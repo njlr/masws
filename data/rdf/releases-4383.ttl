@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/chomp/3030-4383/releases/#toc-release-99086> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/chomp/3030-4383/releases/#toc-release-99086> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Chomp/3030-4383/#game> .
-<http://www.giantbomb.com/chomp/3030-4383/releases/#toc-release-99086> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/chomp/3030-4383/releases/#toc-release-99086> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/chomp/3030-4383/#game> .
+<http://www.giantbomb.com/chomp/3030-4383/releases/#toc-release-99086> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/chomp/3030-4383/releases/#toc-release-99086> <http://dbpedia.org/ontology/releaseDate> "1993-01-01" .

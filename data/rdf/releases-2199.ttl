@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/decisive-battles-of-wwii-across-the-dnepr/3030-2199/releases/#toc-release-5782> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/decisive-battles-of-wwii-across-the-dnepr/3030-2199/releases/#toc-release-5782> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Decisive-Battles-of-WWII:-Across-the-Dnepr/3030-2199/#game> .
+<http://www.giantbomb.com/decisive-battles-of-wwii-across-the-dnepr/3030-2199/releases/#toc-release-5782> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/decisive-battles-of-wwii-across-the-dnepr/3030-2199/#game> .
 <http://www.giantbomb.com/decisive-battles-of-wwii-across-the-dnepr/3030-2199/releases/#toc-release-5782> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/decisive-battles-of-wwii-across-the-dnepr/3030-2199/releases/#toc-release-5782> <http://dbpedia.org/ontology/releaseDate> "2003-12-22" .

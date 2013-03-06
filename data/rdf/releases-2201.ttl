@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/star-wars-the-new-droid-army/3030-2201/releases/#toc-release-104971> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/star-wars-the-new-droid-army/3030-2201/releases/#toc-release-104971> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Star-Wars:-The-New-Droid-Army/3030-2201/#game> .
-<http://www.giantbomb.com/star-wars-the-new-droid-army/3030-2201/releases/#toc-release-104971> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/star-wars-the-new-droid-army/3030-2201/releases/#toc-release-104971> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/star-wars-the-new-droid-army/3030-2201/#game> .
+<http://www.giantbomb.com/star-wars-the-new-droid-army/3030-2201/releases/#toc-release-104971> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/star-wars-the-new-droid-army/3030-2201/releases/#toc-release-104971> <http://dbpedia.org/ontology/releaseDate> "2002-11-14" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cycling-manager-4/3030-1041/releases/#toc-release-84133> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/cycling-manager-4/3030-1041/releases/#toc-release-84133> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Cycling-Manager-4/3030-1041/#game> .
-<http://www.giantbomb.com/cycling-manager-4/3030-1041/releases/#toc-release-84133> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/cycling-manager-4/3030-1041/releases/#toc-release-84133> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cycling-manager-4/3030-1041/#game> .
+<http://www.giantbomb.com/cycling-manager-4/3030-1041/releases/#toc-release-84133> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/cycling-manager-4/3030-1041/releases/#toc-release-84133> <http://dbpedia.org/ontology/releaseDate> "2004-07-02" .

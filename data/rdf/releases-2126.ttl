@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/myth-iii-the-wolf-age/3030-2126/releases/#toc-release-109136> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/myth-iii-the-wolf-age/3030-2126/releases/#toc-release-109136> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Myth-III:-The-Wolf-Age/3030-2126/#game> .
-<http://www.giantbomb.com/myth-iii-the-wolf-age/3030-2126/releases/#toc-release-109136> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/myth-iii-the-wolf-age/3030-2126/releases/#toc-release-109136> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/myth-iii-the-wolf-age/3030-2126/#game> .
+<http://www.giantbomb.com/myth-iii-the-wolf-age/3030-2126/releases/#toc-release-109136> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/myth-iii-the-wolf-age/3030-2126/releases/#toc-release-109136> <http://dbpedia.org/ontology/releaseDate> "2001-10-30" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/attack-animal-gakuen/3030-2109/releases/#toc-release-101271> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/attack-animal-gakuen/3030-2109/releases/#toc-release-101271> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Attack-Animal-Gakuen/3030-2109/#game> .
-<http://www.giantbomb.com/attack-animal-gakuen/3030-2109/releases/#toc-release-101271> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/attack-animal-gakuen/3030-2109/releases/#toc-release-101271> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/attack-animal-gakuen/3030-2109/#game> .
+<http://www.giantbomb.com/attack-animal-gakuen/3030-2109/releases/#toc-release-101271> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/attack-animal-gakuen/3030-2109/releases/#toc-release-101271> <http://dbpedia.org/ontology/releaseDate> "1987-12-26" .

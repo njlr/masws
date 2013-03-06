@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/aveyond/3030-2785/releases/#toc-release-7380> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/aveyond/3030-2785/releases/#toc-release-7380> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Aveyond/3030-2785/#game> .
+<http://www.giantbomb.com/aveyond/3030-2785/releases/#toc-release-7380> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/aveyond/3030-2785/#game> .
 <http://www.giantbomb.com/aveyond/3030-2785/releases/#toc-release-7380> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/aveyond/3030-2785/releases/#toc-release-7380> <http://dbpedia.org/ontology/releaseDate> "2006-01-19" .

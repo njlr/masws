@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/road-dogg/3005-578/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/road-dogg/3005-578/#character> <http://xmlns.com/foaf/0.1/#name> "Road Dogg" .
 <http://www.giantbomb.com/road-dogg/3005-578/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Billy-Gunn/3005-560/#character> .
-<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/R-Truth/3005-16484/#character> .
-<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Triple-H/3005-469/#character> .
-<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Chyna/3005-563/#character> .
-<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Sean-Waltman/3005-586/#character> .
-<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Shawn-Michaels/3005-597/#character> .
-<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Terry-Funk/3005-620/#character> .
+<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/billy-gunn/3005-560/#character> .
+<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/r-truth/3005-16484/#character> .
+<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/triple-h/3005-469/#character> .
+<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/chyna/3005-563/#character> .
+<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/sean-waltman/3005-586/#character> .
+<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/shawn-michaels/3005-597/#character> .
+<http://www.giantbomb.com/road-dogg/3005-578/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/terry-funk/3005-620/#character> .

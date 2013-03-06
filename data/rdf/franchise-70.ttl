@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/broken-sword/3025-70/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/broken-sword/3025-70/#franchise> <http://xmlns.com/foaf/0.1/#name> "Broken Sword" .
-<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Broken-Sword-II:-The-Smoking-Mirror/3030-4084/#game> .
-<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Broken-Sword:-The-Sleeping-Dragon/3030-5804/#game> .
-<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Broken-Sword:-The-Shadow-of-the-Templars/3030-17544/#game> .
-<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Broken-Sword:-The-Angel-of-Death/3030-16905/#game> .
-<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Broken-Sword-II:-The-Smoking-Mirror---Remastered/3030-35162/#game> .
-<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Broken-Sword:-The-Serpent's-Curse/3030-39486/#game> .
+<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/broken-sword-ii-the-smoking-mirror/3030-4084/#game> .
+<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/broken-sword-the-sleeping-dragon/3030-5804/#game> .
+<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/broken-sword-the-shadow-of-the-templars/3030-17544/#game> .
+<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/broken-sword-the-angel-of-death/3030-16905/#game> .
+<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/broken-sword-ii-the-smoking-mirror---remastered/3030-35162/#game> .
+<http://www.giantbomb.com/broken-sword/3025-70/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/broken-sword-the-serpent's-curse/3030-39486/#game> .

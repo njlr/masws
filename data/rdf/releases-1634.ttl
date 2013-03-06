@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bruckenbauen/3030-1634/releases/#toc-release-4310> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/bruckenbauen/3030-1634/releases/#toc-release-4310> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Brückenbauen/3030-1634/#game> .
+<http://www.giantbomb.com/bruckenbauen/3030-1634/releases/#toc-release-4310> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/brückenbauen/3030-1634/#game> .
 <http://www.giantbomb.com/bruckenbauen/3030-1634/releases/#toc-release-4310> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/bruckenbauen/3030-1634/releases/#toc-release-4310> <http://dbpedia.org/ontology/releaseDate> "2005-01-01" .

@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/bust-a-groove/3025-77/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/bust-a-groove/3025-77/#franchise> <http://xmlns.com/foaf/0.1/#name> "Bust A Groove" .
-<http://www.giantbomb.com/bust-a-groove/3025-77/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bust-a-Groove-2/3030-2873/#game> .
-<http://www.giantbomb.com/bust-a-groove/3025-77/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bust-A-Groove/3030-19513/#game> .
-<http://www.giantbomb.com/bust-a-groove/3025-77/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Dance-Summit-2001/3030-22039/#game> .
+<http://www.giantbomb.com/bust-a-groove/3025-77/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/bust-a-groove-2/3030-2873/#game> .
+<http://www.giantbomb.com/bust-a-groove/3025-77/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/bust-a-groove/3030-19513/#game> .
+<http://www.giantbomb.com/bust-a-groove/3025-77/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/dance-summit-2001/3030-22039/#game> .

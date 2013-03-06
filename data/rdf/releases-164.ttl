@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/releases/#toc-release-123264> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/releases/#toc-release-123264> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/NFL-Football-'94-Starring-Joe-Montana/3030-164/#game> .
-<http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/releases/#toc-release-123264> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/releases/#toc-release-123264> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/nfl-football-'94-starring-joe-montana/3030-164/#game> .
+<http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/releases/#toc-release-123264> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/nfl-football-94-starring-joe-montana/3030-164/releases/#toc-release-123264> <http://dbpedia.org/ontology/releaseDate> "1993-01-01" .

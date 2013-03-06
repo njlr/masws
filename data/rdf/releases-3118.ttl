@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ddrmax-2-dance-dance-revolution/3030-3118/releases/#toc-release-75967> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/ddrmax-2-dance-dance-revolution/3030-3118/releases/#toc-release-75967> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/DDRMAX-2-Dance-Dance-Revolution/3030-3118/#game> .
-<http://www.giantbomb.com/ddrmax-2-dance-dance-revolution/3030-3118/releases/#toc-release-75967> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/ddrmax-2-dance-dance-revolution/3030-3118/releases/#toc-release-75967> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ddrmax-2-dance-dance-revolution/3030-3118/#game> .
+<http://www.giantbomb.com/ddrmax-2-dance-dance-revolution/3030-3118/releases/#toc-release-75967> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/ddrmax-2-dance-dance-revolution/3030-3118/releases/#toc-release-75967> <http://dbpedia.org/ontology/releaseDate> "2003-09-23" .

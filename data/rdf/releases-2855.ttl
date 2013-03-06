@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/iron-angel-of-the-apocalypse-the-return/3030-2855/releases/#toc-release-120872> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/iron-angel-of-the-apocalypse-the-return/3030-2855/releases/#toc-release-120872> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Iron-Angel-of-the-Apocalypse:-The-Return/3030-2855/#game> .
-<http://www.giantbomb.com/iron-angel-of-the-apocalypse-the-return/3030-2855/releases/#toc-release-120872> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/iron-angel-of-the-apocalypse-the-return/3030-2855/releases/#toc-release-120872> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/iron-angel-of-the-apocalypse-the-return/3030-2855/#game> .
+<http://www.giantbomb.com/iron-angel-of-the-apocalypse-the-return/3030-2855/releases/#toc-release-120872> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/iron-angel-of-the-apocalypse-the-return/3030-2855/releases/#toc-release-120872> <http://dbpedia.org/ontology/releaseDate> "" .

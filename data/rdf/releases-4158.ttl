@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bet-on-soldier-blood-sport/3030-4158/releases/#toc-release-10793> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/bet-on-soldier-blood-sport/3030-4158/releases/#toc-release-10793> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Bet-on-Soldier:-Blood-Sport/3030-4158/#game> .
-<http://www.giantbomb.com/bet-on-soldier-blood-sport/3030-4158/releases/#toc-release-10793> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/bet-on-soldier-blood-sport/3030-4158/releases/#toc-release-10793> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bet-on-soldier-blood-sport/3030-4158/#game> .
+<http://www.giantbomb.com/bet-on-soldier-blood-sport/3030-4158/releases/#toc-release-10793> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/bet-on-soldier-blood-sport/3030-4158/releases/#toc-release-10793> <http://dbpedia.org/ontology/releaseDate> "2007-05-10" .

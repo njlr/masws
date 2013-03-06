@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/double-h/3005-911/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/double-h/3005-911/#character> <http://xmlns.com/foaf/0.1/#name> "Double H" .
 <http://www.giantbomb.com/double-h/3005-911/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/double-h/3005-911/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Jade/3005-787/#character> .
-<http://www.giantbomb.com/double-h/3005-911/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Pey'j/3005-800/#character> .
-<http://www.giantbomb.com/double-h/3005-911/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Meï/3005-13582/#character> .
-<http://www.giantbomb.com/double-h/3005-911/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Mino/3005-13583/#character> .
+<http://www.giantbomb.com/double-h/3005-911/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/jade/3005-787/#character> .
+<http://www.giantbomb.com/double-h/3005-911/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/pey'j/3005-800/#character> .
+<http://www.giantbomb.com/double-h/3005-911/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/meï/3005-13582/#character> .
+<http://www.giantbomb.com/double-h/3005-911/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/mino/3005-13583/#character> .

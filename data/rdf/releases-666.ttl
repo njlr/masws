@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/uwis-shooting-gallery/3030-666/releases/#toc-release-1762> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/uwis-shooting-gallery/3030-666/releases/#toc-release-1762> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Uwis-Shooting-Gallery/3030-666/#game> .
+<http://www.giantbomb.com/uwis-shooting-gallery/3030-666/releases/#toc-release-1762> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/uwis-shooting-gallery/3030-666/#game> .
 <http://www.giantbomb.com/uwis-shooting-gallery/3030-666/releases/#toc-release-1762> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/uwis-shooting-gallery/3030-666/releases/#toc-release-1762> <http://dbpedia.org/ontology/releaseDate> "2003-01-01" .

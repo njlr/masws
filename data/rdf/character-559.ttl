@@ -1,10 +1,10 @@
 <http://www.giantbomb.com/big-show/3005-559/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/big-show/3005-559/#character> <http://xmlns.com/foaf/0.1/#name> "Big Show" .
 <http://www.giantbomb.com/big-show/3005-559/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/The-Miz/3005-3483/#character> .
-<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Rey-Mysterio/3005-587/#character> .
-<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/The-Great-Khali/3005-591/#character> .
-<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/The-Rock/3005-1674/#character> .
-<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/John-Morrison/3005-618/#character> .
-<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Eddie-Guerrero/3005-625/#character> .
-<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Carlito/3005-605/#character> .
+<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/the-miz/3005-3483/#character> .
+<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/rey-mysterio/3005-587/#character> .
+<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/the-great-khali/3005-591/#character> .
+<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/the-rock/3005-1674/#character> .
+<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/john-morrison/3005-618/#character> .
+<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/eddie-guerrero/3005-625/#character> .
+<http://www.giantbomb.com/big-show/3005-559/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/carlito/3005-605/#character> .

@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/elijah-burke/3005-616/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/elijah-burke/3005-616/#character> <http://xmlns.com/foaf/0.1/#name> "Elijah Burke" .
 <http://www.giantbomb.com/elijah-burke/3005-616/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/elijah-burke/3005-616/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Marcus-Cor-Von/3005-615/#character> .
-<http://www.giantbomb.com/elijah-burke/3005-616/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Tommy-Dreamer/3005-617/#character> .
-<http://www.giantbomb.com/elijah-burke/3005-616/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Sandman/3005-601/#character> .
-<http://www.giantbomb.com/elijah-burke/3005-616/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Sabu/3005-619/#character> .
+<http://www.giantbomb.com/elijah-burke/3005-616/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/marcus-cor-von/3005-615/#character> .
+<http://www.giantbomb.com/elijah-burke/3005-616/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/tommy-dreamer/3005-617/#character> .
+<http://www.giantbomb.com/elijah-burke/3005-616/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/sandman/3005-601/#character> .
+<http://www.giantbomb.com/elijah-burke/3005-616/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/sabu/3005-619/#character> .

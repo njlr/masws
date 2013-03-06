@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-outforce/3030-212/releases/#toc-release-78244> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-outforce/3030-212/releases/#toc-release-78244> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/The-Outforce/3030-212/#game> .
-<http://www.giantbomb.com/the-outforce/3030-212/releases/#toc-release-78244> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/the-outforce/3030-212/releases/#toc-release-78244> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-outforce/3030-212/#game> .
+<http://www.giantbomb.com/the-outforce/3030-212/releases/#toc-release-78244> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/the-outforce/3030-212/releases/#toc-release-78244> <http://dbpedia.org/ontology/releaseDate> "2000-12-31" .

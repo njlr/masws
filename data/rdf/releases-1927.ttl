@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/world-war-ii-combat-road-to-berlin/3030-1927/releases/#toc-release-75462> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/world-war-ii-combat-road-to-berlin/3030-1927/releases/#toc-release-75462> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/World-War-II-Combat:-Road-to-Berlin/3030-1927/#game> .
-<http://www.giantbomb.com/world-war-ii-combat-road-to-berlin/3030-1927/releases/#toc-release-75462> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/world-war-ii-combat-road-to-berlin/3030-1927/releases/#toc-release-75462> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/world-war-ii-combat-road-to-berlin/3030-1927/#game> .
+<http://www.giantbomb.com/world-war-ii-combat-road-to-berlin/3030-1927/releases/#toc-release-75462> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/world-war-ii-combat-road-to-berlin/3030-1927/releases/#toc-release-75462> <http://dbpedia.org/ontology/releaseDate> "2006-04-03" .

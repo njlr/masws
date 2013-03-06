@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/kessen-iii/3030-894/releases/#toc-release-124176> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/kessen-iii/3030-894/releases/#toc-release-124176> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Kessen-III/3030-894/#game> .
-<http://www.giantbomb.com/kessen-iii/3030-894/releases/#toc-release-124176> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/kessen-iii/3030-894/releases/#toc-release-124176> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/kessen-iii/3030-894/#game> .
+<http://www.giantbomb.com/kessen-iii/3030-894/releases/#toc-release-124176> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/kessen-iii/3030-894/releases/#toc-release-124176> <http://dbpedia.org/ontology/releaseDate> "2005-02-23" .

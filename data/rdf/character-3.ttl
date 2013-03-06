@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/razor-callahan/3005-3/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/razor-callahan/3005-3/#character> <http://xmlns.com/foaf/0.1/#name> "Razor Callahan" .
 <http://www.giantbomb.com/razor-callahan/3005-3/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/razor-callahan/3005-3/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Mia-Townsend/3005-4522/#character> .
-<http://www.giantbomb.com/razor-callahan/3005-3/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Sergeant-Cross/3005-1487/#character> .
+<http://www.giantbomb.com/razor-callahan/3005-3/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/mia-townsend/3005-4522/#character> .
+<http://www.giantbomb.com/razor-callahan/3005-3/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/sergeant-cross/3005-1487/#character> .

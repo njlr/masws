@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/telly-vision/3005-918/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/telly-vision/3005-918/#character> <http://xmlns.com/foaf/0.1/#name> "Telly Vision" .
 <http://www.giantbomb.com/telly-vision/3005-918/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/telly-vision/3005-918/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Chibi-Robo/3005-3187/#character> .
+<http://www.giantbomb.com/telly-vision/3005-918/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/chibi-robo/3005-3187/#character> .

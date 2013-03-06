@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/serial-killer-x/3005-971/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/serial-killer-x/3005-971/#character> <http://xmlns.com/foaf/0.1/#name> "Serial Killer X" .
 <http://www.giantbomb.com/serial-killer-x/3005-971/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/serial-killer-x/3005-971/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Malcolm-VanHorn/3005-1084/#character> .
-<http://www.giantbomb.com/serial-killer-x/3005-971/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/The-Oro/3005-1409/#character> .
-<http://www.giantbomb.com/serial-killer-x/3005-971/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Ethan-Thomas/3005-688/#character> .
+<http://www.giantbomb.com/serial-killer-x/3005-971/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/malcolm-vanhorn/3005-1084/#character> .
+<http://www.giantbomb.com/serial-killer-x/3005-971/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/the-oro/3005-1409/#character> .
+<http://www.giantbomb.com/serial-killer-x/3005-971/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/ethan-thomas/3005-688/#character> .

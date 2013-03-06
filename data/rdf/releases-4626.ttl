@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/releases/#toc-release-95880> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/releases/#toc-release-95880> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Bomber-Bob-In-Pentagon-Capers/3030-4626/#game> .
-<http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/releases/#toc-release-95880> <http://dbpedia.org/property/location> "United-Kingdom" .
+<http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/releases/#toc-release-95880> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/#game> .
+<http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/releases/#toc-release-95880> <http://dbpedia.org/property/location> "united-kingdom" .
 <http://www.giantbomb.com/bomber-bob-in-pentagon-capers/3030-4626/releases/#toc-release-95880> <http://dbpedia.org/ontology/releaseDate> "1985-01-01" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/big-city-adventure-san-francisco/3030-4957/releases/#toc-release-12697> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/big-city-adventure-san-francisco/3030-4957/releases/#toc-release-12697> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Big-City-Adventure:-San-Francisco/3030-4957/#game> .
+<http://www.giantbomb.com/big-city-adventure-san-francisco/3030-4957/releases/#toc-release-12697> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/big-city-adventure-san-francisco/3030-4957/#game> .
 <http://www.giantbomb.com/big-city-adventure-san-francisco/3030-4957/releases/#toc-release-12697> <http://dbpedia.org/property/location> "" .
 <http://www.giantbomb.com/big-city-adventure-san-francisco/3030-4957/releases/#toc-release-12697> <http://dbpedia.org/ontology/releaseDate> "2007-01-01" .

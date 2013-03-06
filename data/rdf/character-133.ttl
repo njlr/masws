@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bionic-lester/3005-133/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/bionic-lester/3005-133/#character> <http://xmlns.com/foaf/0.1/#name> "Bionic Lester" .
 <http://www.giantbomb.com/bionic-lester/3005-133/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/bionic-lester/3005-133/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Aggro-Eddie/3005-41/#character> .
+<http://www.giantbomb.com/bionic-lester/3005-133/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/aggro-eddie/3005-41/#character> .

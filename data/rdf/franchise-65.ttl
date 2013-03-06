@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#franchise> .
 <http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <http://xmlns.com/foaf/0.1/#name> "Bloody Roar" .
-<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bloody-Roar-3/3030-1570/#game> .
-<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bloody-Roar-Extreme/3030-9091/#game> .
-<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bloody-Roar-II/3030-11876/#game> .
-<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bloody-Roar:-Primal-Fury/3030-15566/#game> .
-<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bloody-Roar/3030-19738/#game> .
-<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/Bloody-Roar-4/3030-22302/#game> .
+<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/bloody-roar-3/3030-1570/#game> .
+<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/bloody-roar-extreme/3030-9091/#game> .
+<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/bloody-roar-ii/3030-11876/#game> .
+<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/bloody-roar-primal-fury/3030-15566/#game> .
+<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/bloody-roar/3030-19738/#game> .
+<http://www.giantbomb.com/bloody-roar/3025-65/#franchise> <https://raw.github.com/nlr/masws/master/vocab.n3#includes> <http://www.giantbomb.com/bloody-roar-4/3030-22302/#game> .

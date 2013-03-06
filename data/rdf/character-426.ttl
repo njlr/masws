@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/peter-pepper/3005-426/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/peter-pepper/3005-426/#character> <http://xmlns.com/foaf/0.1/#name> "Peter Pepper" .
 <http://www.giantbomb.com/peter-pepper/3005-426/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/peter-pepper/3005-426/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Mr-Pickle/3005-9173/#character> .
-<http://www.giantbomb.com/peter-pepper/3005-426/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Mr-Egg/3005-9174/#character> .
-<http://www.giantbomb.com/peter-pepper/3005-426/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Mr-Hot-Dog/3005-10027/#character> .
+<http://www.giantbomb.com/peter-pepper/3005-426/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/mr-pickle/3005-9173/#character> .
+<http://www.giantbomb.com/peter-pepper/3005-426/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/mr-egg/3005-9174/#character> .
+<http://www.giantbomb.com/peter-pepper/3005-426/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/mr-hot-dog/3005-10027/#character> .

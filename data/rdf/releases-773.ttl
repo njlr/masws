@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/madou-monogatari/3030-773/releases/#toc-release-107706> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/madou-monogatari/3030-773/releases/#toc-release-107706> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Madou-Monogatari/3030-773/#game> .
-<http://www.giantbomb.com/madou-monogatari/3030-773/releases/#toc-release-107706> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/madou-monogatari/3030-773/releases/#toc-release-107706> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/madou-monogatari/3030-773/#game> .
+<http://www.giantbomb.com/madou-monogatari/3030-773/releases/#toc-release-107706> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/madou-monogatari/3030-773/releases/#toc-release-107706> <http://dbpedia.org/ontology/releaseDate> "1998-07-23" .

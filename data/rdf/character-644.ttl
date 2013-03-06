@@ -1,5 +1,5 @@
 <http://www.giantbomb.com/elminster/3005-644/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/elminster/3005-644/#character> <http://xmlns.com/foaf/0.1/#name> "Elminster" .
 <http://www.giantbomb.com/elminster/3005-644/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/elminster/3005-644/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Gorion/3005-15905/#character> .
-<http://www.giantbomb.com/elminster/3005-644/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Edwin-Odesseiron/3005-5313/#character> .
+<http://www.giantbomb.com/elminster/3005-644/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/gorion/3005-15905/#character> .
+<http://www.giantbomb.com/elminster/3005-644/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/edwin-odesseiron/3005-5313/#character> .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/tom-clancys-politika/3030-4168/releases/#toc-release-109426> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/tom-clancys-politika/3030-4168/releases/#toc-release-109426> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Tom-Clancy's-Politika/3030-4168/#game> .
-<http://www.giantbomb.com/tom-clancys-politika/3030-4168/releases/#toc-release-109426> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/tom-clancys-politika/3030-4168/releases/#toc-release-109426> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/tom-clancy's-politika/3030-4168/#game> .
+<http://www.giantbomb.com/tom-clancys-politika/3030-4168/releases/#toc-release-109426> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/tom-clancys-politika/3030-4168/releases/#toc-release-109426> <http://dbpedia.org/ontology/releaseDate> "1997-11-30" .

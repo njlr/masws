@@ -1,7 +1,7 @@
 <http://www.giantbomb.com/duck-king/3005-324/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/duck-king/3005-324/#character> <http://xmlns.com/foaf/0.1/#name> "Duck King" .
 <http://www.giantbomb.com/duck-king/3005-324/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/duck-king/3005-324/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/King/3005-4363/#character> .
-<http://www.giantbomb.com/duck-king/3005-324/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Terry-Bogard/3005-34/#character> .
-<http://www.giantbomb.com/duck-king/3005-324/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Kim-Kaphwan/3005-209/#character> .
-<http://www.giantbomb.com/duck-king/3005-324/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Geese-Howard/3005-280/#character> .
+<http://www.giantbomb.com/duck-king/3005-324/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/king/3005-4363/#character> .
+<http://www.giantbomb.com/duck-king/3005-324/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/terry-bogard/3005-34/#character> .
+<http://www.giantbomb.com/duck-king/3005-324/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/kim-kaphwan/3005-209/#character> .
+<http://www.giantbomb.com/duck-king/3005-324/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/geese-howard/3005-280/#character> .

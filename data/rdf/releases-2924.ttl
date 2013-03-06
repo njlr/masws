@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/sega-ages-2500-vol17-phantasy-star-generation2/3030-2924/releases/#toc-release-123106> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/sega-ages-2500-vol17-phantasy-star-generation2/3030-2924/releases/#toc-release-123106> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/SEGA-AGES-2500-Vol17:-Phantasy-Star---Generation:2/3030-2924/#game> .
-<http://www.giantbomb.com/sega-ages-2500-vol17-phantasy-star-generation2/3030-2924/releases/#toc-release-123106> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/sega-ages-2500-vol17-phantasy-star-generation2/3030-2924/releases/#toc-release-123106> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/sega-ages-2500-vol17-phantasy-star---generation2/3030-2924/#game> .
+<http://www.giantbomb.com/sega-ages-2500-vol17-phantasy-star-generation2/3030-2924/releases/#toc-release-123106> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/sega-ages-2500-vol17-phantasy-star-generation2/3030-2924/releases/#toc-release-123106> <http://dbpedia.org/ontology/releaseDate> "2005-03-24" .

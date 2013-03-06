@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cowboy-bebop/3030-4824/releases/#toc-release-105929> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/cowboy-bebop/3030-4824/releases/#toc-release-105929> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Cowboy-Bebop/3030-4824/#game> .
-<http://www.giantbomb.com/cowboy-bebop/3030-4824/releases/#toc-release-105929> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/cowboy-bebop/3030-4824/releases/#toc-release-105929> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cowboy-bebop/3030-4824/#game> .
+<http://www.giantbomb.com/cowboy-bebop/3030-4824/releases/#toc-release-105929> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/cowboy-bebop/3030-4824/releases/#toc-release-105929> <http://dbpedia.org/ontology/releaseDate> "1998-05-14" .

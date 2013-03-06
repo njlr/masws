@@ -1,6 +1,6 @@
 <http://www.giantbomb.com/mutoid-man/3005-164/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/mutoid-man/3005-164/#character> <http://xmlns.com/foaf/0.1/#name> "Mutoid Man" .
 <http://www.giantbomb.com/mutoid-man/3005-164/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/mutoid-man/3005-164/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Scarface/3005-1004/#character> .
-<http://www.giantbomb.com/mutoid-man/3005-164/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Die-Cobros/3005-1010/#character> .
-<http://www.giantbomb.com/mutoid-man/3005-164/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Evil-MC/3005-972/#character> .
+<http://www.giantbomb.com/mutoid-man/3005-164/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/scarface/3005-1004/#character> .
+<http://www.giantbomb.com/mutoid-man/3005-164/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/die-cobros/3005-1010/#character> .
+<http://www.giantbomb.com/mutoid-man/3005-164/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/evil-mc/3005-972/#character> .

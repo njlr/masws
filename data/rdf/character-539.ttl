@@ -1,9 +1,9 @@
 <http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <http://www.w3.org/TR/rdf-schema/#type> <http://es.dbpedia.org/ontology/FictionalCharacter> .
 <http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <http://xmlns.com/foaf/0.1/#name> "Dr. Bosconovitch" .
 <http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Yoshimitsu/3005-1210/#character> .
-<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Alisa-Bosconovitch/3005-7576/#character> .
-<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/Jane/3005-19854/#character> .
-<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Kazuya-Mishima/3005-534/#character> .
-<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Bryan-Fury/3005-540/#character> .
-<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/Dr-Abel/3005-19853/#character> .
+<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/yoshimitsu/3005-1210/#character> .
+<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/alisa-bosconovitch/3005-7576/#character> .
+<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#friend> <http://www.giantbomb.com/jane/3005-19854/#character> .
+<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/kazuya-mishima/3005-534/#character> .
+<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/bryan-fury/3005-540/#character> .
+<http://www.giantbomb.com/dr-bosconovitch/3005-539/#character> <https://raw.github.com/nlr/masws/master/vocab.n3#foe> <http://www.giantbomb.com/dr-abel/3005-19853/#character> .

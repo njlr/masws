@@ -1,3 +1,3 @@
 <http://www.giantbomb.com/balloon-fight/3030-86/#game> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/class/yago/ComputerGame100458890> .
 <http://www.giantbomb.com/balloon-fight/3030-86/#game> <http://xmlns.com/foaf/0.1/#name> "Balloon Fight" .
-<http://www.giantbomb.com/balloon-fight/3030-86/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/Balloon-Fighter/3005-12490/#character> .
+<http://www.giantbomb.com/balloon-fight/3030-86/#game> <https://raw.github.com/nlr/masws/master/vocab.n3#features> <http://www.giantbomb.com/balloon-fighter/3005-12490/#character> .

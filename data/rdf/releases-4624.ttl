@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/jungle-wars-2-kodai-mahou-atimos-no-nazo/3030-4624/releases/#toc-release-109177> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/jungle-wars-2-kodai-mahou-atimos-no-nazo/3030-4624/releases/#toc-release-109177> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Jungle-Wars-2:--Kodai-Mahou-Atimos-no-Nazo/3030-4624/#game> .
-<http://www.giantbomb.com/jungle-wars-2-kodai-mahou-atimos-no-nazo/3030-4624/releases/#toc-release-109177> <http://dbpedia.org/property/location> "Japan" .
+<http://www.giantbomb.com/jungle-wars-2-kodai-mahou-atimos-no-nazo/3030-4624/releases/#toc-release-109177> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/jungle-wars-2--kodai-mahou-atimos-no-nazo/3030-4624/#game> .
+<http://www.giantbomb.com/jungle-wars-2-kodai-mahou-atimos-no-nazo/3030-4624/releases/#toc-release-109177> <http://dbpedia.org/property/location> "japan" .
 <http://www.giantbomb.com/jungle-wars-2-kodai-mahou-atimos-no-nazo/3030-4624/releases/#toc-release-109177> <http://dbpedia.org/ontology/releaseDate> "1993-03-19" .

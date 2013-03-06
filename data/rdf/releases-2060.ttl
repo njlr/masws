@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/hogbear/3030-2060/releases/#toc-release-110227> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/hogbear/3030-2060/releases/#toc-release-110227> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Hogbear/3030-2060/#game> .
-<http://www.giantbomb.com/hogbear/3030-2060/releases/#toc-release-110227> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/hogbear/3030-2060/releases/#toc-release-110227> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hogbear/3030-2060/#game> .
+<http://www.giantbomb.com/hogbear/3030-2060/releases/#toc-release-110227> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/hogbear/3030-2060/releases/#toc-release-110227> <http://dbpedia.org/ontology/releaseDate> "1989-01-01" .

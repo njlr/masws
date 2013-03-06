@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/totaled/3030-3996/releases/#toc-release-87648> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/totaled/3030-3996/releases/#toc-release-87648> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/Totaled!/3030-3996/#game> .
-<http://www.giantbomb.com/totaled/3030-3996/releases/#toc-release-87648> <http://dbpedia.org/property/location> "United-States" .
+<http://www.giantbomb.com/totaled/3030-3996/releases/#toc-release-87648> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/totaled!/3030-3996/#game> .
+<http://www.giantbomb.com/totaled/3030-3996/releases/#toc-release-87648> <http://dbpedia.org/property/location> "united-states" .
 <http://www.giantbomb.com/totaled/3030-3996/releases/#toc-release-87648> <http://dbpedia.org/ontology/releaseDate> "2002-07-30" .
