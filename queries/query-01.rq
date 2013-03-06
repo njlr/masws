@@ -1,3 +1,4 @@
+#List all character pairs that are foes of each-other
 PREFIX foaf: <http://xmlns.com/foaf/0.1/#>
 PREFIX dbpedia: <http://es.dbpedia.org/ontology/>
 
