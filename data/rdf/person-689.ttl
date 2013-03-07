@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/david-bamberger/3040-689/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/david-bamberger/3040-689/#person> <http://xmlns.com/foaf/0.1/#name> "David Bamberger" .
 <http://www.giantbomb.com/david-bamberger/3040-689/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/david-bamberger/3040-689/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/david-bamberger/3040-689/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/david-bamberger/3040-689/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/ubisoft-entertainment/3010-82/#company> .
 <http://www.giantbomb.com/david-bamberger/3040-689/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/ubisoft-montpellier-studios/3010-3911/#company> .
 <http://www.giantbomb.com/david-bamberger/3040-689/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sony-computer-entertainment-europe/3010-46/#company> .

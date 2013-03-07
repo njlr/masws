@@ -1,9 +1,6 @@
 <http://www.giantbomb.com/yuan-liu/3040-176/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/yuan-liu/3040-176/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/yuan-liu/3040-176/#person> <http://xmlns.com/foaf/0.1/#name> "Yuan Liu" .
-<http://www.giantbomb.com/yuan-liu/3040-176/#person> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/yuan-liu/3040-176/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/yuan-liu/3040-176/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/yuan-liu/3040-176/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/electronic-arts/3010-1/#company> .
 <http://www.giantbomb.com/yuan-liu/3040-176/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/ea-los-angeles/3010-1382/#company> .
 <http://www.giantbomb.com/yuan-liu/3040-176/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/2015,-inc/3010-2912/#company> .

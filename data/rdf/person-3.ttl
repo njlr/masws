@@ -1,9 +1,6 @@
 <http://www.giantbomb.com/stevie-case/3040-3/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/stevie-case/3040-3/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/stevie-case/3040-3/#person> <http://xmlns.com/foaf/0.1/#name> "Stevie Case" .
-<http://www.giantbomb.com/stevie-case/3040-3/#person> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/stevie-case/3040-3/#person> <http://dbpedia.org/ontology/birthDate> "1976-09-07" .
-<http://www.giantbomb.com/stevie-case/3040-3/#person> <http://dbpedia.org/ontology/birthPlace> "United States" .
 <http://www.giantbomb.com/stevie-case/3040-3/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sold-out-sales-&-marketing-ltd/3010-167/#company> .
 <http://www.giantbomb.com/stevie-case/3040-3/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/ion-storm-inc/3010-1920/#company> .
 <http://www.giantbomb.com/stevie-case/3040-3/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/ritual-entertainment/3010-2529/#company> .

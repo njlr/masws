@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/alex-mejia/3040-468/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/alex-mejia/3040-468/#person> <http://xmlns.com/foaf/0.1/#name> "Alex Mejia" .
 <http://www.giantbomb.com/alex-mejia/3040-468/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/alex-mejia/3040-468/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/alex-mejia/3040-468/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/alex-mejia/3040-468/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/russell/3010-2597/#company> .
 <http://www.giantbomb.com/alex-mejia/3040-468/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/thq/3010-15/#company> .
 <http://www.giantbomb.com/alex-mejia/3040-468/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/deep-silver-volition,-inc/3010-1007/#company> .

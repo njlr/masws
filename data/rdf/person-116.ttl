@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/thomas-inesi/3040-116/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/thomas-inesi/3040-116/#person> <http://xmlns.com/foaf/0.1/#name> "Thomas Inesi" .
 <http://www.giantbomb.com/thomas-inesi/3040-116/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/thomas-inesi/3040-116/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/thomas-inesi/3040-116/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/thomas-inesi/3040-116/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/gamecock-media-group/3010-4193/#company> .
 <http://www.giantbomb.com/thomas-inesi/3040-116/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/spark-unlimited/3010-2364/#company> .
 <http://www.giantbomb.com/thomas-inesi/3040-116/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sony-computer-entertainment-america/3010-313/#company> .

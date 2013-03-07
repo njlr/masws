@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/nick-cooper/3040-68/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/nick-cooper/3040-68/#person> <http://xmlns.com/foaf/0.1/#name> "Nick Cooper" .
 <http://www.giantbomb.com/nick-cooper/3040-68/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/nick-cooper/3040-68/#person> <http://dbpedia.org/ontology/birthDate> "1984-06-05" .
-<http://www.giantbomb.com/nick-cooper/3040-68/#person> <http://dbpedia.org/ontology/birthPlace> "United States" .
 <http://www.giantbomb.com/nick-cooper/3040-68/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/microsoft-studios/3010-340/#company> .
 <http://www.giantbomb.com/nick-cooper/3040-68/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/epic-games/3010-149/#company> .
 <http://www.giantbomb.com/nick-cooper/3040-68/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/eidos-interactive/3010-658/#company> .

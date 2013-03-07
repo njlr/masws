@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/barry-t-smith/3040-876/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/barry-t-smith/3040-876/#person> <http://xmlns.com/foaf/0.1/#name> "Barry T. Smith" .
 <http://www.giantbomb.com/barry-t-smith/3040-876/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/barry-t-smith/3040-876/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/barry-t-smith/3040-876/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/barry-t-smith/3040-876/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sierra-entertainment,-inc/3010-1030/#company> .
 <http://www.giantbomb.com/barry-t-smith/3040-876/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/konami-corporation/3010-87/#company> .
 <http://www.giantbomb.com/barry-t-smith/3040-876/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/gt-interactive-software-corp/3010-479/#company> .

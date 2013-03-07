@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/mark-seibert/3040-992/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/mark-seibert/3040-992/#person> <http://xmlns.com/foaf/0.1/#name> "Mark Seibert" .
 <http://www.giantbomb.com/mark-seibert/3040-992/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/mark-seibert/3040-992/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/mark-seibert/3040-992/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/mark-seibert/3040-992/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sierra-entertainment,-inc/3010-1030/#company> .
 <http://www.giantbomb.com/mark-seibert/3040-992/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/konami-corporation/3010-87/#company> .
 <http://www.giantbomb.com/mark-seibert/3040-992/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sierra-online/3010-2934/#company> .

@@ -1,9 +1,6 @@
 <http://www.giantbomb.com/toshihiko-nakago/3040-596/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/toshihiko-nakago/3040-596/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/toshihiko-nakago/3040-596/#person> <http://xmlns.com/foaf/0.1/#name> "Toshihiko Nakago" .
-<http://www.giantbomb.com/toshihiko-nakago/3040-596/#person> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/toshihiko-nakago/3040-596/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/toshihiko-nakago/3040-596/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/toshihiko-nakago/3040-596/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo/3010-90/#company> .
 <http://www.giantbomb.com/toshihiko-nakago/3040-596/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo-ead/3010-463/#company> .
 <http://www.giantbomb.com/toshihiko-nakago/3040-596/#person> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/yoshi's-story/3030-15207/#game> .

@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/mark-crowe/3040-997/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/mark-crowe/3040-997/#person> <http://xmlns.com/foaf/0.1/#name> "Mark Crowe" .
 <http://www.giantbomb.com/mark-crowe/3040-997/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/mark-crowe/3040-997/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/mark-crowe/3040-997/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/mark-crowe/3040-997/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/pipeworks-software,-inc/3010-2161/#company> .
 <http://www.giantbomb.com/mark-crowe/3040-997/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sierra-entertainment,-inc/3010-1030/#company> .
 <http://www.giantbomb.com/mark-crowe/3040-997/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/us-gold-ltd/3010-67/#company> .

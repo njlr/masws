@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/tomo-shikami/3040-351/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/tomo-shikami/3040-351/#person> <http://xmlns.com/foaf/0.1/#name> "Tomo Shikami" .
 <http://www.giantbomb.com/tomo-shikami/3040-351/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/tomo-shikami/3040-351/#person> <http://dbpedia.org/ontology/birthDate> "1978-04-21" .
-<http://www.giantbomb.com/tomo-shikami/3040-351/#person> <http://dbpedia.org/ontology/birthPlace> "United States" .
 <http://www.giantbomb.com/tomo-shikami/3040-351/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/activision/3010-78/#company> .
 <http://www.giantbomb.com/tomo-shikami/3040-351/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/1c-company/3010-322/#company> .
 <http://www.giantbomb.com/tomo-shikami/3040-351/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/neversoft-entertainment/3010-1442/#company> .

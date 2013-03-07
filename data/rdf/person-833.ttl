@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/jason-walker/3040-833/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/jason-walker/3040-833/#person> <http://xmlns.com/foaf/0.1/#name> "Jason Walker" .
 <http://www.giantbomb.com/jason-walker/3040-833/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/jason-walker/3040-833/#person> <http://dbpedia.org/ontology/birthDate> "1976-09-23" .
-<http://www.giantbomb.com/jason-walker/3040-833/#person> <http://dbpedia.org/ontology/birthPlace> "England" .
 <http://www.giantbomb.com/jason-walker/3040-833/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/eidos-interactive/3010-658/#company> .
 <http://www.giantbomb.com/jason-walker/3040-833/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/proein-sl/3010-2388/#company> .
 <http://www.giantbomb.com/jason-walker/3040-833/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/ion-storm-inc/3010-1920/#company> .

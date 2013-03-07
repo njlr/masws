@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/takao-shimizu/3040-612/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/takao-shimizu/3040-612/#person> <http://xmlns.com/foaf/0.1/#name> "Takao Shimizu" .
 <http://www.giantbomb.com/takao-shimizu/3040-612/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/takao-shimizu/3040-612/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/takao-shimizu/3040-612/#person> <http://dbpedia.org/ontology/birthPlace> "Japan" .
 <http://www.giantbomb.com/takao-shimizu/3040-612/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo/3010-90/#company> .
 <http://www.giantbomb.com/takao-shimizu/3040-612/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo-ead/3010-463/#company> .
 <http://www.giantbomb.com/takao-shimizu/3040-612/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/game-arts-co,-ltd/3010-386/#company> .

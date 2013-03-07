@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/nobuo-uematsu/3040-635/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/nobuo-uematsu/3040-635/#person> <http://xmlns.com/foaf/0.1/#name> "Nobuo Uematsu" .
 <http://www.giantbomb.com/nobuo-uematsu/3040-635/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/nobuo-uematsu/3040-635/#person> <http://dbpedia.org/ontology/birthDate> "1959-03-21" .
-<http://www.giantbomb.com/nobuo-uematsu/3040-635/#person> <http://dbpedia.org/ontology/birthPlace> "Japan" .
 <http://www.giantbomb.com/nobuo-uematsu/3040-635/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo/3010-90/#company> .
 <http://www.giantbomb.com/nobuo-uematsu/3040-635/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/square-enix/3010-104/#company> .
 <http://www.giantbomb.com/nobuo-uematsu/3040-635/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/microsoft-studios/3010-340/#company> .

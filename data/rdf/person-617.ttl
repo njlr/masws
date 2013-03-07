@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/jonathan-williams/3040-617/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/jonathan-williams/3040-617/#person> <http://xmlns.com/foaf/0.1/#name> "Jonathan Williams" .
 <http://www.giantbomb.com/jonathan-williams/3040-617/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/jonathan-williams/3040-617/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/jonathan-williams/3040-617/#person> <http://dbpedia.org/ontology/birthPlace> "United Kingdom" .
 <http://www.giantbomb.com/jonathan-williams/3040-617/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/squaresoft/3010-6323/#company> .
 <http://www.giantbomb.com/jonathan-williams/3040-617/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/monolith-software,-inc/3010-1245/#company> .
 <http://www.giantbomb.com/jonathan-williams/3040-617/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sony-computer-entertainment-europe/3010-46/#company> .

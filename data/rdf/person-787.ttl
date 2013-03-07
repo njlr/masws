@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/michael-h-gilmartin/3040-787/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/michael-h-gilmartin/3040-787/#person> <http://xmlns.com/foaf/0.1/#name> "Michael H. Gilmartin" .
 <http://www.giantbomb.com/michael-h-gilmartin/3040-787/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/michael-h-gilmartin/3040-787/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/michael-h-gilmartin/3040-787/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/michael-h-gilmartin/3040-787/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/chris-sawyer-productions/3010-1323/#company> .
 <http://www.giantbomb.com/michael-h-gilmartin/3040-787/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/atari/3010-182/#company> .
 <http://www.giantbomb.com/michael-h-gilmartin/3040-787/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/atari-sa/3010-548/#company> .

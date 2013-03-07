@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/keith-arem/3040-148/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/keith-arem/3040-148/#person> <http://xmlns.com/foaf/0.1/#name> "Keith Arem" .
 <http://www.giantbomb.com/keith-arem/3040-148/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/keith-arem/3040-148/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/keith-arem/3040-148/#person> <http://dbpedia.org/ontology/birthPlace> "United States" .
 <http://www.giantbomb.com/keith-arem/3040-148/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/virgin-interactive-entertainment,-inc/3010-176/#company> .
 <http://www.giantbomb.com/keith-arem/3040-148/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/trilobyte,-inc/3010-273/#company> .
 <http://www.giantbomb.com/keith-arem/3040-148/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/atlus-co,-ltd/3010-442/#company> .

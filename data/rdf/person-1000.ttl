@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/marti-mckenna/3040-1000/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/marti-mckenna/3040-1000/#person> <http://xmlns.com/foaf/0.1/#name> "Marti McKenna" .
 <http://www.giantbomb.com/marti-mckenna/3040-1000/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/marti-mckenna/3040-1000/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/marti-mckenna/3040-1000/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/marti-mckenna/3040-1000/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/ncsoft-corporation/3010-3636/#company> .
 <http://www.giantbomb.com/marti-mckenna/3040-1000/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/arenanet,-inc/3010-306/#company> .
 <http://www.giantbomb.com/marti-mckenna/3040-1000/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/aspyr-media,-inc/3010-388/#company> .

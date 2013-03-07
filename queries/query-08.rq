@@ -1,0 +1,8 @@
+# Count the genders of the people in the dataset
+SELECT DISTINCT ?gender (count(?person) as ?count) 
+WHERE 
+{
+    ?person <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> . 
+    ?person <http://xmlns.com/foaf/0.1/#gender> ?gender . 
+} 
+GROUP BY ?gender

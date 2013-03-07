@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/yoshitaka-amano/3040-639/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/yoshitaka-amano/3040-639/#person> <http://xmlns.com/foaf/0.1/#name> "Yoshitaka Amano" .
 <http://www.giantbomb.com/yoshitaka-amano/3040-639/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/yoshitaka-amano/3040-639/#person> <http://dbpedia.org/ontology/birthDate> "1952-07-28" .
-<http://www.giantbomb.com/yoshitaka-amano/3040-639/#person> <http://dbpedia.org/ontology/birthPlace> "Japan" .
 <http://www.giantbomb.com/yoshitaka-amano/3040-639/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/square-enix/3010-104/#company> .
 <http://www.giantbomb.com/yoshitaka-amano/3040-639/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sony-computer-entertainment-europe/3010-46/#company> .
 <http://www.giantbomb.com/yoshitaka-amano/3040-639/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo/3010-90/#company> .

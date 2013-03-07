@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/joseph-d-kucan/3040-1073/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/joseph-d-kucan/3040-1073/#person> <http://xmlns.com/foaf/0.1/#name> "Joseph D. Kucan" .
 <http://www.giantbomb.com/joseph-d-kucan/3040-1073/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/joseph-d-kucan/3040-1073/#person> <http://dbpedia.org/ontology/birthDate> "1965-03-19" .
-<http://www.giantbomb.com/joseph-d-kucan/3040-1073/#person> <http://dbpedia.org/ontology/birthPlace> "USA" .
 <http://www.giantbomb.com/joseph-d-kucan/3040-1073/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/virgin-games,-inc/3010-430/#company> .
 <http://www.giantbomb.com/joseph-d-kucan/3040-1073/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/westwood-studios,-inc/3010-261/#company> .
 <http://www.giantbomb.com/joseph-d-kucan/3040-1073/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/virgin-interactive-entertainment-sarl/3010-5308/#company> .

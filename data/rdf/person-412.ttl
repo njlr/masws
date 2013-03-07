@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/kirt-sanchez/3040-412/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/kirt-sanchez/3040-412/#person> <http://xmlns.com/foaf/0.1/#name> "Kirt Sanchez" .
 <http://www.giantbomb.com/kirt-sanchez/3040-412/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/kirt-sanchez/3040-412/#person> <http://dbpedia.org/ontology/birthDate> "1985-07-05" .
-<http://www.giantbomb.com/kirt-sanchez/3040-412/#person> <http://dbpedia.org/ontology/birthPlace> "USA" .
 <http://www.giantbomb.com/kirt-sanchez/3040-412/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/activision/3010-78/#company> .
 <http://www.giantbomb.com/kirt-sanchez/3040-412/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/aspyr-media,-inc/3010-388/#company> .
 <http://www.giantbomb.com/kirt-sanchez/3040-412/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/infinity-ward/3010-1526/#company> .

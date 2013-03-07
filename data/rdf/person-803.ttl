@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/david-cox/3040-803/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/david-cox/3040-803/#person> <http://xmlns.com/foaf/0.1/#name> "David Cox" .
 <http://www.giantbomb.com/david-cox/3040-803/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/david-cox/3040-803/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/david-cox/3040-803/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/david-cox/3040-803/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/kojima-productions/3010-2057/#company> .
 <http://www.giantbomb.com/david-cox/3040-803/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/mercury-steam-entertainment-sl/3010-4487/#company> .
 <http://www.giantbomb.com/david-cox/3040-803/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/future-endeavors,-inc/3010-6087/#company> .

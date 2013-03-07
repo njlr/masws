@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/seth-luisi/3040-666/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/seth-luisi/3040-666/#person> <http://xmlns.com/foaf/0.1/#name> "Seth Luisi" .
 <http://www.giantbomb.com/seth-luisi/3040-666/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/seth-luisi/3040-666/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/seth-luisi/3040-666/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/seth-luisi/3040-666/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sony-computer-entertainment-america/3010-313/#company> .
 <http://www.giantbomb.com/seth-luisi/3040-666/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/level-5-inc/3010-1659/#company> .
 <http://www.giantbomb.com/seth-luisi/3040-666/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sony-electronic-publishing-ltd/3010-2237/#company> .

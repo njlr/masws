@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/joe-ybarra/3040-849/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/joe-ybarra/3040-849/#person> <http://xmlns.com/foaf/0.1/#name> "Joe Ybarra" .
 <http://www.giantbomb.com/joe-ybarra/3040-849/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/joe-ybarra/3040-849/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/joe-ybarra/3040-849/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/joe-ybarra/3040-849/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/electronic-arts/3010-1/#company> .
 <http://www.giantbomb.com/joe-ybarra/3040-849/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/quest-software,-inc/3010-4947/#company> .
 <http://www.giantbomb.com/joe-ybarra/3040-849/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/interplay-entertainment-corp/3010-580/#company> .

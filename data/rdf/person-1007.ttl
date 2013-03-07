@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/michael-lightner/3040-1007/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/michael-lightner/3040-1007/#person> <http://xmlns.com/foaf/0.1/#name> "Michael Lightner" .
 <http://www.giantbomb.com/michael-lightner/3040-1007/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/michael-lightner/3040-1007/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/michael-lightner/3040-1007/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/michael-lightner/3040-1007/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/westwood-studios,-inc/3010-261/#company> .
 <http://www.giantbomb.com/michael-lightner/3040-1007/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/virgin-interactive-entertainment,-inc/3010-176/#company> .
 <http://www.giantbomb.com/michael-lightner/3040-1007/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/virgin-games,-inc/3010-430/#company> .

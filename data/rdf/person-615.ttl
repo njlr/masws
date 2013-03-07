@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/hiroshi-yamauchi/3040-615/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/hiroshi-yamauchi/3040-615/#person> <http://xmlns.com/foaf/0.1/#name> "Hiroshi Yamauchi" .
 <http://www.giantbomb.com/hiroshi-yamauchi/3040-615/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/hiroshi-yamauchi/3040-615/#person> <http://dbpedia.org/ontology/birthDate> "1927-11-07" .
-<http://www.giantbomb.com/hiroshi-yamauchi/3040-615/#person> <http://dbpedia.org/ontology/birthPlace> "Japan" .
 <http://www.giantbomb.com/hiroshi-yamauchi/3040-615/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo/3010-90/#company> .
 <http://www.giantbomb.com/hiroshi-yamauchi/3040-615/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/ape/3010-2586/#company> .
 <http://www.giantbomb.com/hiroshi-yamauchi/3040-615/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo-ead/3010-463/#company> .

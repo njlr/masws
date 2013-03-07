@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/koji-kondo/3040-606/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/koji-kondo/3040-606/#person> <http://xmlns.com/foaf/0.1/#name> "Koji Kondo" .
 <http://www.giantbomb.com/koji-kondo/3040-606/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/koji-kondo/3040-606/#person> <http://dbpedia.org/ontology/birthDate> "1960-08-13" .
-<http://www.giantbomb.com/koji-kondo/3040-606/#person> <http://dbpedia.org/ontology/birthPlace> "Japan" .
 <http://www.giantbomb.com/koji-kondo/3040-606/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo/3010-90/#company> .
 <http://www.giantbomb.com/koji-kondo/3040-606/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo-r&d1/3010-928/#company> .
 <http://www.giantbomb.com/koji-kondo/3040-606/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/karoshi-corporation/3010-2136/#company> .

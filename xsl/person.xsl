@@ -68,14 +68,6 @@
             </xsl:call-template>
         </xsl:when>
         <xsl:otherwise>
-            <xsl:variable name="quoted-gender">
-                <xsl:text>"other"</xsl:text>
-            </xsl:variable>
-            <xsl:call-template name="statement">
-                <xsl:with-param name="subject" select="$uri"/>
-                <xsl:with-param name="predicate" select="'&lt;http://xmlns.com/foaf/0.1/#gender>'"/>
-                <xsl:with-param name="object" select="$quoted-gender"/>
-            </xsl:call-template>
         </xsl:otherwise>
     </xsl:choose>
 </xsl:template>
@@ -86,11 +78,15 @@
         <xsl:value-of select="."/>
         <xsl:text>"</xsl:text>
     </xsl:variable>
-    <xsl:call-template name="statement">
-        <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;http://dbpedia.org/ontology/birthDate>'"/>
-        <xsl:with-param name="object" select="$date"/>
-    </xsl:call-template>
+    <xsl:choose>
+        <xsl:when test="$date != '' and $date != null">
+            <xsl:call-template name="statement">
+                <xsl:with-param name="subject" select="$uri"/>
+                <xsl:with-param name="predicate" select="'&lt;http://dbpedia.org/ontology/birthDate>'"/>
+                <xsl:with-param name="object" select="$date"/>
+            </xsl:call-template>
+        </xsl:when>
+    </xsl:choose>
 </xsl:template>
 
 <xsl:template match="country">
@@ -99,11 +95,15 @@
         <xsl:value-of select="."/>
         <xsl:text>"</xsl:text>
     </xsl:variable>
-    <xsl:call-template name="statement">
-        <xsl:with-param name="subject" select="$uri"/>
-        <xsl:with-param name="predicate" select="'&lt;http://dbpedia.org/ontology/birthPlace>'"/>
-        <xsl:with-param name="object" select="$quoted-country"/>
-    </xsl:call-template>
+    <xsl:choose>
+        <xsl:when test="$quoted-country != '' and $quoted-country != null">
+            <xsl:call-template name="statement">
+                <xsl:with-param name="subject" select="$uri"/>
+                <xsl:with-param name="predicate" select="'&lt;http://dbpedia.org/ontology/birthPlace>'"/>
+                <xsl:with-param name="object" select="$quoted-country"/>
+            </xsl:call-template>
+        </xsl:when>
+    </xsl:choose>
 </xsl:template>
 
 <xsl:template match="companies">

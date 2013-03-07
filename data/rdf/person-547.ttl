@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/jon-sheltmire/3040-547/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/jon-sheltmire/3040-547/#person> <http://xmlns.com/foaf/0.1/#name> "Jon Sheltmire" .
 <http://www.giantbomb.com/jon-sheltmire/3040-547/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/jon-sheltmire/3040-547/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/jon-sheltmire/3040-547/#person> <http://dbpedia.org/ontology/birthPlace> "USA" .
 <http://www.giantbomb.com/jon-sheltmire/3040-547/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/activision/3010-78/#company> .
 <http://www.giantbomb.com/jon-sheltmire/3040-547/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nerve-software,-llc/3010-1083/#company> .
 <http://www.giantbomb.com/jon-sheltmire/3040-547/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/splash-damage,-ltd/3010-1082/#company> .

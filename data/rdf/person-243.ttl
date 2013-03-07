@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/grant-collier/3040-243/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/grant-collier/3040-243/#person> <http://xmlns.com/foaf/0.1/#name> "Grant Collier" .
 <http://www.giantbomb.com/grant-collier/3040-243/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/grant-collier/3040-243/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/grant-collier/3040-243/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/grant-collier/3040-243/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/activision/3010-78/#company> .
 <http://www.giantbomb.com/grant-collier/3040-243/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/infinity-ward/3010-1526/#company> .
 <http://www.giantbomb.com/grant-collier/3040-243/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/pi-studios,-llc/3010-1925/#company> .

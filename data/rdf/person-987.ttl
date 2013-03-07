@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/al-lowe/3040-987/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/al-lowe/3040-987/#person> <http://xmlns.com/foaf/0.1/#name> "Al Lowe" .
 <http://www.giantbomb.com/al-lowe/3040-987/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/al-lowe/3040-987/#person> <http://dbpedia.org/ontology/birthDate> "1946-07-24" .
-<http://www.giantbomb.com/al-lowe/3040-987/#person> <http://dbpedia.org/ontology/birthPlace> "USA" .
 <http://www.giantbomb.com/al-lowe/3040-987/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sierra-entertainment,-inc/3010-1030/#company> .
 <http://www.giantbomb.com/al-lowe/3040-987/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/soft-club/3010-1485/#company> .
 <http://www.giantbomb.com/al-lowe/3040-987/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/us-gold-ltd/3010-67/#company> .

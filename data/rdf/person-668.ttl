@@ -1,9 +1,6 @@
 <http://www.giantbomb.com/etsuko-kobata/3040-668/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/etsuko-kobata/3040-668/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/etsuko-kobata/3040-668/#person> <http://xmlns.com/foaf/0.1/#name> "Etsuko Kobata" .
-<http://www.giantbomb.com/etsuko-kobata/3040-668/#person> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/etsuko-kobata/3040-668/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/etsuko-kobata/3040-668/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/etsuko-kobata/3040-668/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sony-computer-entertainment-europe/3010-46/#company> .
 <http://www.giantbomb.com/etsuko-kobata/3040-668/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sony-computer-entertainment-america/3010-313/#company> .
 <http://www.giantbomb.com/etsuko-kobata/3040-668/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nanaon-sha-co,-ltd/3010-3654/#company> .

@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/peter-dille/3040-690/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/peter-dille/3040-690/#person> <http://xmlns.com/foaf/0.1/#name> "Peter Dille" .
 <http://www.giantbomb.com/peter-dille/3040-690/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/peter-dille/3040-690/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/peter-dille/3040-690/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/peter-dille/3040-690/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/universal-interactive-inc/3010-124/#company> .
 <http://www.giantbomb.com/peter-dille/3040-690/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sony-computer-entertainment-america/3010-313/#company> .
 <http://www.giantbomb.com/peter-dille/3040-690/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/naughty-dog,-inc/3010-827/#company> .

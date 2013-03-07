@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/mark-maestas/3040-91/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/mark-maestas/3040-91/#person> <http://xmlns.com/foaf/0.1/#name> "Mark Maestas" .
 <http://www.giantbomb.com/mark-maestas/3040-91/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/mark-maestas/3040-91/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/mark-maestas/3040-91/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/mark-maestas/3040-91/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/activision/3010-78/#company> .
 <http://www.giantbomb.com/mark-maestas/3040-91/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/spark-unlimited/3010-2364/#company> .
 <http://www.giantbomb.com/mark-maestas/3040-91/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/electronic-arts/3010-1/#company> .

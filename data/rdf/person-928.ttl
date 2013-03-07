@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://xmlns.com/foaf/0.1/#name> "Ken Williams" .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/ontology/birthDate> "1954-10-30" .
-<http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/ontology/birthPlace> "USA" .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sierra-entertainment,-inc/3010-1030/#company> .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo/3010-90/#company> .
 <http://www.giantbomb.com/ken-williams/3040-928/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/midway-games/3010-185/#company> .

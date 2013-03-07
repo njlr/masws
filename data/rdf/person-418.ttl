@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/michael-hayes/3040-418/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/michael-hayes/3040-418/#person> <http://xmlns.com/foaf/0.1/#name> "Michael Hayes" .
 <http://www.giantbomb.com/michael-hayes/3040-418/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/michael-hayes/3040-418/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/michael-hayes/3040-418/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/michael-hayes/3040-418/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sega/3010-62/#company> .
 <http://www.giantbomb.com/michael-hayes/3040-418/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sonic-team/3010-781/#company> .
 <http://www.giantbomb.com/michael-hayes/3040-418/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/pseudo-interactive/3010-4689/#company> .

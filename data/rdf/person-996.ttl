@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/robert-atesalp/3040-996/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/robert-atesalp/3040-996/#person> <http://xmlns.com/foaf/0.1/#name> "Robert Atesalp" .
 <http://www.giantbomb.com/robert-atesalp/3040-996/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/robert-atesalp/3040-996/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/robert-atesalp/3040-996/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/robert-atesalp/3040-996/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sierra-entertainment,-inc/3010-1030/#company> .
 <http://www.giantbomb.com/robert-atesalp/3040-996/#person> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals!/3030-4487/#game> .
 <http://www.giantbomb.com/robert-atesalp/3040-996/#person> <https://raw.github.com/nlr/masws/master/vocab.n3#developer> <http://www.giantbomb.com/hoyle-official-book-of-games-volume-1/3030-283/#game> .

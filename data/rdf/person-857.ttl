@@ -1,9 +1,6 @@
 <http://www.giantbomb.com/olof-gustafsson/3040-857/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/olof-gustafsson/3040-857/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/olof-gustafsson/3040-857/#person> <http://xmlns.com/foaf/0.1/#name> "Olof Gustafsson" .
-<http://www.giantbomb.com/olof-gustafsson/3040-857/#person> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/olof-gustafsson/3040-857/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/olof-gustafsson/3040-857/#person> <http://dbpedia.org/ontology/birthPlace> "Sweden" .
 <http://www.giantbomb.com/olof-gustafsson/3040-857/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/21st-century-entertainment-ltd/3010-692/#company> .
 <http://www.giantbomb.com/olof-gustafsson/3040-857/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/vap-inc/3010-4876/#company> .
 <http://www.giantbomb.com/olof-gustafsson/3040-857/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/spidersoft-limited/3010-693/#company> .

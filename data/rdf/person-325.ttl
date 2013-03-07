@@ -1,9 +1,6 @@
 <http://www.giantbomb.com/stephanie-omalley-deming/3040-325/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/stephanie-omalley-deming/3040-325/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/stephanie-omalley-deming/3040-325/#person> <http://xmlns.com/foaf/0.1/#name> "Stephanie O'Malley-Deming" .
-<http://www.giantbomb.com/stephanie-omalley-deming/3040-325/#person> <http://xmlns.com/foaf/0.1/#gender> "other" .
-<http://www.giantbomb.com/stephanie-omalley-deming/3040-325/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/stephanie-omalley-deming/3040-325/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/stephanie-omalley-deming/3040-325/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/activision/3010-78/#company> .
 <http://www.giantbomb.com/stephanie-omalley-deming/3040-325/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/amaze-entertainment,-inc/3010-1993/#company> .
 <http://www.giantbomb.com/stephanie-omalley-deming/3040-325/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/bizarre-creations/3010-716/#company> .

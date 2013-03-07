@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/fredrik-liliegren/3040-859/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/fredrik-liliegren/3040-859/#person> <http://xmlns.com/foaf/0.1/#name> "Fredrik Liliegren" .
 <http://www.giantbomb.com/fredrik-liliegren/3040-859/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/fredrik-liliegren/3040-859/#person> <http://dbpedia.org/ontology/birthDate> "1969-12-05" .
-<http://www.giantbomb.com/fredrik-liliegren/3040-859/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/fredrik-liliegren/3040-859/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/electronic-arts/3010-1/#company> .
 <http://www.giantbomb.com/fredrik-liliegren/3040-859/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/ea-digital-illusions-ce/3010-4880/#company> .
 <http://www.giantbomb.com/fredrik-liliegren/3040-859/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/magnussoft-deutschland-gmbh/3010-1060/#company> .

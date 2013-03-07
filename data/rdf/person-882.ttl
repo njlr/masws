@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/scott-murphy/3040-882/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/scott-murphy/3040-882/#person> <http://xmlns.com/foaf/0.1/#name> "Scott Murphy" .
 <http://www.giantbomb.com/scott-murphy/3040-882/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/scott-murphy/3040-882/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/scott-murphy/3040-882/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/scott-murphy/3040-882/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sierra-entertainment,-inc/3010-1030/#company> .
 <http://www.giantbomb.com/scott-murphy/3040-882/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/parker-brothers/3010-801/#company> .
 <http://www.giantbomb.com/scott-murphy/3040-882/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/sierra-online/3010-2934/#company> .

@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/jason-west/3040-241/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/jason-west/3040-241/#person> <http://xmlns.com/foaf/0.1/#name> "Jason West" .
 <http://www.giantbomb.com/jason-west/3040-241/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/jason-west/3040-241/#person> <http://dbpedia.org/ontology/birthDate> "" .
-<http://www.giantbomb.com/jason-west/3040-241/#person> <http://dbpedia.org/ontology/birthPlace> "United States" .
 <http://www.giantbomb.com/jason-west/3040-241/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/activision/3010-78/#company> .
 <http://www.giantbomb.com/jason-west/3040-241/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/infinity-ward/3010-1526/#company> .
 <http://www.giantbomb.com/jason-west/3040-241/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/paradigm-entertainment-inc/3010-808/#company> .

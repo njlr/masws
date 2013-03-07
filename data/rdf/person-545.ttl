@@ -2,8 +2,6 @@
 <http://www.giantbomb.com/john-thompson/3040-545/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/john-thompson/3040-545/#person> <http://xmlns.com/foaf/0.1/#name> "John Thompson" .
 <http://www.giantbomb.com/john-thompson/3040-545/#person> <http://xmlns.com/foaf/0.1/#gender> "male" .
-<http://www.giantbomb.com/john-thompson/3040-545/#person> <http://dbpedia.org/ontology/birthDate> "1970-01-01" .
-<http://www.giantbomb.com/john-thompson/3040-545/#person> <http://dbpedia.org/ontology/birthPlace> "" .
 <http://www.giantbomb.com/john-thompson/3040-545/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/pop-rocket/3010-4453/#company> .
 <http://www.giantbomb.com/john-thompson/3040-545/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/electronic-arts/3010-1/#company> .
 <http://www.giantbomb.com/john-thompson/3040-545/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/maxis-software/3010-205/#company> .
