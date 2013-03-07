@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/magic-the-gathering/3030-3000/releases/#toc-release-96567> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/magic-the-gathering/3030-3000/releases/#toc-release-96567> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/magic-the-gathering/3030-3000/#game> .
-<http://www.giantbomb.com/magic-the-gathering/3030-3000/releases/#toc-release-96567> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/magic-the-gathering/3030-3000/releases/#toc-release-96567> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-best-of-microprose-strategy/3030-96567/#game> .
 <http://www.giantbomb.com/magic-the-gathering/3030-3000/releases/#toc-release-96567> <http://dbpedia.org/ontology/releaseDate> "1998-06-01" .
+<http://www.giantbomb.com/magic-the-gathering/3030-3000/releases/#toc-release-96567> <http://dbpedia.org/property/location> "united-kingdom" .

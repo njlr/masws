@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/delaware-st-john-volume-2-the-town-with-no-name/3030-893/releases/#toc-release-2338> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/delaware-st-john-volume-2-the-town-with-no-name/3030-893/releases/#toc-release-2338> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/delaware-st-john-volume-2-the-town-with-no-name/3030-893/#game> .
-<http://www.giantbomb.com/delaware-st-john-volume-2-the-town-with-no-name/3030-893/releases/#toc-release-2338> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/delaware-st-john-volume-2-the-town-with-no-name/3030-893/releases/#toc-release-2338> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/delaware-st-john-volume-2-the-town-with-no-name/3030-2338/#game> .
 <http://www.giantbomb.com/delaware-st-john-volume-2-the-town-with-no-name/3030-893/releases/#toc-release-2338> <http://dbpedia.org/ontology/releaseDate> "2005-11-28" .
+<http://www.giantbomb.com/delaware-st-john-volume-2-the-town-with-no-name/3030-893/releases/#toc-release-2338> <http://dbpedia.org/property/location> "" .

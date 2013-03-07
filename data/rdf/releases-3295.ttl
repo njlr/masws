@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ultima-vii-part-two-the-silver-seed/3030-3295/releases/#toc-release-96916> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/ultima-vii-part-two-the-silver-seed/3030-3295/releases/#toc-release-96916> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ultima-vii,-part-two-the-silver-seed/3030-3295/#game> .
-<http://www.giantbomb.com/ultima-vii-part-two-the-silver-seed/3030-3295/releases/#toc-release-96916> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/ultima-vii-part-two-the-silver-seed/3030-3295/releases/#toc-release-96916> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ultima-collection/3030-96916/#game> .
 <http://www.giantbomb.com/ultima-vii-part-two-the-silver-seed/3030-3295/releases/#toc-release-96916> <http://dbpedia.org/ontology/releaseDate> "1997-01-01" .
+<http://www.giantbomb.com/ultima-vii-part-two-the-silver-seed/3030-3295/releases/#toc-release-96916> <http://dbpedia.org/property/location> "united-states" .

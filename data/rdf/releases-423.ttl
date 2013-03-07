@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-sims-2-hm-fashion-stuff/3030-423/releases/#toc-release-1153> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-sims-2-hm-fashion-stuff/3030-423/releases/#toc-release-1153> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-sims-2-h&m-fashion-stuff/3030-423/#game> .
-<http://www.giantbomb.com/the-sims-2-hm-fashion-stuff/3030-423/releases/#toc-release-1153> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/the-sims-2-hm-fashion-stuff/3030-423/releases/#toc-release-1153> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/sims-2-h&m-fashion-stuff,-the/3030-1153/#game> .
 <http://www.giantbomb.com/the-sims-2-hm-fashion-stuff/3030-423/releases/#toc-release-1153> <http://dbpedia.org/ontology/releaseDate> "2007-06-05" .
+<http://www.giantbomb.com/the-sims-2-hm-fashion-stuff/3030-423/releases/#toc-release-1153> <http://dbpedia.org/property/location> "united-states" .

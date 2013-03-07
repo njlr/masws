@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ganbare-goemon-2/3030-4569/releases/#toc-release-97933> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/ganbare-goemon-2/3030-4569/releases/#toc-release-97933> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ganbare-goemon-2/3030-4569/#game> .
-<http://www.giantbomb.com/ganbare-goemon-2/3030-4569/releases/#toc-release-97933> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/ganbare-goemon-2/3030-4569/releases/#toc-release-97933> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ganbare-goemon-2/3030-97933/#game> .
 <http://www.giantbomb.com/ganbare-goemon-2/3030-4569/releases/#toc-release-97933> <http://dbpedia.org/ontology/releaseDate> "1989-01-04" .
+<http://www.giantbomb.com/ganbare-goemon-2/3030-4569/releases/#toc-release-97933> <http://dbpedia.org/property/location> "japan" .

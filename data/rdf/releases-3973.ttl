@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/super-star-soldier/3030-3973/releases/#toc-release-99330> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/super-star-soldier/3030-3973/releases/#toc-release-99330> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/super-star-soldier/3030-3973/#game> .
-<http://www.giantbomb.com/super-star-soldier/3030-3973/releases/#toc-release-99330> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/super-star-soldier/3030-3973/releases/#toc-release-99330> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/soldier-collection/3030-99330/#game> .
 <http://www.giantbomb.com/super-star-soldier/3030-3973/releases/#toc-release-99330> <http://dbpedia.org/ontology/releaseDate> "2008-09-23" .
+<http://www.giantbomb.com/super-star-soldier/3030-3973/releases/#toc-release-99330> <http://dbpedia.org/property/location> "japan" .

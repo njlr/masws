@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/accele-brid/3030-2607/releases/#toc-release-107527> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/accele-brid/3030-2607/releases/#toc-release-107527> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/accele-brid/3030-2607/#game> .
-<http://www.giantbomb.com/accele-brid/3030-2607/releases/#toc-release-107527> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/accele-brid/3030-2607/releases/#toc-release-107527> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/accele-brid/3030-107527/#game> .
 <http://www.giantbomb.com/accele-brid/3030-2607/releases/#toc-release-107527> <http://dbpedia.org/ontology/releaseDate> "1993-11-26" .
+<http://www.giantbomb.com/accele-brid/3030-2607/releases/#toc-release-107527> <http://dbpedia.org/property/location> "japan" .

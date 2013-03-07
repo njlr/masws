@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/crime/3030-2303/releases/#toc-release-6057> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/crime/3030-2303/releases/#toc-release-6057> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/crime/3030-2303/#game> .
-<http://www.giantbomb.com/crime/3030-2303/releases/#toc-release-6057> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/crime/3030-2303/releases/#toc-release-6057> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/crime/3030-6057/#game> .
 <http://www.giantbomb.com/crime/3030-2303/releases/#toc-release-6057> <http://dbpedia.org/ontology/releaseDate> "1985-01-01" .
+<http://www.giantbomb.com/crime/3030-2303/releases/#toc-release-6057> <http://dbpedia.org/property/location> "" .

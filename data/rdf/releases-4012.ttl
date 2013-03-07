@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/neuro-hunter/3030-4012/releases/#toc-release-110242> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/neuro-hunter/3030-4012/releases/#toc-release-110242> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/neuro-hunter/3030-4012/#game> .
-<http://www.giantbomb.com/neuro-hunter/3030-4012/releases/#toc-release-110242> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/neuro-hunter/3030-4012/releases/#toc-release-110242> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/neuro-hunter/3030-110242/#game> .
 <http://www.giantbomb.com/neuro-hunter/3030-4012/releases/#toc-release-110242> <http://dbpedia.org/ontology/releaseDate> "2005-09-29" .
+<http://www.giantbomb.com/neuro-hunter/3030-4012/releases/#toc-release-110242> <http://dbpedia.org/property/location> "united-kingdom" .

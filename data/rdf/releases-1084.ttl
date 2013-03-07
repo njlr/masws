@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ganbare-goemon-uchuu-kaizoku-akogingu/3030-1084/releases/#toc-release-97942> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/ganbare-goemon-uchuu-kaizoku-akogingu/3030-1084/releases/#toc-release-97942> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ganbare-goemon-uchuu-kaizoku-akogingu/3030-1084/#game> .
-<http://www.giantbomb.com/ganbare-goemon-uchuu-kaizoku-akogingu/3030-1084/releases/#toc-release-97942> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/ganbare-goemon-uchuu-kaizoku-akogingu/3030-1084/releases/#toc-release-97942> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ganbare-goemon-uchuu-kaizoku-akogingu/3030-97942/#game> .
 <http://www.giantbomb.com/ganbare-goemon-uchuu-kaizoku-akogingu/3030-1084/releases/#toc-release-97942> <http://dbpedia.org/ontology/releaseDate> "1996-03-22" .
+<http://www.giantbomb.com/ganbare-goemon-uchuu-kaizoku-akogingu/3030-1084/releases/#toc-release-97942> <http://dbpedia.org/property/location> "japan" .

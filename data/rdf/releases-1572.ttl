@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/myst-online-uru-live/3030-1572/releases/#toc-release-4121> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/myst-online-uru-live/3030-1572/releases/#toc-release-4121> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/myst-online-uru-live/3030-1572/#game> .
-<http://www.giantbomb.com/myst-online-uru-live/3030-1572/releases/#toc-release-4121> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/myst-online-uru-live/3030-1572/releases/#toc-release-4121> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/myst-online-uru-live/3030-4121/#game> .
 <http://www.giantbomb.com/myst-online-uru-live/3030-1572/releases/#toc-release-4121> <http://dbpedia.org/ontology/releaseDate> "2007-03-20" .
+<http://www.giantbomb.com/myst-online-uru-live/3030-1572/releases/#toc-release-4121> <http://dbpedia.org/property/location> "" .

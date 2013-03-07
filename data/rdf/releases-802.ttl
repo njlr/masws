@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/mtv-total-request-live-trivia/3030-802/releases/#toc-release-103830> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/mtv-total-request-live-trivia/3030-802/releases/#toc-release-103830> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mtv-total-request-live-trivia/3030-802/#game> .
-<http://www.giantbomb.com/mtv-total-request-live-trivia/3030-802/releases/#toc-release-103830> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/mtv-total-request-live-trivia/3030-802/releases/#toc-release-103830> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mtv-total-request-live-trivia/3030-103830/#game> .
 <http://www.giantbomb.com/mtv-total-request-live-trivia/3030-802/releases/#toc-release-103830> <http://dbpedia.org/ontology/releaseDate> "2001-08-14" .
+<http://www.giantbomb.com/mtv-total-request-live-trivia/3030-802/releases/#toc-release-103830> <http://dbpedia.org/property/location> "united-states" .

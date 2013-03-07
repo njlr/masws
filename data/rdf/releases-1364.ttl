@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/pitstop-ii/3030-1364/releases/#toc-release-81618> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/pitstop-ii/3030-1364/releases/#toc-release-81618> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pitstop-ii/3030-1364/#game> .
-<http://www.giantbomb.com/pitstop-ii/3030-1364/releases/#toc-release-81618> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/pitstop-ii/3030-1364/releases/#toc-release-81618> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pitstop-ii/3030-81618/#game> .
 <http://www.giantbomb.com/pitstop-ii/3030-1364/releases/#toc-release-81618> <http://dbpedia.org/ontology/releaseDate> "2009-02-23" .
+<http://www.giantbomb.com/pitstop-ii/3030-1364/releases/#toc-release-81618> <http://dbpedia.org/property/location> "united-states" .

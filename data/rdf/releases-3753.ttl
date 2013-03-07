@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/fifa-manager-07/3030-3753/releases/#toc-release-114018> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/fifa-manager-07/3030-3753/releases/#toc-release-114018> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/fifa-manager-07/3030-3753/#game> .
-<http://www.giantbomb.com/fifa-manager-07/3030-3753/releases/#toc-release-114018> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/fifa-manager-07/3030-3753/releases/#toc-release-114018> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/fifa-manager-07/3030-114018/#game> .
 <http://www.giantbomb.com/fifa-manager-07/3030-3753/releases/#toc-release-114018> <http://dbpedia.org/ontology/releaseDate> "2006-11-03" .
+<http://www.giantbomb.com/fifa-manager-07/3030-3753/releases/#toc-release-114018> <http://dbpedia.org/property/location> "united-kingdom" .

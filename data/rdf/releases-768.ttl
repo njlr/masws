@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/fedora-spade-prologue/3030-768/releases/#toc-release-2033> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/fedora-spade-prologue/3030-768/releases/#toc-release-2033> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/fedora-spade-prologue/3030-768/#game> .
-<http://www.giantbomb.com/fedora-spade-prologue/3030-768/releases/#toc-release-2033> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/fedora-spade-prologue/3030-768/releases/#toc-release-2033> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/fedora-spade-prologue/3030-2033/#game> .
 <http://www.giantbomb.com/fedora-spade-prologue/3030-768/releases/#toc-release-2033> <http://dbpedia.org/ontology/releaseDate> "2007-06-14" .
+<http://www.giantbomb.com/fedora-spade-prologue/3030-768/releases/#toc-release-2033> <http://dbpedia.org/property/location> "" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-new-tetris/3030-1737/releases/#toc-release-106878> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-new-tetris/3030-1737/releases/#toc-release-106878> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-new-tetris/3030-1737/#game> .
-<http://www.giantbomb.com/the-new-tetris/3030-1737/releases/#toc-release-106878> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/the-new-tetris/3030-1737/releases/#toc-release-106878> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-new-tetris/3030-106878/#game> .
 <http://www.giantbomb.com/the-new-tetris/3030-1737/releases/#toc-release-106878> <http://dbpedia.org/ontology/releaseDate> "1999-07-31" .
+<http://www.giantbomb.com/the-new-tetris/3030-1737/releases/#toc-release-106878> <http://dbpedia.org/property/location> "united-states" .

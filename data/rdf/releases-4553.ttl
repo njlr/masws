@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/alex-kidd-bmx-trial/3030-4553/releases/#toc-release-119809> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/alex-kidd-bmx-trial/3030-4553/releases/#toc-release-119809> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/alex-kidd-bmx-trial/3030-4553/#game> .
-<http://www.giantbomb.com/alex-kidd-bmx-trial/3030-4553/releases/#toc-release-119809> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/alex-kidd-bmx-trial/3030-4553/releases/#toc-release-119809> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/alex-kidd-bmx-trial/3030-119809/#game> .
 <http://www.giantbomb.com/alex-kidd-bmx-trial/3030-4553/releases/#toc-release-119809> <http://dbpedia.org/ontology/releaseDate> "1987-11-15" .
+<http://www.giantbomb.com/alex-kidd-bmx-trial/3030-4553/releases/#toc-release-119809> <http://dbpedia.org/property/location> "japan" .

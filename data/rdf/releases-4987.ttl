@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/daryl-f-gates-police-quest-swat/3030-4987/releases/#toc-release-97705> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/daryl-f-gates-police-quest-swat/3030-4987/releases/#toc-release-97705> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/daryl-f-gates'-police-quest-swat/3030-4987/#game> .
-<http://www.giantbomb.com/daryl-f-gates-police-quest-swat/3030-4987/releases/#toc-release-97705> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/daryl-f-gates-police-quest-swat/3030-4987/releases/#toc-release-97705> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/swat-career-pack/3030-97705/#game> .
 <http://www.giantbomb.com/daryl-f-gates-police-quest-swat/3030-4987/releases/#toc-release-97705> <http://dbpedia.org/ontology/releaseDate> "2000-01-01" .
+<http://www.giantbomb.com/daryl-f-gates-police-quest-swat/3030-4987/releases/#toc-release-97705> <http://dbpedia.org/property/location> "united-states" .

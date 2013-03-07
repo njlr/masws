@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/oleary-manager-2000/3030-2035/releases/#toc-release-111298> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/oleary-manager-2000/3030-2035/releases/#toc-release-111298> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/o'leary-manager-2000/3030-2035/#game> .
-<http://www.giantbomb.com/oleary-manager-2000/3030-2035/releases/#toc-release-111298> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/oleary-manager-2000/3030-2035/releases/#toc-release-111298> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/o'leary-manager-2000/3030-111298/#game> .
 <http://www.giantbomb.com/oleary-manager-2000/3030-2035/releases/#toc-release-111298> <http://dbpedia.org/ontology/releaseDate> "2000-09-15" .
+<http://www.giantbomb.com/oleary-manager-2000/3030-2035/releases/#toc-release-111298> <http://dbpedia.org/property/location> "united-kingdom" .

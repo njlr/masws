@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/hope-springs-eternal/3030-1560/releases/#toc-release-4085> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/hope-springs-eternal/3030-1560/releases/#toc-release-4085> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hope-springs-eternal/3030-1560/#game> .
-<http://www.giantbomb.com/hope-springs-eternal/3030-1560/releases/#toc-release-4085> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/hope-springs-eternal/3030-1560/releases/#toc-release-4085> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hope-springs-eternal/3030-4085/#game> .
 <http://www.giantbomb.com/hope-springs-eternal/3030-1560/releases/#toc-release-4085> <http://dbpedia.org/ontology/releaseDate> "2005-10-10" .
+<http://www.giantbomb.com/hope-springs-eternal/3030-1560/releases/#toc-release-4085> <http://dbpedia.org/property/location> "" .

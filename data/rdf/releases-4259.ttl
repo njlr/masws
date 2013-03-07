@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/#game> .
-<http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-112248/#game> .
 <http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <http://dbpedia.org/ontology/releaseDate> "1994-01-01" .
+<http://www.giantbomb.com/astronomica-the-quest-for-the-edge-of-the-universe/3030-4259/releases/#toc-release-112248> <http://dbpedia.org/property/location> "united-states" .

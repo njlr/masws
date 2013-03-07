@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/kaizou-choujin-shubibinman-zero/3030-653/releases/#toc-release-106837> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/kaizou-choujin-shubibinman-zero/3030-653/releases/#toc-release-106837> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/kaizou-choujin-shubibinman-zero/3030-653/#game> .
-<http://www.giantbomb.com/kaizou-choujin-shubibinman-zero/3030-653/releases/#toc-release-106837> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/kaizou-choujin-shubibinman-zero/3030-653/releases/#toc-release-106837> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/改造町人シュビビンマン零/3030-106837/#game> .
 <http://www.giantbomb.com/kaizou-choujin-shubibinman-zero/3030-653/releases/#toc-release-106837> <http://dbpedia.org/ontology/releaseDate> "1997-01-01" .
+<http://www.giantbomb.com/kaizou-choujin-shubibinman-zero/3030-653/releases/#toc-release-106837> <http://dbpedia.org/property/location> "japan" .

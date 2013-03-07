@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/dynasty-warriors-3/3030-1224/releases/#toc-release-86090> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/dynasty-warriors-3/3030-1224/releases/#toc-release-86090> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/dynasty-warriors-3/3030-1224/#game> .
-<http://www.giantbomb.com/dynasty-warriors-3/3030-1224/releases/#toc-release-86090> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/dynasty-warriors-3/3030-1224/releases/#toc-release-86090> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/dynasty-warriors-3/3030-86090/#game> .
 <http://www.giantbomb.com/dynasty-warriors-3/3030-1224/releases/#toc-release-86090> <http://dbpedia.org/ontology/releaseDate> "2001-11-26" .
+<http://www.giantbomb.com/dynasty-warriors-3/3030-1224/releases/#toc-release-86090> <http://dbpedia.org/property/location> "united-states" .

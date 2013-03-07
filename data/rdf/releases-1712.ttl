@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/apex/3030-1712/releases/#toc-release-81998> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/apex/3030-1712/releases/#toc-release-81998> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/apex/3030-1712/#game> .
-<http://www.giantbomb.com/apex/3030-1712/releases/#toc-release-81998> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/apex/3030-1712/releases/#toc-release-81998> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/apex/3030-81998/#game> .
 <http://www.giantbomb.com/apex/3030-1712/releases/#toc-release-81998> <http://dbpedia.org/ontology/releaseDate> "2003-02-17" .
+<http://www.giantbomb.com/apex/3030-1712/releases/#toc-release-81998> <http://dbpedia.org/property/location> "united-states" .

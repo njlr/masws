@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bachelor-party/3030-2378/releases/#toc-release-96081> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/bachelor-party/3030-2378/releases/#toc-release-96081> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bachelor-party/3030-2378/#game> .
-<http://www.giantbomb.com/bachelor-party/3030-2378/releases/#toc-release-96081> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/bachelor-party/3030-2378/releases/#toc-release-96081> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bachelor-party/3030-96081/#game> .
 <http://www.giantbomb.com/bachelor-party/3030-2378/releases/#toc-release-96081> <http://dbpedia.org/ontology/releaseDate> "1982-10-31" .
+<http://www.giantbomb.com/bachelor-party/3030-2378/releases/#toc-release-96081> <http://dbpedia.org/property/location> "united-states" .

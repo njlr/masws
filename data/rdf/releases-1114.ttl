@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/mindshadow/3030-1114/releases/#toc-release-96142> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/mindshadow/3030-1114/releases/#toc-release-96142> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mindshadow/3030-1114/#game> .
-<http://www.giantbomb.com/mindshadow/3030-1114/releases/#toc-release-96142> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/mindshadow/3030-1114/releases/#toc-release-96142> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/interplay's-10-year-anthology/3030-96142/#game> .
 <http://www.giantbomb.com/mindshadow/3030-1114/releases/#toc-release-96142> <http://dbpedia.org/ontology/releaseDate> "1993-01-01" .
+<http://www.giantbomb.com/mindshadow/3030-1114/releases/#toc-release-96142> <http://dbpedia.org/property/location> "united-states" .

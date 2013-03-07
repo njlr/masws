@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/#game> .
-<http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-lost-world-jurassic-park/3030-124214/#game> .
 <http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <http://dbpedia.org/ontology/releaseDate> "" .
+<http://www.giantbomb.com/the-lost-world-jurassic-park/3030-4125/releases/#toc-release-124214> <http://dbpedia.org/property/location> "united-states" .

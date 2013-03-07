@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/pole-position-ii/3030-3735/releases/#toc-release-124836> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/pole-position-ii/3030-3735/releases/#toc-release-124836> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pole-position-ii/3030-3735/#game> .
-<http://www.giantbomb.com/pole-position-ii/3030-3735/releases/#toc-release-124836> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/pole-position-ii/3030-3735/releases/#toc-release-124836> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pole-position-ii/3030-124836/#game> .
 <http://www.giantbomb.com/pole-position-ii/3030-3735/releases/#toc-release-124836> <http://dbpedia.org/ontology/releaseDate> "1987-01-01" .
+<http://www.giantbomb.com/pole-position-ii/3030-3735/releases/#toc-release-124836> <http://dbpedia.org/property/location> "united-states" .

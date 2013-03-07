@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/8th-wonder-of-the-world/3030-1489/releases/#toc-release-108309> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/8th-wonder-of-the-world/3030-1489/releases/#toc-release-108309> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/8th-wonder-of-the-world/3030-1489/#game> .
-<http://www.giantbomb.com/8th-wonder-of-the-world/3030-1489/releases/#toc-release-108309> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/8th-wonder-of-the-world/3030-1489/releases/#toc-release-108309> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-eight-world-wonder/3030-108309/#game> .
 <http://www.giantbomb.com/8th-wonder-of-the-world/3030-1489/releases/#toc-release-108309> <http://dbpedia.org/ontology/releaseDate> "2004-09-12" .
+<http://www.giantbomb.com/8th-wonder-of-the-world/3030-1489/releases/#toc-release-108309> <http://dbpedia.org/property/location> "united-kingdom" .

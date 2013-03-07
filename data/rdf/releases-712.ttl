@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/magic-carpet-2-the-netherworlds/3030-712/releases/#toc-release-103273> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/magic-carpet-2-the-netherworlds/3030-712/releases/#toc-release-103273> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/magic-carpet-2-the-netherworlds/3030-712/#game> .
-<http://www.giantbomb.com/magic-carpet-2-the-netherworlds/3030-712/releases/#toc-release-103273> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/magic-carpet-2-the-netherworlds/3030-712/releases/#toc-release-103273> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/magic-carpet-2-the-netherworlds/3030-103273/#game> .
 <http://www.giantbomb.com/magic-carpet-2-the-netherworlds/3030-712/releases/#toc-release-103273> <http://dbpedia.org/ontology/releaseDate> "1995-01-01" .
+<http://www.giantbomb.com/magic-carpet-2-the-netherworlds/3030-712/releases/#toc-release-103273> <http://dbpedia.org/property/location> "united-states" .

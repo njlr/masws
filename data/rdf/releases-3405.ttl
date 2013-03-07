@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/milos-astro-lanes/3030-3405/releases/#toc-release-94438> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/milos-astro-lanes/3030-3405/releases/#toc-release-94438> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/milo's-astro-lanes/3030-3405/#game> .
-<http://www.giantbomb.com/milos-astro-lanes/3030-3405/releases/#toc-release-94438> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/milos-astro-lanes/3030-3405/releases/#toc-release-94438> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/milo's-astro-lanes/3030-94438/#game> .
 <http://www.giantbomb.com/milos-astro-lanes/3030-3405/releases/#toc-release-94438> <http://dbpedia.org/ontology/releaseDate> "1998-11-24" .
+<http://www.giantbomb.com/milos-astro-lanes/3030-3405/releases/#toc-release-94438> <http://dbpedia.org/property/location> "united-states" .

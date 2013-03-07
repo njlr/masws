@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/pac-the-man-2/3030-3182/releases/#toc-release-8395> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/pac-the-man-2/3030-3182/releases/#toc-release-8395> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pac-the-man-2/3030-3182/#game> .
-<http://www.giantbomb.com/pac-the-man-2/3030-3182/releases/#toc-release-8395> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/pac-the-man-2/3030-3182/releases/#toc-release-8395> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pac-the-man-2/3030-8395/#game> .
 <http://www.giantbomb.com/pac-the-man-2/3030-3182/releases/#toc-release-8395> <http://dbpedia.org/ontology/releaseDate> "2003-04-22" .
+<http://www.giantbomb.com/pac-the-man-2/3030-3182/releases/#toc-release-8395> <http://dbpedia.org/property/location> "" .

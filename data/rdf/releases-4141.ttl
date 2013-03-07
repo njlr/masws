@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-fa-premier-league-stars/3030-4141/releases/#toc-release-85283> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-fa-premier-league-stars/3030-4141/releases/#toc-release-85283> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-fa-premier-league-stars/3030-4141/#game> .
-<http://www.giantbomb.com/the-fa-premier-league-stars/3030-4141/releases/#toc-release-85283> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/the-fa-premier-league-stars/3030-4141/releases/#toc-release-85283> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-fa-premier-league-stars/3030-85283/#game> .
 <http://www.giantbomb.com/the-fa-premier-league-stars/3030-4141/releases/#toc-release-85283> <http://dbpedia.org/ontology/releaseDate> "1999-01-01" .
+<http://www.giantbomb.com/the-fa-premier-league-stars/3030-4141/releases/#toc-release-85283> <http://dbpedia.org/property/location> "united-kingdom" .

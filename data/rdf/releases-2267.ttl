@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/general-chaos/3030-2267/releases/#toc-release-101511> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/general-chaos/3030-2267/releases/#toc-release-101511> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/general-chaos/3030-2267/#game> .
-<http://www.giantbomb.com/general-chaos/3030-2267/releases/#toc-release-101511> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/general-chaos/3030-2267/releases/#toc-release-101511> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/general-chaos/3030-101511/#game> .
 <http://www.giantbomb.com/general-chaos/3030-2267/releases/#toc-release-101511> <http://dbpedia.org/ontology/releaseDate> "2004-01-01" .
+<http://www.giantbomb.com/general-chaos/3030-2267/releases/#toc-release-101511> <http://dbpedia.org/property/location> "united-states" .

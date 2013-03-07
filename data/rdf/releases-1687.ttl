@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/moon-tycoon/3030-1687/releases/#toc-release-96583> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/moon-tycoon/3030-1687/releases/#toc-release-96583> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/moon-tycoon/3030-1687/#game> .
-<http://www.giantbomb.com/moon-tycoon/3030-1687/releases/#toc-release-96583> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/moon-tycoon/3030-1687/releases/#toc-release-96583> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/best-games-collection-ever/3030-96583/#game> .
 <http://www.giantbomb.com/moon-tycoon/3030-1687/releases/#toc-release-96583> <http://dbpedia.org/ontology/releaseDate> "2006-03-10" .
+<http://www.giantbomb.com/moon-tycoon/3030-1687/releases/#toc-release-96583> <http://dbpedia.org/property/location> "united-states" .

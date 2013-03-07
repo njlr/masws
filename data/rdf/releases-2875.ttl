@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/knights-of-honor/3030-2875/releases/#toc-release-101114> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/knights-of-honor/3030-2875/releases/#toc-release-101114> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/knights-of-honor/3030-2875/#game> .
-<http://www.giantbomb.com/knights-of-honor/3030-2875/releases/#toc-release-101114> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/knights-of-honor/3030-2875/releases/#toc-release-101114> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/knights-of-honor/3030-101114/#game> .
 <http://www.giantbomb.com/knights-of-honor/3030-2875/releases/#toc-release-101114> <http://dbpedia.org/ontology/releaseDate> "2005-05-10" .
+<http://www.giantbomb.com/knights-of-honor/3030-2875/releases/#toc-release-101114> <http://dbpedia.org/property/location> "united-states" .

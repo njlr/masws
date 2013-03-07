@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/dynamite-duke/3030-3504/releases/#toc-release-119300> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/dynamite-duke/3030-3504/releases/#toc-release-119300> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/dynamite-duke/3030-3504/#game> .
-<http://www.giantbomb.com/dynamite-duke/3030-3504/releases/#toc-release-119300> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/dynamite-duke/3030-3504/releases/#toc-release-119300> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/dynamite-duke/3030-119300/#game> .
 <http://www.giantbomb.com/dynamite-duke/3030-3504/releases/#toc-release-119300> <http://dbpedia.org/ontology/releaseDate> "1990-10-27" .
+<http://www.giantbomb.com/dynamite-duke/3030-3504/releases/#toc-release-119300> <http://dbpedia.org/property/location> "japan" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-elder-scrolls-adventures-redguard/3030-642/releases/#toc-release-85745> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-elder-scrolls-adventures-redguard/3030-642/releases/#toc-release-85745> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-elder-scrolls-adventures-redguard/3030-642/#game> .
-<http://www.giantbomb.com/the-elder-scrolls-adventures-redguard/3030-642/releases/#toc-release-85745> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/the-elder-scrolls-adventures-redguard/3030-642/releases/#toc-release-85745> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-elder-scrolls-adventures-redguard/3030-85745/#game> .
 <http://www.giantbomb.com/the-elder-scrolls-adventures-redguard/3030-642/releases/#toc-release-85745> <http://dbpedia.org/ontology/releaseDate> "1998-10-31" .
+<http://www.giantbomb.com/the-elder-scrolls-adventures-redguard/3030-642/releases/#toc-release-85745> <http://dbpedia.org/property/location> "united-states" .

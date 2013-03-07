@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/firefly-studios-stronghold-deluxe/3030-1976/releases/#toc-release-104857> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/firefly-studios-stronghold-deluxe/3030-1976/releases/#toc-release-104857> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/firefly-studios'-stronghold-deluxe/3030-1976/#game> .
-<http://www.giantbomb.com/firefly-studios-stronghold-deluxe/3030-1976/releases/#toc-release-104857> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/firefly-studios-stronghold-deluxe/3030-1976/releases/#toc-release-104857> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/stronghold-deluxe/3030-104857/#game> .
 <http://www.giantbomb.com/firefly-studios-stronghold-deluxe/3030-1976/releases/#toc-release-104857> <http://dbpedia.org/ontology/releaseDate> "2002-06-26" .
+<http://www.giantbomb.com/firefly-studios-stronghold-deluxe/3030-1976/releases/#toc-release-104857> <http://dbpedia.org/property/location> "united-states" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/global-gladiators/3030-3421/releases/#toc-release-104296> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/global-gladiators/3030-3421/releases/#toc-release-104296> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/global-gladiators/3030-3421/#game> .
-<http://www.giantbomb.com/global-gladiators/3030-3421/releases/#toc-release-104296> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/global-gladiators/3030-3421/releases/#toc-release-104296> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mick-&-mack-global-gladiators/3030-104296/#game> .
 <http://www.giantbomb.com/global-gladiators/3030-3421/releases/#toc-release-104296> <http://dbpedia.org/ontology/releaseDate> "1992-07-08" .
+<http://www.giantbomb.com/global-gladiators/3030-3421/releases/#toc-release-104296> <http://dbpedia.org/property/location> "united-states" .

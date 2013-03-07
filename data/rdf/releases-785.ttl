@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bob-vs-the-mob/3030-785/releases/#toc-release-97477> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/bob-vs-the-mob/3030-785/releases/#toc-release-97477> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bob-vs-the-mob/3030-785/#game> .
-<http://www.giantbomb.com/bob-vs-the-mob/3030-785/releases/#toc-release-97477> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/bob-vs-the-mob/3030-785/releases/#toc-release-97477> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bob-vs-the-mob/3030-97477/#game> .
 <http://www.giantbomb.com/bob-vs-the-mob/3030-785/releases/#toc-release-97477> <http://dbpedia.org/ontology/releaseDate> "1995-04-03" .
+<http://www.giantbomb.com/bob-vs-the-mob/3030-785/releases/#toc-release-97477> <http://dbpedia.org/property/location> "united-states" .

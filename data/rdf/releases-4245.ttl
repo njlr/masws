@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/#game> .
-<http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/dark-age-of-camelot-(epic-edition)/3030-98773/#game> .
 <http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <http://dbpedia.org/ontology/releaseDate> "2005-10-11" .
+<http://www.giantbomb.com/dark-age-of-camelot-trials-of-atlantis/3030-4245/releases/#toc-release-98773> <http://dbpedia.org/property/location> "united-states" .

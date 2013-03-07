@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/arthurs-knights-tales-of-chivalry/3030-3076/releases/#toc-release-122797> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/arthurs-knights-tales-of-chivalry/3030-3076/releases/#toc-release-122797> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/arthur's-knights-tales-of-chivalry/3030-3076/#game> .
-<http://www.giantbomb.com/arthurs-knights-tales-of-chivalry/3030-3076/releases/#toc-release-122797> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/arthurs-knights-tales-of-chivalry/3030-3076/releases/#toc-release-122797> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/arthur's-knights-tales-of-chivalry/3030-122797/#game> .
 <http://www.giantbomb.com/arthurs-knights-tales-of-chivalry/3030-3076/releases/#toc-release-122797> <http://dbpedia.org/ontology/releaseDate> "2001-10-31" .
+<http://www.giantbomb.com/arthurs-knights-tales-of-chivalry/3030-3076/releases/#toc-release-122797> <http://dbpedia.org/property/location> "united-states" .

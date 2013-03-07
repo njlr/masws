@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/punishment/3030-701/releases/#toc-release-1836> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/punishment/3030-701/releases/#toc-release-1836> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/punishment/3030-701/#game> .
-<http://www.giantbomb.com/punishment/3030-701/releases/#toc-release-1836> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/punishment/3030-701/releases/#toc-release-1836> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/punishment/3030-1836/#game> .
 <http://www.giantbomb.com/punishment/3030-701/releases/#toc-release-1836> <http://dbpedia.org/ontology/releaseDate> "2005-01-01" .
+<http://www.giantbomb.com/punishment/3030-701/releases/#toc-release-1836> <http://dbpedia.org/property/location> "" .

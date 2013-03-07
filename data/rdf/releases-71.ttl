@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cubedrift/3030-71/releases/#toc-release-108996> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/cubedrift/3030-71/releases/#toc-release-108996> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cubedrift/3030-71/#game> .
-<http://www.giantbomb.com/cubedrift/3030-71/releases/#toc-release-108996> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/cubedrift/3030-71/releases/#toc-release-108996> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cubedrift/3030-108996/#game> .
 <http://www.giantbomb.com/cubedrift/3030-71/releases/#toc-release-108996> <http://dbpedia.org/ontology/releaseDate> "2006-04-19" .
+<http://www.giantbomb.com/cubedrift/3030-71/releases/#toc-release-108996> <http://dbpedia.org/property/location> "united-states" .

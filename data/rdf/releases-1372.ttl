@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/shrek-super-party/3030-1372/releases/#toc-release-114592> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/shrek-super-party/3030-1372/releases/#toc-release-114592> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shrek-super-party/3030-1372/#game> .
-<http://www.giantbomb.com/shrek-super-party/3030-1372/releases/#toc-release-114592> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/shrek-super-party/3030-1372/releases/#toc-release-114592> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shrek-super-party/3030-114592/#game> .
 <http://www.giantbomb.com/shrek-super-party/3030-1372/releases/#toc-release-114592> <http://dbpedia.org/ontology/releaseDate> "2002-11-16" .
+<http://www.giantbomb.com/shrek-super-party/3030-1372/releases/#toc-release-114592> <http://dbpedia.org/property/location> "united-states" .

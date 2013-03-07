@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/alien-outbreak/3030-288/releases/#toc-release-842> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/alien-outbreak/3030-288/releases/#toc-release-842> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/alien-outbreak/3030-288/#game> .
-<http://www.giantbomb.com/alien-outbreak/3030-288/releases/#toc-release-842> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/alien-outbreak/3030-288/releases/#toc-release-842> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/alien-outbreak/3030-842/#game> .
 <http://www.giantbomb.com/alien-outbreak/3030-288/releases/#toc-release-842> <http://dbpedia.org/ontology/releaseDate> "2004-04-07" .
+<http://www.giantbomb.com/alien-outbreak/3030-288/releases/#toc-release-842> <http://dbpedia.org/property/location> "" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/santa-claus-in-trouble/3030-3535/releases/#toc-release-9211> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/santa-claus-in-trouble/3030-3535/releases/#toc-release-9211> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/santa-claus-in-trouble/3030-3535/#game> .
-<http://www.giantbomb.com/santa-claus-in-trouble/3030-3535/releases/#toc-release-9211> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/santa-claus-in-trouble/3030-3535/releases/#toc-release-9211> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/santa-claus-in-trouble/3030-9211/#game> .
 <http://www.giantbomb.com/santa-claus-in-trouble/3030-3535/releases/#toc-release-9211> <http://dbpedia.org/ontology/releaseDate> "2002-12-02" .
+<http://www.giantbomb.com/santa-claus-in-trouble/3030-3535/releases/#toc-release-9211> <http://dbpedia.org/property/location> "" .

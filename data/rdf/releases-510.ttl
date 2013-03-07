@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-crystal-key/3030-510/releases/#toc-release-93423> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-crystal-key/3030-510/releases/#toc-release-93423> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-crystal-key/3030-510/#game> .
-<http://www.giantbomb.com/the-crystal-key/3030-510/releases/#toc-release-93423> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/the-crystal-key/3030-510/releases/#toc-release-93423> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-crystal-key/3030-93423/#game> .
 <http://www.giantbomb.com/the-crystal-key/3030-510/releases/#toc-release-93423> <http://dbpedia.org/ontology/releaseDate> "2000-03-30" .
+<http://www.giantbomb.com/the-crystal-key/3030-510/releases/#toc-release-93423> <http://dbpedia.org/property/location> "united-states" .

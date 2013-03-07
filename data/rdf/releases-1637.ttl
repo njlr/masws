@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/guess-it-not/3030-1637/releases/#toc-release-4318> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/guess-it-not/3030-1637/releases/#toc-release-4318> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/guess-it-not/3030-1637/#game> .
-<http://www.giantbomb.com/guess-it-not/3030-1637/releases/#toc-release-4318> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/guess-it-not/3030-1637/releases/#toc-release-4318> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/guess-it-not/3030-4318/#game> .
 <http://www.giantbomb.com/guess-it-not/3030-1637/releases/#toc-release-4318> <http://dbpedia.org/ontology/releaseDate> "2003-06-27" .
+<http://www.giantbomb.com/guess-it-not/3030-1637/releases/#toc-release-4318> <http://dbpedia.org/property/location> "" .

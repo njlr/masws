@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/transformers-tatakai/3030-964/releases/#toc-release-79368> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/transformers-tatakai/3030-964/releases/#toc-release-79368> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/transformers-tatakai/3030-964/#game> .
-<http://www.giantbomb.com/transformers-tatakai/3030-964/releases/#toc-release-79368> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/transformers-tatakai/3030-964/releases/#toc-release-79368> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/transformers-tataki/3030-79368/#game> .
 <http://www.giantbomb.com/transformers-tatakai/3030-964/releases/#toc-release-79368> <http://dbpedia.org/ontology/releaseDate> "2003-10-30" .
+<http://www.giantbomb.com/transformers-tatakai/3030-964/releases/#toc-release-79368> <http://dbpedia.org/property/location> "japan" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/evidence-the-last-report/3030-2635/releases/#toc-release-107623> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/evidence-the-last-report/3030-2635/releases/#toc-release-107623> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/evidence-the-last-report/3030-2635/#game> .
-<http://www.giantbomb.com/evidence-the-last-report/3030-2635/releases/#toc-release-107623> <http://dbpedia.org/property/location> "australia" .
+<http://www.giantbomb.com/evidence-the-last-report/3030-2635/releases/#toc-release-107623> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/evidence-the-last-report/3030-107623/#game> .
 <http://www.giantbomb.com/evidence-the-last-report/3030-2635/releases/#toc-release-107623> <http://dbpedia.org/ontology/releaseDate> "2007-06-01" .
+<http://www.giantbomb.com/evidence-the-last-report/3030-2635/releases/#toc-release-107623> <http://dbpedia.org/property/location> "australia" .

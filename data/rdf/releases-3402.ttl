@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/shin-megami-tensei-nine/3030-3402/releases/#toc-release-78982> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/shin-megami-tensei-nine/3030-3402/releases/#toc-release-78982> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shin-megami-tensei-nine/3030-3402/#game> .
-<http://www.giantbomb.com/shin-megami-tensei-nine/3030-3402/releases/#toc-release-78982> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/shin-megami-tensei-nine/3030-3402/releases/#toc-release-78982> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shin-megami-tensei-nine/3030-78982/#game> .
 <http://www.giantbomb.com/shin-megami-tensei-nine/3030-3402/releases/#toc-release-78982> <http://dbpedia.org/ontology/releaseDate> "2002-12-05" .
+<http://www.giantbomb.com/shin-megami-tensei-nine/3030-3402/releases/#toc-release-78982> <http://dbpedia.org/property/location> "japan" .

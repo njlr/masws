@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/wizards-warriors-iii-kuros-visions-of-power/3030-1814/releases/#toc-release-116910> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/wizards-warriors-iii-kuros-visions-of-power/3030-1814/releases/#toc-release-116910> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/wizards-&-warriors-iii-kuros-visions-of-power/3030-1814/#game> .
-<http://www.giantbomb.com/wizards-warriors-iii-kuros-visions-of-power/3030-1814/releases/#toc-release-116910> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/wizards-warriors-iii-kuros-visions-of-power/3030-1814/releases/#toc-release-116910> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/wizards-&-warriors-iii-kuros-visions-of-power/3030-116910/#game> .
 <http://www.giantbomb.com/wizards-warriors-iii-kuros-visions-of-power/3030-1814/releases/#toc-release-116910> <http://dbpedia.org/ontology/releaseDate> "1992-03-01" .
+<http://www.giantbomb.com/wizards-warriors-iii-kuros-visions-of-power/3030-1814/releases/#toc-release-116910> <http://dbpedia.org/property/location> "united-states" .

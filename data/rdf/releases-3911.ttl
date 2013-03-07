@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/itchy-scratchy-in-miniature-golf-madness/3030-3911/releases/#toc-release-110424> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/itchy-scratchy-in-miniature-golf-madness/3030-3911/releases/#toc-release-110424> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/itchy-&-scratchy-in-miniature-golf-madness/3030-3911/#game> .
-<http://www.giantbomb.com/itchy-scratchy-in-miniature-golf-madness/3030-3911/releases/#toc-release-110424> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/itchy-scratchy-in-miniature-golf-madness/3030-3911/releases/#toc-release-110424> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/itchy-&-scratchy-in-miniature-golf-madness/3030-110424/#game> .
 <http://www.giantbomb.com/itchy-scratchy-in-miniature-golf-madness/3030-3911/releases/#toc-release-110424> <http://dbpedia.org/ontology/releaseDate> "1994-11-01" .
+<http://www.giantbomb.com/itchy-scratchy-in-miniature-golf-madness/3030-3911/releases/#toc-release-110424> <http://dbpedia.org/property/location> "united-states" .

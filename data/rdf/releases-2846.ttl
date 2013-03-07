@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/age-of-empires-ii-the-age-of-kings/3030-2846/releases/#toc-release-91541> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/age-of-empires-ii-the-age-of-kings/3030-2846/releases/#toc-release-91541> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/age-of-empires-ii-the-age-of-kings/3030-2846/#game> .
-<http://www.giantbomb.com/age-of-empires-ii-the-age-of-kings/3030-2846/releases/#toc-release-91541> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/age-of-empires-ii-the-age-of-kings/3030-2846/releases/#toc-release-91541> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/age-of-empires-ii-the-age-of-kings/3030-91541/#game> .
 <http://www.giantbomb.com/age-of-empires-ii-the-age-of-kings/3030-2846/releases/#toc-release-91541> <http://dbpedia.org/ontology/releaseDate> "1999-09-30" .
+<http://www.giantbomb.com/age-of-empires-ii-the-age-of-kings/3030-2846/releases/#toc-release-91541> <http://dbpedia.org/property/location> "united-states" .

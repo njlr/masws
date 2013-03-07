@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/digimon-adventure-02-tag-tamers/3030-2151/releases/#toc-release-115970> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/digimon-adventure-02-tag-tamers/3030-2151/releases/#toc-release-115970> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/digimon-adventure-02-tag-tamers/3030-2151/#game> .
-<http://www.giantbomb.com/digimon-adventure-02-tag-tamers/3030-2151/releases/#toc-release-115970> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/digimon-adventure-02-tag-tamers/3030-2151/releases/#toc-release-115970> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/digimon-adventure-02-tag-tamers/3030-115970/#game> .
 <http://www.giantbomb.com/digimon-adventure-02-tag-tamers/3030-2151/releases/#toc-release-115970> <http://dbpedia.org/ontology/releaseDate> "2000-08-03" .
+<http://www.giantbomb.com/digimon-adventure-02-tag-tamers/3030-2151/releases/#toc-release-115970> <http://dbpedia.org/property/location> "japan" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/milo/3030-256/releases/#toc-release-95440> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/milo/3030-256/releases/#toc-release-95440> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/milo/3030-256/#game> .
-<http://www.giantbomb.com/milo/3030-256/releases/#toc-release-95440> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/milo/3030-256/releases/#toc-release-95440> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/milo/3030-95440/#game> .
 <http://www.giantbomb.com/milo/3030-256/releases/#toc-release-95440> <http://dbpedia.org/ontology/releaseDate> "1995-01-01" .
+<http://www.giantbomb.com/milo/3030-256/releases/#toc-release-95440> <http://dbpedia.org/property/location> "united-states" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/moo-at-the-moon/3030-4232/releases/#toc-release-10985> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/moo-at-the-moon/3030-4232/releases/#toc-release-10985> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/moo-at-the-moon/3030-4232/#game> .
-<http://www.giantbomb.com/moo-at-the-moon/3030-4232/releases/#toc-release-10985> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/moo-at-the-moon/3030-4232/releases/#toc-release-10985> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/moo-at-the-moon/3030-10985/#game> .
 <http://www.giantbomb.com/moo-at-the-moon/3030-4232/releases/#toc-release-10985> <http://dbpedia.org/ontology/releaseDate> "2007-03-01" .
+<http://www.giantbomb.com/moo-at-the-moon/3030-4232/releases/#toc-release-10985> <http://dbpedia.org/property/location> "" .

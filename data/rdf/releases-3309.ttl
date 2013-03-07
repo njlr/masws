@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/emily-enough-imprisoned/3030-3309/releases/#toc-release-8696> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/emily-enough-imprisoned/3030-3309/releases/#toc-release-8696> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/emily-enough-imprisoned/3030-3309/#game> .
-<http://www.giantbomb.com/emily-enough-imprisoned/3030-3309/releases/#toc-release-8696> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/emily-enough-imprisoned/3030-3309/releases/#toc-release-8696> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/emily-enough-imprisoned/3030-8696/#game> .
 <http://www.giantbomb.com/emily-enough-imprisoned/3030-3309/releases/#toc-release-8696> <http://dbpedia.org/ontology/releaseDate> "2005-08-18" .
+<http://www.giantbomb.com/emily-enough-imprisoned/3030-3309/releases/#toc-release-8696> <http://dbpedia.org/property/location> "" .

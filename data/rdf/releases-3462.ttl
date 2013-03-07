@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bruce-lee-return-of-the-legend/3030-3462/releases/#toc-release-79458> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/bruce-lee-return-of-the-legend/3030-3462/releases/#toc-release-79458> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bruce-lee-return-of-the-legend/3030-3462/#game> .
-<http://www.giantbomb.com/bruce-lee-return-of-the-legend/3030-3462/releases/#toc-release-79458> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/bruce-lee-return-of-the-legend/3030-3462/releases/#toc-release-79458> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bruce-lee-return-of-the-legend/3030-79458/#game> .
 <http://www.giantbomb.com/bruce-lee-return-of-the-legend/3030-3462/releases/#toc-release-79458> <http://dbpedia.org/ontology/releaseDate> "2003-03-28" .
+<http://www.giantbomb.com/bruce-lee-return-of-the-legend/3030-3462/releases/#toc-release-79458> <http://dbpedia.org/property/location> "united-states" .

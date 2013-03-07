@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/super-chinese-world-2-uchuu-ichibuto-daikai/3030-1017/releases/#toc-release-106976> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/super-chinese-world-2-uchuu-ichibuto-daikai/3030-1017/releases/#toc-release-106976> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/super-chinese-world-2-uchuu-ichibuto-daikai/3030-1017/#game> .
-<http://www.giantbomb.com/super-chinese-world-2-uchuu-ichibuto-daikai/3030-1017/releases/#toc-release-106976> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/super-chinese-world-2-uchuu-ichibuto-daikai/3030-1017/releases/#toc-release-106976> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/スーパーチャイニーズワールド２-宇宙一武闘大会/3030-106976/#game> .
 <http://www.giantbomb.com/super-chinese-world-2-uchuu-ichibuto-daikai/3030-1017/releases/#toc-release-106976> <http://dbpedia.org/ontology/releaseDate> "1993-10-29" .
+<http://www.giantbomb.com/super-chinese-world-2-uchuu-ichibuto-daikai/3030-1017/releases/#toc-release-106976> <http://dbpedia.org/property/location> "japan" .

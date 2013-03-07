@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/pathway-to-glory-ikusa-islands/3030-599/releases/#toc-release-82552> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/pathway-to-glory-ikusa-islands/3030-599/releases/#toc-release-82552> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pathway-to-glory-ikusa-islands/3030-599/#game> .
-<http://www.giantbomb.com/pathway-to-glory-ikusa-islands/3030-599/releases/#toc-release-82552> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/pathway-to-glory-ikusa-islands/3030-599/releases/#toc-release-82552> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pathwar-to-glory-ikusa-islands/3030-82552/#game> .
 <http://www.giantbomb.com/pathway-to-glory-ikusa-islands/3030-599/releases/#toc-release-82552> <http://dbpedia.org/ontology/releaseDate> "2005-11-08" .
+<http://www.giantbomb.com/pathway-to-glory-ikusa-islands/3030-599/releases/#toc-release-82552> <http://dbpedia.org/property/location> "united-states" .

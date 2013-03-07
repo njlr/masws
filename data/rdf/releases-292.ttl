@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hokuto-no-ken-7--seiken-retsuden-denshousha-e-no-michi/3030-292/#game> .
-<http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden---denshousha-heno-michi/3030-104672/#game> .
 <http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <http://dbpedia.org/ontology/releaseDate> "1993-12-24" .
+<http://www.giantbomb.com/hokuto-no-ken-7-seiken-retsuden-denshousha-e-no-mi/3030-292/releases/#toc-release-104672> <http://dbpedia.org/property/location> "japan" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/civil-war-a-nation-divided/3030-3522/releases/#toc-release-124268> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/civil-war-a-nation-divided/3030-3522/releases/#toc-release-124268> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/civil-war-a-nation-divided/3030-3522/#game> .
-<http://www.giantbomb.com/civil-war-a-nation-divided/3030-3522/releases/#toc-release-124268> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/civil-war-a-nation-divided/3030-3522/releases/#toc-release-124268> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/civil-war-a-nation-divided/3030-124268/#game> .
 <http://www.giantbomb.com/civil-war-a-nation-divided/3030-3522/releases/#toc-release-124268> <http://dbpedia.org/ontology/releaseDate> "2007-12-14" .
+<http://www.giantbomb.com/civil-war-a-nation-divided/3030-3522/releases/#toc-release-124268> <http://dbpedia.org/property/location> "united-states" .

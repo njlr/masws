@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/mogura-reverse/3030-2211/releases/#toc-release-5809> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/mogura-reverse/3030-2211/releases/#toc-release-5809> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mogura-reverse/3030-2211/#game> .
-<http://www.giantbomb.com/mogura-reverse/3030-2211/releases/#toc-release-5809> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/mogura-reverse/3030-2211/releases/#toc-release-5809> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mogura-reverse/3030-5809/#game> .
 <http://www.giantbomb.com/mogura-reverse/3030-2211/releases/#toc-release-5809> <http://dbpedia.org/ontology/releaseDate> "2004-08-29" .
+<http://www.giantbomb.com/mogura-reverse/3030-2211/releases/#toc-release-5809> <http://dbpedia.org/property/location> "" .

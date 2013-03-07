@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/afterlife/3030-2466/releases/#toc-release-98224> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/afterlife/3030-2466/releases/#toc-release-98224> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/afterlife/3030-2466/#game> .
-<http://www.giantbomb.com/afterlife/3030-2466/releases/#toc-release-98224> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/afterlife/3030-2466/releases/#toc-release-98224> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-lucasarts-archives-vol-iii/3030-98224/#game> .
 <http://www.giantbomb.com/afterlife/3030-2466/releases/#toc-release-98224> <http://dbpedia.org/ontology/releaseDate> "1997-01-01" .
+<http://www.giantbomb.com/afterlife/3030-2466/releases/#toc-release-98224> <http://dbpedia.org/property/location> "united-states" .

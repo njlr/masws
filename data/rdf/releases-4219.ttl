@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/the-amazing-spider-man-web-of-fire/3030-4219/releases/#toc-release-94461> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/the-amazing-spider-man-web-of-fire/3030-4219/releases/#toc-release-94461> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-amazing-spider-man-web-of-fire/3030-4219/#game> .
-<http://www.giantbomb.com/the-amazing-spider-man-web-of-fire/3030-4219/releases/#toc-release-94461> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/the-amazing-spider-man-web-of-fire/3030-4219/releases/#toc-release-94461> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-amazing-spider-man-web-of-fire/3030-94461/#game> .
 <http://www.giantbomb.com/the-amazing-spider-man-web-of-fire/3030-4219/releases/#toc-release-94461> <http://dbpedia.org/ontology/releaseDate> "1996-01-01" .
+<http://www.giantbomb.com/the-amazing-spider-man-web-of-fire/3030-4219/releases/#toc-release-94461> <http://dbpedia.org/property/location> "united-states" .

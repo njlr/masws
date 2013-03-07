@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/xiaolin-showdown/3030-2522/releases/#toc-release-86096> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/xiaolin-showdown/3030-2522/releases/#toc-release-86096> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/xiaolin-showdown/3030-2522/#game> .
-<http://www.giantbomb.com/xiaolin-showdown/3030-2522/releases/#toc-release-86096> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/xiaolin-showdown/3030-2522/releases/#toc-release-86096> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/xiaolin-showdown/3030-86096/#game> .
 <http://www.giantbomb.com/xiaolin-showdown/3030-2522/releases/#toc-release-86096> <http://dbpedia.org/ontology/releaseDate> "2006-11-14" .
+<http://www.giantbomb.com/xiaolin-showdown/3030-2522/releases/#toc-release-86096> <http://dbpedia.org/property/location> "united-states" .

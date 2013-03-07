@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/haou-taikei-ryu-knight/3030-4976/releases/#toc-release-109159> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/haou-taikei-ryu-knight/3030-4976/releases/#toc-release-109159> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/haou-taikei-ryu-knight/3030-4976/#game> .
-<http://www.giantbomb.com/haou-taikei-ryu-knight/3030-4976/releases/#toc-release-109159> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/haou-taikei-ryu-knight/3030-4976/releases/#toc-release-109159> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/haou-taikei-ryu-knight/3030-109159/#game> .
 <http://www.giantbomb.com/haou-taikei-ryu-knight/3030-4976/releases/#toc-release-109159> <http://dbpedia.org/ontology/releaseDate> "1994-12-22" .
+<http://www.giantbomb.com/haou-taikei-ryu-knight/3030-4976/releases/#toc-release-109159> <http://dbpedia.org/property/location> "japan" .

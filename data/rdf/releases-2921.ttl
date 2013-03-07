@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/he-162-volksjäger-tour-of-duty/3030-2921/#game> .
-<http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/lucasarts-air-combat-classics/3030-98198/#game> .
 <http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <http://dbpedia.org/ontology/releaseDate> "1994-01-01" .
+<http://www.giantbomb.com/he-162-volksjager-tour-of-duty/3030-2921/releases/#toc-release-98198> <http://dbpedia.org/property/location> "united-states" .

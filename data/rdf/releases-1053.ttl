@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/gaelic-games-football/3030-1053/releases/#toc-release-84926> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/gaelic-games-football/3030-1053/releases/#toc-release-84926> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/gaelic-games-football/3030-1053/#game> .
-<http://www.giantbomb.com/gaelic-games-football/3030-1053/releases/#toc-release-84926> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/gaelic-games-football/3030-1053/releases/#toc-release-84926> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/gaelic-games-football/3030-84926/#game> .
 <http://www.giantbomb.com/gaelic-games-football/3030-1053/releases/#toc-release-84926> <http://dbpedia.org/ontology/releaseDate> "2005-11-11" .
+<http://www.giantbomb.com/gaelic-games-football/3030-1053/releases/#toc-release-84926> <http://dbpedia.org/property/location> "united-kingdom" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/pengo/3030-4196/releases/#toc-release-85500> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/pengo/3030-4196/releases/#toc-release-85500> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pengo/3030-4196/#game> .
-<http://www.giantbomb.com/pengo/3030-4196/releases/#toc-release-85500> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/pengo/3030-4196/releases/#toc-release-85500> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pengo-(mega-drive-version)/3030-85500/#game> .
 <http://www.giantbomb.com/pengo/3030-4196/releases/#toc-release-85500> <http://dbpedia.org/ontology/releaseDate> "2009-08-07" .
+<http://www.giantbomb.com/pengo/3030-4196/releases/#toc-release-85500> <http://dbpedia.org/property/location> "japan" .

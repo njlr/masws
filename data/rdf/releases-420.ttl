@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cribbage-king-gin-king/3030-420/releases/#toc-release-99369> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/cribbage-king-gin-king/3030-420/releases/#toc-release-99369> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cribbage-king-/-gin-king/3030-420/#game> .
-<http://www.giantbomb.com/cribbage-king-gin-king/3030-420/releases/#toc-release-99369> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/cribbage-king-gin-king/3030-420/releases/#toc-release-99369> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-software-toolworks-game-pack-iii/3030-99369/#game> .
 <http://www.giantbomb.com/cribbage-king-gin-king/3030-420/releases/#toc-release-99369> <http://dbpedia.org/ontology/releaseDate> "1993-01-01" .
+<http://www.giantbomb.com/cribbage-king-gin-king/3030-420/releases/#toc-release-99369> <http://dbpedia.org/property/location> "united-states" .

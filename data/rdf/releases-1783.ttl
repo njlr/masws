@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/sweevos-world/3030-1783/releases/#toc-release-98068> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/sweevos-world/3030-1783/releases/#toc-release-98068> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/sweevo's-world/3030-1783/#game> .
-<http://www.giantbomb.com/sweevos-world/3030-1783/releases/#toc-release-98068> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/sweevos-world/3030-1783/releases/#toc-release-98068> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/sweevo's-world/3030-98068/#game> .
 <http://www.giantbomb.com/sweevos-world/3030-1783/releases/#toc-release-98068> <http://dbpedia.org/ontology/releaseDate> "1986-02-01" .
+<http://www.giantbomb.com/sweevos-world/3030-1783/releases/#toc-release-98068> <http://dbpedia.org/property/location> "united-kingdom" .

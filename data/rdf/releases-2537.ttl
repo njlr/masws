@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/queensryches-promised-land/3030-2537/releases/#toc-release-110027> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/queensryches-promised-land/3030-2537/releases/#toc-release-110027> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/queensrÿche's-promised-land/3030-2537/#game> .
-<http://www.giantbomb.com/queensryches-promised-land/3030-2537/releases/#toc-release-110027> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/queensryches-promised-land/3030-2537/releases/#toc-release-110027> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/queensrÿche's-promised-land/3030-110027/#game> .
 <http://www.giantbomb.com/queensryches-promised-land/3030-2537/releases/#toc-release-110027> <http://dbpedia.org/ontology/releaseDate> "1996-01-01" .
+<http://www.giantbomb.com/queensryches-promised-land/3030-2537/releases/#toc-release-110027> <http://dbpedia.org/property/location> "united-states" .

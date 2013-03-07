@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/starlines-inc/3030-2155/releases/#toc-release-5684> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/starlines-inc/3030-2155/releases/#toc-release-5684> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/starlines-inc/3030-2155/#game> .
-<http://www.giantbomb.com/starlines-inc/3030-2155/releases/#toc-release-5684> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/starlines-inc/3030-2155/releases/#toc-release-5684> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/starlines-inc/3030-5684/#game> .
 <http://www.giantbomb.com/starlines-inc/3030-2155/releases/#toc-release-5684> <http://dbpedia.org/ontology/releaseDate> "2001-01-01" .
+<http://www.giantbomb.com/starlines-inc/3030-2155/releases/#toc-release-5684> <http://dbpedia.org/property/location> "" .

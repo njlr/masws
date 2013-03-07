@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/polar-bowler/3030-2272/releases/#toc-release-5958> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/polar-bowler/3030-2272/releases/#toc-release-5958> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/polar-bowler/3030-2272/#game> .
-<http://www.giantbomb.com/polar-bowler/3030-2272/releases/#toc-release-5958> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/polar-bowler/3030-2272/releases/#toc-release-5958> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/polar-bowler/3030-5958/#game> .
 <http://www.giantbomb.com/polar-bowler/3030-2272/releases/#toc-release-5958> <http://dbpedia.org/ontology/releaseDate> "2003-01-01" .
+<http://www.giantbomb.com/polar-bowler/3030-2272/releases/#toc-release-5958> <http://dbpedia.org/property/location> "" .

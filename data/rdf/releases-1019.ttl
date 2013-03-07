@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/atomic-bomberman/3030-1019/releases/#toc-release-121423> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/atomic-bomberman/3030-1019/releases/#toc-release-121423> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/atomic-bomberman/3030-1019/#game> .
-<http://www.giantbomb.com/atomic-bomberman/3030-1019/releases/#toc-release-121423> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/atomic-bomberman/3030-1019/releases/#toc-release-121423> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/atomic-bomberman/3030-121423/#game> .
 <http://www.giantbomb.com/atomic-bomberman/3030-1019/releases/#toc-release-121423> <http://dbpedia.org/ontology/releaseDate> "1997-07-31" .
+<http://www.giantbomb.com/atomic-bomberman/3030-1019/releases/#toc-release-121423> <http://dbpedia.org/property/location> "united-states" .

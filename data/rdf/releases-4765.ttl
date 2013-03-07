@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ganbare-goemon-3-shishijyuurokubei-no-karakuri-man/3030-4765/releases/#toc-release-97934> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/ganbare-goemon-3-shishijyuurokubei-no-karakuri-man/3030-4765/releases/#toc-release-97934> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ganbare-goemon-3-shishijyuurokubei-no-karakuri-manji-katame/3030-4765/#game> .
-<http://www.giantbomb.com/ganbare-goemon-3-shishijyuurokubei-no-karakuri-man/3030-4765/releases/#toc-release-97934> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/ganbare-goemon-3-shishijyuurokubei-no-karakuri-man/3030-4765/releases/#toc-release-97934> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/ganbare-goemon-3-shishijyuurokubei-no-karakuri-manji-katame/3030-97934/#game> .
 <http://www.giantbomb.com/ganbare-goemon-3-shishijyuurokubei-no-karakuri-man/3030-4765/releases/#toc-release-97934> <http://dbpedia.org/ontology/releaseDate> "1994-12-16" .
+<http://www.giantbomb.com/ganbare-goemon-3-shishijyuurokubei-no-karakuri-man/3030-4765/releases/#toc-release-97934> <http://dbpedia.org/property/location> "japan" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/trolls-on-treasure-island/3030-1970/releases/#toc-release-116886> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/trolls-on-treasure-island/3030-1970/releases/#toc-release-116886> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/trolls-on-treasure-island/3030-1970/#game> .
-<http://www.giantbomb.com/trolls-on-treasure-island/3030-1970/releases/#toc-release-116886> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/trolls-on-treasure-island/3030-1970/releases/#toc-release-116886> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/trolls-on-treasure-island/3030-116886/#game> .
 <http://www.giantbomb.com/trolls-on-treasure-island/3030-1970/releases/#toc-release-116886> <http://dbpedia.org/ontology/releaseDate> "1992-01-01" .
+<http://www.giantbomb.com/trolls-on-treasure-island/3030-1970/releases/#toc-release-116886> <http://dbpedia.org/property/location> "united-states" .

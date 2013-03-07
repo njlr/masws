@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/shin-momotarou-densetsu/3030-1389/releases/#toc-release-120958> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/shin-momotarou-densetsu/3030-1389/releases/#toc-release-120958> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shin-momotarou-densetsu/3030-1389/#game> .
-<http://www.giantbomb.com/shin-momotarou-densetsu/3030-1389/releases/#toc-release-120958> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/shin-momotarou-densetsu/3030-1389/releases/#toc-release-120958> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shin-momotarou-densetsu/3030-120958/#game> .
 <http://www.giantbomb.com/shin-momotarou-densetsu/3030-1389/releases/#toc-release-120958> <http://dbpedia.org/ontology/releaseDate> "1993-12-24" .
+<http://www.giantbomb.com/shin-momotarou-densetsu/3030-1389/releases/#toc-release-120958> <http://dbpedia.org/property/location> "japan" .

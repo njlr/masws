@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/wing-war/3030-2796/releases/#toc-release-95504> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/wing-war/3030-2796/releases/#toc-release-95504> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/wing-war/3030-2796/#game> .
-<http://www.giantbomb.com/wing-war/3030-2796/releases/#toc-release-95504> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/wing-war/3030-2796/releases/#toc-release-95504> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/wing-war/3030-95504/#game> .
 <http://www.giantbomb.com/wing-war/3030-2796/releases/#toc-release-95504> <http://dbpedia.org/ontology/releaseDate> "1994-01-01" .
+<http://www.giantbomb.com/wing-war/3030-2796/releases/#toc-release-95504> <http://dbpedia.org/property/location> "japan" .

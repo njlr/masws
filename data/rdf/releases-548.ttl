@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/boundish/3030-548/releases/#toc-release-107054> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/boundish/3030-548/releases/#toc-release-107054> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/boundish/3030-548/#game> .
-<http://www.giantbomb.com/boundish/3030-548/releases/#toc-release-107054> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/boundish/3030-548/releases/#toc-release-107054> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/boundish/3030-107054/#game> .
 <http://www.giantbomb.com/boundish/3030-548/releases/#toc-release-107054> <http://dbpedia.org/ontology/releaseDate> "2006-07-13" .
+<http://www.giantbomb.com/boundish/3030-548/releases/#toc-release-107054> <http://dbpedia.org/property/location> "japan" .

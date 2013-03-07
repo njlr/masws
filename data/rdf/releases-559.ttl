@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/azangara/3030-559/releases/#toc-release-1484> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/azangara/3030-559/releases/#toc-release-1484> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/azangara/3030-559/#game> .
-<http://www.giantbomb.com/azangara/3030-559/releases/#toc-release-1484> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/azangara/3030-559/releases/#toc-release-1484> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/azangara/3030-1484/#game> .
 <http://www.giantbomb.com/azangara/3030-559/releases/#toc-release-1484> <http://dbpedia.org/ontology/releaseDate> "2007-01-01" .
+<http://www.giantbomb.com/azangara/3030-559/releases/#toc-release-1484> <http://dbpedia.org/property/location> "" .

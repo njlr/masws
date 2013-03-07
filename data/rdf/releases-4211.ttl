@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cyber-doll/3030-4211/releases/#toc-release-105933> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/cyber-doll/3030-4211/releases/#toc-release-105933> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cyber-doll/3030-4211/#game> .
-<http://www.giantbomb.com/cyber-doll/3030-4211/releases/#toc-release-105933> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/cyber-doll/3030-4211/releases/#toc-release-105933> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cyber-doll/3030-105933/#game> .
 <http://www.giantbomb.com/cyber-doll/3030-4211/releases/#toc-release-105933> <http://dbpedia.org/ontology/releaseDate> "1996-08-09" .
+<http://www.giantbomb.com/cyber-doll/3030-4211/releases/#toc-release-105933> <http://dbpedia.org/property/location> "japan" .

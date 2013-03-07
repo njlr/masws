@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/skippys-revenge/3030-2932/releases/#toc-release-7746> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/skippys-revenge/3030-2932/releases/#toc-release-7746> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/skippy's-revenge/3030-2932/#game> .
-<http://www.giantbomb.com/skippys-revenge/3030-2932/releases/#toc-release-7746> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/skippys-revenge/3030-2932/releases/#toc-release-7746> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/skippy's-revenge/3030-7746/#game> .
 <http://www.giantbomb.com/skippys-revenge/3030-2932/releases/#toc-release-7746> <http://dbpedia.org/ontology/releaseDate> "2001-01-01" .
+<http://www.giantbomb.com/skippys-revenge/3030-2932/releases/#toc-release-7746> <http://dbpedia.org/property/location> "" .

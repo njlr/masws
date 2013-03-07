@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/battle-through-time/3030-4309/releases/#toc-release-88376> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/battle-through-time/3030-4309/releases/#toc-release-88376> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/battle-through-time/3030-4309/#game> .
-<http://www.giantbomb.com/battle-through-time/3030-4309/releases/#toc-release-88376> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/battle-through-time/3030-4309/releases/#toc-release-88376> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/battle-through-time/3030-88376/#game> .
 <http://www.giantbomb.com/battle-through-time/3030-4309/releases/#toc-release-88376> <http://dbpedia.org/ontology/releaseDate> "1984-01-01" .
+<http://www.giantbomb.com/battle-through-time/3030-4309/releases/#toc-release-88376> <http://dbpedia.org/property/location> "united-states" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/super-skidmarks/3030-4531/releases/#toc-release-114649> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/super-skidmarks/3030-4531/releases/#toc-release-114649> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/super-skidmarks/3030-4531/#game> .
-<http://www.giantbomb.com/super-skidmarks/3030-4531/releases/#toc-release-114649> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/super-skidmarks/3030-4531/releases/#toc-release-114649> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/super-skidmarks/3030-114649/#game> .
 <http://www.giantbomb.com/super-skidmarks/3030-4531/releases/#toc-release-114649> <http://dbpedia.org/ontology/releaseDate> "1995-05-22" .
+<http://www.giantbomb.com/super-skidmarks/3030-4531/releases/#toc-release-114649> <http://dbpedia.org/property/location> "united-kingdom" .

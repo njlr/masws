@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cosmic-ark/3030-536/releases/#toc-release-76213> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/cosmic-ark/3030-536/releases/#toc-release-76213> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cosmic-ark/3030-536/#game> .
-<http://www.giantbomb.com/cosmic-ark/3030-536/releases/#toc-release-76213> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/cosmic-ark/3030-536/releases/#toc-release-76213> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cosmic-ark/3030-76213/#game> .
 <http://www.giantbomb.com/cosmic-ark/3030-536/releases/#toc-release-76213> <http://dbpedia.org/ontology/releaseDate> "1982-01-01" .
+<http://www.giantbomb.com/cosmic-ark/3030-536/releases/#toc-release-76213> <http://dbpedia.org/property/location> "united-states" .

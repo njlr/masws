@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/monster-kingdom-jewel-summoner/3030-3364/releases/#toc-release-8833> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/monster-kingdom-jewel-summoner/3030-3364/releases/#toc-release-8833> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/monster-kingdom-jewel-summoner/3030-3364/#game> .
-<http://www.giantbomb.com/monster-kingdom-jewel-summoner/3030-3364/releases/#toc-release-8833> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/monster-kingdom-jewel-summoner/3030-3364/releases/#toc-release-8833> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/monster-kingdom-jewel-summoner-/3030-8833/#game> .
 <http://www.giantbomb.com/monster-kingdom-jewel-summoner/3030-3364/releases/#toc-release-8833> <http://dbpedia.org/ontology/releaseDate> "2007-02-13" .
+<http://www.giantbomb.com/monster-kingdom-jewel-summoner/3030-3364/releases/#toc-release-8833> <http://dbpedia.org/property/location> "united-states" .

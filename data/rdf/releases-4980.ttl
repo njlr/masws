@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/parsec47/3030-4980/releases/#toc-release-12746> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/parsec47/3030-4980/releases/#toc-release-12746> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/parsec47/3030-4980/#game> .
-<http://www.giantbomb.com/parsec47/3030-4980/releases/#toc-release-12746> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/parsec47/3030-4980/releases/#toc-release-12746> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/parsec47/3030-12746/#game> .
 <http://www.giantbomb.com/parsec47/3030-4980/releases/#toc-release-12746> <http://dbpedia.org/ontology/releaseDate> "2004-04-18" .
+<http://www.giantbomb.com/parsec47/3030-4980/releases/#toc-release-12746> <http://dbpedia.org/property/location> "" .

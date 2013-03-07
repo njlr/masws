@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/polar-rescue/3030-3986/releases/#toc-release-110150> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/polar-rescue/3030-3986/releases/#toc-release-110150> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/polar-rescue/3030-3986/#game> .
-<http://www.giantbomb.com/polar-rescue/3030-3986/releases/#toc-release-110150> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/polar-rescue/3030-3986/releases/#toc-release-110150> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/polar-rescue/3030-110150/#game> .
 <http://www.giantbomb.com/polar-rescue/3030-3986/releases/#toc-release-110150> <http://dbpedia.org/ontology/releaseDate> "1983-01-01" .
+<http://www.giantbomb.com/polar-rescue/3030-3986/releases/#toc-release-110150> <http://dbpedia.org/property/location> "united-states" .

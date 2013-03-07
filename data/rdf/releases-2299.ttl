@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/rad-racer-ii/3030-2299/releases/#toc-release-110132> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/rad-racer-ii/3030-2299/releases/#toc-release-110132> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/rad-racer-ii/3030-2299/#game> .
-<http://www.giantbomb.com/rad-racer-ii/3030-2299/releases/#toc-release-110132> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/rad-racer-ii/3030-2299/releases/#toc-release-110132> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/rad-racer-ii/3030-110132/#game> .
 <http://www.giantbomb.com/rad-racer-ii/3030-2299/releases/#toc-release-110132> <http://dbpedia.org/ontology/releaseDate> "1990-06-01" .
+<http://www.giantbomb.com/rad-racer-ii/3030-2299/releases/#toc-release-110132> <http://dbpedia.org/property/location> "united-states" .

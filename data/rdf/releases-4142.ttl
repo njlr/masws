@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/blapracer/3030-4142/releases/#toc-release-10756> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/blapracer/3030-4142/releases/#toc-release-10756> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/blapracer/3030-4142/#game> .
-<http://www.giantbomb.com/blapracer/3030-4142/releases/#toc-release-10756> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/blapracer/3030-4142/releases/#toc-release-10756> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/blapracer/3030-10756/#game> .
 <http://www.giantbomb.com/blapracer/3030-4142/releases/#toc-release-10756> <http://dbpedia.org/ontology/releaseDate> "2007-08-01" .
+<http://www.giantbomb.com/blapracer/3030-4142/releases/#toc-release-10756> <http://dbpedia.org/property/location> "" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/strike-fighters-project-1/3030-4840/releases/#toc-release-96587> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/strike-fighters-project-1/3030-4840/releases/#toc-release-96587> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/strike-fighters-project-1/3030-4840/#game> .
-<http://www.giantbomb.com/strike-fighters-project-1/3030-4840/releases/#toc-release-96587> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/strike-fighters-project-1/3030-4840/releases/#toc-release-96587> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/best-games-collection-ever/3030-96587/#game> .
 <http://www.giantbomb.com/strike-fighters-project-1/3030-4840/releases/#toc-release-96587> <http://dbpedia.org/ontology/releaseDate> "2006-03-10" .
+<http://www.giantbomb.com/strike-fighters-project-1/3030-4840/releases/#toc-release-96587> <http://dbpedia.org/property/location> "united-states" .

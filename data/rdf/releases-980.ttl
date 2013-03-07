@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/hegemonia-legions-of-iron/3030-980/releases/#toc-release-91603> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/hegemonia-legions-of-iron/3030-980/releases/#toc-release-91603> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hegemonia-legions-of-iron/3030-980/#game> .
-<http://www.giantbomb.com/hegemonia-legions-of-iron/3030-980/releases/#toc-release-91603> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/hegemonia-legions-of-iron/3030-980/releases/#toc-release-91603> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/hegemonia-legions-of-iron/3030-91603/#game> .
 <http://www.giantbomb.com/hegemonia-legions-of-iron/3030-980/releases/#toc-release-91603> <http://dbpedia.org/ontology/releaseDate> "2002-11-30" .
+<http://www.giantbomb.com/hegemonia-legions-of-iron/3030-980/releases/#toc-release-91603> <http://dbpedia.org/property/location> "united-states" .

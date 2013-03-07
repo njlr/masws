@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/elf-bowling-6-air-biscuits/3030-4419/releases/#toc-release-11436> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/elf-bowling-6-air-biscuits/3030-4419/releases/#toc-release-11436> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/elf-bowling-6-air-biscuits/3030-4419/#game> .
-<http://www.giantbomb.com/elf-bowling-6-air-biscuits/3030-4419/releases/#toc-release-11436> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/elf-bowling-6-air-biscuits/3030-4419/releases/#toc-release-11436> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/elf-bowling-6-air-biscuits/3030-11436/#game> .
 <http://www.giantbomb.com/elf-bowling-6-air-biscuits/3030-4419/releases/#toc-release-11436> <http://dbpedia.org/ontology/releaseDate> "2005-12-23" .
+<http://www.giantbomb.com/elf-bowling-6-air-biscuits/3030-4419/releases/#toc-release-11436> <http://dbpedia.org/property/location> "" .

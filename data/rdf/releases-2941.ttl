@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/chuck-rock/3030-2941/releases/#toc-release-93770> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/chuck-rock/3030-2941/releases/#toc-release-93770> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/chuck-rock/3030-2941/#game> .
-<http://www.giantbomb.com/chuck-rock/3030-2941/releases/#toc-release-93770> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/chuck-rock/3030-2941/releases/#toc-release-93770> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/chuck-rock/3030-93770/#game> .
 <http://www.giantbomb.com/chuck-rock/3030-2941/releases/#toc-release-93770> <http://dbpedia.org/ontology/releaseDate> "1992-10-15" .
+<http://www.giantbomb.com/chuck-rock/3030-2941/releases/#toc-release-93770> <http://dbpedia.org/property/location> "united-states" .

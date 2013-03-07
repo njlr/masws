@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/ansto-4/3030-4643/releases/#toc-release-98542> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/ansto-4/3030-4643/releases/#toc-release-98542> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/anstoß-4/3030-4643/#game> .
-<http://www.giantbomb.com/ansto-4/3030-4643/releases/#toc-release-98542> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/ansto-4/3030-4643/releases/#toc-release-98542> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/anstoß-4-der-fußballmanager---edition-03/04/3030-98542/#game> .
 <http://www.giantbomb.com/ansto-4/3030-4643/releases/#toc-release-98542> <http://dbpedia.org/ontology/releaseDate> "2003-10-29" .
+<http://www.giantbomb.com/ansto-4/3030-4643/releases/#toc-release-98542> <http://dbpedia.org/property/location> "united-states" .

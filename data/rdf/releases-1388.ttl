@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/bloodwych/3030-1388/releases/#toc-release-77457> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/bloodwych/3030-1388/releases/#toc-release-77457> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bloodwych/3030-1388/#game> .
-<http://www.giantbomb.com/bloodwych/3030-1388/releases/#toc-release-77457> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/bloodwych/3030-1388/releases/#toc-release-77457> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/bloodwych/3030-77457/#game> .
 <http://www.giantbomb.com/bloodwych/3030-1388/releases/#toc-release-77457> <http://dbpedia.org/ontology/releaseDate> "1989-01-01" .
+<http://www.giantbomb.com/bloodwych/3030-1388/releases/#toc-release-77457> <http://dbpedia.org/property/location> "united-kingdom" .

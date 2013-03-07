@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/street-hoops/3030-4008/releases/#toc-release-101796> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/street-hoops/3030-4008/releases/#toc-release-101796> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/street-hoops/3030-4008/#game> .
-<http://www.giantbomb.com/street-hoops/3030-4008/releases/#toc-release-101796> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/street-hoops/3030-4008/releases/#toc-release-101796> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/street-hoops/3030-101796/#game> .
 <http://www.giantbomb.com/street-hoops/3030-4008/releases/#toc-release-101796> <http://dbpedia.org/ontology/releaseDate> "2002-08-12" .
+<http://www.giantbomb.com/street-hoops/3030-4008/releases/#toc-release-101796> <http://dbpedia.org/property/location> "united-states" .

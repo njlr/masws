@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/spider-man-venom-separation-anxiety/3030-4181/releases/#toc-release-110862> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/spider-man-venom-separation-anxiety/3030-4181/releases/#toc-release-110862> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/spider-man-&-venom-separation-anxiety/3030-4181/#game> .
-<http://www.giantbomb.com/spider-man-venom-separation-anxiety/3030-4181/releases/#toc-release-110862> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/spider-man-venom-separation-anxiety/3030-4181/releases/#toc-release-110862> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/spider-man-&-venom-separation-anxiety/3030-110862/#game> .
 <http://www.giantbomb.com/spider-man-venom-separation-anxiety/3030-4181/releases/#toc-release-110862> <http://dbpedia.org/ontology/releaseDate> "1995-01-01" .
+<http://www.giantbomb.com/spider-man-venom-separation-anxiety/3030-4181/releases/#toc-release-110862> <http://dbpedia.org/property/location> "united-states" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/mission-3000/3030-2164/releases/#toc-release-75709> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/mission-3000/3030-2164/releases/#toc-release-75709> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mission-3000/3030-2164/#game> .
-<http://www.giantbomb.com/mission-3000/3030-2164/releases/#toc-release-75709> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/mission-3000/3030-2164/releases/#toc-release-75709> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mission-3000-ad/3030-75709/#game> .
 <http://www.giantbomb.com/mission-3000/3030-2164/releases/#toc-release-75709> <http://dbpedia.org/ontology/releaseDate> "1983-01-01" .
+<http://www.giantbomb.com/mission-3000/3030-2164/releases/#toc-release-75709> <http://dbpedia.org/property/location> "united-kingdom" .

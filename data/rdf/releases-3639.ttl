@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/swords-and-serpents/3030-3639/releases/#toc-release-118186> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/swords-and-serpents/3030-3639/releases/#toc-release-118186> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/swords-and-serpents/3030-3639/#game> .
-<http://www.giantbomb.com/swords-and-serpents/3030-3639/releases/#toc-release-118186> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/swords-and-serpents/3030-3639/releases/#toc-release-118186> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/swords-and-serpents/3030-118186/#game> .
 <http://www.giantbomb.com/swords-and-serpents/3030-3639/releases/#toc-release-118186> <http://dbpedia.org/ontology/releaseDate> "1990-09-01" .
+<http://www.giantbomb.com/swords-and-serpents/3030-3639/releases/#toc-release-118186> <http://dbpedia.org/property/location> "united-states" .

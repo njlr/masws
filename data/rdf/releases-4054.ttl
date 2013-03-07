@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/burger-rush/3030-4054/releases/#toc-release-10554> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/burger-rush/3030-4054/releases/#toc-release-10554> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/burger-rush/3030-4054/#game> .
-<http://www.giantbomb.com/burger-rush/3030-4054/releases/#toc-release-10554> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/burger-rush/3030-4054/releases/#toc-release-10554> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/burger-rush/3030-10554/#game> .
 <http://www.giantbomb.com/burger-rush/3030-4054/releases/#toc-release-10554> <http://dbpedia.org/ontology/releaseDate> "2007-01-01" .
+<http://www.giantbomb.com/burger-rush/3030-4054/releases/#toc-release-10554> <http://dbpedia.org/property/location> "united-states" .

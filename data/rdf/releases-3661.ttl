@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/shining-force-neo/3030-3661/releases/#toc-release-85816> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/shining-force-neo/3030-3661/releases/#toc-release-85816> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shining-force-neo/3030-3661/#game> .
-<http://www.giantbomb.com/shining-force-neo/3030-3661/releases/#toc-release-85816> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/shining-force-neo/3030-3661/releases/#toc-release-85816> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shining-force-neo/3030-85816/#game> .
 <http://www.giantbomb.com/shining-force-neo/3030-3661/releases/#toc-release-85816> <http://dbpedia.org/ontology/releaseDate> "2005-10-20" .
+<http://www.giantbomb.com/shining-force-neo/3030-3661/releases/#toc-release-85816> <http://dbpedia.org/property/location> "united-states" .

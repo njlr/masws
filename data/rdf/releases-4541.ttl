@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/starship-titanic/3030-4541/releases/#toc-release-103013> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/starship-titanic/3030-4541/releases/#toc-release-103013> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/starship-titanic/3030-4541/#game> .
-<http://www.giantbomb.com/starship-titanic/3030-4541/releases/#toc-release-103013> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/starship-titanic/3030-4541/releases/#toc-release-103013> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/starship-titanic/3030-103013/#game> .
 <http://www.giantbomb.com/starship-titanic/3030-4541/releases/#toc-release-103013> <http://dbpedia.org/ontology/releaseDate> "1998-03-31" .
+<http://www.giantbomb.com/starship-titanic/3030-4541/releases/#toc-release-103013> <http://dbpedia.org/property/location> "united-states" .

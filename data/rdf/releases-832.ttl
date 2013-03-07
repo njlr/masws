@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/i-am-jesus/3030-832/releases/#toc-release-2192> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/i-am-jesus/3030-832/releases/#toc-release-2192> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/i-am-jesus/3030-832/#game> .
-<http://www.giantbomb.com/i-am-jesus/3030-832/releases/#toc-release-2192> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/i-am-jesus/3030-832/releases/#toc-release-2192> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/i-am-jesus/3030-2192/#game> .
 <http://www.giantbomb.com/i-am-jesus/3030-832/releases/#toc-release-2192> <http://dbpedia.org/ontology/releaseDate> "2007-05-16" .
+<http://www.giantbomb.com/i-am-jesus/3030-832/releases/#toc-release-2192> <http://dbpedia.org/property/location> "" .

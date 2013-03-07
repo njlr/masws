@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/short-ordereggsplode/3030-4645/releases/#toc-release-118272> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/short-ordereggsplode/3030-4645/releases/#toc-release-118272> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/short-order/eggsplode/3030-4645/#game> .
-<http://www.giantbomb.com/short-ordereggsplode/3030-4645/releases/#toc-release-118272> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/short-ordereggsplode/3030-4645/releases/#toc-release-118272> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/short-order-/-eggsplode/3030-118272/#game> .
 <http://www.giantbomb.com/short-ordereggsplode/3030-4645/releases/#toc-release-118272> <http://dbpedia.org/ontology/releaseDate> "1989-12-01" .
+<http://www.giantbomb.com/short-ordereggsplode/3030-4645/releases/#toc-release-118272> <http://dbpedia.org/property/location> "united-states" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/fire-force/3030-3097/releases/#toc-release-114652> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/fire-force/3030-3097/releases/#toc-release-114652> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/fire-force/3030-3097/#game> .
-<http://www.giantbomb.com/fire-force/3030-3097/releases/#toc-release-114652> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/fire-force/3030-3097/releases/#toc-release-114652> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/fire-force/3030-114652/#game> .
 <http://www.giantbomb.com/fire-force/3030-3097/releases/#toc-release-114652> <http://dbpedia.org/ontology/releaseDate> "1994-04-21" .
+<http://www.giantbomb.com/fire-force/3030-3097/releases/#toc-release-114652> <http://dbpedia.org/property/location> "united-kingdom" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/super-silverbrothers/3030-1649/releases/#toc-release-4337> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/super-silverbrothers/3030-1649/releases/#toc-release-4337> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/super-silverbrothers/3030-1649/#game> .
-<http://www.giantbomb.com/super-silverbrothers/3030-1649/releases/#toc-release-4337> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/super-silverbrothers/3030-1649/releases/#toc-release-4337> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/super-silverbrothers/3030-4337/#game> .
 <http://www.giantbomb.com/super-silverbrothers/3030-1649/releases/#toc-release-4337> <http://dbpedia.org/ontology/releaseDate> "1991-01-01" .
+<http://www.giantbomb.com/super-silverbrothers/3030-1649/releases/#toc-release-4337> <http://dbpedia.org/property/location> "" .

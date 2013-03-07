@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/lemony-snickets-a-series-of-unfortunate-events/3030-3690/releases/#toc-release-114584> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/lemony-snickets-a-series-of-unfortunate-events/3030-3690/releases/#toc-release-114584> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/lemony-snicket's-a-series-of-unfortunate-events/3030-3690/#game> .
-<http://www.giantbomb.com/lemony-snickets-a-series-of-unfortunate-events/3030-3690/releases/#toc-release-114584> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/lemony-snickets-a-series-of-unfortunate-events/3030-3690/releases/#toc-release-114584> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/lemony-snicket's-a-series-of-unfortunate-events/3030-114584/#game> .
 <http://www.giantbomb.com/lemony-snickets-a-series-of-unfortunate-events/3030-3690/releases/#toc-release-114584> <http://dbpedia.org/ontology/releaseDate> "2004-11-10" .
+<http://www.giantbomb.com/lemony-snickets-a-series-of-unfortunate-events/3030-3690/releases/#toc-release-114584> <http://dbpedia.org/property/location> "united-states" .

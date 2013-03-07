@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/slam-tilt/3030-1155/releases/#toc-release-101552> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/slam-tilt/3030-1155/releases/#toc-release-101552> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/slam-tilt/3030-1155/#game> .
-<http://www.giantbomb.com/slam-tilt/3030-1155/releases/#toc-release-101552> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/slam-tilt/3030-1155/releases/#toc-release-101552> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/slam-tilt/3030-101552/#game> .
 <http://www.giantbomb.com/slam-tilt/3030-1155/releases/#toc-release-101552> <http://dbpedia.org/ontology/releaseDate> "1998-06-04" .
+<http://www.giantbomb.com/slam-tilt/3030-1155/releases/#toc-release-101552> <http://dbpedia.org/property/location> "united-states" .

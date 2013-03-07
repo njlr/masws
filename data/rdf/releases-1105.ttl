@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/mr-dos-castle/3030-1105/releases/#toc-release-119104> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/mr-dos-castle/3030-1105/releases/#toc-release-119104> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mr-do!'s-castle/3030-1105/#game> .
-<http://www.giantbomb.com/mr-dos-castle/3030-1105/releases/#toc-release-119104> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/mr-dos-castle/3030-1105/releases/#toc-release-119104> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mr-do!'s-castle/3030-119104/#game> .
 <http://www.giantbomb.com/mr-dos-castle/3030-1105/releases/#toc-release-119104> <http://dbpedia.org/ontology/releaseDate> "" .
+<http://www.giantbomb.com/mr-dos-castle/3030-1105/releases/#toc-release-119104> <http://dbpedia.org/property/location> "united-states" .

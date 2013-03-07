@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/soccer-kid/3030-3613/releases/#toc-release-119674> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/soccer-kid/3030-3613/releases/#toc-release-119674> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/soccer-kid/3030-3613/#game> .
-<http://www.giantbomb.com/soccer-kid/3030-3613/releases/#toc-release-119674> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/soccer-kid/3030-3613/releases/#toc-release-119674> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/the-adventures-of-kid-kleets/3030-119674/#game> .
 <http://www.giantbomb.com/soccer-kid/3030-3613/releases/#toc-release-119674> <http://dbpedia.org/ontology/releaseDate> "" .
+<http://www.giantbomb.com/soccer-kid/3030-3613/releases/#toc-release-119674> <http://dbpedia.org/property/location> "united-states" .

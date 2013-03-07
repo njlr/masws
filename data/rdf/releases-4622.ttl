@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/pocketbike-racer/3030-4622/releases/#toc-release-74921> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/pocketbike-racer/3030-4622/releases/#toc-release-74921> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pocketbike-racer/3030-4622/#game> .
-<http://www.giantbomb.com/pocketbike-racer/3030-4622/releases/#toc-release-74921> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/pocketbike-racer/3030-4622/releases/#toc-release-74921> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pocketbike-racer/3030-74921/#game> .
 <http://www.giantbomb.com/pocketbike-racer/3030-4622/releases/#toc-release-74921> <http://dbpedia.org/ontology/releaseDate> "2006-11-19" .
+<http://www.giantbomb.com/pocketbike-racer/3030-4622/releases/#toc-release-74921> <http://dbpedia.org/property/location> "united-states" .

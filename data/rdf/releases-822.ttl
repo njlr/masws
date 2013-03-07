@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cool-herders/3030-822/releases/#toc-release-111065> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/cool-herders/3030-822/releases/#toc-release-111065> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cool-herders/3030-822/#game> .
-<http://www.giantbomb.com/cool-herders/3030-822/releases/#toc-release-111065> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/cool-herders/3030-822/releases/#toc-release-111065> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cool-herders/3030-111065/#game> .
 <http://www.giantbomb.com/cool-herders/3030-822/releases/#toc-release-111065> <http://dbpedia.org/ontology/releaseDate> "2005-12-15" .
+<http://www.giantbomb.com/cool-herders/3030-822/releases/#toc-release-111065> <http://dbpedia.org/property/location> "united-states" .

@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/aqua-aqua/3030-3026/releases/#toc-release-114576> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/aqua-aqua/3030-3026/releases/#toc-release-114576> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/aqua-aqua/3030-3026/#game> .
-<http://www.giantbomb.com/aqua-aqua/3030-3026/releases/#toc-release-114576> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/aqua-aqua/3030-3026/releases/#toc-release-114576> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/aqua-aqua/3030-114576/#game> .
 <http://www.giantbomb.com/aqua-aqua/3030-3026/releases/#toc-release-114576> <http://dbpedia.org/ontology/releaseDate> "2001-01-09" .
+<http://www.giantbomb.com/aqua-aqua/3030-3026/releases/#toc-release-114576> <http://dbpedia.org/property/location> "united-states" .

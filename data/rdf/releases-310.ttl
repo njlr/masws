@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/nascar-rumble/3030-310/releases/#toc-release-91596> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/nascar-rumble/3030-310/releases/#toc-release-91596> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/nascar-rumble/3030-310/#game> .
-<http://www.giantbomb.com/nascar-rumble/3030-310/releases/#toc-release-91596> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/nascar-rumble/3030-310/releases/#toc-release-91596> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/nascar-rumble/3030-91596/#game> .
 <http://www.giantbomb.com/nascar-rumble/3030-310/releases/#toc-release-91596> <http://dbpedia.org/ontology/releaseDate> "2000-02-03" .
+<http://www.giantbomb.com/nascar-rumble/3030-310/releases/#toc-release-91596> <http://dbpedia.org/property/location> "united-states" .

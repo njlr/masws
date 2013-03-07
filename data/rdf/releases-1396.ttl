@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/veck/3030-1396/releases/#toc-release-3602> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/veck/3030-1396/releases/#toc-release-3602> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/veck/3030-1396/#game> .
-<http://www.giantbomb.com/veck/3030-1396/releases/#toc-release-3602> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/veck/3030-1396/releases/#toc-release-3602> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/veck/3030-3602/#game> .
 <http://www.giantbomb.com/veck/3030-1396/releases/#toc-release-3602> <http://dbpedia.org/ontology/releaseDate> "2006-05-25" .
+<http://www.giantbomb.com/veck/3030-1396/releases/#toc-release-3602> <http://dbpedia.org/property/location> "" .

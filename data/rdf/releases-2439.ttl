@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/another-bible/3030-2439/releases/#toc-release-112680> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/another-bible/3030-2439/releases/#toc-release-112680> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/another-bible/3030-2439/#game> .
-<http://www.giantbomb.com/another-bible/3030-2439/releases/#toc-release-112680> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/another-bible/3030-2439/releases/#toc-release-112680> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/another-bible/3030-112680/#game> .
 <http://www.giantbomb.com/another-bible/3030-2439/releases/#toc-release-112680> <http://dbpedia.org/ontology/releaseDate> "1995-03-03" .
+<http://www.giantbomb.com/another-bible/3030-2439/releases/#toc-release-112680> <http://dbpedia.org/property/location> "japan" .

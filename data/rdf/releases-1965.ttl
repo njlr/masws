@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/wingnuts-2-rainas-revenge/3030-1965/releases/#toc-release-5119> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/wingnuts-2-rainas-revenge/3030-1965/releases/#toc-release-5119> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/wingnuts-2-raina's-revenge/3030-1965/#game> .
-<http://www.giantbomb.com/wingnuts-2-rainas-revenge/3030-1965/releases/#toc-release-5119> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/wingnuts-2-rainas-revenge/3030-1965/releases/#toc-release-5119> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/wingnuts-2-raina's-revenge/3030-5119/#game> .
 <http://www.giantbomb.com/wingnuts-2-rainas-revenge/3030-1965/releases/#toc-release-5119> <http://dbpedia.org/ontology/releaseDate> "2006-06-14" .
+<http://www.giantbomb.com/wingnuts-2-rainas-revenge/3030-1965/releases/#toc-release-5119> <http://dbpedia.org/property/location> "" .

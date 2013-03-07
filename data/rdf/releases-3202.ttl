@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/stunt-gp/3030-3202/releases/#toc-release-123452> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/stunt-gp/3030-3202/releases/#toc-release-123452> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/stunt-gp/3030-3202/#game> .
-<http://www.giantbomb.com/stunt-gp/3030-3202/releases/#toc-release-123452> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/stunt-gp/3030-3202/releases/#toc-release-123452> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/stunt-gp/3030-123452/#game> .
 <http://www.giantbomb.com/stunt-gp/3030-3202/releases/#toc-release-123452> <http://dbpedia.org/ontology/releaseDate> "2001-11-13" .
+<http://www.giantbomb.com/stunt-gp/3030-3202/releases/#toc-release-123452> <http://dbpedia.org/property/location> "united-states" .

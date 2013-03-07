@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/everquest-ii-kingdom-of-sky/3030-4201/releases/#toc-release-81075> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/everquest-ii-kingdom-of-sky/3030-4201/releases/#toc-release-81075> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/everquest-ii-kingdom-of-sky/3030-4201/#game> .
-<http://www.giantbomb.com/everquest-ii-kingdom-of-sky/3030-4201/releases/#toc-release-81075> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/everquest-ii-kingdom-of-sky/3030-4201/releases/#toc-release-81075> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/everquest-ii-kingdom-of-sky/3030-81075/#game> .
 <http://www.giantbomb.com/everquest-ii-kingdom-of-sky/3030-4201/releases/#toc-release-81075> <http://dbpedia.org/ontology/releaseDate> "2006-02-21" .
+<http://www.giantbomb.com/everquest-ii-kingdom-of-sky/3030-4201/releases/#toc-release-81075> <http://dbpedia.org/property/location> "united-states" .

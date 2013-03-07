@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/championship-rugby-manager/3030-1779/releases/#toc-release-95915> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/championship-rugby-manager/3030-1779/releases/#toc-release-95915> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/championship-rugby-manager/3030-1779/#game> .
-<http://www.giantbomb.com/championship-rugby-manager/3030-1779/releases/#toc-release-95915> <http://dbpedia.org/property/location> "united-kingdom" .
+<http://www.giantbomb.com/championship-rugby-manager/3030-1779/releases/#toc-release-95915> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/football-masters---championship-rugby-manager/3030-95915/#game> .
 <http://www.giantbomb.com/championship-rugby-manager/3030-1779/releases/#toc-release-95915> <http://dbpedia.org/ontology/releaseDate> "2001-01-01" .
+<http://www.giantbomb.com/championship-rugby-manager/3030-1779/releases/#toc-release-95915> <http://dbpedia.org/property/location> "united-kingdom" .

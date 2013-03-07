@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/race-cars-the-extreme-rally/3030-1540/releases/#toc-release-4035> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/race-cars-the-extreme-rally/3030-1540/releases/#toc-release-4035> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/race-cars-the-extreme-rally/3030-1540/#game> .
-<http://www.giantbomb.com/race-cars-the-extreme-rally/3030-1540/releases/#toc-release-4035> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/race-cars-the-extreme-rally/3030-1540/releases/#toc-release-4035> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/race-cars-the-extreme-rally/3030-4035/#game> .
 <http://www.giantbomb.com/race-cars-the-extreme-rally/3030-1540/releases/#toc-release-4035> <http://dbpedia.org/ontology/releaseDate> "2006-01-01" .
+<http://www.giantbomb.com/race-cars-the-extreme-rally/3030-1540/releases/#toc-release-4035> <http://dbpedia.org/property/location> "" .

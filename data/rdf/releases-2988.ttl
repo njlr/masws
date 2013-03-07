@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/infected/3030-2988/releases/#toc-release-78227> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/infected/3030-2988/releases/#toc-release-78227> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/infected/3030-2988/#game> .
-<http://www.giantbomb.com/infected/3030-2988/releases/#toc-release-78227> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/infected/3030-2988/releases/#toc-release-78227> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/-infected/3030-78227/#game> .
 <http://www.giantbomb.com/infected/3030-2988/releases/#toc-release-78227> <http://dbpedia.org/ontology/releaseDate> "2005-11-15" .
+<http://www.giantbomb.com/infected/3030-2988/releases/#toc-release-78227> <http://dbpedia.org/property/location> "united-states" .

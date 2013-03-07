@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/pepsi-invaders/3030-1750/releases/#toc-release-77751> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/pepsi-invaders/3030-1750/releases/#toc-release-77751> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pepsi-invaders/3030-1750/#game> .
-<http://www.giantbomb.com/pepsi-invaders/3030-1750/releases/#toc-release-77751> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/pepsi-invaders/3030-1750/releases/#toc-release-77751> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/pepsi-invaders/3030-77751/#game> .
 <http://www.giantbomb.com/pepsi-invaders/3030-1750/releases/#toc-release-77751> <http://dbpedia.org/ontology/releaseDate> "1979-01-01" .
+<http://www.giantbomb.com/pepsi-invaders/3030-1750/releases/#toc-release-77751> <http://dbpedia.org/property/location> "united-states" .

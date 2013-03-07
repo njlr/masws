@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/breakquest/3030-644/releases/#toc-release-1702> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/breakquest/3030-644/releases/#toc-release-1702> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/breakquest/3030-644/#game> .
-<http://www.giantbomb.com/breakquest/3030-644/releases/#toc-release-1702> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/breakquest/3030-644/releases/#toc-release-1702> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/breakquest/3030-1702/#game> .
 <http://www.giantbomb.com/breakquest/3030-644/releases/#toc-release-1702> <http://dbpedia.org/ontology/releaseDate> "2005-07-04" .
+<http://www.giantbomb.com/breakquest/3030-644/releases/#toc-release-1702> <http://dbpedia.org/property/location> "" .

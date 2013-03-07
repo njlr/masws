@@ -1,8 +1,8 @@
 <http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81045> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81045> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/#game> .
-<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81045> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81045> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shogo-mobile-armor-division/3030-81045/#game> .
 <http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81045> <http://dbpedia.org/ontology/releaseDate> "1998-09-28" .
-<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81045> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81045> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/#game> .
 <http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81045> <http://dbpedia.org/property/location> "united-states" .
-<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81045> <http://dbpedia.org/ontology/releaseDate> "2001-07-25" .
+<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81069> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
+<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81069> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/-	--septerra-core/shogo-interplay-value-pack--/3030-81069/#game> .
+<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81069> <http://dbpedia.org/ontology/releaseDate> "2001-07-25" .
+<http://www.giantbomb.com/shogo-mobile-armor-division/3030-726/releases/#toc-release-81069> <http://dbpedia.org/property/location> "united-states" .

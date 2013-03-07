@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/digger/3030-2089/releases/#toc-release-112922> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/digger/3030-2089/releases/#toc-release-112922> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/digger/3030-2089/#game> .
-<http://www.giantbomb.com/digger/3030-2089/releases/#toc-release-112922> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/digger/3030-2089/releases/#toc-release-112922> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/digger/3030-112922/#game> .
 <http://www.giantbomb.com/digger/3030-2089/releases/#toc-release-112922> <http://dbpedia.org/ontology/releaseDate> "1983-01-01" .
+<http://www.giantbomb.com/digger/3030-2089/releases/#toc-release-112922> <http://dbpedia.org/property/location> "united-states" .

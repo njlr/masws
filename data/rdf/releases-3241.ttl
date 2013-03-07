@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/mysterium/3030-3241/releases/#toc-release-101402> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/mysterium/3030-3241/releases/#toc-release-101402> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mysterium/3030-3241/#game> .
-<http://www.giantbomb.com/mysterium/3030-3241/releases/#toc-release-101402> <http://dbpedia.org/property/location> "united-states" .
+<http://www.giantbomb.com/mysterium/3030-3241/releases/#toc-release-101402> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/mysterium/3030-101402/#game> .
 <http://www.giantbomb.com/mysterium/3030-3241/releases/#toc-release-101402> <http://dbpedia.org/ontology/releaseDate> "1991-07-01" .
+<http://www.giantbomb.com/mysterium/3030-3241/releases/#toc-release-101402> <http://dbpedia.org/property/location> "united-states" .

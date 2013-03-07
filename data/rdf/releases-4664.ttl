@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/cosmic-spacehead/3030-4664/releases/#toc-release-116892> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/cosmic-spacehead/3030-4664/releases/#toc-release-116892> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cosmic-spacehead/3030-4664/#game> .
-<http://www.giantbomb.com/cosmic-spacehead/3030-4664/releases/#toc-release-116892> <http://dbpedia.org/property/location> "japan" .
+<http://www.giantbomb.com/cosmic-spacehead/3030-4664/releases/#toc-release-116892> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/cosmic-spacehead/3030-116892/#game> .
 <http://www.giantbomb.com/cosmic-spacehead/3030-4664/releases/#toc-release-116892> <http://dbpedia.org/ontology/releaseDate> "1989-08-04" .
+<http://www.giantbomb.com/cosmic-spacehead/3030-4664/releases/#toc-release-116892> <http://dbpedia.org/property/location> "japan" .

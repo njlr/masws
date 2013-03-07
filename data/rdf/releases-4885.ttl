@@ -1,4 +1,4 @@
 <http://www.giantbomb.com/sam-max-episode-203-night-of-the-raving-dead/3030-4885/releases/#toc-release-12539> <http://www.w3.org/TR/rdf-schema/#type> <https://raw.github.com/nlr/masws/master/vocab.n3#release> .
-<http://www.giantbomb.com/sam-max-episode-203-night-of-the-raving-dead/3030-4885/releases/#toc-release-12539> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/sam-&-max-episode-203-night-of-the-raving-dead/3030-4885/#game> .
-<http://www.giantbomb.com/sam-max-episode-203-night-of-the-raving-dead/3030-4885/releases/#toc-release-12539> <http://dbpedia.org/property/location> "" .
+<http://www.giantbomb.com/sam-max-episode-203-night-of-the-raving-dead/3030-4885/releases/#toc-release-12539> <https://raw.github.com/nlr/masws/master/vocab.n3#isVersionOf> <http://www.giantbomb.com/sam-&-max-episode-203-night-of-the-raving-dead/3030-12539/#game> .
 <http://www.giantbomb.com/sam-max-episode-203-night-of-the-raving-dead/3030-4885/releases/#toc-release-12539> <http://dbpedia.org/ontology/releaseDate> "2008-02-13" .
+<http://www.giantbomb.com/sam-max-episode-203-night-of-the-raving-dead/3030-4885/releases/#toc-release-12539> <http://dbpedia.org/property/location> "" .
