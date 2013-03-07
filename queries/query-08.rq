@@ -4,5 +4,6 @@ WHERE
 {
     ?person <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> . 
     ?person <http://xmlns.com/foaf/0.1/#gender> ?gender . 
+    ?person <https://raw.github.com/nlr/masws/master/vocab.n3#developer> ?game . 
 } 
 GROUP BY ?gender

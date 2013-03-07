@@ -57,7 +57,7 @@
                 <xsl:with-param name="object" select="$quoted-gender"/>
             </xsl:call-template>
         </xsl:when>
-        <xsl:when test=". = 0">
+        <xsl:when test=". = 2">
             <xsl:variable name="quoted-gender">
                 <xsl:text>"female"</xsl:text>
             </xsl:variable>

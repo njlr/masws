@@ -1,7 +1,6 @@
 <http://www.giantbomb.com/takashi-tezuka/3040-593/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://xmlns.com/foaf/0.1/#Person> .
 <http://www.giantbomb.com/takashi-tezuka/3040-593/#person> <http://www.w3.org/TR/rdf-schema/#type> <http://dbpedia.org/ontology/Person> .
 <http://www.giantbomb.com/takashi-tezuka/3040-593/#person> <http://xmlns.com/foaf/0.1/#name> "Takashi Tezuka" .
-<http://www.giantbomb.com/takashi-tezuka/3040-593/#person> <http://xmlns.com/foaf/0.1/#gender> "female" .
 <http://www.giantbomb.com/takashi-tezuka/3040-593/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo/3010-90/#company> .
 <http://www.giantbomb.com/takashi-tezuka/3040-593/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo-ead/3010-463/#company> .
 <http://www.giantbomb.com/takashi-tezuka/3040-593/#person> <http://dbpedia.org/property/employer> <http://www.giantbomb.com/nintendo-r&d2/3010-3154/#company> .
